@@ -365,6 +365,13 @@ tasks.
 After finding an opponent, you cannot engage in another random encounter
 for the next 8 segments. You can halve this waiting time by spending bonds.
 
+If you lose in combat, you are sent to the Sick Bay for recovery, or die on
+Bordeaux Station (which doesn't have a sick bay).
+
+Many new players seem to have a very hard time doing combat in the ruins,
+so I'd recommend to wait until you have reached level 6, which comes with
+access to much better weapons and armor.
+
 ### Pursue a Career
 
 You can and should pursue a career. Performing career tasks is the most
