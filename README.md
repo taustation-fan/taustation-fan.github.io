@@ -123,7 +123,7 @@ Deposits are free at any bank.
 
 There is no way to convert credits to bonds.
 
-The bank offers you to convert bonds to credits at a 1:1 conversion
+The bank offers you to convert bonds to credits at a 1:5 conversion
 rate, but that is a pretty terrible conversion rate.
 
 You get a better rate if you go the vendors at the Market, and buy
