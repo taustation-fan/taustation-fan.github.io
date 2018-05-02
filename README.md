@@ -40,7 +40,7 @@
 
 <!-- Created by gh-md-toc, https://github.com/ekalinin/github-markdown-toc -->
 
-[Tau Station](https://alpha.taustation.space/) is a text-based online Massive Multiplayer Role-Playing Game (MMORPG) set
+[Tau Station](https://taustation.space/) is a text-based online Massive Multiplayer Role-Playing Game (MMORPG) set
 in the future in space, in a post-catastrophic environment.
 
 I (moritz) was a tester in the closed alpha testing phase, and want to document the
