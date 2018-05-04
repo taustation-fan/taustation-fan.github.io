@@ -255,7 +255,7 @@ You can survive without explicit use of rations. But, each time you
 consume a ration, it immediately fills up all of your stats and your
 Focus. 
 
-If you consume a ration of a tier one lower than your character's, the
+If you consume a ration of a [tier](#tiers) one lower than your character's, the
 immediate regeneration is incomplete. A ration two tiers below your
 current tier does gives hardly any immediate regeneration.
 
@@ -750,8 +750,8 @@ weapons can be recommended in particular:
 | 3    | Dur-Zip-Zap            |Long	|2.4    | Energy      | 0.7       |
 | 3    | Handgun Reclaim        |Long	|2.36   | Energy      | 1.2       |
 
-Be aware that you can only equip weapons and armor of your own tier or lower,
-not of higher tiers.
+Be aware that you can only equip weapons and armor of your own [tier](#tiers)
+or lower, not of higher tiers.
 
 You can obtain weapons in the following ways:
 
