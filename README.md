@@ -517,12 +517,19 @@ delay the completion of a course until you are free to move again).
 In the beginning, you can likely only afford basic courses, so you
 should enroll in those.
 
+Having an above-average intelligence (as shown by the stats ranking on
+your character page) makes courses faster. With "Exceptional" intelligence,
+you can reduce time to completion by 15%. You can also spend 99 bonds
+to speed up the course by 35%, so the combination of both halves the time.
+
+University courses are a long game. A typical module consist of courses
+that last 1, 7, 14 and 21 days, so more 6 weeks, and even with full
+acceleration it's more than three weeks. Thus you should be enrolled
+in a course all of the time to get the most of out it.
+
 One module that can be generally recommended is the collection of
 Anatomy courses available on Nouveau Limoges, since it boosts stats
 recovery -- something that is useful no matter what career you pursue.
-
-Having an above-average intelligence (as shown by the stats ranking on
-your character page) makes courses faster.
 
 The following modules are available, grouped by station:
 
