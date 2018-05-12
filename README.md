@@ -52,6 +52,10 @@ Shadow, Dotsent and Ovid.
 Note that Tau Station is under active development. Hence, parts of this
 document might become outdated when the game changes.
 
+Despite the alpha status, the development team has [promised that there
+will be no resets/wipes when it leaves alpha or beta
+stage.](https://blog.taustation.space/blog/start-your-adventure-in-tau-station-now/)
+
 ## The Financial System
 
 There are *credits* and *bonds*.
