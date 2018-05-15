@@ -451,6 +451,40 @@ Another factor in the success rate of career tasks is the maximum value
 of the stat that is tested. Training your strength makes it easier to
 lift heavy stuff, right?
 
+#### Career FAQs
+
+<a name="career-progress"></a>
+##### How Can I Check My Career Progress?
+
+The career experience is intentionally hidden.
+
+You can only observe career experience indirectly by observing the
+success rate of your career tasks. When it goes up significantly, it
+likely means that the career experience is enough for a promotion.
+
+However, the promotion only happens once you have spent the minimum required
+days in your career, which doubles for each career rank.
+
+<a name="career-success"></a>
+#### What Determines Career Task Success Rates?
+
+There is no official documentation on what contributes to career success,
+so the following list might not be totally accurate or complete, but
+seems to explain most phenomena around career tasks:
+
+* Task difficulty. Easy tasks are listed first.
+* Career experience
+* Stat ranking (Low/Average/High/...) of the stat that the task uses
+* Per-task experience (conjectural)
+* Focus (conjectural)
+
+Some players have also reported that career task success rates have gone
+down after they have leveled up, even though their stat ranking has stayed
+the same. Either the stat ranking is more granular than the few steps that
+are exposed to the user, or there is another factor at work that incorporates
+the player level.
+
+
 ### Side Jobs
 
 Side jobs are brief, one-off jobs that pay a fixed reward. They consist
