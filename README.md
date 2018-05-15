@@ -18,6 +18,7 @@
          * [Pursue a Career](#pursue-a-career)
             * [Choosing Your Career](#choosing-your-career)
             * [Advancing Your Career](#advancing-your-career)
+            * [Career FAQs](#career-faqs)
          * [Side Jobs](#side-jobs)
          * [Discreet Work](#discreet-work)
             * [Discreet Work Tips and Tricks](#discreet-work-tips-and-tricks)
