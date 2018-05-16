@@ -254,6 +254,15 @@ discreet work.
 Finally, the primary and secondary stat of your career improve at midnight
 GCT if you've used them on the day before.
 
+### Stats Benefits
+
+Above-average stats grant you additional benefits besides the higher
+success rates of tasks and checks:
+
+* High *Intelligence* speeds up University courses
+* High *Strength* lets you carry more mass before encumbrance kicks in
+* High *Social* grants you random advantages when buying from or selling to NPC venddors
+
 ## Rations
 
 You can survive without explicit use of rations. But, each time you
