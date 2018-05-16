@@ -841,11 +841,8 @@ is finished. Then you can pick up the repaired item from the Shipping Bay.
 
 ## Clones
 
-*Note: this section is a bit conjectural, because I have not yet had the
-need to activate a clone.*
-
 A clone is an insurance against the death of a character's body. You can
-buy a clone at the cloning facilities that are present on nearly all
+buy a clone at the cloning facilities that are present on most
 stations.
 
 The mental model behind a clone is that it is an inactive
@@ -884,6 +881,23 @@ you can later update them to your current physical stats. You can spend
 
 The gestation time of a *premium* clone is 200 segments and can be halved for
 additional 99 bonds.
+
+### Dying
+
+When you die, you lose all items that you were carrying around, as well
+as the cash in your wallet. 
+
+Then the last-gestated clone is activated, if you have one, or the default
+clone on Tau Station otherwise.
+
+After activation, the new body is confined to the clone vats for 10 segments;
+after it is released, you have access to your bank account and your storage.
+
+The following persist through the death of a body:
+
+* VIP status
+* Well-Fed status
+* Running University courses
 
 ## Shipping and Selling Items
 
