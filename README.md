@@ -996,8 +996,15 @@ station, and is roughly proportional to the station level. It varies
 between roughly 1,500 credits per gram on Tau Station to about 12,000
 credits per gram on Yards of Gadani and Bordeaux.
 
+Traveling to local stations is cheaper with the private shuttle than
+with public shuttles; the interstellar jump is only cheaper with the
+private shuttle if you refuel at Tau Station afterwards.
+
 Ships also require regular but infrequent repairs, and occasional
-refurbishments.
+refurbishments. Repairs are fairly expensive, and for example repairing
+a 4% damage takes around 70 segments (more than half a day!), and during
+the time of repair, you are confined to docks. You can spend bonds to
+reduce the repair time.
 
 
 # Tactics, Strategy and Advice
