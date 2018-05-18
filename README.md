@@ -949,6 +949,56 @@ buys it within three days, you will receive the asking price directly to
 your bank account. Otherwise, you can pick up the item after three days
 at the Shipping Bay.
 
+## Private Ships
+
+You can buy private ships, and use those for travel. Since this requires
+several expensive and long University courses and at least 210,000 credits
+for the ship itself, this should be considered an advanced features.
+
+In order to buy a *Private Shuttle*, you need to complete the following
+University courses, in this order:
+
+* Introduction to Spaceship Operations (all Universities, 100 Segments)
+* Basic Space Navigation (all Universities, 700 Segments)
+* Basic Ship Technology (all Universities 1400 Segments)
+* Basic Ship Handling (Spirit of Botswana, 2100 Segments)
+
+If you want to buy a *Razorback* (faster and much more expensive), you will
+need these additional courses:
+
+* Advanced Ship Technology (Moissan)
+* Advanced Ship Handling (?)
+
+One you have the prerequisite University courses and enough credits,
+you can go to a shipyards and buy a ship.
+
+The following table shows the available and the planned ships types:
+
+| Name                  | Mass / T | Acceleration / G | Fuel Capacity / g | Max Range / km | Cargo Capacity / T | Price / credits | Prerequesites          | Availability                         |
+|:----------------------|:---------|:-----------------|:------------------|:---------------|:-------------------|:----------------|:-----------------------|:-------------------------------------|
+| **Private Shuttle**   | 8.8      | 2.427            | 5                 | 2145548        | 0                  | 210000          | Basic Ship Handling    | Daedalus, København, Yards of Gadani |
+| **Razorback**         | 9.5      | 14.5             | 90                | 5987859        | 0                  | 995000          | Advanced Ship Handling | Yards of Gadani                      |
+| Bulk Carrier          | 890      | 0.906            | 250               | 2841466        | 140                |                 |                        |                                      |
+| Freighter             | 475      | 1.305            | 175               | 2587346        | 70                 |                 |                        |                                      |
+| Private Cargo Shuttle | 30.5     | 2.321            | 17.5              | 2265602        | 10                 |                 |                        |                                      |
+| Public Shuttle        | 1280     | 3.626            | 5000              | 9873087        | 0                  |                 |                        |                                      |
+
+Once you buy a ship, you have to give it a name (length between 3 and 100 characters), and then it becomes available at the Docks.
+
+At the Docks, you can enter the ship, and chose a destination. On a Jump Gate,
+the destination can be a connected jump gate or a local station. On other stations,
+you can just select local destinations.
+
+Using a ship consumes fuel proportionally to the distance travelled. You
+can refuel at any dock, though the price per fuel depends on the
+station, and is roughly proportional to the station level. It varies
+between roughly 5,000 credits per gram on Tau Station to about 12,000
+credits per gram on Yards of Gadani and Bordeaux.
+
+Ships also require regular but infrequent repairs, and occasional
+refurbishments.
+
+
 # Tactics, Strategy and Advice
 
 Some random bits of advice on how to make the most of out Tau Station:
