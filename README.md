@@ -992,7 +992,7 @@ you can just select local destinations.
 Using a ship consumes fuel proportionally to the distance travelled. You
 can refuel at any dock, though the price per fuel depends on the
 station, and is roughly proportional to the station level. It varies
-between roughly 5,000 credits per gram on Tau Station to about 12,000
+between roughly 1,500 credits per gram on Tau Station to about 12,000
 credits per gram on Yards of Gadani and Bordeaux.
 
 Ships also require regular but infrequent repairs, and occasional
