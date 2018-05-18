@@ -36,6 +36,7 @@
          * [Shipping Items](#shipping-items)
          * [Selling Items to Vendors](#selling-items-to-vendors)
          * [Selling Items on the Public Market](#selling-items-on-the-public-market)
+      * [Private Ships](#private-ships)
    * [Tactics, Strategy and Advice](#tactics-strategy-and-advice)
    * [Planned Features](#planned-features)
    * [Resources](#resources)
@@ -953,7 +954,7 @@ at the Shipping Bay.
 
 You can buy private ships, and use those for travel. Since this requires
 several expensive and long University courses and at least 210,000 credits
-for the ship itself, this should be considered an advanced features.
+for the ship itself, this should be considered an advanced feature.
 
 In order to buy a *Private Shuttle*, you need to complete the following
 University courses, in this order:
@@ -969,10 +970,10 @@ need these additional courses:
 * Advanced Ship Technology (Moissan)
 * Advanced Ship Handling (?)
 
-One you have the prerequisite University courses and enough credits,
-you can go to a shipyards and buy a ship.
+Once you have the prerequisite University courses and enough credits,
+you can go to a shipyard and buy a ship.
 
-The following table shows the available and the planned ships types:
+The following table shows the available and the planned ship types:
 
 | Name                  | Mass / T | Acceleration / G | Fuel Capacity / g | Max Range / km | Cargo Capacity / T | Price / credits | Prerequesites          | Availability                         |
 |:----------------------|:---------|:-----------------|:------------------|:---------------|:-------------------|:----------------|:-----------------------|:-------------------------------------|
@@ -985,7 +986,7 @@ The following table shows the available and the planned ships types:
 
 Once you buy a ship, you have to give it a name (length between 3 and 100 characters), and then it becomes available at the Docks.
 
-At the Docks, you can enter the ship, and chose a destination. On a Jump Gate,
+At the Docks, you can enter the ship, and choose a destination. On a Jump Gate,
 the destination can be a connected jump gate or a local station. On other stations,
 you can just select local destinations.
 
