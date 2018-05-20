@@ -407,10 +407,6 @@ use of Intelligence, because in the context of University courses, it
 makes sense to boost that stat anyway. You should also choose a career
 whose stats overlap with the strong stats of your genotype.
 
-All else being equal, you should avoid careers whose tasks make heavy
-use of stamina, so that you can use your stamina to rummage in the
-Ruins.
-
 The second factor is availability. Career tasks can be tied to locations
 (you can only repair ships at a Port, and only analyze security footage
 at Security), and not all stations have all areas. Ports are everywhere,
@@ -1012,8 +1008,6 @@ reduce the repair time.
 Some random bits of advice on how to make the most of out Tau Station:
 
 * Play the missions for fun and profit!
-* Pick a career that doesn't have Stamina as primary or secondary stat (Medicine or Special Ops)
-* Use your Stamina to search for valuable things in the Ruins. Despite what it says in the area descriptions, the Ruins are not (yet?) dangerous (except for other players attacking you, which can happen in other areas too).
  * Equip the best weapons and armor that you find
  * Store or sell the rest, depending on how badly you need the money
 * As soon as you have reached level 3, strive to spend most of your time on higher-level stations; training your stats is more efficient there, and you find more valuable things in the ruins. 
