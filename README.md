@@ -732,14 +732,15 @@ immediate stats refills, and shorter "Well Fed" times.
 
 You can attack players and some NPCs, and other players can attack you.
 
-Combat is turn-based, though in Player-vs-player combat, there are
-timeouts for the turns. In combat mode, there is also a countdown
+Combat is turn-based, though in Player-vs-player combat, only the attacker
+can chose actions; the defender acts automatically.
+In combat mode, there is also a countdown
 for when Security forces will likely arrive.
 
 When you try to attack somebody, there is a chance that Security detains
 you on the spot. The chance depends on the Orwellian level of the station (which you
 can find in the Government Center). Disabling the security cameras in an
-area reduces the chance of getting caught.
+area significantly reduces the chance of getting caught.
 
 If you are caught, the length of the stay in the
 Brig depends on the law level. Tau Station is super paranoid, and you
@@ -748,31 +749,37 @@ of random encounters in the Ruins).
 
 You can wear an armour suit, and equip up to two weapons. There are three
 kinds of damage, Impact, Piercing and Energy. Weapons have an inherent
-accuracy, and one or sometimes two kinds of damage they make. There is also
+accuracy, and one or sometimes two kinds of damage they make.
+
+There is also
 long range and shot range combat, and gun-like weapons are suited for long
 range combat, while knives and improvised weapons work in short range combat.
+Using a weapon in the wrong range incurs a penalty.
 
-(A bug in the game engine lets you successfully use short-range weapons
-in long-range combat, this is likely to change).
 
 After completing the *Intermediate Combat* University courses, you also have slots
 available on your belt, where you can equip stims that let you boost a stat
 that is running low. But be careful, they also raise your toxin levels, and
-when those reach 100%, it's off to Sick Bay.
+when those reach 100%, it's off to Sick Bay. In future, it is planned
+that you can also use grenades, and equip them on your combat belt.
 
-The success of an attack depends on the physical stats (mostly Agility,
-I think), the accuracy of the weapon, and combat skills (which can be
+The success of an attack depends on the physical stats, the accuracy of the
+weapon, and combat skills (which can be
 acquired through University courses).
 
 A successful attack can damage the opponent's armor, and wound the
-opponent, which reduces a physical stat. Once a physical stat drops to
-zero, the loser becomes unconscious, and can be looted by the winner.
+opponent, which reduces a physical stat. Higher physical stats thus
+provide a layer of defense. Once a physical stat drops to
+zero, the loser becomes unconscious. If the attacker wins, they can
+loot credits from the victim's purse, but cannot steal items from the
+loser.
 
 On stations with a Sick Bay, the loser can then recover in the Sick Bay.
-On stations without a Sick Bay, this can be the death of the character's
-body. Which hopefully triggers the activation of a clone.
+On stations without a Sick Bay (currently only Bordeaux Station), this
+can be the death of the character's
+body, which triggers the activation of a clone.
 
-You can practice combat by going to the Ruins and using the "Look for
+You can practice combat by going to the Ruins and using the "look for
 trouble" feature.
 
 ### Choice of Weapons
@@ -794,6 +801,7 @@ weapons can be recommended in particular:
 | Tier | Weapon                 | Range | Score | Damage Type | Mass (kg) |
 |------|------------------------|-------|-------|-------------|-----------|
 | 1    | Rusted Butterfly Knife |Short	|1.59   | Piercing    | 0.4       |
+| 1    | The Legion's Horn      |Long   |5      | Energy      | 1.0       |
 |      |                        |       |       |             |           |
 | 2    | Heated Prod            |Short	|2.36   | Energy      | 2.3       |
 | 2    | Sharpened Ice Club     |Short	|2.34   | Piercing    | 1.8       |
@@ -816,7 +824,9 @@ You can obtain weapons in the following ways:
 * Sometimes Discreet Work gives you a weapon as reward.
 * Some missions give you a weapon as reward.
 * Discreet Work often involves stealing or finding a weapon, and delivering it
-  to somebody else. You can steal the weapon you are meant to deliver.
+  to somebody else. You can steal the weapon you are meant to deliver by
+  aborting discreet work (which bans your from further discreet work for roughly
+  two hours).
 * You can buy them at the Public Market.
 * You can buy them at vendors, where the offering differs from station to
   station. The [item list on TauHead](https://www.tauhead.com/item/list) gives
