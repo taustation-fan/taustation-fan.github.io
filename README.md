@@ -67,7 +67,7 @@ There are *credits* and *bonds*.
 
 Credits is everyday money that you can
 earn pretty easily. With credits, you can pay for things such as hotel
-rooms, public shuttles for inter-station travel, University courses, and weapons and armor. 
+rooms, public shuttles for inter-station travel, University courses, and weapons and armor.
 
 You can earn credits through
 
@@ -271,7 +271,7 @@ success rates of tasks and checks:
 
 You can survive without explicit use of rations. But, each time you
 consume a ration, it immediately fills up all of your stats and your
-Focus. 
+Focus.
 
 If you consume a ration of a [tier](#tiers) one lower than your character's, the
 immediate regeneration is incomplete. A ration two tiers below your
@@ -674,7 +674,7 @@ travel, University courses also continue to progress.
 
 ![station/area matrix](./station-area-matrix.png)
 
-Blue: Consortium  
+Blue: Consortium
 Red: Gaule
 
 ## Player and Station Levels
@@ -895,7 +895,7 @@ additional 99 bonds.
 ### Dying
 
 When you die, you lose all items that you were carrying around, as well
-as the cash in your wallet. 
+as the cash in your wallet.
 
 Then the last-gestated clone is activated, if you have one, or the default
 clone on Tau Station otherwise.
