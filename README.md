@@ -864,13 +864,14 @@ stats of the clone.
 
 Each player has a *default clone* on Tau Station, which is automatically
 updated when you level-up. Due to this mechanisms, clones are typically
-only of interest when you reach the level cap at 25.
+only of interest when you reach the level cap at 25, or when you use
+them to change your Genotype.
 
 There are currently three types of clones in the game: 3D-printed, vat-grown
 and *Premium*. Even though most of the stations will have Clones facility,
 not all of the stations provide all three types of clones.
 
-3D-printed and vat-grown clones can be bought with credits, with the cost 
+3D-printed and vat-grown clones can be bought with credits, with the cost
 dependent on the player's level. The main differences between them are:
 
 * 3D-printed clones are around 50% cheaper than vat-grown
@@ -886,7 +887,7 @@ Both vat-grown and 3D-printed clones have a fixed gestation time of 100 segments
 which can be halved for 70 bonds.
 
 *Premium* clones cost a flat rate of 99 bonds, and offer the advantage that
-you can later update them to your current physical stats. You can spend 
+you can later update them to your current physical stats. You can spend
 20 bonds per clone to update them all to your current physical stats.
 
 The gestation time of a *premium* clone is 200 segments and can be halved for
@@ -932,8 +933,11 @@ item will be sent back.
 
 You can send items to yourself if you do not wish to carry them around
 (for example if they are too heavy to carry them around the whole time,
-or you don't want to risk losing them if your current clone dies). You
-can also send items as gifts to other players.
+or you don't want to risk losing them if your current clone dies). This
+is also useful to avoid encumbrance on stations without a storage facility.
+
+You can also send items as gifts to other players, or in trade when you
+trust them to hold up their end of the bargain.
 
 If an item has been delivered to you to the shipping bay of a station
 that you are currently not on, you can redirect the shipment to the
@@ -956,11 +960,15 @@ buys it within three days, you will receive the asking price directly to
 your bank account. Otherwise, you can pick up the item after three days
 at the Shipping Bay.
 
+To sell an item, go to Market -> Public, then to your inventory,
+and select the item you want to sell. There, you'll have a button
+"Sell to Public".
+
 ## Private Ships
 
 You can buy private ships, and use those for travel. Since this requires
 several expensive and long University courses and at least 210,000 credits
-for the ship itself, this should be considered an advanced feature.
+for the cheapest type of ship, this should be considered an advanced feature.
 
 In order to buy a *Private Shuttle*, you need to complete the following
 University courses, in this order:
@@ -996,19 +1004,27 @@ At the Docks, you can enter the ship, and choose a destination. On a Jump Gate,
 the destination can be a connected jump gate or a local station. On other stations,
 you can just select local destinations.
 
-Using a ship consumes fuel proportionally to the distance travelled. You
+Using a ship consumes fuel proportionally to the travel time. You
 can refuel at any dock, though the price per fuel depends on the
 station, and is roughly proportional to the station level. It varies
 between roughly 1,500 credits per gram on Tau Station to about 12,000
 credits per gram on Yards of Gadani and Bordeaux.
 
+Refueling is also very slow.
+
 Traveling to local stations is cheaper with the private shuttle than
-with public shuttles; the interstellar jump is only cheaper with the
-private shuttle if you refuel at Tau Station afterwards.
+with public shuttles; the interstellar jump is slightly more expensive
+if you refuel at Tau Station, and much more expensive if you refuel
+anywhere in Alpha Centauri.
 
 Ships also require regular but infrequent repairs, and occasional
-refurbishments. Repairs are fairly expensive, and for example repairing
-a 4% damage takes around 70 segments (more than half a day!), and during
+refurbishments.
+
+Repairs are somewhat affordable on Shipyards, but fairly expensive
+on stations without shipyards.
+
+For instance, repairing a 4% damage at the Docks takes around 70 segments
+(more than half a day!), and during
 the time of repair, you are confined to docks. You can spend bonds to
 reduce the repair time.
 
@@ -1020,7 +1036,7 @@ Some random bits of advice on how to make the most of out Tau Station:
 * Play the missions for fun and profit!
  * Equip the best weapons and armor that you find
  * Store or sell the rest, depending on how badly you need the money
-* As soon as you have reached level 3, strive to spend most of your time on higher-level stations; training your stats is more efficient there, and you find more valuable things in the ruins. 
+* As soon as you have reached level 3, strive to spend most of your time on higher-level stations; training your stats is more efficient there, and you find more valuable things in the ruins.
 * When you are not actively playing, spend your time in a hotel room, which speeds up stats and focus regeneration, and keeps you safe from attacks.
 * Missions, Discreet Work and training your stats require more Focus than career tasks and ruins scavenging; so if you are on VIP packs occasionally, do the first-mentioned kinds of things preferably while on VIP, and focus on your career and ruins searching while not a VIP.
 * The Sol Jump Gate has a mission ("The Sleepless Ship") that takes you
