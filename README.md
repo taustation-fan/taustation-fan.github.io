@@ -751,8 +751,8 @@ You can wear an armour suit, and equip up to two weapons. There are three
 kinds of damage, Impact, Piercing and Energy. Weapons have an inherent
 accuracy, and one or sometimes two kinds of damage they make.
 
-There is also
-long range and shot range combat, and gun-like weapons are suited for long
+There is also long range and shot range combat.
+Gun-like weapons are suited for long
 range combat, while knives and improvised weapons work in short range combat.
 Using a weapon in the wrong range incurs a penalty.
 
