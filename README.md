@@ -1034,11 +1034,13 @@ reduce the repair time.
 Some random bits of advice on how to make the most of out Tau Station:
 
 * Play the missions for fun and profit!
- * Equip the best weapons and armor that you find
+* Occasionally read the chat and socialize with other players.
+* Equip the best weapons and armor that you find
  * Store or sell the rest, depending on how badly you need the money
 * As soon as you have reached level 3, strive to spend most of your time on higher-level stations; training your stats is more efficient there, and you find more valuable things in the ruins.
 * When you are not actively playing, spend your time in a hotel room, which speeds up stats and focus regeneration, and keeps you safe from attacks.
 * Missions, Discreet Work and training your stats require more Focus than career tasks and ruins scavenging; so if you are on VIP packs occasionally, do the first-mentioned kinds of things preferably while on VIP, and focus on your career and ruins searching while not a VIP.
+* Bring most of your credits to the Bank. Otherwise another player can steal them from you after defeating you in combat (and there's always a better fighter).
 * The Sol Jump Gate has a mission ("The Sleepless Ship") that takes you
   to Alpha Centauri, so only engage in that mission when you are ready
   to travel to Alpha Centauri (level 7, most stats at 12 or more; and at
