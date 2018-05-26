@@ -733,7 +733,7 @@ immediate stats refills, and shorter "Well Fed" times.
 You can attack players and some NPCs, and other players can attack you.
 
 Combat is turn-based, though in Player-vs-player combat, only the attacker
-can chose actions; the defender acts automatically.
+can choose actions; the defender acts automatically.
 In combat mode, there is also a countdown
 for when Security forces will likely arrive.
 
@@ -989,7 +989,7 @@ you can go to a shipyard and buy a ship.
 
 The following table shows the available and the planned ship types:
 
-| Name                  | Mass / T | Acceleration / G | Fuel Capacity / g | Max Range / km | Cargo Capacity / T | Price / credits | Prerequesites          | Availability                         |
+| Name                  | Mass / T | Acceleration / G | Fuel Capacity / g | Max Range / km | Cargo Capacity / T | Price / credits | Prerequisites          | Availability                         |
 |:----------------------|:---------|:-----------------|:------------------|:---------------|:-------------------|:----------------|:-----------------------|:-------------------------------------|
 | **Private Shuttle**   | 8.8      | 2.427            | 5                 | 2145548        | 0                  | 210000          | Basic Ship Handling    | Daedalus, København, Yards of Gadani |
 | **Razorback**         | 9.5      | 14.5             | 90                | 5987859        | 0                  | 995000          | Advanced Ship Handling | Yards of Gadani                      |
@@ -1010,7 +1010,7 @@ station, and is roughly proportional to the station level. It varies
 between roughly 1,500 credits per gram on Tau Station to about 12,000
 credits per gram on Yards of Gadani and Bordeaux.
 
-Refueling is also very slow.
+Refueling is also very slow, but you can spend bonds to speed it up.
 
 Traveling to local stations is cheaper with the private shuttle than
 with public shuttles; the interstellar jump is slightly more expensive
@@ -1059,10 +1059,9 @@ From the [official blog](https://blog.taustation.space/blog/), twitter and state
 from the Tau Station team, it seems that at least the following major features
 are planned:
 
-* The ability to purchase *private ships*, and use them for travel.
 * *Crafting* items, which makes sense if you need something to sell.
 * Player *Syndicates*, cooperations of players that conduct business together.
-* More star system, starting with *Barnard's Star*.
+* More star systems, starting with *Barnard's Star*.
 * Prerequisites and Perks for career levels.
 * Modifications (*mods*), implanted electronic devices that modify attributes of the body.
 * More missions and artwork.
