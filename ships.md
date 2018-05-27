@@ -1,3 +1,5 @@
+This page is part of the [Unofficial Player's Guide to Tau Station](/).
+
 # Private Ships
 
 You can buy private ships, and use those for travel. Since this requires
