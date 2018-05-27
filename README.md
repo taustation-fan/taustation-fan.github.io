@@ -186,6 +186,12 @@ The following things immediately fill your stats and Focus:
 * consuming a [ration](#rations) of your own [tier](#tier) or above
 * leveling up
 
+Consuming *stims* and drinking at the bar can also instantaneously
+increase a stat a bit, though at the price of raised toxin levels
+(for stims), or at consuming Focus and risk of injury (drinks at the bar).
+Both are usually not worth the risks and downsides.
+
+
 The following recovery rates have been compiled by mostly [Shadow and Dotsent](https://alpha.taustation.space/forum/discussions/topic/197-04-88-143-please-use-this-thread/post/197-53-01-501-stat-recovery):
 
 |Booster                               | Focus/%   | Stats/% | Measured   |
