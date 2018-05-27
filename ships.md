@@ -20,7 +20,7 @@ If you want to buy a *Razorback* (faster and much more expensive), you will
 need these additional courses:
 
 * Advanced Ship Technology (Moissan)
-* Advanced Ship Handling (?)
+* Advanced Ship Handling (Nouveau Limoges (?))
 
 ## Ship Types
 
