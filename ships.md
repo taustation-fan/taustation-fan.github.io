@@ -27,7 +27,7 @@ you can go to a shipyard and buy a ship.
 
 The following table shows the available and the planned ship types:
 
-| Name                  | Mass / T | Acceleration / G | Fuel Capacity / g | Max Range / km | Cargo Capacity / T | Price / credits | Prerequesites          | Availability                         |
+| Name                  | Mass / T | Acceleration / G | Fuel Capacity / g | Max Range / km | Cargo Capacity / T | Price / credits | Prerequisites          | Availability                         |
 |:----------------------|:---------|:-----------------|:------------------|:---------------|:-------------------|:----------------|:-----------------------|:-------------------------------------|
 | **Private Shuttle**   | 8.8      | 2.427            | 5                 | 2145548        | 0                  | 210000          | Basic Ship Handling    | Daedalus, København, Yards of Gadani |
 | **Razorback**         | 9.5      | 14.5             | 90                | 5987859        | 0                  | 995000          | Advanced Ship Handling | Yards of Gadani                      |
@@ -50,7 +50,7 @@ station, and is roughly proportional to the station level. It varies
 between roughly 1,500 credits per gram on Tau Station to about 12,000
 credits per gram on Yards of Gadani and Bordeaux.
 
-Refueling is also very slow.
+Refueling is also very slow, but you can spend bonds to speed it up.
 
 Traveling to local stations is cheaper with the private shuttle than
 with public shuttles; the interstellar jump is slightly more expensive
