@@ -371,6 +371,8 @@ example, consume a ration or even retire to your hotel room first for
 some stats replenishment).
 
 Upon finding an opponent in the Ruins, you have 8 segments to fight them.
+Until you attack them, the opponent is visible in the *People* tab at the
+Ruins, so you can see their armor and weapons before attacking.
 
 When you win such a fight, you can loot the opponent, which tends to give
 you on the order of 1 to 100 credits, and you gain a reward. The reward
