@@ -31,12 +31,12 @@ The following table shows the available and the planned ship types:
 
 | Name                  | Mass / T | Acceleration / G | Fuel Capacity / g | Max Range / km | Cargo Capacity / T | Price / credits | Prerequisites          | Availability                         |
 |:----------------------|:---------|:-----------------|:------------------|:---------------|:-------------------|:----------------|:-----------------------|:-------------------------------------|
-| **Private Shuttle**   | 8.8      | 2.427            | 5                 | 2145548        | 0                  | 210000          | Basic Ship Handling    | Daedalus, København, Yards of Gadani |
-| **Razorback**         | 9.5      | 14.5             | 90                | 5987859        | 0                  | 995000          | Advanced Ship Handling | Yards of Gadani                      |
-| Bulk Carrier          | 890      | 0.906            | 250               | 2841466        | 140                |                 |                        |                                      |
-| Freighter             | 475      | 1.305            | 175               | 2587346        | 70                 |                 |                        |                                      |
-| Private Cargo Shuttle | 30.5     | 2.321            | 17.5              | 2265602        | 10                 |                 |                        |                                      |
-| Public Shuttle        | 1280     | 3.626            | 5000              | 9873087        | 0                  |                 |                        |                                      |
+| **Private Shuttle**   | 8.8      | 2.427            | 5                 | 2,145,548      | 0                  | 210,000         | Basic Ship Handling    | Daedalus, København, Yards of Gadani |
+| **Razorback**         | 9.5      | 14.5             | 90                | 5,987,859      | 0                  | 995,000         | Advanced Ship Handling | Yards of Gadani                      |
+| Bulk Carrier          | 890      | 0.906            | 250               | 2,841,466      | 140                |                 |                        |                                      |
+| Freighter             | 475      | 1.305            | 175               | 2,587,346      | 70                 |                 |                        |                                      |
+| Private Cargo Shuttle | 30.5     | 2.321            | 17.5              | 2,265,602      | 10                 |                 |                        |                                      |
+| Public Shuttle        | 1280     | 3.626            | 5000              | 9,873,087      | 0                  |                 |                        |                                      |
 
 ## Operating a Ship
 
