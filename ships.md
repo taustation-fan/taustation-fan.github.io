@@ -50,7 +50,20 @@ Using a ship consumes fuel proportionally to the travel time. You
 can refuel at any dock, though the price per fuel depends on the
 station, and is roughly proportional to the station level. It varies
 between roughly 1,500 credits per gram on Tau Station to about 12,000
-credits per gram on Yards of Gadani and Bordeaux.
+credits per gram on Yards of Gadani and Bordeaux:
+
+| Station level | price in credits/gram | System         |
+|---------------|-----------------------|----------------|
+|      1        |         1,500         | Sol            |
+|      3        |         4,020         | Sol            |
+|      4        |         5,220         | Sol            |
+|      5        |         6,420         | Sol            |
+|      6        |         7,590         | Sol            |
+|      7        |         8,760         | Alpha Centauri |
+|      8        |         9,870         | Alpha Centauri |
+|      9        |        10,980         | Alpha Centauri |
+|     10        |        12,090         | Alpha Centauri |
+|---------------|-----------------------|----------------|
 
 Refueling is also very slow, but you can spend bonds to speed it up.
 
