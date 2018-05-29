@@ -435,8 +435,10 @@ missed advancing your career.
 You advance your career by succeeding at career tasks. You go to
 different areas of the station, and click on the "Tasks" tab, and then
 attempt some tasks. The [career overview
-page](https://alpha.taustation.space/career) lists all available tasks,
-and where you can try them.
+page](https://alpha.taustation.space/career) lists all available tasks
+on your current station, and where you can try them. If the area a task
+depends on does not exist at the current station, the task will not be
+listed.
 
 Each success adds up to your career experience, and each failure
 subtracts some amount.
@@ -1037,3 +1039,4 @@ systems, stations, ship types and much more.
 * [Spreadsheet of weapons and armor](https://docs.google.com/spreadsheets/d/1TQhklKC7LhC2_MxmEyxQHy-2vai8ZM6krWmw6RF9XX0/edit#gid=1889785351)
 * [Tau Station on Discord](https://discord.gg/FSCxhFs)
 
+<!-- vim: set textwidth=78: -->
