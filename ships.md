@@ -28,8 +28,8 @@ University courses, in this order:
 If you want to buy a *Razorback* (faster and much more expensive), you will
 need these additional courses:
 
-* Advanced Ship Technology (Moissan)
-* Advanced Ship Handling (Nouveau Limoges)
+* Advanced Ship Technology (Moissan, 2100 Segments)
+* Advanced Ship Handling (Nouveau Limoges, 2800 Segments)
 
 ## Ship Types
 
