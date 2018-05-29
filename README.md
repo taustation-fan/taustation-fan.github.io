@@ -417,8 +417,8 @@ whose stats overlap with the strong stats of your genotype.
 
 The second factor is availability. Career tasks can be tied to locations
 (you can only repair ships at a Port, and only analyze security footage
-at Security), and not all stations have all areas. Ports are everywhere,
-Sick Bay, Brig and Security are also nearly ubiquitous. Cloning Vats can
+at Security), and not all stations have all areas. Ports and Brigs are everywhere,
+Sick Bay and Security are also nearly ubiquitous. Cloning Vats can
 be found on all stations except Daedalus and the Jump Gates.
 
 Finally, some careers are more dangerous than others; if a majority of
