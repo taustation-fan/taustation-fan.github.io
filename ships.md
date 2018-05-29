@@ -1,5 +1,14 @@
 This page is part of the [Unofficial Player's Guide to Tau Station](/).
 
+# Table of Contents
+
+* [Private Ships](#private-ships)
+    * [Prerequisites](#prerequisites)
+    * [Ship Types](#ship-types)
+    * [Operating a Ship](#operating-a-ship)
+    * [Maintenance](#maintenance)
+
+
 # Private Ships
 
 You can buy private ships, and use those for travel. Since this requires
