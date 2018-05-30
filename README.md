@@ -589,6 +589,9 @@ One module that can be generally recommended is the collection of
 Anatomy courses available on Nouveau Limoges, since it boosts stats
 recovery -- something that is useful no matter what career you pursue.
 
+Most courses only have negligible benefits on their own, but if you finish
+several related courses, the compound effect is typically noticeable.
+
 The following modules are available, grouped by station:
 
 * Tau Station (Sol; Consortium)
@@ -608,8 +611,9 @@ The following modules are available, grouped by station:
     * Combat: Combat Basics, Special Ops
     * Spaceship Operations: Navigation, Technology, Ship Handling
 
-Most courses only have negligible benefits on their own, but if you finish
-several related courses, the compound effect is typically noticeable.
+See the [search- and sortable list of all University
+courses](https://education.tauguide.de/) for details. Here is just a
+quick breakdown:
 
 The *Anatomy* module consists of *Healthcare*, which speeds up stats
 and focus recovery slightly, and *Self-Surgery*, which speeds up recovery
