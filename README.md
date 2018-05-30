@@ -524,7 +524,6 @@ more importantly, a random bonus. This bonus can be
 * a weapon or armour
 * a bond package
 * a ration
-* a VIP pack
 
 In most cases, the potential rewards depends on the station level. For
 example on Taungoo Station (level 5), the stats boost tends to be on the
@@ -645,7 +644,6 @@ The following are sources of VIP packs:
 
 * You can buy them in the shop
 * You can buy a 3-day VIP pack every 7 days at the Vendors (Market), for 290 bonds
-* Sometimes, the random reward for discreet work can be a VIP pack
 * You can buy VIP packs on the Public Market when other players are willing to part with them.
 * You can find VIP packs in the ruins
 
