@@ -521,7 +521,7 @@ more importantly, a random bonus. This bonus can be
 
 * more credits
 * an increase in one stat
-* a weapon or armour
+* a weapon or armor
 * a bond package
 * a ration
 
@@ -759,7 +759,7 @@ Brig depends on the law level. Tau Station is super paranoid, and you
 can't ever attack somebody successfully there (with the exception
 of random encounters in the Ruins).
 
-You can wear an armour suit, and equip up to two weapons. There are three
+You can wear an armor suit, and equip up to two weapons. There are three
 kinds of damage, Impact, Piercing and Energy. Weapons have an inherent
 accuracy, and one or sometimes two kinds of damage they make.
 
