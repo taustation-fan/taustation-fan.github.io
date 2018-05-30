@@ -271,7 +271,7 @@ success rates of tasks and checks:
 
 * High *Intelligence* speeds up University courses
 * High *Strength* lets you carry more mass before encumbrance kicks in
-* High *Social* grants you random advantages when buying from or selling to NPC venddors
+* High *Social* grants you random advantages when buying from or selling to NPC vendors
 
 ## Rations
 
