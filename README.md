@@ -540,7 +540,7 @@ and bringing it to somebody else. Between those two actions, the item
 is in your own inventory, and you can steal it by aborting the mission.
 The only repercussion is that after aborting an anonymous mission, you
 won't be offered a new one for a while. For valuable items such as
-rare weapons, rations, bond packages or VIP packs, this is usually worth it.
+rare weapons, rations or bond packages, this is usually worth it.
 
 Despite the disclaimer of potential danger, Discreet Work has never
 brought me into the Sick Bay or the Brig.
