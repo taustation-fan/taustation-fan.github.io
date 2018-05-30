@@ -563,12 +563,12 @@ work isn't shown while you are pursuing a mission, but if you [follow this link 
 University courses can teach you handy skills. You have to pay some
 credits to enroll in one, and can optionally spend bonds to speed them
 up. The basic courses are relatively cheap (typically around 200 credits
-and fast, while more advanced courses take much longer (up to 21 days),
+and fast, while more advanced courses take much longer (up to 28 days),
 and can cost up to several ten thousand credits.
 
 You can only be enrolled in one course at a time, and you cannot abort a
 course that you started. Travel, Sick Bay and Brig do not affect University
-courses, which just go continue in those circumstances (though may
+courses, which just continue in those circumstances (though may
 delay the completion of a course until you are free to move again).
 
 In the beginning, you can likely only afford basic courses, so you
@@ -626,10 +626,10 @@ stims during combat (which can quickly regenerate a stat).
 to do things (so corresponds to an increased *Social* skill).
 
 The *Item Repair* courses from the *Engineering* module allows you to
-repair weapon and armor on your own, instead of having to pay for it.
+repair weapons and armor on your own, instead of having to pay for it.
 
 The *Spaceship Operations* module contains *Navigation*, *Technology*
-and *Handling* To be able to purchase a ship (coming soon), you'll likely
+and *Handling* To be able to purchase a ship, you'll
 need (in that order): Navigation 1 and 2, Technology 1 and Handling 1.
 
 ## VIP Packs
