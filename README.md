@@ -524,6 +524,7 @@ more importantly, a random bonus. This bonus can be
 * a weapon or armor
 * a bond package
 * a ration
+* a stim
 
 In most cases, the potential rewards depends on the station level. For
 example on Taungoo Station (level 5), the stats boost tends to be on the
