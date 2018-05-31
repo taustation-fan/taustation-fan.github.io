@@ -64,7 +64,7 @@ stage.](https://blog.taustation.space/blog/start-your-adventure-in-tau-station-n
 
 Tau Station is policed very well and you are safe there.
 Once you visit other stations, you will eventually be
-attacked by *raving lunatics*, *coldhearted killers* and
+attacked by *raving lunatics*, *single-minded sociopaths*, *coldhearted killers* and
 *bloodthirsty psychopaths*. They will bring you to
 within an inch of your life and send you to sick bay for
 about 16 segments. Unless you're on Bordeaux, where you
