@@ -2,6 +2,7 @@
 
 # Table of Contents
    * [An Introduction to Tau Station](#an-introduction-to-tau-station)
+      * [Attack Warning](#attack-warning)
       * [The Financial System](#the-financial-system)
          * [Credits](#credits)
          * [Bonds](#bonds)
@@ -58,6 +59,34 @@ document might become outdated when the game changes.
 Despite the alpha status, the development team has [promised that there
 will be no resets/wipes when it leaves alpha or beta
 stage.](https://blog.taustation.space/blog/start-your-adventure-in-tau-station-now/)
+
+## Attack Warning
+
+Tau Station is policed very well and you are safe there.
+Once you visit other stations, you will eventually be
+attacked by *raving lunatics*, *coldhearted killers* and
+*bloodthirsty psychopaths*. They will bring you to
+within an inch of your life and send you to sick bay for
+about 16 segments. Unless you're on Bordeaux, where you
+will die. And, adding insult to injury, they will also
+loot your wallet and get away with a percentage of the
+money you're carrying around.
+
+What can you do to protect yourself? These aggressors
+are players of advanced levels with high physical stats
+and considerable weapons and armor. So eventually you
+will lose the fight. But there are things you can do to
+minimize your risk and exposure.
+
+* Always bring your money to the bank, deposits are free
+everywhere, and withdrawals at your local branch as well.
+Never keep more than 100 credits on yourself.
+* Always stay in a hotel room. That's the only place
+you're safe, and your stats will regenerate faster there.
+* Plan your revenge, if you're so inclined. Get together
+with other victims, get organized and gang up on the
+perpetrator.
+
 
 ## The Financial System
 
