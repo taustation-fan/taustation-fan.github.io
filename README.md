@@ -1063,8 +1063,13 @@ are planned:
 * [TauHead](https://www.tauhead.com/) harvests encyclopedic data from the Tau Station universe.
 * The [Taustation Archives](https://alpha.taustation.space/archive) contain information about star
 systems, stations, ship types and much more.
+* [University Courses](https://education.tauguide.de) in a searchable and
+  sortable form
 * [Tau Wiki](http://taustation.wikidot.com/start) collects all sorts of interesting information.
-* This [Greasemonkey Script](https://gist.github.com/moritz/97aa186cd99daee2b63c82bc9a20bb5a) adds some navigation shortcuts to the menu, and can optionally hide buttons that spend bonds to prevent accidental spending.
+* This [Collection of Greasemonkey/Tampermonkey
+  scripts](https://github.com/taustation-fan/userscripts) makes Tau station
+  much easier to use. It includes navigation enhancements, stats trackers
+  and other goodies.
 * The IRC channel `##taustation` on irc.freenode.org is a meeting point for players who find the built-in chat cumbersome.
 * There's a Tau Station [subreddit](https://www.reddit.com/r/taustation/).
 * [Tau Station Alerts](https://tau-alert.perl6.party/) converts from GCT to Auld Earth Time
