@@ -129,7 +129,7 @@ use bonds for fast shuttle travel if there was a very good reason.
 You can obtain bonds in the following ways:
 
 * you can buy them in the shop
-* as a daily reward for your career level
+* as a daily reward for your career level (up to 30 bonds per day)
 * sometimes, discreet/anonymous work has a small bonds reward
 * you can find bond packages in the Ruins
 * if you level up to a new tier (if you reach levels 6, 11, 16, etc.),
@@ -139,7 +139,8 @@ You can obtain bonds in the following ways:
 
 You can have credits in your wallet and in your bank account.
 
-From your wallet, you pay most of your everyday purchases, with
+From your wallet, you pay most of your everyday purchases like shuttle
+fees, item repairs, hotel rooms etc, with
 the exception of things you buy from the Public Market (which
 directly withdraws from your bank account).
 
@@ -187,6 +188,7 @@ The process goes something like this:
 * You find or buy an insignificant item like a Capacitor or Beer Bottles
 * You put it up on the Public Market for 1/10th of the agreed-upon price
 * The designated buyer buys the item from the Public Market
+* You use the money earned that way to pay the listing fee of the VIP pack
 
 If you don't even have a 1/100th of the agreed-upon price, you might
 need to conduct this process twice.
@@ -278,6 +280,9 @@ example on Tau Station (level 1), you get about a 0.004 stats increase
 for every 10% of focus that you invest. On Yards of Gadani (level 10),
 the stat increase is around 0.019.
 
+The training efficiency on shuttle rides is the same as training on
+the destination station.
+
 Training also depends on the character's
 [genotype](https://alpha.taustation.space/archive/genotypes), because
 genotypes have pre-dispositions for certain traits. Belters, for
@@ -291,13 +296,14 @@ Slightly higher limits (though not explicitly denoted) apply to training of the
 social and the intelligence stat.
 
 If you are repeatedly injured or becoming unconscious or detained from
-training, go back to a lower-level station.
+training, go back to a lower-level station, increase the relevant stat
+there, and then try again at the higher-level station.
 
 Stats can also randomly increase as a bonus of successfully completed
 discreet work.
 
-Finally, the primary and secondary stat of your career improve at midnight
-GCT if you've used them on the day before.
+Finally, the primary and secondary stat of your career improve, along
+with the salary.
 
 ### Stats Benefits
 
@@ -307,6 +313,8 @@ success rates of tasks and checks:
 * High *Intelligence* speeds up University courses
 * High *Strength* lets you carry more mass before encumbrance kicks in
 * High *Social* grants you random advantages when buying from or selling to NPC vendors
+* High physical stats are harder to drain during combat, so they act as
+  protection against attacks.
 
 ## Rations
 
@@ -321,7 +329,7 @@ current tier does gives hardly any immediate regeneration.
 Rations also give you the "well fed" status for 32 segments (roughly 8
 hours), which increases stats and Focus regeneration. For rations of a
 lower tier, the "well fed" status is shorter (10 segments for a tier
-difference of two).
+difference of two). "well fed" stacks up if you consume multiple rations.
 
 You are automatically assigned one ration per day, which you can fetch
 at any station's Government Center. You can sometimes find rations in
@@ -352,8 +360,8 @@ require at least three interstellar travels). Also, sometimes bribing
 somebody with your own credits is the easiest way to convince an NPC to
 collaborate.
 
-Missions give you a small financial reward, and typically the largest
-experience reward that is available in the whole game. But most
+Missions are the primary source of experience, and also give you a
+small financial reward. But most
 importantly, missions are interactive short stories that are enjoyable
 to read and experience.
 
@@ -396,6 +404,11 @@ If you don't want to carry around stuff, you can sell it to the vendors,
 (go to Market -> Storage,
 buy storage if you haven't yet, and then to your Inventory), or drop them
 right from the Inventory.
+
+On stations without a Market (for example the Jump Gates) you can still
+avoid encumbrance by going to Port -> Shipping Bay, and sending the items
+to yourself on another station, where you can later pick them up and
+sell or send them to storage there.
 
 Common trade goods are mostly an annoyance, but some players hypothesize
 that they might serve as the raw material for crafting items, when that
@@ -454,7 +467,8 @@ The second factor is availability. Career tasks can be tied to locations
 (you can only repair ships at a Port, and only analyze security footage
 at Security), and not all stations have all areas. Ports and Brigs are everywhere,
 Sick Bay and Security are also nearly ubiquitous. Cloning Vats can
-be found on all stations except Daedalus and the Jump Gates.
+be found on all stations except Daedalus, the Sol Jump Gate and Ghost
+of Mali. In contrast, only four stations have embassies.
 
 Finally, some careers are more dangerous than others; if a majority of
 tasks sound illegal, you might spend quite some time in the Brig.
