@@ -150,8 +150,14 @@ Bonds are always kept in the bank, but you can pay them directly without
 visiting the bank.
 
 At your home branch, withdrawing credits is free. At other branches,
-the withdrawal fee is 3%, or 1% if you are VIP. You can transfer your
-home branch to any Consortium station, for a fee.
+the withdrawal fee is 3%, or 1% if you are VIP.
+
+You can transfer your home branch to any Consortium station, and then
+benefit from free withdrawal at that branch. The account transfer fee
+only depends on the target station level, not on the account balance.
+For big purchases like higher-level University courses or private ships,
+transferring the bank and then withdrawing for free can be cheaper than
+paying the withdrawal fee.
 
 Deposits are free at any bank.
 
