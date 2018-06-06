@@ -206,32 +206,41 @@ Both are usually not worth the risks and downsides.
 
 The following recovery rates have been compiled by mostly [Shadow and Dotsent](https://alpha.taustation.space/forum/discussions/topic/197-04-88-143-please-use-this-thread/post/197-53-01-501-stat-recovery):
 
-|Booster                               | Focus/%   | Stats/% | Measured   |
-|--------------------------------------|-----------|---------|------------|
-| None                                 | 3         | 3       |            |
-| Healthcare 3                         | 2..3      | 3       | 2018-03-27 |
-| Hotel                                | 4         | 4       |            |
-| Well Fed                             | 4         | 4       |            |
-| Well Fed + Healthcare 3              | 5         | 5       | 2018-04-03 |
-| Hotel + Well Fed                     | 5         | 4       |            |
-| Hotel + Healthcare 2                 | 4         | 5       |            |
-| Hotel + Well Fed + Healthcare 2      | 6..7      | 6..7    |            |
-| Hotel + Healthcare 3                 | 3..5      | 3..5    | 2018-03-27 |
-| Hotel + Well Fed + Healthcare 3      | 5..7      | 5..7    | 2018-04-03 |
-| VIP                                  | 6         | 6       |            |
-| VIP + Healthcare 2                   | 10..11    | 6..7    | 2018-03-17 |
-| VIP + Healthcare 3                   | 11        | 7       | 2018-05-18 |
-| VIP + Hotel                          | 10..11    | 6..7    |            |
-| VIP + Hotel + Healthcare 2           | 10.1      | 6.75    | 2018-03-18 |
-| VIP + Hotel + Healthcare 3           | 14        | 9       | 2018-05-17 |
-| VIP + Well Fed                       | 12..13    | 8       |            |
-| VIP + Well Fed + Healthcare 3        | 13..14    | 9..10   | 2018-03-17 |
-| VIP + Well Fed + Hotel               | 12..13    | 8..9    |            |
-| VIP + Well Fed + Hotel + Healthcare 1| 14..15    | 9..10   |            |
-| VIP + Well Fed + Hotel + Healthcare 2| 16..18    | 11      |            |
-| VIP + Well Fed + Hotel + Healthcare 3| 16..18    | 12      |            |
+|Booster                                | Focus/%   | Stats/% | Measured   |
+|---------------------------------------|-----------|---------|------------|
+| None                                  | 3         | 3       |            |
+| Healthcare 1                          | 2         | 2       | 2018-03-13 |
+| Healthcare 2                          | 2..3      | 2..3    | 2018-03-19 |
+| Healthcare 3                          | 2..3      | 3       | 2018-03-27 |
+| Hotel                                 | 4         | 4       |            |
+| Hotel + Healthcare 1                  | 4         | 4       | 2018-03-13 |
+| Hotel + Healthcare 2                  | 4..5      | 4..5    | 2018-03-19 |
+| Hotel + Healthcare 3                  | 5         | 5       | 2018-03-27 |
+| Well Fed                              | 4         | 4       |            |
+| Well Fed + Healthcare 1               | 3         | 4..5    | 2018-03-13 |
+| Well Fed + Healthcare 2               | 4..5      | 4..5    | 2018-03-19 |
+| Well Fed + Healthcare 3               | 5         | 5       | 2018-04-03 |
+| Hotel + Well Fed                      | 5         | 4       |            |
+| Hotel + Well Fed + Healthcare 1       | 5         | 4..5    | 2018-03-13 |
+| Hotel + Well Fed + Healthcare 2       | 6..7      | 6..7    | 2018-03-19 |
+| Hotel + Well Fed + Healthcare 3       | 7         | 7       | 2018-04-03 |
+| VIP                                   | 6         | 6       |            |
+| VIP + Healthcare 1                    | 10        | 6..7    | 2018-03-13 |
+| VIP + Healthcare 2                    | 10..11    | 6..7    | 2018-03-17 |
+| VIP + Healthcare 3                    | 11        | 7       | 2018-05-18 |
+| VIP + Hotel                           | 10..11    | 6..7    |            |
+| VIP + Hotel + Healthcare 1            | 12..13    | 8..9    | 2018-03-13 |
+| VIP + Hotel + Healthcare 2            | 10.1      | 6.75    | 2018-03-18 |
+| VIP + Hotel + Healthcare 3            | 13..14    | 9..10   | 2018-05-17 |
+| VIP + Well Fed                        | 12..13    | 8       |            |
+| VIP + Well Fed + Healthcare 1         | 13        | 8..9    | 2018-03-13 |
+| VIP + Well Fed + Healthcare 3         | 13..14    | 9..10   | 2018-03-17 |
+| VIP + Well Fed + Hotel                | 12..13    | 8..9    |            |
+| VIP + Well Fed + Hotel + Healthcare 1 | 16        | 10..11  | 2018-03-13 |
+| VIP + Well Fed + Hotel + Healthcare 2 | 16..18    | 11      |            |
+| VIP + Well Fed + Hotel + Healthcare 3 | 17        | 11..12  | 2018-05-18 |
 
-(values without a measurement date have been assembled before 2017-03-17)
+(values without a measurement date have been assembled before 2017-03-17 and may be less reliable)
 
 ### Stats Improvement
 
