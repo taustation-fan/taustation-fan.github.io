@@ -508,7 +508,7 @@ you get a bonus in credits (between 3 and 320, depending on the difficulty
 of the task), which is the primary source of most player's
 credit wealth.
 
-As your hidden career experience increases and/or you are promoted,
+As your hidden career experience increases,
 more difficult career tasks become achievable. In general, you should
 try career tasks where your success rate is higher than 50%. If your
 success rate is higher than 80% or 90%, you might try more difficult
@@ -543,6 +543,8 @@ seems to explain most phenomena around career tasks:
 * Task difficulty. Easy tasks are listed first.
 * Career experience
 * Stat ranking (Low/Average/High/...) of the stat that the task uses
+* Player level. Many players have reported more failing career tasks after
+  leveling up.
 * Per-task experience (conjectural)
 * Focus (conjectural)
 
