@@ -162,40 +162,6 @@ paying the withdrawal fee.
 
 Deposits are free at any bank.
 
-### Converting Bonds to Credits
-
-There is no way to convert credits to bonds.
-
-The bank offers you to convert bonds to credits at a 1:5 conversion
-rate, but that is a pretty terrible conversion rate.
-
-You get a better rate if you go the vendors at the Market, and buy
-a 3-day VIP pack for 290 bonds (which you can do once per 7 days).
-You can sell this at the Public Market for somewhere between 15,000
-and 30,000 credits (of which you need to pay 10% as market fee).
-Before you do that, ask in the chat if anybody is willing to buy it, and
-at what price point.
-
-That way, you get a conversion rate of 1 bond to 45..90 credits.
-
-If you don't have enough money to afford the seller's fee on the market,
-you can try to find a potential buyer for the VIP pack in the chat, and
-maybe they'll help you.
-
-The process goes something like this:
-
-* The two of you agree on a price for the VIP pack
-* You find or buy an insignificant item like a Capacitor or Beer Bottles
-* You put it up on the Public Market for 1/10th of the agreed-upon price
-* The designated buyer buys the item from the Public Market
-* You use the money earned that way to pay the listing fee of the VIP pack
-
-If you don't even have a 1/100th of the agreed-upon price, you might
-need to conduct this process twice.
-
-Of course, this process requires that the designated buyer trusts you
-not to run away with the money before the final VIP pack sale.
-
 ## Stats and Focus
 
 Whenever you try something, and the success is not a foregone
@@ -699,10 +665,7 @@ The following are sources of VIP packs:
 
 * You can buy them in the shop
 * You can buy a 3-day VIP pack every 7 days at the Vendors (Market), for 290 bonds
-* You can buy VIP packs on the Public Market when other players are willing to part with them.
 * You can find VIP packs in the ruins
-
-You can also sell VIP packs on the Public Market, for up to 10,000 credits per day of VIP.
 
 ## Travel
 
