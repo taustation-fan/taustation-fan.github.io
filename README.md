@@ -340,7 +340,7 @@ I advise to play all missions available to you.
 
 Most stations have a *Ruins* area, where you can scavenge for discarded
 treasures. Each search costs 10% stamina, and if you find something,
-also 10% of focus (15% of focus if you are VIP). Each successful find
+also 10% of Focus. Each successful find
 also adds to your experience.
 
 The things you can find in the ruins include (in decreasing likelihood):
@@ -384,7 +384,7 @@ feature will be implemented in future.
 
 In the Ruins you can also search for random encounters ("Look for trouble").
 Each search costs
-5% Agility and Stamina each, and 10% Focus (or 15% for VIPs). When you
+5% Agility and Stamina each, and 10% Focus. When you
 find somebody, you can engage in
 combat with them (but you don't have to do so immediately; you can, for
 example, consume a ration or even retire to your hotel room first for
