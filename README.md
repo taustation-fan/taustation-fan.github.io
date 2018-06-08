@@ -162,6 +162,15 @@ paying the withdrawal fee.
 
 Deposits are free at any bank.
 
+### Converting Bonds to Credits
+
+There is no way to convert credits to bonds.
+
+The bank offers you to convert bonds to credits at a 1:5 conversion
+rate, but that is a pretty terrible conversion rate. You should resist
+the urge to use it to get a few credits quickly, and invest some effort
+into your career instead.
+
 ## Stats and Focus
 
 Whenever you try something, and the success is not a foregone
