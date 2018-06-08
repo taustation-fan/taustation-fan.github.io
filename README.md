@@ -778,8 +778,10 @@ kinds of damage, Impact, Piercing and Energy. Weapons have an inherent
 accuracy, and one or sometimes two kinds of damage they make.
 
 There is also long range and shot range combat.
-Gun-like weapons are suited for long
-range combat, while knives and improvised weapons work in short range combat.
+
+Shotguns and Sniper Rifles are suited for long-range combat
+while knives, improvised weapons, hand guns and short-barrel rifles
+work in short range combat.
 Using a weapon in the wrong range incurs a penalty.
 
 
@@ -827,7 +829,7 @@ weapons can be recommended in particular:
 | Tier | Weapon                 | Range | Score | Damage Type | Mass (kg) |
 |------|------------------------|-------|-------|-------------|-----------|
 | 1    | Rusted Butterfly Knife |Short	|1.59   | Piercing    | 0.4       |
-| 1    | The Legion's Horn      |Long   |5      | Energy      | 1.0       |
+| 1    | TacticC11              |Long   |0.01   | Impact      | 3.1       |
 |      |                        |       |       |             |           |
 | 2    | Heated Prod            |Short	|2.36   | Energy      | 2.3       |
 | 2    | Sharpened Ice Club     |Short	|2.34   | Piercing    | 1.8       |
@@ -837,11 +839,11 @@ weapons can be recommended in particular:
 |      |                        |       |       |             |           |
 | 3    | Iridium Mace           |Short	|2.53   | Impact      | 2.9       |
 | 3    | SAG Stun Baton         |Short	|2.35   | Energy      | 1.3       |
-| 3    | Dur-Zip-Zap            |Long	|2.4    | Energy      | 0.7       |
-| 3    | Handgun Reclaim        |Long	|2.36   | Energy      | 1.2       |
+| 3    | G-SAG1E                |Long   |1.64   | Energy      | 3.3       |
 
 (There are also weapons that are only available as mission rewards, and that
-can be quite effective; they have been omitted from the table above).
+can be quite effective; they have been omitted from the table above, as well
+as extremely heavy weapons such as sniper rifles).
 
 Be aware that you can only equip weapons and armor of your own [tier](#tiers)
 or lower, not of higher tiers.
