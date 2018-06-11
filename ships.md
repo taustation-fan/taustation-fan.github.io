@@ -83,13 +83,27 @@ anywhere in Alpha Centauri.
 
 ## Maintenance
 
-Ships require regular but infrequent repairs, and occasional
-refurbishments.
+Ships require regular repairs, and occasional refurbishments.
 
-Repairs are somewhat affordable on Shipyards, but fairly expensive
-on stations without shipyards.
+Once a ship reaches a mysterious condition, which is not just dependent
+on the health gauges of the ship, it requires repairs before you
+can use the ship again.
 
-For instance, repairing a 4% damage at the Docks takes around 70 segments
-(more than half a day!), and during
-the time of repair, you are confined to docks. You can spend bonds to
-reduce the repair time.
+If you are lucky, and the current station has a shipyard, the repairs are
+fairly affordable (in the range of hundreds to maybe one thousand credits)
+and only take a few segments.
+
+On stations without a shipyard, you have to repair your ship at the
+docks, which is much more expensive (typically on the order of 3,000
+to 5,000 credits), and takes between 50 and 250 segments.
+
+In either case, you can spend 10 bonds to halve the repair time.
+
+A repair typically doesn't bring the ship's health to 100%. Refurbishing
+costs an additional 1000 credits, and completely restores the health
+of the ship. You can order the refurbishment while the repair is still
+in progress. This does not increase the repair time.
+
+The time spend on repairs outweighs the time you gain by not having
+to wait for public shuttles, and even the faster travel times
+of a Razorback.
