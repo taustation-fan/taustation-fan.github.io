@@ -240,7 +240,7 @@ The following recovery rates have been compiled by mostly [Shadow and Dotsent](h
 | VIP + Well Fed + Hotel + Healthcare 2 | 16..18    | 11      |            |
 | VIP + Well Fed + Hotel + Healthcare 3 | 17        | 11..12  | 2018-05-18 |
 
-(values without a measurement date have been assembled before 2017-03-17 and may be less reliable)
+(values without a measurement date have been assembled before 2018-03-17 and may be less reliable)
 
 ### Stats Improvement
 
