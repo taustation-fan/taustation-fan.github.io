@@ -104,6 +104,6 @@ costs an additional 1000 credits, and completely restores the health
 of the ship. You can order the refurbishment while the repair is still
 in progress. This does not increase the repair time.
 
-The time spend on repairs outweighs the time you gain by not having
+The time spent on repairs outweighs the time you gain by not having
 to wait for public shuttles, and even the faster travel times
 of a Razorback.
