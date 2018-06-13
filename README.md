@@ -918,7 +918,18 @@ them to change your Genotype.
 
 There are currently three types of clones in the game: 3D-printed, vat-grown
 and *Premium*. Even though most of the stations will have Clones facility,
-not all of the stations provide all three types of clones.
+not all of the stations provide all three types of clones:
+
+| Station | 3D-printed | Vat-grown | Premium |
+|---------|------------|-----------|---------|
+| AC Jump Gate | YES | NO | YES |
+| Moissan | YES | NO | YES |
+| Paris Spatiale | NO | YES | YES |
+| Ghost of Mali | **NO** | **CLONE** | **CENTER** |
+| Cirque Centauri | NO | NO | YES |
+| Spirit of Botswana | YES | YES | YES |
+| Bordeaux | NO | YES | YES |
+| Yards of Gadani | YES | NO | YES |
 
 3D-printed and vat-grown clones can be bought with credits, with the cost
 dependent on the player's level. The main differences between them are:
