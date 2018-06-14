@@ -922,6 +922,8 @@ not all of the stations provide all three types of clones:
 
 | Station            | 3D-printed | Vat-grown | Premium    |
 |--------------------|:----------:|:---------:|:----------:|
+| Daedalus           | **NO**     | **CLONE** | **CENTER** |
+| Sol Jump Gate      | **NO**     | **CLONE** | **CENTER** |
 | AC Jump Gate       | ✔          |           | ✔          |
 | Moissan            | ✔          |           | ✔          |
 | Paris Spatiale     |            | ✔         | ✔          |
