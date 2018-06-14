@@ -921,7 +921,7 @@ and *Premium*. Even though most of the stations will have Clones facility,
 not all of the stations provide all three types of clones:
 
 | Station            | 3D-printed | Vat-grown | Premium    |
-|--------------------|------------|-----------|------------|
+|--------------------|:----------:|:---------:|:----------:|
 | AC Jump Gate       | ✔          |           | ✔          |
 | Moissan            | ✔          |           | ✔          |
 | Paris Spatiale     |            | ✔         | ✔          |
