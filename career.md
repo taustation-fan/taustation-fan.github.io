@@ -60,27 +60,33 @@ Social, Stamina
 Primary: Social
 Secondary: Stamina
 
-| Name                                                 | Bonus  | Stat          | Area              | Illegal  | Dangerous |
-|------------------------------------------------------|--------|---------------|-------------------|:---------|:----------|
-| Data entry                                           | 5      | stamina       | Anywhere          |          |           |
-| Deliver a list of flagged visas to port authorities  | 3      | agility       | Port              |          |           |
-| Check visas                                          | 15     | social        | Anywhere          |          |           |
-| Threaten to deport someone                           | 15     | strength      | Anywhere          |          |           |
-| Interview new arrivals                               | 49     | social        | Port              |          |           |
-| Write a detailed immigration report                  | 19     | stamina       | Anywhere          |          |           |
-| Forge poll results                                   | 111    | intelligence  | Anywhere          |          |           |
-| Conduct a policy poll                                | 93     | social        | Anywhere          |          |           |
-| Accept bribe from a local business                   | 170    | social        | Market            |          |           |
-| Attend a state dinner with your supervisor           | 130    | social        | Government Center |          |           |
-| Write a detailed economic report                     | 155    | stamina       | Anywhere          |          |           |
-| Write a detailed policy proposal                     | 175    | stamina       | Anywhere          |          |           |
-| Attend a diplomatic meeting                          | 190    | social        | Government Center |          |           |
-| Show a visiting dignitary around the station         | 270    | social        | Port              |          |           |
-| Misuse your influence                                | 320    | social        | Anywhere          |          |           |
-| Write press releases                                 | 199    | social        | Anywhere          |          |           |
-| Mediate conflicts                                    | 255    | social        | Anywhere          |          |           |
-| Negotiate a better deal for your station             | 61.08  | stamina       | Market            |          |           |
-| Sell classified information                          | 79.03  | social        | Anywhere          |          |           |
+| Name                                                   | Bonus  | Stat          | Area              | Illegal  | Dangerous |
+|--------------------------------------------------------|--------|---------------|-------------------|:---------|:----------|
+| Stamp visa forms                                       | 5      | stamina       | Gaule Embassy     |
+| Work as a door greeter                                 | 6      | social        | Gaule Embassy     |
+| Data entry                                             | 5      | stamina       | Anywhere          |
+| Deliver a list of flagged visas to port authorities    | 3      | agility       | Port              |
+| Interview visa applicants about their backgrounds      | 3      | social        | Gaule Embassy     |
+| Check visas                                            | 15     | social        | Anywhere          |
+| Threaten to deport someone                             | 15     | strength      | Anywhere          |
+| Question visa applicants about suspicious information  | 15     | social        | Gaule Embassy     |
+| Help plan for a dignitary's visit                      | 48     | social        | Gaule Embassy     |
+| Interview new arrivals                                 | 49     | social        | Port              |
+| Hack the database                                      | 62     | intelligence  | Gaule Embassy     |
+| Write a detailed immigration report                    | 19     | stamina       | Anywhere          |
+| Forge poll results                                     | 111    | intelligence  | Anywhere          |
+| Conduct a policy poll                                  | 93     | social        | Anywhere          |
+| Accept bribe from a local business                     | 170    | social        | Market            |
+| Attend a state dinner with your supervisor             | 130    | social        | Government Center |
+| Write a detailed economic report                       | 155    | stamina       | Anywhere          |
+| Write a detailed policy proposal                       | 175    | stamina       | Anywhere          |
+| Attend a diplomatic meeting                            | 190    | social        | Government Center |
+| Show a visiting dignitary around the station           | 270    | social        | Port              |
+| Misuse your influence                                  | 320    | social        | Anywhere          |
+| Write press releases                                   | 199    | social        | Anywhere          |
+| Mediate conflicts                                      | 255    | social        | Anywhere          |
+| Negotiate a better deal for your station               | 61.08  | stamina       | Market            |
+| Sell classified information                            | 79.03  | social        | Anywhere          |
 
 ## Medicine: Cloning Specialist
 
@@ -135,6 +141,7 @@ Agility, Intelligence
 | Investigate a suspect                       | 93        | agility       | Anywhere          |          |           |
 | Raid a residence                            | 155       | strength      | Residences        |          |           |
 | Raid an illegal water harvesting operation  | 130       | agility       | Ruins             |          |           |
+| Infiltrate the embassy                      | 175       | agility       | Gaule Embassy     |          |           |
 | Work undercover                             | 170       | social        | Anywhere          |          |           |
 | Blackmail a high ranking administrator      | 255       | intelligence  | Government Center |          |           |
 | Eliminate a target                          | 270       | agility       | Anywhere          |          |           |
