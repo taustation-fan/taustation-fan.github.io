@@ -35,7 +35,7 @@ Social, Stamina
 |-------------------------------------------------------|------|---------------|------------------ |:---------|:----------|
 | Pick some pockets                                     | 3    | agility       | Anywhere          |          |           |
 | Listen for information about easy marks               | 3    | social        | Anywhere          |          |           |
-| Rob a wealthy mark                                    | 5    | agility       | Anywhere          |          |           |
+| Rob a wealthy mark                                    | 5    | agility       | Anywhere          |          | ✔         |
 | Ask the local merchants who their best customers are  | 5    | social        | Market            |          |           |
 | Distract the guards                                   | 6    | social        | Market            |          |           |
 | Mug a local                                           | 15   | agility       | Anywhere          |          |           |
@@ -103,8 +103,8 @@ Intelligence, Strength
 | Rearrange the clone tank layout                      | 93        | strength      | Cloning Vats |          |           |
 | Create a clone with supervision                      | 111       | intelligence  | Cloning Vats |          |           |
 | Create a clone                                       | 175       | intelligence  | Cloning Vats |          |           |
-| Dispose of a clone                                   | 155       | strength      | Cloning Vats |          |           |
-| Sabotage the hoses of a tank                         | 130       | strength      | Cloning Vats |          |           |
+| Dispose of a clone                                   | 155       | strength      | Cloning Vats |          | ✔         |
+| Sabotage the hoses of a tank                         | 130       | strength      | Cloning Vats | ✔        |           |
 | Leak clone center files                              | 170       | intelligence  | Anywhere     |          |           |
 | Administer an accelerant dose                        | 190       | agility       | Cloning Vats |          |           |
 | Calculate clone accelerant dosage                    | 199       | intelligence  | Cloning Vats |          |           |
