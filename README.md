@@ -961,8 +961,8 @@ additional 99 bonds.
 
 ### Dying
 
-When you die, you lose all items that you were carrying around, as well
-as the cash in your wallet.
+When you die, you lose all the cash in your wallet. The items you were
+carrying are available from the Government Center of the station you died on.
 
 Then the last-gestated clone is activated, if you have one, or the default
 clone on Tau Station otherwise.
