@@ -1096,7 +1096,7 @@ systems, stations, ship types and much more.
   and other goodies.
 * The IRC channel `##taustation` on irc.freenode.org is a meeting point for players who find the built-in chat cumbersome.
 * There's a Tau Station [subreddit](https://www.reddit.com/r/taustation/).
-* [Tau Station Alerts](https://tau-alert.perl6.party/) converts from GCT to Auld Earth Time
+* [Tau Station Alerts](https://alert.tauguide.de/) converts from GCT to Auld Earth Time
 * [Spreadsheet of weapons and armor](https://docs.google.com/spreadsheets/d/1TQhklKC7LhC2_MxmEyxQHy-2vai8ZM6krWmw6RF9XX0/edit#gid=1889785351)
 * [Tau Station on Discord](https://discord.gg/FSCxhFs)
 
