@@ -10,6 +10,7 @@
          * [Converting Bonds to Credits](#converting-bonds-to-credits)
       * [Stats and Focus](#stats-and-focus)
          * [Stats Regeneration](#stats-regeneration)
+         * [Medical Stims](#medical-stims)
          * [Stats Improvement](#stats-improvement)
       * [Rations](#rations)
       * [What To Do](#what-to-do)
@@ -198,7 +199,7 @@ The following things immediately fill your stats and Focus:
 * consuming a [ration](#rations) of your own [tier](#tier) or above
 * leveling up
 
-Consuming *stims* and drinking at the bar can also instantaneously
+Consuming [stims](#medical-stims) and drinking at the bar can also instantaneously
 increase a stat a bit, though at the price of raised toxin levels
 (for stims), or at consuming Focus and risk of injury (drinks at the bar).
 Both are usually not worth the risks and downsides.
@@ -241,6 +242,69 @@ The following recovery rates have been compiled by mostly [Shadow and Dotsent](h
 | VIP + Well Fed + Hotel + Healthcare 3 | 17        | 11..12  | 2018-05-18 |
 
 (values without a measurement date have been assembled before 2018-03-17 and may be less reliable)
+
+### Medical Stims
+
+*Information in this section is a result of [Medical Stims research](https://alpha.taustation.space/forum/discussions/topic/197-04-88-143-please-use-this-thread/post/198-61-63-060-medical-stims-research-looking-for-test-subjects)*
+
+There are currently up to 30 different types of medical stims in the Tauverse that differ by the following parameters:
+
+* Tier (only Tier 1 and 2 stims exist)
+* Strength (Minor, Standard or Strong)
+* Affected stat (AGI/STR/STA/INT/SOC)
+
+Besides those parameters which are shown directly in the title (example: "Strong Stamina Stim, v2.3.004"), each stim has also the following numbers in its in-game information page:
+
+* Toxicity
+* Stat boost
+
+They are related to Tier and Strength of the stim as follows:
+
+| Tier | Strength | Boost | Toxicity |
+|------|----------|-------|----------|
+| 1    | Minor    | 2.2   | 0.25     |
+| 1    | Standard | 2.4   | 0.225    |
+| 1    | Strong   | 2.6   | 0.2      |
+| 2    | Minor    | 2.75  | 0.25     |
+| 2    | Standard | 2.75  | 0.225    |
+| 2    | Strong   | 3     | 0.2      |
+
+*(there is no mistake, Minor and Standard Tier 2 stims indeed have the same Boost value)*
+
+If you take a medical stim, this results in one of the following outcomes:
+
+* You get a certain percentage of the stat that this stim affects and your Toxins percentage rises as well
+* You get no stat boost, your Toxins percentage rises to 100% and you land in the Sick Bay immediately
+
+In order to avoid the second outcome, it's always wise to use the Toxicity calculation formula before taking any stim.
+
+#### Medical stim toxicity calculation formula
+
+**Toxicity = (player_tier-stim_tier + 1) x stim_toxicity x 100%**
+
+This means that if you take a stim that's of the same [tier](#tiers) as you, you'll gain the toxicity equal to stim's declared Toxicity percentage. However, if you are taking a stim one tier lower than yourself, you'll gain double of the stim's declared toxicity, if you are two tiers higher than the stim, you get triple of the stim's declared toxicity etc.
+
+**Exception: if you take a stim of the higher tier than yourself, you immediately gain 100% Toxicity and land in Sick Bay.**
+
+This also means that Tier 4 players should avoid Minor Tier 1 stims (toxicity = (4-1+1) x 0.25 x 100% == 100%) and Tier 5 players should avoid any stims except for Standard and Strong Tier 2 stims.
+
+#### So, what's the gain? (Stat boost)
+
+The stat boost is calculated by the following formula:
+
+**Boost = (stim_boost / player_max_stat_value) x (0.5 + 0.25 x player_stims_skill_level) x 100%**
+
+Components of this formula:
+
+* stim_boost - internal stim's Stat Boost number, from 2.2 to 3
+* player_max_stat_value - maximum value of player's particular stat that is affected by the stim
+* player_stims_skill_level - a value that depends on player's finished University courses, specifically Medical Stims, Medical Stims Specialization and Medical Stims Mastery. At the moment of writing this there were no active players who have completed Mastery course, so the formula was only tested for the values 0, 1 and 2.
+
+The resulting percentage is rounded for display, so it might actually show 1% larger gain than calculated.
+
+Given that the result has reverse dependency on player max stat value and that high-level players tend to have quite well developed stats, conclusion is:
+
+**The stims are mostly useful to lower-level players only, and even then they are not that helpful.**
 
 ### Stats Improvement
 
