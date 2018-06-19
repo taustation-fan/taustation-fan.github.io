@@ -98,12 +98,12 @@ Intelligence, Strength
 | Drain a clone tank                                   | 3         | strength      | Cloning Vats |          |           |
 | Sift organic refuse                                  | 6         | strength      | Cloning Vats |          |           |
 | Sterilize pod fluids                                 | 5         | intelligence  | Cloning Vats |          |           |
-| Contaminate recycled fluids                          | 5         | intelligence  | Cloning Vats |          |           |
+| Contaminate recycled fluids                          | 5         | intelligence  | Cloning Vats | ✔        |           |
 | Move the tanks to clean behind them                  | 19        | strength      | Cloning Vats |          |           |
 | Interview a new client                               | 15        | social        | Anywhere     |          |           |
-| Sabotage a clone tank                                | 15        | intelligence  | Cloning Vats |          |           |
+| Sabotage a clone tank                                | 15        | intelligence  | Cloning Vats | ✔        |           |
 | Repair a clone tank                                  | 15        | intelligence  | Cloning Vats |          |           |
-| Sneak anti-growth hormones into the nutrient pastes  | 62        | agility       | Cloning Vats |          |           |
+| Sneak anti-growth hormones into the nutrient pastes  | 62        | agility       | Cloning Vats | ✔        |           |
 | Prepare nutrient pastes for alt-genotypes            | 48        | intelligence  | Cloning Vats |          |           |
 | Prepare nutrient paste for baseline clones           | 49        | intelligence  | Cloning Vats |          |           |
 | Rearrange the clone tank layout                      | 93        | strength      | Cloning Vats |          |           |
@@ -111,12 +111,12 @@ Intelligence, Strength
 | Create a clone                                       | 175       | intelligence  | Cloning Vats |          |           |
 | Dispose of a clone                                   | 155       | strength      | Cloning Vats |          | ✔         |
 | Sabotage the hoses of a tank                         | 130       | strength      | Cloning Vats | ✔        |           |
-| Leak clone center files                              | 170       | intelligence  | Anywhere     |          |           |
+| Leak clone center files                              | 170       | intelligence  | Anywhere     | ✔        |           |
 | Administer an accelerant dose                        | 190       | agility       | Cloning Vats |          |           |
 | Calculate clone accelerant dosage                    | 199       | intelligence  | Cloning Vats |          |           |
 | Complete the clone center's payroll                  | 255       | stamina       | Anywhere     |          |           |
 | Create a premium clone                               | 270       | intelligence  | Cloning Vats |          |           |
-| Embezzle from the clone center                       | 320       | intelligence  | Bank         |          |           |
+| Embezzle from the clone center                       | 320       | intelligence  | Bank         | ✔        |           |
 
 
 ## Special Services: Operative
