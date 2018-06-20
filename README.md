@@ -245,7 +245,7 @@ The following recovery rates have been compiled by mostly [Shadow and Dotsent](h
 
 ### Medical Stims
 
-*Information in this section is a result of [Medical Stims research](https://alpha.taustation.space/forum/discussions/topic/197-04-88-143-please-use-this-thread/post/198-61-63-060-medical-stims-research-looking-for-test-subjects)*
+*Information in this section is a result of [Medical Stims research](https://alpha.taustation.space/forum/discussions/topic/197-04-88-143-please-use-this-thread/post/198-61-63-060-medical-stims-research-looking-for-test-subjects). Huge thanks to Praxibetel, Jaidan, Shadow, Vorkosigan, Groat, Aell and moritz for contributing the datapoints for this study! --Dotsent*
 
 There are currently up to 30 different types of medical stims in the Tauverse that differ by the following parameters:
 
