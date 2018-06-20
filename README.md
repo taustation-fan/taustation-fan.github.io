@@ -292,17 +292,18 @@ This also means that Tier 4 players should avoid Minor Tier 1 stims (toxicity = 
 
 The stat boost is calculated by the following formula:
 
-**Boost = (stim_boost / player_max_stat_value) x (0.5 + 0.25 x player_stims_skill_level) x 100%**
+**Boost = (`stim_boost` / `player_max_stat_value`) x (0.5 + 0.25 x `player_stims_skill_level`) x 100%**
 
 Components of this formula:
 
-* stim_boost - internal stim's Stat Boost number, from 2.2 to 3
-* player_max_stat_value - maximum value of player's particular stat that is affected by the stim
-* player_stims_skill_level - a value that depends on player's finished University courses, specifically Medical Stims, Medical Stims Specialization and Medical Stims Mastery. At the moment of writing this there were no active players who have completed Mastery course, so the formula was only tested for the values 0, 1 and 2.
+* `stim_boost` - internal stim's Stat Boost number, from 2.2 to 3
+* `player_max_stat_value` - maximum value of player's particular stat that is affected by the stim
+* `player_stims_skill_level` - a value that depends on player's finished University courses, specifically Medical Stims, Medical Stims Specialization and Medical Stims Mastery. At the moment of writing this there were no active players who have completed Mastery course, so the formula was only tested for the values 0, 1 and 2.
 
 The resulting percentage is rounded for display, so it might actually show 1% larger gain than calculated.
 
-Given that the result has reverse dependency on player max stat value and that high-level players tend to have quite well developed stats, conclusion is:
+Given that the result has an inverse dependency on player max stat value and
+that high-level players tend to have quite well developed stats, the conclusion is:
 
 **The stims are mostly useful to lower-level players only, and even then they are not that helpful.**
 
