@@ -514,7 +514,7 @@ You also gain experience from victorious combat, more so than from career
 tasks.
 
 After finding an opponent, you cannot engage in another random encounter
-for the next 8 segments. You can halve this waiting time by spending bonds.
+for the next 8 segments. You can halve this waiting time by spending 10 bonds.
 
 If you lose in combat, you are sent to the Sick Bay for recovery, or die on
 Bordeaux Station (which doesn't have a sick bay).
@@ -535,6 +535,9 @@ station, *Look for trouble* opponents go up to level 12, but *Sewers*
 opponents go up to level 22, with physical stats between 30 and 40, and
 equipped with tier 4 weapons. The final opponent also gives you random
 reward, which can be an item or a bond package.
+
+The cool-down period for *Enter the Sewers* is one day, which you can
+also halve by spending 10 bonds.
 
 ### Pursue a Career
 
