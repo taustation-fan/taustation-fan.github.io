@@ -493,7 +493,7 @@ feature will be implemented in future.
 
 ### Random Encounters in the Ruins
 
-In the Ruins you can also search for random encounters ("Look for trouble").
+In the Ruins you can also search for random encounters (*Look for trouble*).
 Each search costs
 5% Agility and Stamina each, and 10% Focus. When you
 find somebody, you can engage in
@@ -522,6 +522,19 @@ Bordeaux Station (which doesn't have a sick bay).
 Many new players seem to have a very hard time doing combat in the ruins,
 so I'd recommend to wait until you have reached level 6, which comes with
 access to much better weapons and armor.
+
+Starting from level 5, you can also *Enter the Sewers*. This gives you a
+list of opponents that you can attack in order, with the second becoming
+available once the first has been defeated, and so on.
+
+In contrast to
+*Look for trouble*, the reward is shown before you attack the opponent,
+and can include bonds. These opponents tend to be much stronger than the
+ones from *Look for trouble*; for example on Yards of Gadani, a level 10
+station, *Look for trouble* opponents go up to level 12, but *Sewers*
+opponents go up to level 22, with physical stats between 30 and 40, and
+equipped with tier 4 weapons. The final opponent also gives you random
+reward, which can be an item or a bond package.
 
 ### Pursue a Career
 
