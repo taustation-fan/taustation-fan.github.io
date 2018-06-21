@@ -524,16 +524,17 @@ so I'd recommend to wait until you have reached level 6, which comes with
 access to much better weapons and armor.
 
 Starting from level 5, you can also *Enter the Sewers*. This gives you a
-list of opponents that you can attack in order, with the second becoming
+list of six opponents that you can attack in order, with the second becoming
 available once the first has been defeated, and so on.
 
 In contrast to
 *Look for trouble*, the reward is shown before you attack the opponent,
-and can include bonds. These opponents tend to be much stronger than the
-ones from *Look for trouble*; for example on Yards of Gadani, a level 10
-station, *Look for trouble* opponents go up to level 12, but *Sewers*
-opponents go up to level 22, with physical stats between 30 and 40, and
-equipped with tier 4 weapons. The final opponent also gives you random
+includes bonds for the third and sixth opponent.
+The level of the *sewers* opponents are typically one to two level above the
+player level, so for higher-level players, they can be much stronger than
+the *look for trouble* opponents.
+
+The final opponent also gives you random
 reward, which can be an item or a bond package.
 
 The cool-down period for *Enter the Sewers* is one day, which you can
