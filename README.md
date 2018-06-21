@@ -238,19 +238,19 @@ The following recovery rates have been compiled by mostly [Shadow and Dotsent](h
 |Booster                                | Focus/%   | Stats/% | Measured   |
 |---------------------------------------|-----------|---------|------------|
 | None                                  | 3         | 3       |            |
-| Healthcare 1                          | 2         | 2       | 2018-03-13 |
+| Healthcare 1                          | 2.3333    | 2.3333  | 2018-06-21 |
 | Healthcare 2                          | 2..3      | 2..3    | 2018-03-19 |
 | Healthcare 3                          | 2..3      | 3       | 2018-03-27 |
 | Hotel                                 | 4         | 4       |            |
-| Hotel + Healthcare 1                  | 4         | 4       | 2018-03-13 |
+| Hotel + Healthcare 1                  | 4.4       | 4.4     | 2018-06-21 |
 | Hotel + Healthcare 2                  | 4..5      | 4..5    | 2018-03-19 |
 | Hotel + Healthcare 3                  | 5         | 5       | 2018-03-27 |
 | Well Fed                              | 4         | 4       |            |
-| Well Fed + Healthcare 1               | 3         | 4..5    | 2018-03-13 |
+| Well Fed + Healthcare 1               | 4.4       | 4.4     | 2018-06-21 |
 | Well Fed + Healthcare 2               | 4..5      | 4..5    | 2018-03-19 |
 | Well Fed + Healthcare 3               | 5         | 5       | 2018-04-03 |
 | Hotel + Well Fed                      | 5         | 4       |            |
-| Hotel + Well Fed + Healthcare 1       | 5         | 4..5    | 2018-03-13 |
+| Hotel + Well Fed + Healthcare 1       | 6.5       | 6.5     | 2018-06-21 |
 | Hotel + Well Fed + Healthcare 2       | 6..7      | 6..7    | 2018-03-19 |
 | Hotel + Well Fed + Healthcare 3       | 7         | 7       | 2018-04-03 |
 | VIP                                   | 6         | 6       |            |
