@@ -165,6 +165,10 @@ Agility, Intelligence
 Advantages:
 
 * Highly-paid career tasks in four career tasks
+* No *Stamina* tasks, which makes ruins scavenging easier
+
+Disdvantages:
+
 * Many of the medium- to highest-paying career tasks are illegal or dangerous
 
 
