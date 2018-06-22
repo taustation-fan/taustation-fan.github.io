@@ -128,6 +128,10 @@ Advantages:
 
 * high-paying career tasks available for four different stats
 
+Disadvantages:
+
+* relatively many illegal career tasks
+
 
 ## Special Services: Operative
 
@@ -157,6 +161,11 @@ Agility, Intelligence
 | Eliminate a target                          | 270       | agility       | Anywhere          | ✔        |           |
 | Conduct an internal affairs investigation   | 199       | intelligence  | Security          |          |           |
 | Create a security plan                      | 190       | intelligence  | Security          |          |           |
+
+Advantages:
+
+* Highly-paid career tasks in four career tasks
+* Many of the medium- to highest-paying career tasks are illegal or dangerous
 
 
 ## Technologist: Port Technician
