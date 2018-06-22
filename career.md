@@ -147,14 +147,14 @@ Agility, Intelligence
 | Solicit a bribe from suspects               | 48        | social        | Anywhere          | ✔        |           |
 | Apprehend a suspect                         | 49        | agility       | Anywhere          |          |           |
 | Follow suspects                             | 62        | agility       | Anywhere          |          |           |
-| Leak security plans                         | 111       | intelligence  | Anywhere          |          |           |
+| Leak security plans                         | 111       | intelligence  | Anywhere          | ✔        |           |
 | Investigate a suspect                       | 93        | agility       | Anywhere          |          |           |
-| Raid a residence                            | 155       | strength      | Residences        |          |           |
-| Raid an illegal water harvesting operation  | 130       | agility       | Ruins             |          |           |
-| Infiltrate the embassy                      | 175       | agility       | Gaule Embassy     |          |           |
+| Raid a residence                            | 155       | strength      | Residences        |          | ✔         |
+| Raid an illegal water harvesting operation  | 130       | agility       | Ruins             |          | ✔         |
+| Infiltrate the embassy                      | 175       | agility       | Gaule Embassy     | ✔        |           |
 | Work undercover                             | 170       | social        | Anywhere          |          |           |
 | Blackmail a high ranking administrator      | 255       | intelligence  | Government Center |          |           |
-| Eliminate a target                          | 270       | agility       | Anywhere          |          |           |
+| Eliminate a target                          | 270       | agility       | Anywhere          | ✔        |           |
 | Conduct an internal affairs investigation   | 199       | intelligence  | Security          |          |           |
 | Create a security plan                      | 190       | intelligence  | Security          |          |           |
 
