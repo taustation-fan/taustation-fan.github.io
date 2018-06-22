@@ -5,7 +5,7 @@
 Social, Stamina
 
 | Name                                      | Bonus| Stat          | Area     | Illegal  | Dangerous |
-|-------------------------------------------|------|---------------|----------|----------|-----------|
+|-------------------------------------------|------|---------------|----------|:---------|:----------|
 | Help a customer                           | 3    | social        | Market   |          |           |
 | Stock the shelves                         | 3    | stamina       | Market   |          |           |
 | Attract customers                         | 5    | social        | Market   |          |           |
@@ -88,6 +88,12 @@ Secondary: Stamina
 | Negotiate a better deal for your station               | 61.08  | stamina       | Market            |
 | Sell classified information                            | 79.03  | social        | Anywhere          |
 
+
+Disadvantages:
+
+* Many lower-level career tasks are only available on two stations
+* The highest-paying career tasks are distributed on only two stats
+
 ## Medicine: Cloning Specialist
 
 Intelligence, Strength
@@ -117,6 +123,10 @@ Intelligence, Strength
 | Complete the clone center's payroll                  | 255       | stamina       | Anywhere     |          |           |
 | Create a premium clone                               | 270       | intelligence  | Cloning Vats |          |           |
 | Embezzle from the clone center                       | 320       | intelligence  | Bank         | ✔        |           |
+
+Advantages:
+
+* high-paying career tasks available for four different stats
 
 
 ## Special Services: Operative
@@ -179,3 +189,13 @@ Stamina, Strength
 |Haul materials from a decommissioned ship off to be sold | 270       | strength     | Port     |          |           |
 |Supervise the construction of a ship                     | 199       | stamina      | Shipyard |          |           |
 |Supervise the construction of an illegal ship            | 79.97     | social       | Shipyard | ✔        |           |
+
+Advantages:
+
+* most career tasks are on an area (Port) that is available on every station
+* highest-paying career task can be done anywhere (*Intelligence*, 320 credits)
+* relatively few illegal or dangerous tasks
+
+Disadvantages:
+
+* Highest paying *Stamina* career task is only available on three stations.
