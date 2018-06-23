@@ -55,6 +55,11 @@ Social, Stamina
 | Hijack a starship                                     | 175  | agility       | Port              |          |           |
 | Organize a heist                                      | 190  | social        | Anywhere          |          |           |
 
+Disadvantages:
+
+* Very narrow focus on two stats, especially in the lower range
+* Presumably many illegal career tasks
+
 ## Law: Embassy Staff
 
 Primary: Social
