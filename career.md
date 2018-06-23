@@ -60,7 +60,7 @@ Secondary: Social
 
 Advantages:
 
-* Many career tasks can be performed anywhere, or at least on any station
+* Many career tasks can be performed anywhere, or at least on any station (though the Jump Gates have no Market).
 
 Disadvantages:
 
