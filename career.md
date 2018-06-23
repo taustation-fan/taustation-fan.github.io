@@ -31,34 +31,42 @@ Social, Stamina
 
 ## Criminal: Opportunist
 
+Primary: Agility
+Secondary: Social
+
 | Name                                                  | Bonus| Stat          | Area              | Illegal  | Dangerous |
 |-------------------------------------------------------|------|---------------|------------------ |:---------|:----------|
-| Pick some pockets                                     | 3    | agility       | Anywhere          |          |           |
+| Pick some pockets                                     | 3    | agility       | Anywhere          | ✔        |           |
 | Listen for information about easy marks               | 3    | social        | Anywhere          |          |           |
-| Rob a wealthy mark                                    | 5    | agility       | Anywhere          |          | ✔         |
+| Rob a wealthy mark                                    | 5    | agility       | Anywhere          | ✔        | ✔         |
 | Ask the local merchants who their best customers are  | 5    | social        | Market            |          |           |
 | Distract the guards                                   | 6    | social        | Market            |          |           |
-| Mug a local                                           | 15   | agility       | Anywhere          |          |           |
-| Participate in a con job                              | 15   | social        | Anywhere          |          |           |
+| Mug a local                                           | 15   | agility       | Anywhere          | ✔        |           |
+| Participate in a con job                              | 15   | social        | Anywhere          | ✔        |           |
 | Practice picking locks                                | 19   | agility       | Anywhere          |          |           |
-| Sneak into a kiosk                                    | 15   | agility       | Market            |          |           |
-| Lead a crew of thieves                                | 49   | social        | Market            |          |           |
-| Rob a residence                                       | 48   | agility       | Residences        |          |           |
-| Sell fake shuttle tickets                             | 111  | social        | Port              |          |           |
-| Organize a counterfeit credchips ring                 | 155  | social        | Anywhere          |          |           |
-| Produce counterfeit rations vouchers                  | 93   | intelligence  | Government Center |          |           |
-| Pull a con job                                        | 62   | social        | Anywhere          |          |           |
-| Help hijack a cargo shipment                          | 170  | agility       | Port              |          |           |
+| Sneak into a kiosk                                    | 15   | agility       | Market            | ✔        |           |
+| Lead a crew of thieves                                | 49   | social        | Market            | ✔        | ✔         |
+| Rob a residence                                       | 48   | agility       | Residences        | ✔        |           |
+| Sell fake shuttle tickets                             | 111  | social        | Port              | ✔        |           |
+| Organize a counterfeit credchips ring                 | 155  | social        | Anywhere          | ✔        |           |
+| Produce counterfeit rations vouchers                  | 93   | intelligence  | Government Center | ✔        |           |
+| Pull a con job                                        | 62   | social        | Anywhere          | ✔        |           |
+| Help hijack a cargo shipment                          | 170  | agility       | Port              | ✔        | ✔         |
 | Sell contraband                                       | 130  | social        | Market            |          |           |
 | Break into a high security area                       | 255  | agility       | Market            |          |           |
 | Hack into a bank terminal                             | 199  | intelligence  | Bank              |          |           |
 | Hijack a starship                                     | 175  | agility       | Port              |          |           |
 | Organize a heist                                      | 190  | social        | Anywhere          |          |           |
 
+Advantages:
+
+* Many career tasks can be performed anywhere, or at least on any station
+
 Disadvantages:
 
-* Very narrow focus on two stats, especially in the lower range
-* Presumably many illegal career tasks
+* Many illegal career tasks
+* Only three stats, the third (intelligence) chiming in rather late
+* Highest paying task only 255 credits
 
 ## Law: Embassy Staff
 
