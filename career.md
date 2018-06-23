@@ -64,6 +64,7 @@ Advantages:
 
 Disadvantages:
 
+* Many illegal career tasks
 * Only three stats, the third (intelligence) chiming in rather late
 * Highest paying task only 255 credits
 
@@ -140,6 +141,10 @@ Advantages:
 
 * high-paying career tasks available for four different stats
 
+Disadvantages:
+
+* relatively many illegal career tasks
+
 
 ## Special Services: Operative
 
@@ -158,17 +163,26 @@ Agility, Intelligence
 | Plant listening bugs                        | 19        | agility       | Anywhere          |          |           |
 | Solicit a bribe from suspects               | 48        | social        | Anywhere          | ✔        |           |
 | Apprehend a suspect                         | 49        | agility       | Anywhere          |          |           |
-| Follow suspects                             | 62        | agility       | Anywhere          |          |           |
-| Leak security plans                         | 111       | intelligence  | Anywhere          |          |           |
+| Follow suspects                             | 62        | agility       | Anywhere          |          | ✔         |
+| Leak security plans                         | 111       | intelligence  | Anywhere          | ✔        |           |
 | Investigate a suspect                       | 93        | agility       | Anywhere          |          |           |
-| Raid a residence                            | 155       | strength      | Residences        |          |           |
-| Raid an illegal water harvesting operation  | 130       | agility       | Ruins             |          |           |
-| Infiltrate the embassy                      | 175       | agility       | Gaule Embassy     |          |           |
+| Raid a residence                            | 155       | strength      | Residences        |          | ✔         |
+| Raid an illegal water harvesting operation  | 130       | agility       | Ruins             |          | ✔         |
+| Infiltrate the embassy                      | 175       | agility       | Gaule Embassy     | ✔        |           |
 | Work undercover                             | 170       | social        | Anywhere          |          |           |
-| Blackmail a high ranking administrator      | 255       | intelligence  | Government Center |          |           |
-| Eliminate a target                          | 270       | agility       | Anywhere          |          |           |
+| Blackmail a high ranking administrator      | 255       | intelligence  | Government Center | ✔        |           |
+| Eliminate a target                          | 270       | agility       | Anywhere          | ✔        |           |
 | Conduct an internal affairs investigation   | 199       | intelligence  | Security          |          |           |
 | Create a security plan                      | 190       | intelligence  | Security          |          |           |
+
+Advantages:
+
+* Highly-paid career tasks in four career tasks
+* No *Stamina* tasks, which makes ruins scavenging easier
+
+Disdvantages:
+
+* Many of the medium- to highest-paying career tasks are illegal or dangerous
 
 
 ## Technologist: Port Technician
@@ -180,7 +194,7 @@ Stamina, Strength
 |Scrub rust off a ship                                    | 3         | stamina      | Port     |          |           |
 |Polish a ship                                            | 3         | stamina      | Port     |          |           |
 |Refuel a ship                                            | 5         | strength     | Port     |          |           |
-|Cut the fuel with another liquid                         | 5         | intelligence | Port     |          |           |
+|Cut the fuel with another liquid                         | 5         | intelligence | Port     | ✔        |           |
 |Mix batches of fuel                                      | 6         | stamina      | Port     |          |           |
 |Falsify departure permissions                            | 15        | social       | Port     |          |           |
 |Run pre-flight checks                                    | 15        | stamina      | Port     |          |           |
