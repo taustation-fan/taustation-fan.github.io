@@ -41,7 +41,7 @@ Secondary: Social
 | Rob a wealthy mark                                    | 5    | agility       | Anywhere          | ✔        | ✔         |
 | Ask the local merchants who their best customers are  | 5    | social        | Market            |          |           |
 | Distract the guards                                   | 6    | social        | Market            |          |           |
-| Mug a local                                           | 15   | agility       | Anywhere          | ✔        |           |
+| Mug a local                                           | 15   | agility       | Anywhere          | ✔        | ✔         |
 | Participate in a con job                              | 15   | social        | Anywhere          | ✔        |           |
 | Practice picking locks                                | 19   | agility       | Anywhere          |          |           |
 | Sneak into a kiosk                                    | 15   | agility       | Market            | ✔        |           |
