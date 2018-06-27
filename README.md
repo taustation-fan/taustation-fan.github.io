@@ -523,9 +523,11 @@ Many new players seem to have a very hard time doing combat in the ruins,
 so I'd recommend to wait until you have reached level 6, which comes with
 access to much better weapons and armor.
 
-Starting from level 5, you can also *Enter the Sewers*. This gives you a
-list of six opponents that you can attack in order, with the second becoming
-available once the first has been defeated, and so on.
+Starting from level 5, you can also *Enter the Sewers*. The sewers are
+accessible at København and Taungoo in the Sol system, and at Moissan, Cirque
+Centauri and Yards of Gadani in the Alpha Centauri system.
+This gives you a list of six opponents that you can attack in order, with the
+second becoming available once the first has been defeated, and so on.
 
 In contrast to
 *Look for trouble*, the reward is shown before you attack the opponent,
