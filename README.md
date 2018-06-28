@@ -536,11 +536,11 @@ The level of the *sewers* opponents are typically one to two level above the
 player level, so for higher-level players, they can be much stronger than
 the *look for trouble* opponents.
 
-The final opponent also gives you random
-reward, which can be an item or a bond package.
+The final opponent also gives you two random rewards, one of which can be an
+item or a bond package, the other one is a multi stim.
 
-The cool-down period for *Enter the Sewers* is one day, which you can
-also halve by spending 10 bonds.
+The cool-down period for *Enter the Sewers* is 92 segments (about 22 hours),
+which you can also halve by spending 10 bonds.
 
 ### Pursue a Career
 
