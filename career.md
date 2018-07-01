@@ -11,7 +11,7 @@ Social, Stamina
 | Attract customers                         | 5    | social        | Market   |          |           |
 | Set up a kiosk                            | 5    | stamina       | Market   |          |           |
 | Hawk stolen goods                         | 6    | social        | Ruins    |          |           |
-| Sell illegal stims                        | 15   | social        | Anywhere |          |           |
+| Sell illegal stims                        | 15   | social        | Anywhere |  ✔       |           |
 | Work in sales                             | 15   | social        | Market   |          |           |
 | Steal from the safe                       | 62   | agility       | Market   |          |           |
 | Run the store for the day                 | 48   | stamina       | Market   |  ✔       |           |
