@@ -496,6 +496,10 @@ Common trade goods are mostly an annoyance, but some players hypothesize
 that they might serve as the raw material for crafting items, when that
 feature will be implemented in future.
 
+You can sell rare trade goods for significant credits at the NPC vendors,
+or use them as a means to transfer money to other players without paying
+the 10% market fee.
+
 ### Random Encounters in the Ruins
 
 In the Ruins you can also search for random encounters (*Look for trouble*).
