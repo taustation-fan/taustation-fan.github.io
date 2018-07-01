@@ -1022,6 +1022,14 @@ repair takes time, and consumes a bit of *Intelligence* and *Focus*. You can't
 do anything else while repairing. You can spend bonds to make the repair
 instantaneous.
 
+The item repair time depends on your *Item Repair* skill level, the tier of
+the weapon, and the damage to the weapon. It is roughly
+
+> `repair\_time` = `skill\_factor` * `item\_tier` * `damage`
+
+where `skill\_factor` is 13 for skill level 1, 11 for skill level 2 and 8 when
+you have completed all three Item Repair courses.
+
 If you want to pay for repair, you first have to go to Port -> Shipping Bay, and then
 in the inventory, unequip, and then send it for repair. With this option,
 you can do other things in the mean time. You will be notified when the repair
