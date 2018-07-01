@@ -200,6 +200,11 @@ not to run away with the money before the final VIP pack sale.
 Note that you use the same process to buy VIP packs for real-world money,
 and turn them into credits that way.
 
+Another way to convert bonds to credits is to pay 20 bonds bribe for an extra
+ration (which you can do once every 24 hours), and sell that ration on the
+Public Market. Tier 2 rations tend to sell for somewhere between 1800 and 2500
+credits, giving you a similar conversion ratio to the VIP pack trading.
+
 ## Stats and Focus
 
 Whenever you try something, and the success is not a foregone
