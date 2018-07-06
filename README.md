@@ -489,14 +489,14 @@ lose consciousness and be taken to Sick Bay (or simply become unconscious),
 so try to offload heavy items at the first opportunity.
 
 If you don't want to carry around stuff, you can sell it to the vendors,
-(go to Market -> Vendors and then to your Inventory), to other players
-(go to Market -> Public Market and then your Inventory), or store it
-(go to Market -> Storage,
+(go to Market → Vendors and then to your Inventory), to other players
+(go to Market → Public Market and then your Inventory), or store it
+(go to Market → Storage,
 buy storage if you haven't yet, and then to your Inventory), or drop them
 right from the Inventory.
 
 On stations without a Market (for example the Jump Gates) you can still
-avoid encumbrance by going to Port -> Shipping Bay, and sending the items
+avoid encumbrance by going to Port → Shipping Bay, and sending the items
 to yourself on another station, where you can later pick them up and
 sell or send them to storage there.
 
@@ -1038,7 +1038,7 @@ the weapon, and the damage to the weapon. It is roughly
 where `skill\_factor` is 13 for skill level 1, 11 for skill level 2 and 8 when
 you have completed all three Item Repair courses.
 
-If you want to pay for repair, you first have to go to Port -> Shipping Bay, and then
+If you want to pay for repair, you first have to go to Port → Shipping Bay, and then
 in the inventory, unequip, and then send it for repair. With this option,
 you can do other things in the mean time. You will be notified when the repair
 is finished. Then you can pick up the repaired item from the Shipping Bay.
@@ -1171,7 +1171,7 @@ buys it within three days, you will receive the asking price directly to
 your bank account. Otherwise, you can pick up the item after three days
 at the Shipping Bay.
 
-To sell an item, go to Market -> Public, then to your inventory,
+To sell an item, go to Market → Public, then to your inventory,
 and select the item you want to sell. There, you'll have a button
 "Sell to Public".
 
