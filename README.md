@@ -981,20 +981,21 @@ of a more sophisticated model, we use the product of accuracy and the
 sum of all damages as a score for a weapon. By this score, the following
 weapons can be recommended in particular:
 
-| Tier | Weapon                 | Range | Score | Damage Type | Mass (kg) |
-|------|------------------------|-------|-------|-------------|-----------|
-| 1    | Rusted Butterfly Knife |Short	|1.59   | Piercing    | 0.4       |
-| 1    | TacticC11              |Long   |0.01   | Impact      | 3.1       |
-|      |                        |       |       |             |           |
-| 2    | Heated Prod            |Short	|2.36   | Energy      | 2.3       |
-| 2    | Sharpened Ice Club     |Short	|2.34   | Piercing    | 1.8       |
-| 2    | Old Copper Pipe        |Short	|2.32   | Energy      | 1.4       |
-| 2    | Trusty Field Hand      |Long	|1.74   | Impact      | 2.8       |
-| 2    | First Mate’s Input     |Long	|1.73   | Impact      | 3.3       |
-|      |                        |       |       |             |           |
-| 3    | Iridium Mace           |Short	|2.53   | Impact      | 2.9       |
-| 3    | SAG Stun Baton         |Short	|2.35   | Energy      | 1.3       |
-| 3    | G-SAG1E                |Long   |1.64   | Energy      | 3.3       |
+| Tier | Weapon                   | Range | Score | Damage Type | Mass (kg) |
+|------|--------------------------|-------|-------|-------------|-----------|
+| 1    | Rusted Butterfly Knife   |Short  |1.59   | Piercing    | 0.4       |
+| 1    | TacticC11                |Long   |0.01   | Impact      | 3.1       |
+|      |                          |       |       |             |           |
+| 2    | Heated Prod              |Short  |2.36   | Energy      | 2.3       |
+| 2    | Sharpened Ice Club       |Short  |2.34   | Piercing    | 1.8       |
+| 2    | Old Copper Pipe          |Short  |2.32   | Energy      | 1.4       |
+| 2    | Trusty Field Hand        |Long   |1.74   | Impact      | 2.8       |
+| 2    | First Mate’s Input       |Long   |1.73   | Impact      | 3.3       |
+|      |                          |       |       |             |           |
+| 3    | Iridium Mace             |Shor   |2.53   | Impact      | 2.9       |
+| 3    | SAG Stun Baton           |Short  |2.35   | Energy      | 1.3       |
+| 3    | Silenced Song of Dotsent |Long   |2.93   | Impact      | 3.5       |
+| 3    | G-SAG1E                  |Long   |1.64   | Energy      | 3.3       |
 
 (There are also weapons that are only available as mission rewards, and that
 can be quite effective; they have been omitted from the table above, as well
