@@ -373,7 +373,8 @@ the destination station.
 Training also depends on the character's
 [genotype](https://alpha.taustation.space/archive/genotypes), because
 genotypes have pre-dispositions for certain traits. Belters, for
-instance, find it easier to train Agility than Strength.
+instance, find it easier to train Agility (where they get a 5% bonus)
+than Strength.
 
 Training can lead to injury (and thus unconsciousness or time at the
 Sick Bay) if your stats are too low. Each gym has a minimal sum of
@@ -389,8 +390,8 @@ there, and then try again at the higher-level station.
 Stats can also randomly increase as a bonus of successfully completed
 discreet work.
 
-Finally, the primary and secondary stat of your career improve, along
-with the salary.
+Finally, the primary and secondary stat of your career improve once
+per day, along with the salary.
 
 ### Stats Benefits
 
@@ -398,7 +399,9 @@ Above-average stats grant you additional benefits besides the higher
 success rates of tasks and checks:
 
 * High *Intelligence* speeds up University courses
-* High *Strength* lets you carry more mass before encumbrance kicks in
+* High *Strength* lets you carry more mass before encumbrance kicks in,
+  and increases the damage you do in combat
+* High *Agility* improves the chances to flee from combat
 * High *Social* grants you random advantages when buying from or selling to NPC vendors
 * High physical stats are harder to drain during combat, so they act as
   protection against attacks.
