@@ -353,7 +353,7 @@ invest focus and current stat values to train the physical stats
 
 You can train *intelligence* in a similar fashion in a [hotel room](https://alpha.taustation.space/area/hotel-rooms/enter-room) of an
 Inn, or at a University (scroll to the very bottom of the page). Most
-stations (all except the jump gates and Moissan) have an Inn, and four
+stations (all except the jump gates) have an Inn, and four
 stations have a University (Tau, Nouveau Limoges, Moissan, Spirit of
 Botswana).
 
