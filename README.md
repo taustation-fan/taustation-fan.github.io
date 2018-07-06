@@ -472,10 +472,10 @@ The things you can find in the ruins include (in decreasing likelihood):
 * nothing
 * common trade goods (sell for less than 1 credit)
 * rare trade goods (sell for 5000 credits or more)
-* weapons
-* armor
 * bond packages
 * VIP packs
+* weapons
+* armor
 
 You can carry around what you find, up to a certain mass limit. If you
 carry around too much, you will get a warning that you are encumbered,
