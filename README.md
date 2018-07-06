@@ -414,7 +414,7 @@ Focus.
 
 If you consume a ration of a [tier](#tiers) one lower than your character's, the
 immediate regeneration is incomplete. A ration two tiers below your
-current tier does gives hardly any immediate regeneration.
+current tier gives hardly any immediate regeneration.
 
 Rations also give you the "well fed" status for 32 segments (roughly 8
 hours), which increases stats and Focus regeneration. For rations of a
