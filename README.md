@@ -281,11 +281,14 @@ The following recovery rates have been compiled by mostly [Shadow and Dotsent](h
 
 *Information in this section is a result of [Medical Stims research](https://alpha.taustation.space/forum/discussions/topic/197-04-88-143-please-use-this-thread/post/198-61-63-060-medical-stims-research-looking-for-test-subjects). Huge thanks to Praxibetel, Jaidan, Shadow, Vorkosigan, Groat, Aell and moritz for contributing the datapoints for this study! --Dotsent*
 
-There are currently up to 30 different types of medical stims in the Tauverse that differ by the following parameters:
+There are currently up to 30 different types of regular medical stims in the Tauverse that differ by the following parameters:
 
 * Tier (only Tier 1 and 2 stims exist)
 * Strength (Minor, Standard or Strong)
 * Affected stat (AGI/STR/STA/INT/SOC)
+
+In addition, there are *multi stims* that boost several stats at once. Those
+go up to Tier 5.
 
 Besides those parameters which are shown directly in the title (example: "Strong Stamina Stim, v2.3.004"), each stim has also the following numbers in its in-game information page:
 
