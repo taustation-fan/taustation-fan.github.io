@@ -342,7 +342,8 @@ The resulting percentage is rounded for display, so it might actually show 1% la
 Given that the result has an inverse dependency on player max stat value and
 that high-level players tend to have quite well developed stats, the conclusion is:
 
-**The stims are mostly useful to lower-level players only, and even then they are not that helpful.**
+**The stims are mostly useful if they match the player's tier, and even then
+they are only moderately helpful.**
 
 ### Stats Improvement
 
