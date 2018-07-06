@@ -132,9 +132,10 @@ You can obtain bonds in the following ways:
 * you can buy them in the shop
 * as a daily reward for your career level (up to 30 bonds per day)
 * sometimes, discreet/anonymous work has a small bonds reward
+* As a reward for successful *Enter the Sewers* campaigns (up to 15 per day)
 * you can find bond packages in the Ruins
 * if you level up to a new tier (if you reach levels 6, 11, 16, etc.),
-  you get a bonds reward
+  you get a reward of 500 bonds
 
 ### Banks and Your Wallet
 
