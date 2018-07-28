@@ -283,12 +283,12 @@ The following recovery rates have been compiled by mostly [Shadow and Dotsent](h
 
 There are currently up to 30 different types of regular medical stims in the Tauverse that differ by the following parameters:
 
-* Tier (only Tier 1 and 2 stims exist)
-* Strength (Minor, Standard or Strong)
+* Tier (only Tier 1 and 2 regular stims exist)
+* Potency (Minor, Standard or Strong)
 * Affected stat (AGI/STR/STA/INT/SOC)
 
 In addition, there are *multi stims* that boost several stats at once. Those
-go up to Tier 5.
+go up to Tier 5 and can only be acquired from Enter the Sewers campaigns.
 
 Besides those parameters which are shown directly in the title (example: "Strong Stamina Stim, v2.3.004"), each stim has also the following numbers in its in-game information page:
 
@@ -297,20 +297,20 @@ Besides those parameters which are shown directly in the title (example: "Strong
 
 They are related to Tier and Strength of the stim as follows:
 
-| Tier | Strength | Boost | Toxicity |
+| Tier | Potency  | Boost | Toxicity |
 |------|----------|-------|----------|
-| 1    | Minor    | 2.2   | 0.25     |
-| 1    | Standard | 2.4   | 0.225    |
-| 1    | Strong   | 2.6   | 0.2      |
-| 2    | Minor    | 2.75  | 0.25     |
-| 2    | Standard | 2.75  | 0.225    |
-| 2    | Strong   | 3     | 0.2      |
+| 1    | Minor    | 5.5   | 0.1      |
+| 1    | Standard | 6     | 0.07     |
+| 1    | Strong   | 6.5   | 0.05     |
+| 2    | Minor    | 6.875 | 0.1      |
+| 2    | Standard | 6.875 | 0.07     |
+| 2    | Strong   | 7.5   | 0.05     |
 
 *(there is no mistake, Minor and Standard Tier 2 stims indeed have the same Boost value)*
 
 If you take a medical stim, this results in one of the following outcomes:
 
-* You get a certain percentage of the stat that this stim affects and your Toxins percentage rises as well
+* You get a certain percentage of the stat(s) that this stim affects and your Toxins percentage rises as well
 * You get no stat boost, your Toxins percentage rises to 100% and you land in the Sick Bay immediately
 
 In order to avoid the second outcome, it's always wise to use the Toxicity calculation formula before taking any stim.
@@ -323,7 +323,7 @@ This means that if you take a stim that's of the same [tier](#tiers) as you, you
 
 **Exception: if you take a stim of the higher tier than yourself, you immediately gain 100% Toxicity and land in Sick Bay.**
 
-This also means that Tier 4 players should avoid Minor Tier 1 stims (toxicity = (4-1+1) x 0.25 x 100% == 100%) and Tier 5 players should avoid any stims except for Standard and Strong Tier 2 stims.
+Before the last significant development update of stims functionality, which significantly improved their usefulness and decreased toxicity, there were risky cases when high-level players would immediately land in the Sick Bay by taking just one stim. This is not possible anymore with the current levelcap (25), but mind the future changes!
 
 #### So, what's the gain? (Stat boost)
 
@@ -333,7 +333,7 @@ The stat boost is calculated by the following formula:
 
 Components of this formula:
 
-* `stim_boost` - internal stim's Stat Boost number, from 2.2 to 3
+* `stim_boost` - internal stim's Stat Boost number, from 5.5 to 7.5 (or even higher for high-tier multi-stims)
 * `player_max_stat_value` - maximum value of player's particular stat that is affected by the stim
 * `player_stims_skill_level` - a value that depends on player's finished University courses, specifically Medical Stims, Medical Stims Specialization and Medical Stims Mastery. At the moment of writing this there were no active players who have completed Mastery course, so the formula was only tested for the values 0, 1 and 2.
 
@@ -342,8 +342,7 @@ The resulting percentage is rounded for display, so it might actually show 1% la
 Given that the result has an inverse dependency on player max stat value and
 that high-level players tend to have quite well developed stats, the conclusion is:
 
-**The stims are mostly useful if they match the player's tier, and even then
-they are only moderately helpful.**
+**The stims are mostly useful if they match the player's tier. However, after the last update on stims functionality even lower-level stims can moderately help even higher-level players in combat or outside it.**
 
 ### Stats Improvement
 
