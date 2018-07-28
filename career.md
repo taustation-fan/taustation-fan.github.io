@@ -13,7 +13,7 @@ Social, Stamina
 | Hawk stolen goods                         | 6    | social        | Ruins    |          |           |
 | Sell illegal stims                        | 15   | social        | Anywhere |  ✔       |           |
 | Work in sales                             | 15   | social        | Market   |          |           |
-| Steal from the safe                       | 62   | agility       | Market   |          |           |
+| Steal from the safe                       | 62   | agility       | Market   |  ✔       |           |
 | Run the store for the day                 | 48   | stamina       | Market   |  ✔       |           |
 | Record a holo-vid commercial              | 19   | social        | Market   |          |           |
 | Supervise staff                           | 15   | social        | Market   |          |           |
@@ -177,7 +177,7 @@ Agility, Intelligence
 
 Advantages:
 
-* Highly-paid career tasks in four career tasks
+* Highly-paid career tasks in four stats
 * No *Stamina* tasks, which makes ruins scavenging easier
 
 Disdvantages:
