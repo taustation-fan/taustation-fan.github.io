@@ -62,7 +62,7 @@ member of a syndicate, and the chat shows the three-letter shorthand.
 
 Syndicates get a private private chat room.
 
-Syndicate members can also send in-mails to all members of the
+Syndicate members can also send broadcast in-mails to all members of the
 syndicate.
 
 ## Benefits
