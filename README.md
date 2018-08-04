@@ -24,6 +24,7 @@
          * [Side Jobs](#side-jobs)
          * [Discreet Work](#discreet-work)
             * [Discreet Work Tips and Tricks](#discreet-work-tips-and-tricks)
+      * [Syndicates](/syndicates)
       * [University Courses](#university-courses)
       * [VIP Packs](#vip-packs)
       * [Travel](#travel)
@@ -721,6 +722,12 @@ all areas of the current station; you have to follow the mission steps.
 * If you can't seem to find your next step, try going back to [the discreet work area](https://alpha.taustation.space/area/discreet-work).
 * You can start discreet work while being on a mission. The link for discreet
 work isn't shown while you are pursuing a mission, but if you [follow this link to discreet work](https://alpha.taustation.space/area/discreet-work), you can start it anyway.
+
+## Syndicates
+
+Syndicates are Tau Station's group play feature, currently under heavy
+development. Please see the [the separate page on syndicates](/syndicates)
+for more information.
 
 ## University Courses
 
