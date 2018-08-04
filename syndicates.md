@@ -5,6 +5,14 @@ This page is part of the [Unofficial Player's Guide to Tau Station](/).
 Syndicates are group of players with a common agenda teaming up.
 They are roughly equivalent to guilds or teams of other games.
 
+# Table of Contents
+
+    * [Formation Process](#formation-process)
+    * [Membership Management](#membership-management)
+    * [Banking](#banking)
+    * [Communication](#communication)
+    * [Experience](#experience)
+    * [Benefits](#benefits)
 
 ## Formation Process
 
@@ -64,6 +72,15 @@ Syndicates get a private private chat room.
 
 Syndicate members can also send broadcast in-mails to all members of the
 syndicate.
+
+## Experience
+
+Syndicates gain experience points when their members gain experience,
+and level up when the experience counter reaches 100%.
+
+So far, it is unclear what syndicate experience or levels is good for,
+except that syndicate levels are also grouped in tiers, and the
+syndicate gets another slot when ascending to another tier.
 
 ## Benefits
 
