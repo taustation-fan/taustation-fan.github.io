@@ -404,8 +404,9 @@ success rates of tasks and checks:
 * High physical stats lets you carry more mass before encumbrance kicks in.
 * High *Strength* increases the damage you do in combat
 * High *Stamina* decreases the damage you receive in combat
-* High *Agility* improves the chances to flee from combat
-* High *Social* grants you random advantages when buying from or selling to NPC vendors
+* High *Agility* improves the chances to flee from combat, and increases the
+  success rate while attacking
+* High *Social* grants you advantages when buying from or selling to NPC vendors
 * High physical stats are harder to drain during combat, so they act as
   protection against attacks.
 
