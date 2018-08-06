@@ -7,12 +7,12 @@ They are roughly equivalent to guilds or teams of other games.
 
 # Table of Contents
 
-    * [Formation Process](#formation-process)
-    * [Membership Management](#membership-management)
-    * [Banking](#banking)
-    * [Communication](#communication)
-    * [Experience](#experience)
-    * [Benefits](#benefits)
+* [Formation Process](#formation-process)
+* [Membership Management](#membership-management)
+* [Banking](#banking)
+* [Communication](#communication)
+* [Experience](#experience)
+* [Benefits](#benefits)
 
 ## Formation Process
 
