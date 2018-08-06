@@ -367,6 +367,8 @@ example on Tau Station (level 1), you get about a 0.004 stats increase
 for every 10% of focus that you invest. On Yards of Gadani (level 10),
 the stat increase is around 0.019.
 
+![](training-efficiency.png)
+
 The training efficiency on shuttle rides is the same as training on
 the destination station.
 
