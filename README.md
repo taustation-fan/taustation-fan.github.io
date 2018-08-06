@@ -701,7 +701,7 @@ order of 0.02, while you get something closer to 0.04 on Yards of Gadani
 Completing discreet work also improves your reputation with the
 affiliation of the government that controls the current station, which
 in turn leads to shorter Brig times when you get caught doing something
-illegal.
+illegal, and to some vendor discounts.
 
 Some of the anonymous missions involve stealing an item from somebody,
 and bringing it to somebody else. Between those two actions, the item
