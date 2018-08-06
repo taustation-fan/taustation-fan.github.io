@@ -86,3 +86,6 @@ syndicate gets another slot when ascending to another tier.
 
 At this time, there are no direct benefits to syndicate members; those
 are planned for the near future.
+
+<br />
+[Back to the main guide](/)
