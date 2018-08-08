@@ -75,7 +75,7 @@ syndicate.
 
 ## Experience
 
-Syndicates gain experience points when their members gain experience,
+Syndicates gain experience points through member activity,
 and level up when the experience counter reaches 100%.
 
 So far, it is unclear what syndicate experience or levels is good for,
