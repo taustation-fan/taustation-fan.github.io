@@ -837,7 +837,7 @@ star system's jump gate, and from there to the station you want.
 Travel cost and duration depends on the distance between stations, which
 varies depending on the current orbital positions.
 
-***Note that you can pay for publish shuttles with credits; just scroll
+***Note that you can pay for public shuttles with credits; just scroll
 down! The regular shuttles are below the premium shuttles that you pay with
 bonds.***
 
