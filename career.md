@@ -2,7 +2,8 @@
 
 ## Business: Trader
 
-Social, Stamina
+Primary stat: Social  
+Secondary stat: Stamina
 
 | Name                                      | Bonus| Stat          | Area     | Illegal  | Dangerous |
 |-------------------------------------------|------|---------------|----------|:---------|:----------|
@@ -28,11 +29,19 @@ Social, Stamina
 | Create an intersystem distribution plan   | 270  | stamina       | Anywhere |          |           |
 | Negotiate a trade agreement               | 320  | social        | Market   |          |           |
 
+Advantages:
+
+* relatively few illegal or dangerous tasks
+* has a legal task with 320c bonus
+
+Disadvantages:
+
+* most early and medium tasks are in Market, which is not available at the Jump Gates
 
 ## Criminal: Opportunist
 
-Primary: Agility
-Secondary: Social
+Primary stat: Agility  
+Secondary stat: Social
 
 | Name                                                  | Bonus| Stat          | Area              | Illegal  | Dangerous |
 |-------------------------------------------------------|------|---------------|------------------ |:---------|:----------|
@@ -70,8 +79,8 @@ Disadvantages:
 
 ## Law: Embassy Staff
 
-Primary: Social
-Secondary: Stamina
+Primary stat: Social  
+Secondary stat: Stamina
 
 | Name                                                   | Bonus  | Stat          | Area              | Illegal  | Dangerous |
 |--------------------------------------------------------|--------|---------------|-------------------|:---------|:----------|
@@ -109,7 +118,8 @@ Disadvantages:
 
 ## Medicine: Cloning Specialist
 
-Intelligence, Strength
+Primary stat: Intelligence  
+Secondary stat: Strength
 
 | Name                                                 | Bonus     | Stat          | Area         | Illegal  | Dangerous |
 |------------------------------------------------------|-----------|---------------|--------------|:---------|:----------|
@@ -148,7 +158,8 @@ Disadvantages:
 
 ## Special Services: Operative
 
-Agility, Intelligence
+Primary stat: Agility  
+Secondary stat: Intelligence
 
 | Name                                        | Bonus     | Stat          | Area              | Illegal  | Dangerous |
 |---------------------------------------------|-----------|---------------|-------------------|:---------|:----------|
@@ -187,7 +198,8 @@ Disdvantages:
 
 ## Technologist: Port Technician
 
-Stamina, Strength
+Primary stat: Stamina  
+Secondary stat: Strength
 
 | Name                                                    | Bonus     | Stat         | Area     | Illegal  | Dangerous |
 |---------------------------------------------------------|-----------|--------------|----------|:---------|:----------|
@@ -220,7 +232,8 @@ Advantages:
 
 * most career tasks are on an area (Port) that is available on every station
 * highest-paying career task can be done anywhere (*Intelligence*, 320 credits)
-* relatively few illegal or dangerous tasks
+* few illegal or dangerous tasks
+* daily stat bonuses are both for physical stats, so aligns well with the requirements for combat
 
 Disadvantages:
 
