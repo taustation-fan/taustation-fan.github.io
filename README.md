@@ -632,10 +632,6 @@ success rate is higher than 80% or 90%, you might try more difficult
 tasks (which are those further down the list), because they yield higher
 returns.
 
-Another factor in the success rate of career tasks is the maximum value
-of the stat that is tested. Training your strength makes it easier to
-lift heavy stuff, right?
-
 #### Career FAQs
 
 <a name="career-progress"></a>
