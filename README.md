@@ -659,7 +659,6 @@ seems to explain most phenomena around career tasks:
 
 * Task difficulty. Easy tasks are listed first.
 * Career experience
-* Stat ranking (Low/Average/High/...) of the stat that the task uses
 * Player level. Many players have reported more failing career tasks after
   leveling up.
 * Per-task experience (conjectural)
