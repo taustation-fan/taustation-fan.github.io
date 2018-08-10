@@ -14,15 +14,15 @@ Social, Stamina
 | Sell illegal stims                        | 15   | social        | Anywhere |  ✔       |           |
 | Work in sales                             | 15   | social        | Market   |          |           |
 | Steal from the safe                       | 62   | agility       | Market   |  ✔       |           |
-| Run the store for the day                 | 48   | stamina       | Market   |  ✔       |           |
+| Run the store for the day                 | 48   | stamina       | Market   |          |           |
 | Record a holo-vid commercial              | 19   | social        | Market   |          |           |
 | Supervise staff                           | 15   | social        | Market   |          |           |
 | Negotiate a supply deal                   | 93   | social        | Port     |          |           |
 | Manage the store during a sale            | 111  | stamina       | Market   |          |           |
-| Cook the books                            | 155  | intelligence  | Anywhere |          |           |
+| Cook the books                            | 155  | intelligence  | Anywhere |  ✔       |           |
 | Negotiate for goods from another station  | 130  | social        | Port     |          |           |
 | Receive a delivery                        | 170  | social        | Port     |          |           |
-| Shortchange a ship captain                | 190  | social        | Port     |          |           |
+| Shortchange a ship captain                | 190  | social        | Port     |  ✔       |           |
 | Attend a merchant meeting                 | 199  | stamina       | Market   |          |           |
 | Buy a shipment of contraband              | 255  | social        | Ruins    |          |           |
 | Create an intersystem distribution plan   | 270  | stamina       | Anywhere |          |           |
