@@ -1053,6 +1053,10 @@ in the inventory, unequip, and then send it for repair. With this option,
 you can do other things in the mean time. You will be notified when the repair
 is finished. Then you can pick up the repaired item from the Shipping Bay.
 
+Items cannot be repaired once their damage is too large, though the exact
+threshold is not yet known. To be on the save side, you should repair your
+items when their health falls below 75%.
+
 ## Clones
 
 A clone is an insurance against the death of a character's body. You can
