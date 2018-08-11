@@ -96,7 +96,7 @@ Secondary stat: Stamina
 | Interview new arrivals                                 | 49     | social        | Port              |
 | Hack the database                                      | 62     | intelligence  | Gaule Embassy     |
 | Write a detailed immigration report                    | 19     | stamina       | Anywhere          |
-| Forge poll results                                     | 111    | intelligence  | Anywhere          |
+| Forge poll results                                     | 111    | intelligence  | Anywhere          |     ✔    |          |
 | Conduct a policy poll                                  | 93     | social        | Anywhere          |
 | Accept bribe from a local business                     | 170    | social        | Market            |
 | Attend a state dinner with your supervisor             | 130    | social        | Government Center |
