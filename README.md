@@ -357,7 +357,8 @@ stations (all except the jump gates) have an Inn, and four
 stations have a University (Tau, Nouveau Limoges, Moissan, Spirit of
 Botswana).
 
-You can also train intelligence while traveling with public shuttles.
+You can also train intelligence while traveling with public shuttles or in
+your private ship.
 
 The *social* stat can be trained at the [Lounge](https://alpha.taustation.space/travel/area/lounge) that belongs to an inn.
 
@@ -369,7 +370,7 @@ the stat increase is around 0.019.
 
 ![](training-efficiency.png)
 
-The training efficiency on shuttle rides is the same as training on
+The training efficiency on shuttle/ship rides is the same as training on
 the destination station.
 
 Training also depends on the character's
@@ -418,7 +419,9 @@ Focus.
 
 If you consume a ration of a [tier](#tiers) one lower than your character's, the
 immediate regeneration is incomplete. A ration two tiers below your
-current tier gives hardly any immediate regeneration.
+current tier gives hardly any immediate regeneration. Rations which are three
+or more tiers below your current tier are absolutely useless for regeneration.
+You can either sell them on the public market or gift them to other players.
 
 Rations also give you the "well fed" status for 32 segments (roughly 8
 hours), which increases stats and Focus regeneration. For rations of a
@@ -1054,7 +1057,7 @@ you can do other things in the mean time. You will be notified when the repair
 is finished. Then you can pick up the repaired item from the Shipping Bay.
 
 Items cannot be repaired once their damage is too large, though the exact
-threshold is not yet known. To be on the save side, you should repair your
+threshold is not yet known. To be on the safe side, you should repair your
 items when their health falls below 75%.
 
 ## Clones
@@ -1071,7 +1074,7 @@ dies, the newest clone is activated. So the character keeps its
 stats of the clone.
 
 Each player has a *default clone* on Tau Station, which is automatically
-updated when you level-up. Due to this mechanisms, clones are typically
+updated when you level-up. Due to this mechanism, clones are typically
 only of interest when you reach the level cap at 25, or when you use
 them to change your Genotype.
 
