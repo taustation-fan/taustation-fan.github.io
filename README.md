@@ -628,6 +628,13 @@ you get a bonus in credits (between 3 and 320, depending on the difficulty
 of the task), which is the primary source of most player's
 credit wealth.
 
+At the very beginning, you will only be able to perform the most basic
+tasks, with payouts of 3 to 5 credits. To make life a bit easier for
+the new players, at the beginning there is an approximate difficulty level
+shown for each task (e.g. "Easy", "Difficult", "Impossible"). However,
+those indicators are only shown during the first two levels and disappear
+once the player hits level 3.
+
 As your hidden career experience increases,
 more difficult career tasks become achievable. In general, you should
 try career tasks where your success rate is higher than 50%. If your
