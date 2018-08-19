@@ -1044,8 +1044,11 @@ You can obtain weapons in the following ways:
 Weapons and armor can be damaged during fights. When the fight is over, you
 can either repair it yourself if you have completed at least the basic *Item Repair* University course, or pay for repair.
 
-You can repair your weapons everywhere, but the hotel room is the best choice.
-Go to your inventory, then unequip the weapon, and then click on "repair". The
+You can repair your weapons everywhere, but the hotel room is the best choice,
+since nobody can attack you there. Otherwise, being attacked during repair
+interrupts the repair.
+
+To repair an item, go to your inventory, then unequip the weapon, and then click on "repair". The
 repair takes time, and consumes a bit of *Intelligence* and *Focus*. You can't
 do anything else while repairing. You can spend bonds to make the repair
 instantaneous.
