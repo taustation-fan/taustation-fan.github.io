@@ -167,7 +167,7 @@ Secondary stat: Intelligence
 | Make an intel report                        | 3         | intelligence  | Security          |          |           |
 | Make false reports                          | 5         | intelligence  | Security          |          |           |
 | Analyze camera footage                      | 5         | intelligence  | Security          |          |           |
-| Alter camera footage                        | 15        | agility       | Security          |          |           |
+| Alter camera footage                        | 15        | agility       | Security          | ✔        |           |
 | Monitor an SEC terminal                     | 6         | intelligence  | Security          |          |           |
 | Guard the brig                              | 15        | strength      | Brig              |          |           |
 | Go on patrol                                | 15        | agility       | Anywhere          |          |           |
