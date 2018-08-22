@@ -805,11 +805,16 @@ stims during combat (which can quickly regenerate a stat).
 to do things (so corresponds to an increased *Social* skill).
 
 The *Item Repair* courses from the *Engineering* module allows you to
-repair weapons and armor on your own, instead of having to pay for it.
+repair weapons and armor on your own, instead of having to pay for it,
+and serve as prerequisites for the *Ship Engineering* module.
 
 The *Spaceship Operations* module contains *Navigation*, *Technology*
 and *Handling* To be able to purchase a ship, you'll
 need (in that order): Navigation 1 and 2, Technology 1 and Handling 1.
+
+Additional *Ship Engineering* and *Advanced Ship Engineering* modules allow
+you to improve the fuel efficiency and damage resistance of your ships, as
+well as shorter Jump Gate travels.
 
 ## VIP Packs
 
