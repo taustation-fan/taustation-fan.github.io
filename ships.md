@@ -49,7 +49,9 @@ The following table shows the available and the planned ship types:
 
 ## Operating a Ship
 
-Once you buy a ship, you have to give it a name (length between 3 and 100 characters), and then it becomes available at the Docks.
+Once you buy a ship, you have to give it a name (length between 3 and
+100 characters), and then it becomes available at the Docks. A newly
+bought ship is always fully fueled.
 
 At the Docks, you can enter the ship, and choose a destination. On a Jump Gate,
 the destination can be a connected jump gate or a local station. On other stations,
@@ -74,12 +76,15 @@ credits per gram on Yards of Gadani and Bordeaux:
 |     10        |        12,090         | Alpha Centauri |
 |---------------|-----------------------|----------------|
 
-Refueling is also very slow, but you can spend bonds to speed it up.
+Refueling is also slow, but you can spend bonds to speed it up.
 
 Traveling to local stations is cheaper with the private shuttle than
 with public shuttles; the interstellar jump is slightly more expensive
 if you refuel at Tau Station, and much more expensive if you refuel
 anywhere in Alpha Centauri.
+
+There are University courses available to reduce fuel consumption and to
+reduce the damage that ships take during normal operation.
 
 ## Maintenance
 
@@ -89,9 +94,9 @@ Once a health bar of a ship reaches 75% or below, or when the
 navigation computers are "not operational", the it requires repairs
 before you can use the ship again.
 
-If you are lucky, and the current station has a shipyard, the repairs are
-fairly affordable (in the range of hundreds to maybe one thousand credits)
-and only take a few segments.
+If you are lucky, and the current station has a shipyard, the repairs
+can be done for you by payed workers, which means you can do not have to
+be present during the repairs.
 
 On stations without a shipyard, you have to repair your ship at the
 docks, which is much more expensive (typically on the order of 3,000
