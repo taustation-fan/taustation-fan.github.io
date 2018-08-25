@@ -53,7 +53,7 @@ I (moritz) was a tester in the closed alpha testing phase, and want to document 
 things I wished I knew before I started.
 
 This document also contains corrections and contributions from Perleone,
-Shadow, Dotsent and Ovid.
+Shadow, Dotsent, Xierumeng and Ovid.
 
 Note that Tau Station is under active development. Hence, parts of this
 document might become outdated when the game changes.
@@ -270,10 +270,11 @@ The following recovery rates have been compiled by mostly [Shadow and Dotsent](h
 | VIP + Hotel + Healthcare 3            | 13..14    | 9..10   | 2018-05-17 |
 | VIP + Well Fed                        | 12..13    | 8       |            |
 | VIP + Well Fed + Healthcare 1         | 13        | 8..9    | 2018-03-13 |
+| VIP + Well Fed + Healthcare 2         | 14        | 9       | 2018-08-25 |
 | VIP + Well Fed + Healthcare 3         | 13..14    | 9..10   | 2018-03-17 |
 | VIP + Well Fed + Hotel                | 12..13    | 8..9    |            |
 | VIP + Well Fed + Hotel + Healthcare 1 | 16        | 10..11  | 2018-03-13 |
-| VIP + Well Fed + Hotel + Healthcare 2 | 16..18    | 11      |            |
+| VIP + Well Fed + Hotel + Healthcare 2 | 17        | 11      | 2018-08-25 |
 | VIP + Well Fed + Hotel + Healthcare 3 | 17        | 11..12  | 2018-05-18 |
 
 (values without a measurement date have been assembled before 2018-03-17 and may be less reliable)
