@@ -174,12 +174,12 @@ rate, but that is a pretty terrible exchange.
 
 You get a better rate if you go the vendors at the Market, and buy
 a 3-day VIP pack for 290 bonds (which you can do once per 7 days).
-You can sell this at the Public Market for somewhere between 15,000
-and 30,000 credits (of which you need to pay 10% as market fee).
+You can sell this at the Public Market for somewhere between
+30,000 and 50,000 credits (of which you need to pay 10% as market fee).
 Before you do that, ask in the chat if anybody is willing to buy it, and
 at what price point.
 
-That way, you get a conversion rate of 1 bond to 45..90 credits.
+That way, you get a conversion rate of 1 bond to 90..150 credits.
 
 If you don't have enough money to afford the seller's fee on the market,
 you can try to find a potential buyer for the VIP pack in the chat, and
