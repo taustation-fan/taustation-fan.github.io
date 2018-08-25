@@ -44,10 +44,18 @@ syndicate is recruiting or not. If it is recruiting, players can apply
 independently of location.
 
 A syndicate starts with slots for 10 members. This limited can be extended
-by spending bonds: 990 bonds to raise it to 15 members, another 1290 bonds
-to raise it to 20 members, and another 1790 bonds for 25 members. A syndicate
-also earns one slot for each tier-up (so every 5 levels). Membership capacity
-is limited to 40.
+by spending bonds: 
+
+|Extension to|Cost in bonds| cumulative costs |
+|------------|-------------|------------------|
+| 15         | 990         | 990              |
+| 20         | 1290        | 2280             |
+| 25         | 1790        | 4070             |
+| 30         | 3090        | 7160             |
+
+
+A syndicate also earns one slot for each tier-up (so every 5 levels).
+Membership capacity is limited to 40.
 
 The syndicate founder can approve applicants, kick members, and even
 ban them from re-applying. They can also give other members the same
