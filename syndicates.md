@@ -66,10 +66,11 @@ privilege by applying the *Membership Management* role.
 Syndicates have a separate bank accounts. Members can donate bonds and
 credits to the syndicate.
 
-There is also a 5% tax on any credits that members get or deposit into
-the bank, and this 5% is diverted to the syndicate bank account.
+There is also a 5% tax by default on any credits that members get or 
+deposit into the bank, and this 5% is diverted to the syndicate bank account.
 
-There are future plans to make this tax rate changeable.
+This tax rate can be changed to any integer number between 0 and 100% 
+inclusive by the syndicate members with "Money management" right.
 
 ## Communication
 
