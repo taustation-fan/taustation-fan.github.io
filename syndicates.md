@@ -43,7 +43,7 @@ The owner can then approve or reject applicants, and configure whether the
 syndicate is recruiting or not. If it is recruiting, players can apply
 independently of location.
 
-A syndicate starts with slots for 10 members. This limited can be extended
+A syndicate starts with slots for 10 members. This limit can be extended
 by spending bonds: 
 
 |Extension to|Cost in bonds| cumulative costs |
