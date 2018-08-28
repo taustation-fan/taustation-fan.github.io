@@ -668,8 +668,8 @@ seems to explain most phenomena around career tasks:
 * Career experience
 * Player level. Many players have reported more failing career tasks after
   leveling up.
+* Current percentage of the stat that is being tested
 * Per-task experience (conjectural)
-* Focus (conjectural)
 
 Some players have also reported that career task success rates have gone
 down after they have leveled up, even though their stat ranking has stayed
