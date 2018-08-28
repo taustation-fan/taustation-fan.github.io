@@ -28,6 +28,7 @@
       * [University Courses](#university-courses)
       * [VIP Packs](#vip-packs)
       * [Travel](#travel)
+        * [Emergency Shuttle](#emergency-shuttle)
       * [Player and Station Levels](#player-and-station-levels)
       * [Tiers](#tiers)
       * [Combat](#combat)
@@ -877,6 +878,17 @@ travel, University courses also continue to progress.
 
 Blue: Consortium
 Red: Gaule
+
+### Emergency Shuttle
+
+If you get stuck on any station except Tau, you can go to the Government
+Center of that station, and take the emergency shuttle back to Tau Station.
+
+You can book this emergency shuttle even if you don't have enough credits to
+pay for it, and you end up in debt for the missing amount.
+
+The emergency shuttle leaves immediately after you chose to use it, and it is
+non-stop even from stellar systems other than Sol.
 
 ## Player and Station Levels
 
