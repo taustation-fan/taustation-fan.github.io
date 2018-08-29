@@ -1259,9 +1259,10 @@ From the [official blog](https://blog.taustation.space/blog/), twitter and state
 from the Tau Station team, it seems that at least the following major features
 are planned:
 
-* *Crafting* items, which makes sense if you need something to sell.
-* Player *Syndicates*, cooperations of players that conduct business together.
+* More features around player *Syndicates*, cooperations of players that conduct business together.
+* Trading based on economic simulations.
 * More star systems, starting with *Barnard's Star*.
+* *Crafting* items.
 * Prerequisites and Perks for career levels.
 * Modifications (*mods*), implanted electronic devices that modify attributes of the body.
 * More missions and artwork.
@@ -1270,6 +1271,7 @@ are planned:
 * New skills
 * Extension to the random encounters in the Ruins.
 * Multi-player cooperative Player-vs-Environment campaigns
+* Ability to refurbish and colonize abandoned stations
 * Music and sound effects
 
 
