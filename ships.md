@@ -85,6 +85,7 @@ anywhere in Alpha Centauri.
 
 There are University courses available to reduce fuel consumption and to
 reduce the damage that ships take during normal operation.
+For example the *Basic Fuel Efficiency* course reduces fuel usage by 5%.
 
 ## Maintenance
 
