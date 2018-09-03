@@ -382,7 +382,8 @@ Training also depends on the character's
 [genotype](https://alpha.taustation.space/archive/genotypes), because
 genotypes have pre-dispositions for certain traits. Belters, for
 instance, find it easier to train Agility (where they get a 5% bonus)
-than Strength.
+than Strength. All genotypes except Baseline have one stat with +5% bonus,
+one +2% bonus and a -5% handicap.
 
 Training can lead to injury (and thus unconsciousness or time at the
 Sick Bay) if your stats are too low. Each gym has a minimal sum of
