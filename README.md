@@ -372,7 +372,7 @@ the stat increase is around 0.019.
 
 ![](training-efficiency.png)
 
-The training efficiency is roughly 0.3 + 0.15 * level, in 1/1000 points
+The training efficiency is roughly 0.3 + 0.15 * StationLevel, in 1/1000 points
 stat gain per Percent focus invested.
 
 The training efficiency on shuttle/ship rides is the same as training on
