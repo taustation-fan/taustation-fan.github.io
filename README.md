@@ -166,6 +166,22 @@ paying the withdrawal fee.
 
 Deposits are free at any bank.
 
+The following table summarizes what is payed from the wallet and what
+is payed from your bank account:
+
+| Action/Service    |  Payment                  |
+|-------------------|---------------------------|
+| Hotel Room        | Wallet                    |
+| Items at Vendors  | Wallet                    |
+| Public Market     | Bank                      |
+| Shuttles          | Wallet                    |
+| Shipment costs    | Wallet with Bank fallback |
+| Buying Ship       | Wallet with Bank fallback |
+| Repair Ship       | Wallet                    |
+| University course | Wallet                    |
+
+In case of the bank fallback, withdrawal fees apply
+
 ### Converting Bonds to Credits
 
 There is no way to convert credits to bonds.
