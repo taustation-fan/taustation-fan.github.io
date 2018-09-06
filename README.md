@@ -933,6 +933,7 @@ Higher-level stations generally
 also offer higher rewards
 * have more expensive hotel rooms
 * have higher-paying side jobs and discreet work
+* give more experience per successful career task
 
 All of these factors combined mean that, as long as you are not playing
 missions, it usually makes sense to spend your time on higher-level stations.
