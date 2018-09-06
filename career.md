@@ -67,6 +67,8 @@ Secondary stat: Social
 | Hijack a starship                                     | 175  | agility       | Port              |          |           |
 | Organize a heist                                      | 190  | social        | Anywhere          |          |           |
 
+(the data about which tasks are illegal and dangerous are known to be incomplete)
+
 Advantages:
 
 * Many career tasks can be performed anywhere, or at least on any station (though the Jump Gates have no Market).
@@ -110,6 +112,7 @@ Secondary stat: Stamina
 | Negotiate a better deal for your station               | 61.08  | stamina       | Market            |          |           |
 | Sell classified information                            | 79.03  | social        | Anywhere          |          |           |
 
+(the data about which tasks are illegal and dangerous are known to be incomplete)
 
 Disadvantages:
 
