@@ -91,14 +91,14 @@ Secondary stat: Stamina
 | Interview visa applicants about their backgrounds      | 3      | social        | Gaule Embassy     |          |           |
 | Check visas                                            | 15     | social        | Anywhere          |          |           |
 | Threaten to deport someone                             | 15     | strength      | Anywhere          |          |           |
-| Question visa applicants about suspicious information  | 15     | social        | Gaule Embassy     |          |           |
+| Question visa applicants about suspicious information  | 15     | social        | Gaule Embassy     |     ✔    |           |
 | Help plan for a dignitary's visit                      | 48     | social        | Gaule Embassy     |          |           |
 | Interview new arrivals                                 | 49     | social        | Port              |          |           |
-| Hack the database                                      | 62     | intelligence  | Gaule Embassy     |          |           |
+| Hack the database                                      | 62     | intelligence  | Gaule Embassy     |     ✔    |           |
 | Write a detailed immigration report                    | 19     | stamina       | Anywhere          |          |           |
 | Forge poll results                                     | 111    | intelligence  | Anywhere          |     ✔    |           |
 | Conduct a policy poll                                  | 93     | social        | Anywhere          |          |           |
-| Accept bribe from a local business                     | 170    | social        | Market            |          |           |
+| Accept bribe from a local business                     | 170    | social        | Market            |     ✔    |           |
 | Attend a state dinner with your supervisor             | 130    | social        | Government Center |          |           |
 | Write a detailed economic report                       | 155    | stamina       | Anywhere          |          |           |
 | Write a detailed policy proposal                       | 175    | stamina       | Anywhere          |          |           |
