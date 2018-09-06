@@ -178,6 +178,7 @@ is payed from your bank account:
 | Shipment costs    | Wallet with Bank fallback |
 | Buying Ship       | Wallet with Bank fallback |
 | Repair Ship       | Wallet                    |
+| Ship Fuel         | Wallet                    |
 | University course | Wallet                    |
 
 In case of the bank fallback, withdrawal fees apply
