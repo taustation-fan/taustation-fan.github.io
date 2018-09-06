@@ -52,6 +52,7 @@ by spending bonds:
 | 20         | 1290        | 2280             |
 | 25         | 1790        | 4070             |
 | 30         | 3090        | 7160             |
+| 35         | 6190        | 13350            |
 
 
 A syndicate also earns one slot for each tier-up (so every 5 levels).
