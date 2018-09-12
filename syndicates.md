@@ -12,6 +12,7 @@ They are roughly equivalent to guilds or teams of other games.
 * [Banking](#banking)
 * [Communication](#communication)
 * [Experience](#experience)
+* [Storage](#storage)
 * [Benefits](#benefits)
 
 ## Formation Process
@@ -91,6 +92,18 @@ and level up when the experience counter reaches 100%.
 So far, it is unclear what syndicate experience or levels is good for,
 except that syndicate levels are also grouped in tiers, and the
 syndicate gets another slot when ascending to another tier.
+
+## Storage
+
+Each Syndicate automatically gets a shared storage unit in the Ruins
+area of the station where it was founded.
+
+It is a *small* storage with 50 slots, which can be extended to 150
+slot for 484 bonds, or to 500 slots for 1209 bonds.
+
+Every member can donate items to the syndicate by putting them
+into the storage, and members with the *Inventory Management* role
+also can take out items.
 
 ## Benefits
 
