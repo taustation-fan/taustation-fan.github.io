@@ -92,8 +92,8 @@ Secondary stat: Stamina
 | Deliver a list of flagged visas to port authorities    | 3      | agility       | Port              |          |           |
 | Interview visa applicants about their backgrounds      | 3      | social        | Gaule Embassy     |          |           |
 | Check visas                                            | 15     | social        | Anywhere          |          |           |
-| Threaten to deport someone                             | 15     | strength      | Anywhere          |          |           |
-| Question visa applicants about suspicious information  | 15     | social        | Gaule Embassy     |     ✔    |           |
+| Threaten to deport someone                             | 15     | strength      | Anywhere          |     ✔    |           |
+| Question visa applicants about suspicious information  | 15     | social        | Gaule Embassy     |          |           |
 | Help plan for a dignitary's visit                      | 48     | social        | Gaule Embassy     |          |           |
 | Interview new arrivals                                 | 49     | social        | Port              |          |           |
 | Hack the database                                      | 62     | intelligence  | Gaule Embassy     |     ✔    |           |
