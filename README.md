@@ -177,6 +177,7 @@ is payed from your bank account:
 | Shuttles          | Wallet                    |
 | Shipment costs    | Wallet with Bank fallback |
 | Buying Ship       | Wallet with Bank fallback |
+| Refurbish Ship    | Wallet with Bank fallback |
 | Repair Ship       | Wallet                    |
 | Ship Fuel         | Wallet                    |
 | University course | Wallet                    |
