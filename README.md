@@ -887,9 +887,9 @@ return travel more expensive.
 You need a Gaule visa for visiting stations under the Gaule government
 (basically any station with French sounding names). As a VIP, you can
 buy a Gaule visa at any station's Gov't center. Otherwise, you need to
-buy it a Gaule Embassy on Tau Station (Sol) or Spirit of Botswana (Alpha
-Centauri). There is no Gaule Embassy at Barnard's Star.
-In either case, you pay with credits, and more on higher-level stations.
+buy it a Gaule Embassy on Tau Station (Sol), Spirit of Botswana (Alpha
+Centauri), or Barnard's Star Jump Gate (Barnard's Star). In any case,
+you pay with credits, and more on higher-level stations.
 
 You can continue your career on any station that has areas where you
 can perform career tasks, without any additional bureaucracy. During
