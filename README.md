@@ -452,15 +452,23 @@ hours), which increases stats and Focus regeneration. For rations of a
 lower tier, the "well fed" status is shorter (10 segments for a tier
 difference of two). "well fed" stacks up if you consume multiple rations.
 
-You are automatically assigned one ration per day, which you can fetch
-at any station's Government Center. You can sometimes find rations in
-the Ruins, and sometimes they are awarded as the random reward for doing
-discreet work. Rations are also often the reward of successful combat
-following random encounters in the Ruins on high-level stations.
+### Sources of Rations
 
-Finally, you can spend bonds as bribes for more rations, though the
-price doubles each time you do it in one day, and drops back to the
-original price (20 bonds) 100 segments (one day) after your first bribe.
+* You are automatically assigned one ration per day, which you can fetch
+at any station's Government Center.
+* You can spend bonds as bribes for more rations at each station's Government
+  Center, though the price doubles each time you do it in one day, and drops back
+  to the original price (20 bonds) 100 segments (one day) after your first bribe.
+* You can buy them off the Public Market when other players sell them there
+* You can buy rations from NPC vendors on Caen Stronghold (Barnard's Star),
+  for 3160 credits per tier.
+* You can find rations in the Ruins, with the ration tier depending on the station level
+* Sometimes they are awarded as the random reward for doing discreet work.
+* Rations are also often the reward of successful combat following random
+  encounters in the Ruins on certain stations (Nouveau Limoges, Yards of
+  Gadani and Bordeaux drop tier 2 rations, Caen Stronghold and Hopkins Legacy
+  (Barnard's Star) drop tier 3 rations)
+
 
 ## What To Do
 
