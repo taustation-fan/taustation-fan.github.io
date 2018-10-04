@@ -907,8 +907,10 @@ travel, University courses also continue to progress.
 
 ![station/area matrix](./station-area-matrix.png)
 
-Blue: Consortium
-Red: Gaule
+Blue / C: Consortium  
+Red / G: Gaule  
+Orange / F: Freebooter  
+White / I: Independent
 
 ### Emergency Shuttle
 
