@@ -1144,22 +1144,29 @@ There are currently three types of clones in the game: 3D-printed, vat-grown
 and *Premium*. Even though most of the stations will have Clones facility,
 not all of the stations provide all three types of clones:
 
-| Station            | 3D-printed | Vat-grown | Premium    |
-|--------------------|:----------:|:---------:|:----------:|
-| Tau  Station       | ✔          | ✔         | ✔          |
-| Kobenhavn          | ✔          | ✔         | ✔          |
-| Daedalus           | **NO**     | **CLONE** | **CENTER** |
-| Taungoo            | ✔          |           | ✔          |
-| Nouveau Limoges    | ✔          | ✔         | ✔          |
-| Sol Jump Gate      | **NO**     | **CLONE** | **CENTER** |
-| AC Jump Gate       | ✔          |           | ✔          |
-| Moissan            | ✔          |           | ✔          |
-| Paris Spatiale     |            | ✔         | ✔          |
-| Ghost of Mali      | **NO**     | **CLONE** | **CENTER** |
-| Cirque Centauri    |            |           | ✔          |
-| Spirit of Botswana | ✔          | ✔         | ✔          |
-| Bordeaux           |            | ✔         | ✔          |
-| Yards of Gadani    | ✔          |           | ✔          |
+| Star System   | Station            | 3D-printed | Vat-grown | Premium    |
+|---------------|--------------------|:----------:|:---------:|:----------:|
+|Sol            | Tau  Station       | ✔          | ✔         | ✔          |
+|Sol            | Kobenhavn          | ✔          | ✔         | ✔          |
+|Sol            | Daedalus           | **NO**     | **CLONE** | **CENTER** |
+|Sol            | Taungoo            | ✔          |           | ✔          |
+|Sol            | Nouveau Limoges    | ✔          | ✔         | ✔          |
+|Sol            | Sol Jump Gate      | **NO**     | **CLONE** | **CENTER** |
+|               |                    |            |           |            |
+|Alpha Centauri | AC Jump Gate       | ✔          |           | ✔          |
+|Alpha Centauri | Moissan            | ✔          |           | ✔          |
+|Alpha Centauri | Paris Spatiale     |            | ✔         | ✔          |
+|Alpha Centauri | Ghost of Mali      | **NO**     | **CLONE** | **CENTER** |
+|Alpha Centauri | Cirque Centauri    |            |           | ✔          |
+|Alpha Centauri | Spirit of Botswana | ✔          | ✔         | ✔          |
+|Alpha Centauri | Bordeaux           |            | ✔         | ✔          |
+|Alpha Centauri | Yards of Gadani    | ✔          |           | ✔          |
+|               |                    |            |           |            |
+|Barnard's Star | BS Jump Gate       | ✔          | ✔         | ✔          |
+|Barnard's Star | Caen Stronghold    |            |           | ✔          |
+|Barnard's Star | Hopkins' Legacy    | **NO**     | **CLONE** | **CENTER** |
+|Barnard's Star | Estación de Amazon | ?          | ?         | ?          |
+|Barnard's Star | Maid of Orléans    | **NO**     | **CLONE** | **CENTER** |
 
 3D-printed and vat-grown clones can be bought with credits, with the cost
 dependent on the player's level. The main differences between them are:
