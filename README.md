@@ -461,12 +461,12 @@ at any station's Government Center.
   to the original price (20 bonds) 100 segments (one day) after your first bribe.
 * You can buy them off the Public Market when other players sell them there
 * You can buy rations from NPC vendors on Caen Stronghold (Barnard's Star),
-  for 3160 credits per tier.
+  for 3160.80 credits per tier.
 * You can find rations in the Ruins, with the ration tier depending on the station level
 * Sometimes they are awarded as the random reward for doing discreet work.
 * Rations are also often the reward of successful combat following random
-  encounters in the Ruins on certain stations (Nouveau Limoges, Yards of
-  Gadani and Bordeaux drop tier 2 rations, Caen Stronghold and Hopkins Legacy
+  encounters in the Ruins on certain stations (Nouveau Limoges (Sol), Yards of
+  Gadani and Bordeaux (Alpha Centauri) drop tier 2 rations, Caen Stronghold and Hopkins Legacy
   (Barnard's Star) drop tier 3 rations)
 
 
