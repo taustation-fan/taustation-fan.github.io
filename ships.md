@@ -74,6 +74,7 @@ credits per gram on Yards of Gadani and Bordeaux:
 |      8        |         9,870         | Alpha Centauri |
 |      9        |        10,980         | Alpha Centauri |
 |     10        |        12,090         | Alpha Centauri |
+|     11        |        13,100         | Barnard's Star |
 |---------------|-----------------------|----------------|
 
 Refueling is also slow, but you can spend bonds to speed it up.
