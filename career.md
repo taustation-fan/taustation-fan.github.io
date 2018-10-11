@@ -210,7 +210,7 @@ Secondary stat: Strength
 |Polish a ship                                            | 3         | stamina      | Port     |          |           |
 |Refuel a ship                                            | 5         | strength     | Port     |          |           |
 |Cut the fuel with another liquid                         | 5         | intelligence | Port     | ✔        |           |
-|Mix batches of fuel                                      | 6         | stamina      | Port     |          |           |
+|Mix batches of fuel                                      | 6         | stamina      | Port     |          |  ✔        |
 |Falsify departure permissions                            | 15        | social       | Port     |          |           |
 |Run pre-flight checks                                    | 15        | stamina      | Port     |          |           |
 |Inspect Cargo                                            | 15        | intelligence | Port     |          |           |
