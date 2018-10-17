@@ -1208,6 +1208,52 @@ The following persist through the death of a body:
 * Well-Fed status
 * Running University courses
 
+## Reputation
+
+There are currently four factions, *Consortium*, *Gaule*, *Independent* and
+*Freebooter*. Players have reputations with all of these factions, starting
+with *Mistrusted*.
+
+High reputation with a faction has positive effects on stations of that
+faction:
+
+* Lower Brig times
+* Discounts when buying things at NPC vendors
+* Bonuses when selling things to NPC vendors
+* Cheaper refueling
+
+The following reputations are available:
+
+| Reputation            | NPC vendor bonus  |
+|-----------------------|-------------------|
+| Revered               | 10%               |
+| Admired               | 5%                |
+| Respected             | 2%                |
+| Average               | 0%                |
+| Mistrusted            | -15%              |
+| Avoided               | -25%              |
+| Despised              | -50%              |
+
+Missions can improve your reputation with a faction that you helped
+through your actions.
+
+You can also improve your reputation with Gaule and the Consortium by
+completing the University courses from the *International Relations*
+module.
+
+Discreet work also improves the reputation with the faction that governs
+the station you are on (between 30 and 40 successful discreet works to
+get from Avoided to Mistrusted, and more for getting to the higher
+reputations).
+
+The following actions can decrease your reputation, in decreasing order:
+
+* Attacking and defeating the same player twice (or more often) within
+  24 hours
+* Getting into a fight in a bar (Inn) from consuming alcohol or stims
+* Getting caught for long-running
+* Getting caught at an illegal career task
+
 ## Shipping and Selling Items
 
 ### Shipping Items
