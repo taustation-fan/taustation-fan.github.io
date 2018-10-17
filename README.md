@@ -1285,14 +1285,13 @@ Some random bits of advice on how to make the most of out Tau Station:
 * The Sol Jump Gate has a mission ("The Sleepless Ship") that takes you
   to Alpha Centauri, so only engage in that mission when you are ready
   to travel to Alpha Centauri (level 7, most stats at 12 or more; and at
-  least 2000 credits, since an interstellar jump costs around 1800
+  least 2500 credits, since an interstellar jump costs around 1800
   credits, and then you might need to travel to another station before you
   can earn much money).
 * Only bother with clones after you have put significant effort into
   training physical stats, and even then it only rarely makes sense.
-* If you can, avoid illegal career tasks on Gaule-affiliated stations,
-  since they punish foreigners harsher than the Consortium punishes
-  their own citizens.
+* Once you are on *Hopkins' Legacy* at Barnard's Star, do the *Wall
+  Maintenance* side job once, as it is a prerequisite for a mission.
 
 # Planned Features
 
