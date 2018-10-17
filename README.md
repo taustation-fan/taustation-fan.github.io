@@ -1302,15 +1302,16 @@ are planned:
 
 * More features around player *Syndicates*, cooperations of players that conduct business together.
 * Trading based on economic simulations.
-* More star systems, starting with *Barnard's Star*.
+* More star systems, starting with *Sirius*.
 * *Crafting* items.
 * Prerequisites and Perks for career levels.
 * Modifications (*mods*), implanted electronic devices that modify attributes of the body.
 * More missions and artwork.
 * More careers
 * Ice Mining
-* New skills
-* Extension to the random encounters in the Ruins.
+* New University courses and skills
+* Engine upgrades for ships
+* Cargo ships
 * Multi-player cooperative Player-vs-Environment campaigns
 * Ability to refurbish and colonize abandoned stations
 * Music and sound effects
