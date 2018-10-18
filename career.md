@@ -32,11 +32,12 @@ Secondary stat: Stamina
 Advantages:
 
 * relatively few illegal or dangerous tasks
-* has a legal task with 320c bonus
+* It's the only career that has a legal task with 320c bonus.
 
 Disadvantages:
 
 * most early and medium tasks are in Market, which is not available at the Jump Gates
+* strong focus on only two stats
 
 ## Criminal: Opportunist
 
@@ -113,6 +114,10 @@ Secondary stat: Stamina
 | Sell classified information                            | 79.03  | social        | Anywhere          |          |           |
 
 (the data about which tasks are illegal and dangerous are known to be incomplete)
+
+Advantages:
+
+* has a 320c bonus task
 
 Disadvantages:
 
