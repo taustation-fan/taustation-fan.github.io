@@ -41,7 +41,7 @@ Disadvantages:
 
 ## Criminal: Opportunist
 
-Primary stat: Agility  
+Primary stat: Agility
 Secondary stat: Social
 
 | Name                                                  | Bonus| Stat          | Area              | Illegal  | Dangerous |
@@ -63,9 +63,9 @@ Secondary stat: Social
 | Pull a con job                                        | 62   | social        | Anywhere          | ✔        |           |
 | Help hijack a cargo shipment                          | 170  | agility       | Port              | ✔        | ✔         |
 | Sell contraband                                       | 130  | social        | Market            |          |           |
-| Break into a high security area                       | 255  | agility       | Market            |          |           |
-| Hack into a bank terminal                             | 199  | intelligence  | Bank              |          |           |
-| Hijack a starship                                     | 175  | agility       | Port              |          |           |
+| Break into a high security area                       | 255  | agility       | Market            | ✔        |           |
+| Hack into a bank terminal                             | 199  | intelligence  | Bank              | ✔        |           |
+| Hijack a starship                                     | 175  | agility       | Port              | ✔        |           |
 | Organize a heist                                      | 190  | social        | Anywhere          |          |           |
 
 (the data about which tasks are illegal and dangerous are known to be incomplete)
@@ -76,7 +76,7 @@ Advantages:
 
 Disadvantages:
 
-* Many illegal career tasks
+* Almost all career tasks are illegal
 * Only three stats, the third (intelligence) chiming in rather late
 * Highest paying task only 255 credits
 
@@ -223,7 +223,7 @@ Secondary stat: Strength
 |Make supervised repairs                                  | 48        | strength     | Port     |          |           |
 |Repair a ship                                            | 49        | strength     | Port     |          |           |
 |Run a full-ship diagnostic                               | 93        | stamina      | Port     |          |           |
-|Sell ship parts on the side                              | 111       | agility      | Ruin     | ✔        |           |
+|Sell ship parts on the side                              | 111       | agility      | Ruins    | ✔        |           |
 |Train a tiresome apprentice                              | 62        | stamina      | Port     |          |           |
 |Install heavy research equipment                         | 170       | strength     | Port     |          |           |
 |Install a navigation system                              | 130       | stamina      | Port     |          |           |
