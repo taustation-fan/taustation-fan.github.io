@@ -490,12 +490,20 @@ somebody with your own credits is the easiest way to convince an NPC to
 collaborate.
 
 Missions are the primary source of experience, and also give you a
-small financial reward. But most
+small financial reward. Some missions reward you with items, such as
+weapons or armor. The *Education* mission on Estación de Amazon,
+Barnard's Star can give you a sizable boost to your Stamina.
+
+But most
 importantly, missions are interactive short stories that are enjoyable
 to read and experience.
 
 Some missions also build on other missions, and you can only engage in
 the later missions if you completed the previous missions successfully.
+
+There is also a mission (*In the Crossfire* on Hopkin's Legacy, Barnard's
+Star) that depends on having completed a side job (*Wall Maintenance* on
+the same station).
 
 I advise to play all missions available to you.
 
