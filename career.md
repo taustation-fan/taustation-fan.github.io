@@ -121,7 +121,7 @@ Advantages:
 
 Disadvantages:
 
-* Many lower-level career tasks are only available on two stations
+* Many lower-level career tasks are only available on three stations
 * The highest-paying career tasks are distributed on only two stats
 
 ## Medicine: Cloning Specialist
@@ -245,4 +245,4 @@ Advantages:
 
 Disadvantages:
 
-* Highest paying *Stamina* career task is only available on three stations.
+* Highest paying *Stamina* career task is only available on four stations.
