@@ -501,7 +501,7 @@ to read and experience.
 Some missions also build on other missions, and you can only engage in
 the later missions if you completed the previous missions successfully.
 
-There is also a mission (*In the Crossfire* on Hopkin's Legacy, Barnard's
+There is also a mission (*In the Crossfire* on Hopkins' Legacy, Barnard's
 Star) that depends on having completed a side job (*Wall Maintenance* on
 the same station).
 
@@ -1229,6 +1229,9 @@ faction:
 * Discounts when buying things at NPC vendors
 * Bonuses when selling things to NPC vendors
 * Cheaper refueling
+* Cheaper publih shuttle tickets
+* Cheaper hotel room rent
+* Cheaper drinks at the bar
 
 The following reputations are available:
 
@@ -1259,7 +1262,7 @@ The following actions can decrease your reputation, in decreasing order:
 * Attacking and defeating the same player twice (or more often) within
   24 hours
 * Getting into a fight in a bar (Inn) from consuming alcohol or stims
-* Getting caught for long-running
+* Getting caught for long-running fight
 * Getting caught at an illegal career task
 
 ## Shipping and Selling Items
