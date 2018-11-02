@@ -1229,7 +1229,7 @@ faction:
 * Discounts when buying things at NPC vendors
 * Bonuses when selling things to NPC vendors
 * Cheaper refueling
-* Cheaper publih shuttle tickets
+* Cheaper public shuttle tickets
 * Cheaper hotel room rent
 * Cheaper drinks at the bar
 
