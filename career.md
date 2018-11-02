@@ -25,7 +25,7 @@ Secondary stat: Stamina
 | Receive a delivery                        | 170  | social        | Port     |          |           |
 | Shortchange a ship captain                | 190  | social        | Port     |  ✔       |           |
 | Attend a merchant meeting                 | 199  | stamina       | Market   |          |           |
-| Buy a shipment of contraband              | 255  | social        | Ruins    |          |           |
+| Buy a shipment of contraband              | 255  | social        | Ruins    |  ✔       |           |
 | Create an intersystem distribution plan   | 270  | stamina       | Anywhere |          |           |
 | Negotiate a trade agreement               | 320  | social        | Market   |          |           |
 
@@ -66,7 +66,7 @@ Secondary stat: Social
 | Break into a high security area                       | 255  | agility       | Market            | ✔        |           |
 | Hack into a bank terminal                             | 199  | intelligence  | Bank              | ✔        |           |
 | Hijack a starship                                     | 175  | agility       | Port              | ✔        |           |
-| Organize a heist                                      | 190  | social        | Anywhere          |          |           |
+| Organize a heist                                      | 190  | social        | Anywhere          | ✔        |           |
 
 (the data about which tasks are illegal and dangerous are known to be incomplete)
 
@@ -213,10 +213,10 @@ Secondary stat: Strength
 |---------------------------------------------------------|-----------|--------------|----------|:---------|:----------|
 |Scrub rust off a ship                                    | 3         | stamina      | Port     |          |           |
 |Polish a ship                                            | 3         | stamina      | Port     |          |           |
-|Refuel a ship                                            | 5         | strength     | Port     |          |           |
+|Refuel a ship                                            | 5         | strength     | Port     |          |  ✔        |
 |Cut the fuel with another liquid                         | 5         | intelligence | Port     | ✔        |           |
 |Mix batches of fuel                                      | 6         | stamina      | Port     |          |  ✔        |
-|Falsify departure permissions                            | 15        | social       | Port     |          |           |
+|Falsify departure permissions                            | 15        | social       | Port     | ✔        |           |
 |Run pre-flight checks                                    | 15        | stamina      | Port     |          |           |
 |Inspect Cargo                                            | 15        | intelligence | Port     |          |           |
 |Study repair manuals                                     | 19        | stamina      | Anywhere |          |           |
