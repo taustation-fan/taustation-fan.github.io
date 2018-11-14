@@ -1037,9 +1037,9 @@ loot credits from the victim's purse, but cannot steal items from the
 loser.
 
 On stations with a Sick Bay, the loser can then recover in the Sick Bay.
-On stations without a Sick Bay (currently only Bordeaux Station), this
-can be the death of the character's
-body, which triggers the activation of a clone.
+On stations without a Sick Bay (currently only Bordeaux Station and 
+Caen Stronghold), this can be the death of the character's body, which
+triggers the activation of a clone.
 
 You can practice combat by going to the Ruins and using the "look for
 trouble" feature.
