@@ -124,6 +124,7 @@ playing easier or faster:
 * boosting training
 * faster release from the Brig (prison) and Sick Bay
 * faster shuttle travel
+* premium avatar images
 
 This list is roughly sorted by utility. VIP packs and accelerated
 University courses are a pretty good way to spend bonds, while I'd only
