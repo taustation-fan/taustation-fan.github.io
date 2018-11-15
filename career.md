@@ -107,11 +107,11 @@ Secondary stat: Stamina
 | Write a detailed policy proposal                       | 175    | stamina       | Anywhere          |          |           |
 | Attend a diplomatic meeting                            | 190    | social        | Government Center |          |           |
 | Show a visiting dignitary around the station           | 270    | social        | Port              |          |           |
-| Misuse your influence                                  | 320    | social        | Anywhere          |          |           |
+| Misuse your influence                                  | 320    | social        | Anywhere          |     ✔    |           |
 | Write press releases                                   | 199    | social        | Anywhere          |          |           |
 | Mediate conflicts                                      | 255    | social        | Anywhere          |          |           |
 | Negotiate a better deal for your station               | 61.08  | stamina       | Market            |          |           |
-| Sell classified information                            | 79.03  | social        | Anywhere          |          |           |
+| Sell classified information                            | 79.03  | social        | Anywhere          |     ✔    |           |
 
 (the data about which tasks are illegal and dangerous are known to be incomplete)
 
