@@ -1012,13 +1012,14 @@ You can wear an armor suit, and equip up to two weapons. There are three
 kinds of damage, Impact, Piercing and Energy. Weapons have an inherent
 accuracy, and one or sometimes two kinds of damage they make.
 
-There is also long range and shot range combat.
+Combat starts out in long range, and after four actions the distance changes
+to short range.
 
-Shotguns and Sniper Rifles are suited for long-range combat
-while knives, improvised weapons, hand guns and short-barrel rifles
+Shotguns, rifles and sniper rifles are suited for long-range combat
+while blades, improvised weapons (clubs), hand guns and short-barrel rifles
 work in short range combat.
-Using a weapon in the wrong range incurs a penalty.
-
+Using a weapon in the wrong range incurs a penalty, and using a hand-to-hand
+weapon (blades and clubs) in long range is a guaranteed miss.
 
 After completing the *Intermediate Combat* University courses, you also have slots
 available on your belt, where you can equip stims that let you boost a stat
@@ -1030,7 +1031,7 @@ The success of an attack depends on the physical stats, the accuracy of the
 weapon, and combat skills (which can be
 acquired through University courses).
 
-A successful attack can damage the opponent's armor, and wound the
+A successful attack can wound the
 opponent, which reduces a physical stat. Higher physical stats thus
 provide a layer of defense. Once a physical stat drops to
 zero, the loser becomes unconscious. If the attacker wins, they can
@@ -1048,9 +1049,8 @@ trouble" feature.
 ### Choice of Weapons
 
 You have two weapon slots that you can equip from your inventory. Since
-combat typically starts from a long range, and later goes to a short range,
-you should try to equip one slot with a gun-like weapon (long range), and
-the other with a weapon suited for hand-to-hand combat.
+combat starts with long range, and later goes to a short range,
+you should usually equip one long and one short range weapon each.
 
 If possible, you should also select the weapons to do different types of
 damages, which increases your chances against an opponent with
@@ -1086,7 +1086,7 @@ or lower, not of higher tiers.
 
 You can obtain weapons in the following ways:
 
-* Successful combat from random encounters in the Ruins often rewards
+* Successful combat from *Look for Trouble* and *Enter the Sewers* in the Ruins often rewards
   you with weapons or armor.
 * Sometimes Discreet Work gives you a weapon as reward.
 * Some missions give you a weapon as reward.
