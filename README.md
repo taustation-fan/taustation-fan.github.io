@@ -70,7 +70,7 @@ Once you visit other stations, you will eventually be
 attacked by *raving lunatics*, *single-minded sociopaths*, *coldhearted killers* and
 *bloodthirsty psychopaths*. They will bring you to
 within an inch of your life and send you to sick bay for
-about 16 segments. Unless you're on Bordeaux, where you
+about 16 segments. Unless you're on Bordeaux or Caen, where you
 will die. And, adding insult to injury, they will also
 loot your wallet and get away with a percentage of the
 money you're carrying around.
