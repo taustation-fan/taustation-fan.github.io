@@ -1208,8 +1208,9 @@ Then the last-gestated clone is activated, if you have one, or the default
 clone on Tau Station otherwise.
 
 After activation, the new body is confined to the clone vats for some time,
-starting at 10 segments, but increasing after you have died several times.
-After the new body is released, you have access to your bank account and your storage.
+starting at 10 segments, but increases each time you die.
+After the new body is released, you have access to your bank account,
+storage and ships.
 
 The following persist through the death of a body:
 
