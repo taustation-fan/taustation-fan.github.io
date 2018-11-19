@@ -36,6 +36,7 @@
          * [Weapons Maintenance](#weapons-maintenance)
       * [Clones](#clones)
          * [Dying](#dying)
+      * [Reputation](#reputation)
       * [Shipping and Selling Items](#shipping-and-selling-items)
          * [Shipping Items](#shipping-items)
          * [Selling Items to Vendors](#selling-items-to-vendors)
