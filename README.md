@@ -612,7 +612,7 @@ which you can also halve by spending 10 bonds.
 
 You can and should pursue a career. Performing career tasks is the most
 reliable source of credits, and once you have been promoted a few times,
-the only reliable in-game source of bonds.
+the largest reliable in-game source of bonds.
 
 #### Choosing Your Career
 
@@ -659,15 +659,29 @@ Each success adds up to your career experience, and each failure
 subtracts some amount.
 
 Each night at midnight CEST, the number of days you spent in a career rank
-increases. Once your career experience is high enough (whatever
-that means) *and* you have spent enough days in the current career rank, you
-are promoted. (If you fail enough tasks, you can also be demoted again).
+increases.
 Also at midnight you receive your regular payments of bonds and credits,
 depending on your current career rank.
+
+
+Once your career experience is at least 100% *and* you have spent
+enough days in the current career rank, you
+are promoted. If you fail enough tasks, you can also be demoted again.
 
 The minimum number of career days per rank increases exponentially: you can get
 promoted after 2 days in career rank 1, after 4 days in rank 2, 8 days
 in rank 3 etc., all the way up to 128 days in rank 7.
+
+|Rank | Min days in rank  | Daily bonds |
+|-----|-------------------|-------------|
+|   1 |                2  |           0 |
+|   2 |                4  |           0 |
+|   3 |                8  |          10 |
+|   4 |               16  |          10 |
+|   5 |               32  |          20 |
+|   6 |               64  |          20 |
+|   7 |              128  |          30 |
+|   8 |              N/A  |          30 |
 
 Career tasks use up 20% of the affected stat, and 5% focus. On success,
 you get a bonus in credits (between 3 and 320, depending on the difficulty
