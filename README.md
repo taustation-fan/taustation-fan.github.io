@@ -622,8 +622,10 @@ one that sounded best. You should be more strategic in your choice.
 The first factor you should consider is the primary and secondary stat
 associated with the career tasks. You should favor a career that makes
 use of Intelligence, because in the context of University courses, it
-makes sense to boost that stat anyway. You should also choose a career
-whose stats overlap with the strong stats of your genotype.
+makes sense to boost that stat anyway. If you are planning
+on doing Player-vs-Player combat, you should favor a career that uses
+physical stats, because then the stat bonus contributes to your combat
+ability.
 
 The second factor is availability. Career tasks can be tied to locations
 (you can only repair ships at a Port, and only analyze security footage
@@ -636,6 +638,8 @@ Finally, some careers are more dangerous than others; if a majority of
 tasks sound illegal, you might spend quite some time in the Brig.
 (Though illegal tasks tend to pay much better than comparable legal
 tasks).
+
+See the [separate career page](/career) for a list of tasks per career.
 
 Note that you can abort your career at any time, and even later return
 to that career with no repercussions, except of course the time you
@@ -671,13 +675,10 @@ of the task), which is the primary source of most player's
 credit wealth.
 
 At the very beginning, you will only be able to perform the most basic
-tasks, with payouts of 3 to 5 credits. To make life a bit easier for
-the new players, at the beginning there is an approximate difficulty level
-shown for each task (e.g. "Easy", "Difficult", "Impossible"). However,
-those indicators are only shown during the first two levels and disappear
-once the player hits level 3.
+tasks, with payouts of 3 to 5 credits, which are annotated as *Easy* or
+*Normal*.
 
-As your hidden career experience increases,
+As your career experience increases,
 more difficult career tasks become achievable. In general, you should
 try career tasks where your success rate is higher than 50%. If your
 success rate is higher than 80% or 90%, you might try more difficult
@@ -689,14 +690,8 @@ returns.
 <a name="career-progress"></a>
 ##### How Can I Check My Career Progress?
 
-The career experience is intentionally hidden.
-
-You can only observe career experience indirectly by observing the
-success rate of your career tasks. When it goes up significantly, it
-likely means that the career experience is enough for a promotion.
-
-However, the promotion only happens once you have spent the minimum required
-days in your career, which doubles for each career rank.
+The career experience is shown on your [character
+page](https://alpha.taustation.space/) in the *Career* section.
 
 <a name="career-success"></a>
 #### What Determines Career Task Success Rates?

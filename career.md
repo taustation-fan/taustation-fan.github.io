@@ -240,7 +240,6 @@ Advantages:
 
 * most career tasks are on an area (Port) that is available on every station
 * highest-paying career task can be done anywhere (*Intelligence*, 320 credits)
-* few illegal or dangerous tasks
 * daily stat bonuses are both for physical stats, so aligns well with the requirements for combat
 
 Disadvantages:
