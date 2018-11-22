@@ -658,9 +658,9 @@ listed.
 Each success adds up to your career experience, and each failure
 subtracts some amount.
 
-Each night at midnight CEST, the number of days you spent in a career rank
-increases.
-Also at midnight you receive your regular payments of bonds and credits,
+Each night at midnight CET, or around GCT 95/900, the number of days you
+have spent in a career rank increases.
+At the same time, you receive your regular payments of bonds and credits,
 depending on your current career rank.
 
 
