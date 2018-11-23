@@ -655,14 +655,15 @@ on your current station, and where you can try them. If the area a task
 depends on does not exist at the current station, the task will not be
 listed.
 
-Each success adds up to your career experience, and each failure
-subtracts some amount.
+Each success adds to your career experience, and each failure
+of the same task reduces your career by half of that amount.
+The experience is higher for tasks further down the list, even if
+the bonus is lower.
 
 Each night at midnight CET, or around GCT 95/900, the number of days you
 have spent in a career rank increases.
 At the same time, you receive your regular payments of bonds and credits,
 depending on your current career rank.
-
 
 Once your career experience is at least 100% *and* you have spent
 enough days in the current career rank, you
