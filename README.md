@@ -700,6 +700,13 @@ success rate is higher than 80% or 90%, you might try more difficult
 tasks (which are those further down the list), because they yield higher
 returns.
 
+The spread between the lowest and highest task bonuses is much larger
+(factor 100) than the career XP gain spread (factor 8-10). Hence if
+you primarily want to advance your career, you should stick to lower-level
+tasks for which you have a high success rate. If you want to optimize for
+making credits fast, doing the harder but better-paying tasks is the
+better strategy.
+
 #### Career FAQs
 
 <a name="career-progress"></a>
