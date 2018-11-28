@@ -54,7 +54,7 @@ by spending bonds:
 | 25         | 1790        | 4070             |
 | 30         | 3090        | 7160             |
 | 35         | 6190        | 13350            |
-
+| 40         | 13890       | 27240            |
 
 A syndicate also earns one slot for each tier-up (so every 5 levels).
 Membership capacity is limited to 40.
