@@ -105,7 +105,7 @@ rooms, public shuttles for inter-station travel, University courses, and weapons
 You can earn credits through
 
 * successful career tasks
-* selling items (for example found in the Ruins)
+* selling items (for example found in the Ruins/Wrecks)
 * daily career payments
 * side jobs
 * discreet work
@@ -511,7 +511,8 @@ I advise to play all missions available to you.
 
 ### Ruins Scavenging
 
-Most stations have a *Ruins* area, where you can scavenge for discarded
+All stations have a *Ruins* area with the *Wrecks* sub-area, where you can
+scavenge for discarded
 treasures. Each search costs 10% stamina, and if you find something,
 also 10% of Focus. Each successful find
 also adds to your experience.
@@ -525,6 +526,14 @@ The things you can find in the ruins include (in decreasing likelihood):
 * VIP packs
 * weapons
 * armor
+* rations
+
+The things you can find in the Wrecks is partially dependent on the station
+you are searching on. For example the weapons and armor you can find tend to
+be similar to those you can obtain through *Look for Trouble*, and the common
+trade good *Circuit Board* is usually only found at Barnard's Star. On the
+other hand, most trade goods and bond packages seem to be equally distributed
+to all stations.
 
 You can carry around what you find, up to a certain mass limit. If you
 carry around too much, you will get a warning that you are encumbered,
@@ -559,8 +568,8 @@ the 10% market fee.
 
 ### Random Encounters in the Ruins
 
-In the Ruins you can also search for random encounters (*Look for trouble*).
-Each search costs
+In the Wrecks sub-area of the Ruins you can also search for random encounters
+(*Look for trouble*).  Each search costs
 5% Agility and Stamina each, and 10% Focus. When you
 find somebody, you can engage in
 combat with them (but you don't have to do so immediately; you can, for
@@ -568,13 +577,14 @@ example, consume a ration or even retire to your hotel room first for
 some stats replenishment).
 
 Upon finding an opponent in the Ruins, you have 8 segments to fight them.
-Until you attack them, the opponent is visible in the *People* tab at the
-Ruins, so you can see their armor and weapons before attacking.
 
 When you win such a fight, you can loot the opponent, which tends to give
 you on the order of 1 to 100 credits, and you gain a reward. The reward
 on lower-level stations is often a piece of armor or a weapon, and on
-higher-level stations it can be a ration.
+higher-level stations it can be a ration. For example Look for Trouble on
+Yards of Gadani and Bordeaux rewards *Old Combat Suit* and tier 2 rations,
+while on Hopkins' Legacy and on Caen Stronghold, the reward is almost
+exclusively tier 3 rations.
 
 You also gain experience from victorious combat, more so than from career
 tasks.
@@ -583,7 +593,7 @@ After finding an opponent, you cannot engage in another random encounter
 for the next 8 segments. You can halve this waiting time by spending 10 bonds.
 
 If you lose in combat, you are sent to the Sick Bay for recovery, or die on
-Bordeaux Station (which doesn't have a sick bay).
+Bordeaux Station and Caen Stronghold (which don't have a sick bay).
 
 Many new players seem to have a very hard time doing combat in the ruins,
 so I'd recommend to wait until you have reached level 6, which comes with
@@ -591,19 +601,20 @@ access to much better weapons and armor.
 
 Starting from level 5, you can also *Enter the Sewers*. The sewers are
 accessible at København and Taungoo in the Sol system, and at Moissan, Cirque
-Centauri and Yards of Gadani in the Alpha Centauri system.
+Centauri and Yards of Gadani in the Alpha Centauri system. At Barnard's Star,
+on The Maid of Orléans has accessible sewers.
 This gives you a list of six opponents that you can attack in order, with the
 second becoming available once the first has been defeated, and so on.
 
 In contrast to
 *Look for trouble*, the reward is shown before you attack the opponent,
-includes bonds for the third and sixth opponent.
-The level of the *sewers* opponents are typically one to two level above the
+and includes 5 bonds for the third and  10 bonds for the sixth opponent.
+The level of the *sewers* opponents are one to two level above the
 player level, so for higher-level players, they can be much stronger than
 the *look for trouble* opponents.
 
 The final opponent also gives you two random rewards, one of which can be an
-item or a bond package, the other one is a multi stim.
+item or a bond package, the other one is a (multi) stim of the player's tier.
 
 The cool-down period for *Enter the Sewers* is 92 segments (about 22 hours),
 which you can also halve by spending 10 bonds.
@@ -760,9 +771,12 @@ more importantly, a random bonus. This bonus can be
 In most cases, the potential rewards depends on the station level. For
 example on Taungoo Station (level 5), the stats boost tends to be on the
 order of 0.02, while you get something closer to 0.04 on Yards of Gadani
-(level 10).
+(level 10). The stat bonus also depends on the station. For instance, on
+Hopkins' Legacy the stat bonus is always for Strength, while on Yards of
+Gadani it is for Social, Strength and Stamina. See the [Taustation
+wiki](http://taustation.wikidot.com/discreet-work) for more details.
 
-Completing discreet work also improves your reputation with the
+Completing discreet work also improves your [reputation](#reputation) with the
 affiliation of the government that controls the current station, which
 in turn leads to shorter Brig times when you get caught doing something
 illegal, and to some vendor discounts.
@@ -786,7 +800,8 @@ successful tasks  consume 10%.
 * Don't try to be clever when doing Discreet Work; for example, what it
 says "you must find Aearis Tinsley", you won't find her by looking through
 all areas of the current station; you have to follow the mission steps.
-* If you can't seem to find your next step, try going back to [the discreet work area](https://alpha.taustation.space/area/discreet-work).
+* If you can't seem to find your next step, the [mission
+  overview](https://alpha.taustation.space/mission) should help you find it.
 * You can start discreet work while being on a mission. The link for discreet
 work isn't shown while you are pursuing a mission, but if you [follow this link to discreet work](https://alpha.taustation.space/area/discreet-work), you can start it anyway.
 
@@ -894,7 +909,8 @@ The following are sources of VIP packs:
 * You can buy VIP packs on the Public Market when other players are willing to part with them.
 * You can find VIP packs in the ruins
 
-You can also sell VIP packs on the Public Market, for up to 10,000 credits per day of VIP.
+You can also sell VIP packs on the Public Market, for up to 10,000 credits per
+day of VIP, and even more for 3-day VIP packs.
 
 ## Travel
 
@@ -941,7 +957,7 @@ White / I: Independent
 
 ### Emergency Shuttle
 
-If you get stuck on any station except Tau, you can go to the Government
+If you get stuck on any station except Tau and Caen Stronghold, you can go to the Government
 Center of that station, and take the emergency shuttle back to Tau Station.
 
 You can book this emergency shuttle even if you don't have enough credits to
@@ -1026,6 +1042,8 @@ Brig depends on the law level. Tau Station is super paranoid, and you
 can't ever attack somebody successfully there (with the exception
 of random encounters in the Ruins).
 
+### Combat Equipment
+
 You can wear an armor suit, and equip up to two weapons. There are three
 kinds of damage, Impact, Piercing and Energy. Weapons have an inherent
 accuracy, and one or sometimes two kinds of damage they make.
@@ -1044,6 +1062,8 @@ available on your belt, where you can equip stims that let you boost a stat
 that is running low. But be careful, they also raise your toxin levels, and
 when those reach 100%, it's off to Sick Bay. In future, it is planned
 that you can also use grenades, and equip them on your combat belt.
+
+### Combat Mechanics
 
 The success of an attack depends on the physical stats, the accuracy of the
 weapon, and combat skills (which can be
@@ -1067,7 +1087,7 @@ trouble" feature.
 ### Choice of Weapons
 
 You have two weapon slots that you can equip from your inventory. Since
-combat starts with long range, and later goes to a short range,
+combat starts with long range, and goes to a short range after four rounds,
 you should usually equip one long and one short range weapon each.
 
 If possible, you should also select the weapons to do different types of
@@ -1160,7 +1180,8 @@ The mental model behind a clone is that it is an inactive
 duplicate of the character's body, and receives all experience and
 knowledge as a constant feed from the active body. Once the active body
 dies, the newest clone is activated. So the character keeps its
-*intelligence* and *social* stats, but reverts back to the physical
+*intelligence* and *social* stats, as well as experience and career
+experience, but reverts back to the physical
 stats of the clone.
 
 Each player has a *default clone* on Tau Station, which is automatically
@@ -1237,12 +1258,15 @@ The following persist through the death of a body:
 * Well-Fed status
 * Running University courses
 * The values of your Intelligence and Social stats
+* Experience
+* Career rank and experience
 
 ## Reputation
 
 There are currently four factions, *Consortium*, *Gaule*, *Independent* and
 *Freebooter*. Players have reputations with all of these factions, starting
-with *Mistrusted*.
+with either *Mistrusted* (Consortium and Gaule) or *Avoided* (Freebooter and
+Independent).
 
 High reputation with a faction has positive effects on stations of that
 faction:
@@ -1324,7 +1348,9 @@ current station (for which you have to pay).
 
 You can sell items for a fixed price if you go to Market and then
 Vendors (and then select the Inventory). Each item has a nominal price,
-and you get 30% of that price at NPC vendors. The same vendors also
+and you get 30% of that price at NPC vendors (though reputation bonus applies).
+
+The same vendors also
 sell items, but often for much more than the nominal price (like, a
 factor of 9 or so above the nominal price).
 
@@ -1336,6 +1362,9 @@ selling price up-front, which covers shipping fees as well. If a player
 buys it within three days, you will receive the asking price directly to
 your bank account. Otherwise, you can pick up the item after three days
 at the Shipping Bay.
+
+Placing more than one item on the market at the same time also costs an
+increasing amount of bonds.
 
 To sell an item, go to Market → Public, then to your inventory,
 and select the item you want to sell. There, you'll have a button
