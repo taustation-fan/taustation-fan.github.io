@@ -15,7 +15,7 @@ Secondary stat: Stamina
 | Sell illegal stims                        | 15   | social        | Anywhere |  ✔       |           |
 | Work in sales                             | 15   | social        | Market   |          |           |
 | Steal from the safe                       | 62   | agility       | Market   |  ✔       |           |
-| Run the store for the day                 | 48   | stamina       | Market   |  ✔       |           |
+| Run the store for the day                 | 48   | stamina       | Market   |          |           |
 | Record a holo-vid commercial              | 19   | social        | Market   |          |           |
 | Supervise staff                           | 15   | social        | Market   |          |           |
 | Negotiate a supply deal                   | 93   | social        | Port     |          |           |
