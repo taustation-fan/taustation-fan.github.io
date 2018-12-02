@@ -22,7 +22,7 @@ University courses, in this order:
 
 * Introduction to Spaceship Operations (all Universities, 100 Segments)
 * Basic Space Navigation (all Universities, 700 Segments)
-* Basic Ship Technology (all Universities 1400 Segments)
+* Basic Ship Technology (all Universities, 1400 Segments)
 * Basic Ship Handling (Spirit of Botswana, 2100 Segments)
 
 If you want to buy a *Razorback* (faster and much more expensive), you will
@@ -51,7 +51,7 @@ The following table shows the available and the planned ship types:
 
 Once you buy a ship, you have to give it a name (length between 3 and
 100 characters), and then it becomes available at the Docks. A newly
-bought ship is always fully fueled.
+bought ship is fully fueled.
 
 At the Docks, you can enter the ship, and choose a destination. On a Jump Gate,
 the destination can be a connected jump gate or a local station. On other stations,
@@ -82,27 +82,28 @@ Refueling is also slow, but you can spend bonds to speed it up.
 Traveling to local stations is cheaper with the private shuttle than
 with public shuttles; the interstellar jump is slightly more expensive
 if you refuel at Tau Station, and much more expensive if you refuel
-anywhere in Alpha Centauri.
+anywhere except in Sol.
 
 There are University courses available to reduce fuel consumption and to
 reduce the damage that ships take during normal operation.
-For example the *Basic Fuel Efficiency* course reduces fuel usage by 5%.
+The *Basic Fuel Efficiency* course reduces fuel usage by 5%,
+and the *Advanced* and *Mastery* course each add another 5% fuel savings.
 
 ## Maintenance
 
 Ships require regular repairs, and occasional refurbishments.
 
 Once a health bar of a ship reaches 75% or below, or when the
-navigation computers are "not operational", the it requires repairs
-before you can use the ship again.
+navigation computers are "not operational", the ship requires repair
+before you can fly it again.
 
 If you are lucky, and the current station has a shipyard, the repairs
 can be done for you by payed workers, which means you can do not have to
-be present during the repairs.
+be present during the repairs -- but it costs about twice as much as
+repairing it yourself..
 
 On stations without a shipyard, you have to repair your ship at the
-docks, which is much more expensive (typically on the order of 3,000
-to 5,000 credits), and can take significantly longer.
+docks, which is cheaper, but confines you to the docks during the repair.
 
 In either case, you can spend 10 bonds to halve the repair time.
 
