@@ -963,6 +963,10 @@ Center of that station, and take the emergency shuttle back to Tau Station.
 You can book this emergency shuttle even if you don't have enough credits to
 pay for it, and you end up in debt for the missing amount.
 
+The price depends on the player level, not on the distance to Tau Station. See
+[the wiki for a price
+list](http://taustation.wikidot.com/government-center#toc1).
+
 The emergency shuttle leaves immediately after you chose to use it, and it is
 non-stop even from stellar systems other than Sol.
 
