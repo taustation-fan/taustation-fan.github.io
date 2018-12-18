@@ -420,7 +420,7 @@ Stats can also randomly increase as a bonus of successfully completed
 discreet work.
 
 Finally, the primary and secondary stat of your career improve once
-per day, taking place at the same time as you salary payment.
+per day, taking place at the same time as your salary payment.
 
 ### Stats Benefits
 
