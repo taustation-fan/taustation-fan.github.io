@@ -2,7 +2,7 @@ This page is part of the [Unofficial Player's Guide to Tau Station](/).
 
 # Syndicates
 
-Syndicates are group of players with a common agenda teaming up.
+A Syndicate is a group of players with a common agenda teaming up.
 They are roughly equivalent to guilds or teams of other games.
 
 # Table of Contents
@@ -19,8 +19,8 @@ They are roughly equivalent to guilds or teams of other games.
 
 To form a syndicate, the designated leader must fulfill these requirements:
 
-* Level 16 or higher
-* Reputation *respected* to higher with the Consortium or Gaule
+* Level 14 or higher
+* Reputation *respected* or higher with the intended home station's faction
 * must have finished the course *Syndicate Basics* (which has *Introduction to Leadership* as a prerequisite)
 * must have at least 100,000 credits at their disposal.
 
@@ -30,8 +30,8 @@ found the syndicate. It needs a name, a three-letter shorthand (limited to a-z, 
 
 A syndicate can specify a minimal player level and a required genotype for members.
 
-Within the next 5 days, a syndicate needs three more co-signers at the same
-local government center. The three co-signers need only fulfill the genotype
+Within the next 5 days, a syndicate needs three more co-signers.
+The three co-signers need only fulfill the genotype
 and level requirements of the syndicate (if any), there are no reputation or
 monetary requirements for the co-signers or other syndicate members.
 
@@ -65,23 +65,25 @@ privilege by applying the *Membership Management* role.
 
 ## Banking
 
-Syndicates have a separate bank accounts. Members can donate bonds and
+Syndicates have a separate bank account. Members can donate bonds and
 credits to the syndicate.
 
-There is also a 5% tax by default on any credits that members get or 
+There is also a 5% tax by default on any credits that members get or
 deposit into the bank, and this 5% is diverted to the syndicate bank account.
 
 This tax rate can be changed to any integer number between 0 and 100% 
-inclusive by the syndicate members with "Money management" right.
+inclusive by the syndicate members with the "Money management" role.
 
 ## Communication
 
 Syndicate members are clearly marked on their profile page as being a
 member of a syndicate, and the chat shows the three-letter shorthand.
 
-Syndicates get a private private chat room.
+Syndicates get a private chat room.
 
-Syndicate members can also send broadcast in-mails to all members of the
+At level 4 Syndicates get a private forum.
+
+Syndicate members can also send broadcast in-game-mails to all members of the
 syndicate.
 
 ## Experience
@@ -89,13 +91,13 @@ syndicate.
 Syndicates gain experience points through member activity,
 and level up when the experience counter reaches 100%.
 
-So far, it is unclear what syndicate experience or levels is good for,
+So far, it is unclear what syndicate experience or levels are good for,
 except that syndicate levels are also grouped in tiers, and the
 syndicate gets another slot when ascending to another tier.
 
 ## Storage
 
-Each Syndicate automatically gets a shared storage unit in the Ruins
+Each Syndicate automatically gets a shared, insecure storage unit in the Ruins
 area of the station where it was founded.
 
 It is a *small* storage with 50 slots, which can be extended to 150

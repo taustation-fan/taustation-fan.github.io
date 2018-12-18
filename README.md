@@ -193,8 +193,8 @@ There is no way to convert credits to bonds.
 The bank offers you to convert bonds to credits at a 1:5 conversion
 rate, but that is a pretty terrible exchange.
 
-You get a better rate if you go the vendors at the Market, and buy
-a 3-day VIP pack for 290 bonds (which you can do once per 7 days).
+You get a better rate if you go to the vendors at the Market, and buy
+a 3-day VIP pack for 290 bonds (which you can do once every 7 days).
 You can sell this at the Public Market for somewhere between
 30,000 and 50,000 credits (of which you need to pay 10% as market fee).
 Before you do that, ask in the chat if anybody is willing to buy it, and
@@ -405,10 +405,10 @@ instance, find it easier to train Agility (where they get a 5% bonus)
 than Strength. All genotypes except Baseline have one stat with +5% bonus,
 one +2% bonus and a -5% handicap.
 
-Training can lead to injury (and thus unconsciousness or time at the
+Training can lead to injury (and thus unconsciousness or time in the
 Sick Bay) if your stats are too low. Each gym has a minimal sum of
 combined physical stats that you need to avoid injury, starting with 30
-at Tau Station and going up to 39 at Bordeaux and Yards of Gadani.
+at Tau Station and going up to 45 at Amazon and Maid of Orléans.
 Slightly higher limits (though not explicitly denoted) apply to training of the
 social and the intelligence stat.
 
@@ -420,7 +420,7 @@ Stats can also randomly increase as a bonus of successfully completed
 discreet work.
 
 Finally, the primary and secondary stat of your career improve once
-per day, along with the salary.
+per day, taking place at the same time as you salary payment.
 
 ### Stats Benefits
 
@@ -452,15 +452,15 @@ You can either sell them on the public market or gift them to other players.
 Rations also give you the "well fed" status for 32 segments (roughly 8
 hours), which increases stats and Focus regeneration. For rations of a
 lower tier, the "well fed" status is shorter (10 segments for a tier
-difference of two). "well fed" stacks up if you consume multiple rations.
+difference of two). "Well fed" stacks up if you consume multiple rations.
 
 ### Sources of Rations
 
 * You are automatically assigned one ration per day, which you can fetch
-at any station's Government Center.
+at any station's Government Center, except Caen Stronghold.
 * You can spend bonds as bribes for more rations at each station's Government
   Center, though the price doubles each time you do it in one day, and drops back
-  to the original price (20 bonds) 100 segments (one day) after your first bribe.
+  to the original price (20 bonds) 92 segments (almost one day) after your first bribe.
 * You can buy them off the Public Market when other players sell them there
 * You can buy rations from NPC vendors on Caen Stronghold (Barnard's Star),
   for 3160.80 credits per tier.
@@ -468,7 +468,7 @@ at any station's Government Center.
 * Sometimes they are awarded as the random reward for doing discreet work.
 * Rations are also often the reward of successful combat following random
   encounters in the Ruins on certain stations (Nouveau Limoges (Sol), Yards of
-  Gadani and Bordeaux (Alpha Centauri) drop tier 2 rations, Caen Stronghold and Hopkins Legacy
+  Gadani and Bordeaux (Alpha Centauri) drop tier 2 rations, Caen Stronghold and Hopkins' Legacy
   (Barnard's Star) drop tier 3 rations)
 
 
@@ -489,7 +489,8 @@ stations to find missions, and those missions might again prompt you to
 travel to other stations, which costs you credits (and there are missions that
 require at least three interstellar travels). Also, sometimes bribing
 somebody with your own credits is the easiest way to convince an NPC to
-collaborate.
+collaborate. There are situations where you seem to be at a dead end, which
+can be fixed by having enough credits in your wallet.
 
 Missions are the primary source of experience, and also give you a
 small financial reward. Some missions reward you with items, such as
@@ -513,7 +514,7 @@ I advise to play all missions available to you.
 
 All stations have a *Ruins* area with the *Wrecks* sub-area, where you can
 scavenge for discarded
-treasures. Each search costs 10% stamina, and if you find something,
+stuff. Each search costs 10% stamina, and if you find something,
 also 10% of Focus. Each successful find
 also adds to your experience.
 
@@ -528,7 +529,7 @@ The things you can find in the ruins include (in decreasing likelihood):
 * armor
 * rations
 
-The things you can find in the Wrecks is partially dependent on the station
+What you can actually find in the Wrecks is partially dependent on the station
 you are searching on. For example the weapons and armor you can find tend to
 be similar to those you can obtain through *Look for Trouble*, and the common
 trade good *Circuit Board* is usually only found at Barnard's Star. On the
@@ -560,7 +561,7 @@ sell or send them to storage there.
 
 Common trade goods are mostly an annoyance, but some players hypothesize
 that they might serve as the raw material for crafting items, when that
-feature will be implemented in future.
+feature will be implemented in the future.
 
 You can sell rare trade goods for significant credits at the NPC vendors,
 or use them as a means to transfer money to other players without paying
@@ -602,14 +603,14 @@ access to much better weapons and armor.
 Starting from level 5, you can also *Enter the Sewers*. The sewers are
 accessible at København and Taungoo in the Sol system, and at Moissan, Cirque
 Centauri and Yards of Gadani in the Alpha Centauri system. At Barnard's Star,
-on The Maid of Orléans has accessible sewers.
+only The Maid of Orléans has accessible sewers.
 This gives you a list of six opponents that you can attack in order, with the
 second becoming available once the first has been defeated, and so on.
 
 In contrast to
 *Look for trouble*, the reward is shown before you attack the opponent,
-and includes 5 bonds for the third and  10 bonds for the sixth opponent.
-The level of the *sewers* opponents are one to two level above the
+and includes 5 bonds for the third and 10 bonds for the sixth opponent.
+The level of the *sewers* opponents are one to two levels above the
 player level, so for higher-level players, they can be much stronger than
 the *look for trouble* opponents.
 
@@ -671,7 +672,7 @@ of the same task reduces your career by half of that amount.
 The experience is higher for tasks further down the list, even if
 the bonus is lower.
 
-Each night at midnight CET, or around GCT 95/900, the number of days you
+Each night at midnight CET, or around GCT /95:900, the number of days you
 have spent in a career rank increases.
 At the same time, you receive your regular payments of bonds and credits,
 depending on your current career rank.
@@ -1091,7 +1092,7 @@ trouble" feature.
 ### Choice of Weapons
 
 You have two weapon slots that you can equip from your inventory. Since
-combat starts with long range, and goes to a short range after four rounds,
+combat starts with long range, and goes to short range after four rounds,
 you should usually equip one long and one short range weapon each.
 
 If possible, you should also select the weapons to do different types of

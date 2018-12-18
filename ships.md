@@ -34,7 +34,8 @@ need these additional courses:
 ## Ship Types
 
 Once you have the prerequisite University courses and enough credits,
-you can go to a shipyard and buy a ship.
+you can go to a shipyard and buy a ship. (There is a shipyard on The Maid of
+Orléans, but it doesn't sell any ships.)
 
 The following table shows the available and the planned ship types:
 
@@ -50,14 +51,14 @@ The following table shows the available and the planned ship types:
 ## Operating a Ship
 
 Once you buy a ship, you have to give it a name (length between 3 and
-100 characters), and then it becomes available at the Docks. A newly
+100 characters, Unicode allowed), and then it becomes available at the Docks. A newly
 bought ship is fully fueled.
 
 At the Docks, you can enter the ship, and choose a destination. On a Jump Gate,
 the destination can be a connected jump gate or a local station. On other stations,
 you can just select local destinations.
 
-Using a ship consumes fuel proportionally to the travel time. You
+Using a ship consumes fuel proportionally to the travel distance. You
 can refuel at any dock, though the price per fuel depends on the
 station, and is roughly proportional to the station level. It varies
 between roughly 1,500 credits per gram on Tau Station to about 12,000
@@ -100,7 +101,7 @@ before you can fly it again.
 If you are lucky, and the current station has a shipyard, the repairs
 can be done for you by payed workers, which means you can do not have to
 be present during the repairs -- but it costs about twice as much as
-repairing it yourself..
+repairing it yourself.
 
 On stations without a shipyard, you have to repair your ship at the
 docks, which is cheaper, but confines you to the docks during the repair.
