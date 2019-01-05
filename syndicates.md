@@ -107,10 +107,50 @@ Every member can donate items to the syndicate by putting them
 into the storage, and members with the *Inventory Management* role
 also can take out items.
 
-## Benefits
+## Campaigns
 
-At this time, there are no direct benefits to syndicate members; those
-are planned for the near future.
+Every syndicate member with the *Campaign management* role can start
+a campaign at the *Ruins*, in the *Wilds* sub-area. The campaign manager
+can select the difficulty, with difficulty availability depending on
+syndicate level. She can also select among the syndicate member's tier
+for opponent tiers. For example if a syndicate contains tier 1 through
+tier 3 members, any combination of tier 1, tier 2 and tier 3 opponents
+is possible.
+
+Everybody who wants to participate in a campaign must come to the station 
+where the campaign was started.
+
+A campaign consists of several waves of opponents that syndicate
+members have to defeat in combat. A wave contains roughly equal number
+of fighters of each selected tier. Defeating all opponents of a wave
+unlocks the next wave (or for the last wave, successfully terminates
+the campaign).
+
+Any syndicate member present at the starting station can attack any
+opponent of the current wave that hasn't been defeated yet, and that
+isn't currently engaged in combat. A syndicate member who attacked
+an opponent and then fled (or was sent to Sick Bay or Brig) can only
+attack the same opponent again (and not other opponents), unless another
+syndicate member continues the attack.
+
+The waves of opponents contain progressively stronger fighters, both
+in skill level and physical stats.
+
+The number of opponents is based on the number of syndicate members,
+multiplied by a factor for the campaign difficulty:
+
+| Difficulty | Factor |
+|------------|--------|
+| easy       | 2      |
+| normal     | 4      |
+| hard       | 8      |
+
+Once all opponents are defeated, each syndicate member who participated
+in the campaigns gets an individual bonus directly into the inventory,
+and the syndicate gets loot into its (insecure) syndicate storage.
+
+The loot seems to depend on the station on which the campaign ran, and
+the amount depends on the difficulty.
 
 ---
 

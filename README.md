@@ -1221,6 +1221,11 @@ not all of the stations provide all three types of clones:
 |Barnard's Star | Hopkins' Legacy    | **NO**     | **CLONE** | **CENTER** |
 |Barnard's Star | Estación de Amazon | ?          | ?         | ?          |
 |Barnard's Star | Maid of Orléans    | **NO**     | **CLONE** | **CENTER** |
+|               |                    |            |           |            |
+|L 726-8 A      | L 762-8 Jump Gate  |            |           | ✔          |
+|L 726-8 A      | Orwell Stronghold  |            |           | ✔          |
+|L 726-8 A      | Spirit of Tianjin  |            |           | ✔          |
+
 
 3D-printed and vat-grown clones can be bought with credits, with the cost
 dependent on the player's level. The main differences between them are:
