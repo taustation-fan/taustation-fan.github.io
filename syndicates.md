@@ -136,7 +136,8 @@ syndicate member continues the attack.
 The waves of opponents contain progressively stronger fighters, both
 in skill level and physical stats.
 
-The number of opponents is based on the number of syndicate members,
+The number of opponents is based on the number of syndicate members (but
+assuming at least 5 for small syndicates),
 multiplied by a factor for the campaign difficulty:
 
 | Difficulty | Factor |
