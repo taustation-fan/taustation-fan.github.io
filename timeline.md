@@ -1,3 +1,5 @@
+* 2018-01-02: [**first closed alpha wave**](https://blog.taustation.space/blog/closed-alpha-test-liftoff/) -- the game first becomes playable by non-staff members
+* 2018-01-14: [second closed alpha wave](https://blog.taustation.space/blog/closed-alpha-test-2nd-shuttle-ready/)
 * 2018-01-16: [NPC vendors sell 3-day VIP packs](https://blog.taustation.space/blog/update-changelog-2018-jan-16/)
 * 2018-01-31: [bribing for rations](https://blog.taustation.space/blog/update-changelog-2018-jan-31/)
 * 2018-02-07: [genotype selection on character creation](https://blog.taustation.space/blog/update-changelog-2018-feb-07/)
