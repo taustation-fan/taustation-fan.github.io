@@ -7,6 +7,7 @@
 * 2018-02-21: [bond inflation (10x), decreased career bond rewards](https://blog.taustation.space/blog/update-changelog-2018-feb-21/)
 * 2018-02-21: [**Shop**](https://blog.taustation.space/blog/shop-grand-opening-next-steps/)
 * 2018-03-07: [items as mission rewards](https://blog.taustation.space/blog/update-changelog-2018-mar-07/)
+* 2018-03-21: [**Look for trouble**](https://blog.taustation.space/blog/update-changelog-2018-mar-21/)
 * 2018-03-28: [**Public Market**](https://blog.taustation.space/blog/update-changelog-2018-mar-28/)
 * 2018-04-18: [level cap increased from 15 to 25](https://blog.taustation.space/blog/update-changelog-2018-apr-18/)
 * 2018-04-18: [**Start of open alpha testing phase**](https://blog.taustation.space/blog/start-your-adventure-in-tau-station-now/)
@@ -29,5 +30,5 @@
 * 2018-10-25: [200 cycle day celebration](https://blog.taustation.space/blog/happy-cycle-200-citizens/) with a special 4-day VIP pack gift, and a new mission that awards the 200 day cycle celebration pin
 * 2018-11-14: [player avatars](https://blog.taustation.space/blog/update-changelog-2018-nov-14/)
 * 2018-11-22: [career difficulty and experience are now shown](https://blog.taustation.space/blog/update-changelog-2018-nov-22/)
-* 2018-12-31: the first version of [**Syndicate campaigns**](https://blog.taustation.space/blog/update-changelog-2018-dec-31/) are released
+* 2018-12-31: [**Syndicate campaigns**](https://blog.taustation.space/blog/update-changelog-2018-dec-31/)
 * 2018-12-31: [**New system L 726-8 A**](https://blog.taustation.space/blog/update-changelog-2018-dec-31/) (without missions yet)
