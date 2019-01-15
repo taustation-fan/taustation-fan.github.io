@@ -1081,6 +1081,9 @@ zero, the loser becomes unconscious. If the attacker wins, they can
 loot credits from the victim's purse, but cannot steal items from the
 loser.
 
+Each combat action costs 3% Focus if your opponent successfully attacks
+you, and 1% otherwise. If you run out of Focus, you are detained to the Brig.
+
 On stations with a Sick Bay, the loser can then recover in the Sick Bay.
 On stations without a Sick Bay (currently only Bordeaux Station and 
 Caen Stronghold), this can be the death of the character's body, which
