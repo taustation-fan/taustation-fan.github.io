@@ -242,7 +242,7 @@ rate of regeneration is higher if:
 * you are currently a VIP
 * you are "well fed" from consuming a ration earlier
 * you are in your hotel room
-* you have completed one of the "Anatomy" University courses, available
+* you have completed one or more of the "Anatomy" University courses, available
   on the Nouveau Limoges station
 
 Regeneration might be slightly faster if you stay longer in your hotel room.
@@ -522,11 +522,11 @@ The things you can find in the ruins include (in decreasing likelihood):
 
 * nothing
 * common trade goods (sell for less than 1 credit)
+* weapons
+* armor
 * rare trade goods (sell for 5000 credits or more)
 * bond packages
 * VIP packs
-* weapons
-* armor
 * rations
 
 What you can actually find in the Wrecks is partially dependent on the station
@@ -909,9 +909,12 @@ The following are sources of VIP packs:
 * You can buy a 3-day VIP pack every 7 days at the Vendors (Market), for 290 bonds
 * You can buy VIP packs on the Public Market when other players are willing to part with them.
 * You can find VIP packs in the ruins
+* Syndicate campaigns ([alledgedly](https://blog.taustation.space/blog/rewards-in-syndicate-campaigns/))
 
 You can also sell VIP packs on the Public Market, for up to 10,000 credits per
 day of VIP, and even more for 3-day VIP packs.
+
+VIP packs are all of tier 1, but work regardless of player tier.
 
 ## Travel
 
