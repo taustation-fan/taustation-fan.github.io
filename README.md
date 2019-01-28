@@ -1452,10 +1452,13 @@ systems, stations, ship types and much more.
   scripts](https://github.com/taustation-fan/userscripts) makes Tau station
   much easier to use. It includes navigation enhancements, stats trackers
   and other goodies.
-* The IRC channel `##taustation` on irc.freenode.org is a meeting point for players who find the built-in chat cumbersome.
+* The IRC channel `##taustation` on irc.freenode.org is a meeting point for
+  players who find the built-in chat cumbersome. Typically active during game
+  updates.
 * There's a Tau Station [subreddit](https://www.reddit.com/r/taustation/).
 * [Tau Station Alerts](https://alert.tauguide.de/) converts from GCT to Auld Earth Time
 * [Spreadsheet of weapons and armor](https://docs.google.com/spreadsheets/d/1TQhklKC7LhC2_MxmEyxQHy-2vai8ZM6krWmw6RF9XX0/edit#gid=1889785351)
 * [Tau Station on Discord](https://discord.gg/FSCxhFs)
+* [Timeline of major features](/timeline)
 
 <!-- vim: set textwidth=78: -->
