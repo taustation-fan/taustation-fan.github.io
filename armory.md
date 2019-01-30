@@ -25,7 +25,7 @@ Abbreviations used:
 
 | Tier | Range | Damage type     | Kind    | Weapon                   | Type               | Source                           | Comments                                                                   |
 |:-----|:------|:----------------|:--------|:-------------------------|:-------------------|:---------------------------------|:---------------------------------------------------------------------------|
-| 1    | long  | impact          | epic    | Killjoy                  | Rifle              | NPC vendors                      | Somtimes also available on the Public Market from no-longer-tier 1 players |
+| 1    | long  | impact          | epic    | Killjoy                  | Rifle              | NPC vendors                      | Somtimes also available on the Public Market                               |
 | 1    | long  | impact          | regular | Mama's Pride             | Shotgun            | NPC vendors, DW at YoG           |                                                                            |
 | 1    | long  | energy          | epic    | D10-X0                   | Rifle              | Syndicate campaigns              |                                                                            |
 | 1    | long  | energy          | regular | G-4E                     | Shotgun            | NPC vendors; DW                  |                                                                            |
@@ -41,11 +41,11 @@ Abbreviations used:
 | 2    | long  | energy          | regular | BuzzC7                   | Rifle              | NPC vendors; possibly DW         |                                                                            |
 |      |       |                 |         |                          |                    |                                  |                                                                            |
 | 2    | short | piercing        | epic    | Respectable Wakizashi    | Blade              | Mission reward; public market    |                                                                            |
-| 2    | short | piercing        | regular | Ice Miner's Pick         | Blade              | DW at YoG; public market         | pretty comon                                                               |
+| 2    | short | piercing        | regular | Ice Miner's Pick         | Blade              | DW at YoG; public market         | pretty common                                                              |
 | 2    | short | impact          | epic    | SorrowC1                 | Handgun            | NPC vendors                      |                                                                            |
 | 2    | short | impact          | regular | G-YoG                    | Short-Barrel Rifle | DW at YoG                        |                                                                            |
 | 2    | short | energy          | regular | Knuckles-the-Clown       | Club               | DW at YoG                        |                                                                            |
-| 2    | short | energy          | regular | Heated Prod              | Club               | DW at YoG; pretty rare           |                                                                            |
+| 2    | short | energy          | regular | Heated Prod              | Club               | DW at YoG                        | rare                                                                      |
 |      |       |                 |         |                          |                    |                                  |                                                                            |
 | 3    | long  | piercing        | epic    | ALNA-MODEX               | Sniper Rifle       | NPC vendors; Syndicate campaigns |                                                                            |
 | 3    | long  | impact          | regular | Silenced Song of Dotsent | Rifle              |                                  |                                                                            |
@@ -63,4 +63,4 @@ Abbreviations used:
 | 3    | short | energy          | regular | Smuggler's Knuckles      | Club               | L4T at MoO                       |                                                                            |
 | 3    | short | energy          | regular | Osmium Club              | Club               | DW at YoG                        |                                                                            |
 |      |       |                 |         |                          |                    |                                  |                                                                            |
-| 4    | short | piercing+energy | regular | Heat Scimitar            | Blade              | DW everywhere                    |                                                                            |
+| 4    | short | piercing+energy | regular | Heat Scimitar            | Blade              | DW everywhere; public market     |                                                                            |
