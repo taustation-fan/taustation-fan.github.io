@@ -1225,7 +1225,7 @@ not all of the stations provide all three types of clones:
 |Barnard's Star | BS Jump Gate       | ✔          | ✔         | ✔          |
 |Barnard's Star | Caen Stronghold    |            |           | ✔          |
 |Barnard's Star | Hopkins' Legacy    | **NO**     | **CLONE** | **CENTER** |
-|Barnard's Star | Estación de Amazon | ?          | ?         | ?          |
+|Barnard's Star | Estación de Amazon | ✔          | ✔         | ✔          |
 |Barnard's Star | Maid of Orléans    | **NO**     | **CLONE** | **CENTER** |
 |               |                    |            |           |            |
 |L 726-8 A      | L 762-8 Jump Gate  |            |           | ✔          |
