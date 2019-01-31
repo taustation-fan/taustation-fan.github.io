@@ -1,11 +1,18 @@
 # Careers
 
+*Illegal* career tasks can lead to confinement in the Brig if you fail
+the task and are unlucky. In this case, your reputation with the station's
+government also suffers. Higher Orwellian Levels make it more likely to be
+confined in the case of task failures.
+
+*Harmful* career tasks can send you to Sick Bay in case of failure.
+
 ## Business: Trader
 
 Primary stat: Social  
 Secondary stat: Stamina
 
-| Name                                      | Bonus| Stat          | Area     | Illegal  | Dangerous |
+| Name                                      | Bonus| Stat          | Area     | Illegal  | Harmful |
 |-------------------------------------------|------|---------------|----------|:---------|:----------|
 | Help a customer                           | 3    | social        | Market   |          |           |
 | Stock the shelves                         | 3    | stamina       | Market   |          |           |
@@ -44,7 +51,7 @@ Disadvantages:
 Primary stat: Agility
 Secondary stat: Social
 
-| Name                                                  | Bonus| Stat          | Area              | Illegal  | Dangerous |
+| Name                                                  | Bonus| Stat          | Area              | Illegal  | Harmful |
 |-------------------------------------------------------|------|---------------|------------------ |:---------|:----------|
 | Pick some pockets                                     | 3    | agility       | Anywhere          | ✔        |           |
 | Listen for information about easy marks               | 3    | social        | Anywhere          |          |           |
@@ -85,7 +92,7 @@ Disadvantages:
 Primary stat: Social  
 Secondary stat: Stamina
 
-| Name                                                   | Bonus  | Stat          | Area              | Illegal  | Dangerous |
+| Name                                                   | Bonus  | Stat          | Area              | Illegal  | Harmful |
 |--------------------------------------------------------|--------|---------------|-------------------|:---------|:----------|
 | Stamp visa forms                                       | 5      | stamina       | Gaule Embassy     |          |           |
 | Work as a door greeter                                 | 6      | social        | Gaule Embassy     |          |           |
@@ -129,7 +136,7 @@ Disadvantages:
 Primary stat: Intelligence  
 Secondary stat: Strength
 
-| Name                                                 | Bonus     | Stat          | Area         | Illegal  | Dangerous |
+| Name                                                 | Bonus     | Stat          | Area         | Illegal  | Harmful |
 |------------------------------------------------------|-----------|---------------|--------------|:---------|:----------|
 | Inspect a clone tank                                 | 3         | intelligence  | Cloning Vats |          |           |
 | Drain a clone tank                                   | 3         | strength      | Cloning Vats |          |           |
@@ -169,7 +176,7 @@ Disadvantages:
 Primary stat: Agility  
 Secondary stat: Intelligence
 
-| Name                                        | Bonus     | Stat          | Area              | Illegal  | Dangerous |
+| Name                                        | Bonus     | Stat          | Area              | Illegal  | Harmful |
 |---------------------------------------------|-----------|---------------|-------------------|:---------|:----------|
 | Listen for leads                            | 3         | agility       | Anywhere          |          |           |
 | Make an intel report                        | 3         | intelligence  | Security          |          |           |
@@ -209,7 +216,7 @@ Disdvantages:
 Primary stat: Stamina  
 Secondary stat: Strength
 
-| Name                                                    | Bonus     | Stat         | Area     | Illegal  | Dangerous |
+| Name                                                    | Bonus     | Stat         | Area     | Illegal  | Harmful |
 |---------------------------------------------------------|-----------|--------------|----------|:---------|:----------|
 |Scrub rust off a ship                                    | 3         | stamina      | Port     |          |           |
 |Polish a ship                                            | 3         | stamina      | Port     |          |           |
