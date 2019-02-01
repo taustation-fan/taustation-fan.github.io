@@ -983,6 +983,8 @@ All players start from level 1, and gain experience through
 * successful combat
 * finding things in the Ruins
 * career tasks
+* travel
+* item repair
 * discreet work
 
 The experience from combat depends on the opponent's level; so for
