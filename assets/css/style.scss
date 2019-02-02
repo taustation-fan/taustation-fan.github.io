@@ -4,7 +4,15 @@
 @import "{{ site.theme }}";
 
 table tr:nth-child(2n) {
-    background-color: azure;
+  background-color: azure;
+}
+
+.table-header-rotated {
+  background-color: azure;
+}
+
+.table-header-rotated tr:nth-child(2n) {
+  background-color: none;
 }
 
 .table-header-rotated th.row-header{
@@ -30,6 +38,8 @@ table tr:nth-child(2n) {
   padding: 0;
   font-size: 12px;
   line-height: 0.8;
+  background: none;
+  background-color: none;
 }
 
 .table-header-rotated th.rotate-45 > div{
@@ -46,6 +56,8 @@ table tr:nth-child(2n) {
   border-left: 1px solid #dddddd;
   border-right: 1px solid #dddddd;
   border-top: 1px solid #dddddd;
+  color: black;
+  background-color: azure;
 }
 
 .table-header-rotated th.rotate-45 span {
@@ -63,4 +75,52 @@ table tr:nth-child(2n) {
   width: 90px; /* 80 / cos(45) - 40 cos (45) = 85 where 80 is the height of the cell, 40 the width of the cell and 45 the transform angle*/
   text-align: left;
   // white-space: nowrap; /*whether to display in one line or not*/
+}
+
+td.afl-con {
+  min-width: 1.2rem;
+  background-color: #4a86e8;
+  color: white;
+}
+
+td.afl-gau {
+  min-width: 1.2rem;
+  background-color: #cc0000;
+  color: white;
+}
+
+td.afl-fre {
+  min-width: 1.2rem;
+  background-color: #e69138;
+  color: white;
+}
+
+td.afl-ind {
+  min-width: 1.2rem;
+  background-color: #6aa84f;
+  color: white;
+}
+
+td.high {
+  background-color: silver;
+}
+
+td.medium {
+  background-color: gainsboro;
+  font-weight: bold;
+}
+
+td.low {
+  background-color: whitesmoke;
+}
+
+td.station {
+  font-size: 12px;
+}
+
+td.star {
+  color: #fff;
+  background: #000;
+  text-align: left;
+  font-weight: bold;
 }

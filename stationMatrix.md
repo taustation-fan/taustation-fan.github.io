@@ -1,6 +1,6 @@
 This page is part of the [Unofficial Player's Guide to Tau Station](/).
 
-# Table of Contents
+# Table of Contents : [stationMatrix](/stationMatrix)
 
 * [Station Area Table](#station-area-table)
 
@@ -9,16 +9,17 @@ This page is part of the [Unofficial Player's Guide to Tau Station](/).
 <div class="scrollable-table">
   <table class="table table-striped table-header-rotated">
   <thead>
-    <th class="rotate-45"><div><span>Star</span></div></th>
     <th class="rotate-45"><div><span>Station</span></div></th>
     <th class="rotate-45"><div><span>Level</span></div></th>
+    <th class="rotate-45"><div><span>Orwellian</span></div></th>
+    <th class="rotate-45"><div><span>Legal</span></div></th>
     <th class="rotate-45"><div><span>Affiliation</span></div></th>
     <th class="rotate-45"><div><span>Bank</span></div></th>
     <th class="rotate-45"><div><span>Brig</span></div></th>
     <th class="rotate-45"><div><span>Clones</span></div></th>
-    <th class="rotate-45"><div><span>Decommissioned Area</span></div></th>
+    <th class="rotate-45"><div><span>D-com Area</span></div></th>
     <th class="rotate-45"><div><span>Embassy</span></div></th>
-    <th class="rotate-45"><div><span>Goverment Center</span></div></th>
+    <th class="rotate-45"><div><span>Gov't Center</span></div></th>
     <th class="rotate-45"><div><span>Gym</span></div></th>
     <th class="rotate-45"><div><span>Inn</span></div></th>
     <th class="rotate-45"><div><span>Employment</span></div></th>
@@ -34,18 +35,19 @@ This page is part of the [Unofficial Player's Guide to Tau Station](/).
   </thead>
   <tbody>
     <tr>
-      <td colspan="22">Sol</td>
+      <td colspan="23" class="star">Sol</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
-      <td>Tau Station</td>
-      <td>1</td>
-      <td>C</td>
+      <td class="station">Tau Station</td>
+      <td class="afl-con">1</td>
+      <td class="high">⇗</td>
+      <td class="high">⇗</td>
+      <td class="afl-con">C</td>
       <td><img src="assets/png/piggy-bank.png" title="Bank"/></td>
       <td><img src="assets/png/bars.png" title="Brig"/></td>
       <td><img src="assets/png/dna.png" title="Clones"/></td>
-      <td><img src="assets/png/asterisk.png" title="Decommissioned"/></td>
-      <td>G</td>
+      <td><img src="assets/png/asterisk.png" title="D-com Area"/></td>
+      <td class="afl-gau">G</td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>30</td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
@@ -61,31 +63,25 @@ This page is part of the [Unofficial Player's Guide to Tau Station](/).
       <td><img src="assets/png/graduation-cap.png" title="University"/></td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
-      <td>København</td>
+      <td class="station">København</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
-      <td>Daedalus</td>
+      <td class="station">Daedalus</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
-      <td>Taungoo</td>
+      <td class="station">Taungoo</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
-      <td>Nouveau Limoges</td>
+      <td class="station">Nouveau Limoges</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
-      <td>Sol Jump Gate</td>
+      <td class="station">Sol Jump Gate</td>
     </tr>
     <tr>
-      <td colspan="22">Alpha Centauri</td>
+      <td colspan="23" class="star">Alpha Centauri A</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
-      <td>Alpha Centauri Jump Gate</td>
+      <td class="station">Alpha Centauri Jump Gate</td>
       <td>7</td>
       <td>C</td>
       <td><img src="assets/png/piggy-bank.png" title="Bank"/></td>
@@ -108,10 +104,10 @@ This page is part of the [Unofficial Player's Guide to Tau Station](/).
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td colspan="22">Bernard's Star</td>
+      <td colspan="23" class="star">Bernard's Star</td>
     </tr>
     <tr>
-      <td colspan="22">L 726-8<td>
+      <td colspan="23" class="star">L 726-8</td>
     </tr>
   </tbody>
 </table>
