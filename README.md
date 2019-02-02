@@ -1132,6 +1132,9 @@ weapons can be recommended in particular:
 can be quite effective; they have been omitted from the table above, as well
 as extremely heavy weapons such as sniper rifles).
 
+Please [check the armory for more comprehensive weapons
+recommendations](/armory).
+
 Be aware that you can only equip weapons and armor of your own [tier](#tiers)
 or lower, not of higher tiers.
 
