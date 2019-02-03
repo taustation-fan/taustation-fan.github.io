@@ -140,11 +140,11 @@ The number of opponents is based on the number of syndicate members (but
 assuming at least 5 for small syndicates),
 multiplied by a factor for the campaign difficulty:
 
-| Difficulty | Factor |
-|------------|--------|
-| easy       | 2      |
-| normal     | 4      |
-| hard       | 8      |
+| Difficulty | Factor | Unlocked by level |
+|------------|:------:|:-----------------:|
+| easy       | 2      |                   |
+| normal     | 4      |                   |
+| hard       | 8      |            5      |
 
 Once all opponents are defeated, each syndicate member who participated
 in the campaigns gets an individual bonus directly into the inventory,
