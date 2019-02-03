@@ -25,10 +25,10 @@ Style information: assets/css/style.scss
     <th class="rotate-45"><div><span>Clones</span></div></th>
     <th class="rotate-45"><div><span>D-com Area</span></div></th>
     <th class="rotate-45"><div><span>Embassy</span></div></th>
+    <th class="rotate-45"><div><span>Employment</span></div></th>
     <th class="rotate-45"><div><span>Gov't Center</span></div></th>
     <th class="rotate-45"><div><span>Gym</span></div></th>
     <th class="rotate-45"><div><span>Inn</span></div></th>
-    <th class="rotate-45"><div><span>Employment</span></div></th>
     <th class="rotate-45"><div><span>Market</span></div></th>
     <th class="rotate-45"><div><span>Port</span></div></th>
     <th class="rotate-45"><div><span>Residences</span></div></th>
@@ -54,10 +54,10 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/dna.png" title="Clones"/></td>
       <td><img src="assets/png/asterisk.png" title="D-com Area"/></td>
       <td class="afl-gau">G</td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>30</td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
-      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
       <td><img src="assets/png/building.png" title="Residences"/></td>
@@ -79,16 +79,16 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/dna.png" title="Clones"/></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>30</td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
-      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
       <td>&nbsp;</td>
       <td><img src="assets/png/university.png" title="Ruins"/></td>
       <td><img src="assets/png/warp-pipe2.png" title="Sewers"/></td>
-      <td><img src="assets/png/officer.png" title="Security"/></td>
+      <td>&nbsp;</td>
       <td><img src="assets/png/space-shuttle.png" title="Shipyard"/></td>
       <td><img src="assets/png/syringe.png" title="Sick Bay"/></td>
       <td>&nbsp;</td>
@@ -104,10 +104,10 @@ Style information: assets/css/style.scss
       <td>&nbsp;</td>
       <td><img src="assets/png/asterisk.png" title="D-com Area"/></td>
       <td>&nbsp;</td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>30</td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
-      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
       <td><img src="assets/png/building.png" title="Residences"/></td>
@@ -129,10 +129,10 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/dna.png" title="Clones"/></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>30</td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
-      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
       <td><img src="assets/png/building.png" title="Residences"/></td>
@@ -154,10 +154,10 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/dna.png" title="Clones"/></td>
       <td><img src="assets/png/asterisk.png" title="D-com Area"/></td>
       <td class="afl-con">C</td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>33</td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
-      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
       <td><img src="assets/png/building.png" title="Residences"/></td>
@@ -179,10 +179,10 @@ Style information: assets/css/style.scss
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td>&nbsp;</td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
       <td>&nbsp;</td>
@@ -207,10 +207,10 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/dna.png" title="Clones"/></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td>&nbsp;</td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
       <td>&nbsp;</td>
@@ -232,10 +232,10 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/dna.png" title="Clones"/></td>
       <td><img src="assets/png/asterisk.png" title="D-com Area"/></td>
       <td>&nbsp;</td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>33</td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
-      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
       <td><img src="assets/png/building.png" title="Residences"/></td>
@@ -257,10 +257,10 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/dna.png" title="Clones"/></td>
       <td>&nbsp;</td>
       <td class="afl-con">C</td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>36</td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
-      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
       <td><img src="assets/png/building.png" title="Residences"/></td>
@@ -282,10 +282,10 @@ Style information: assets/css/style.scss
       <td>&nbsp;</td>
       <td><img src="assets/png/asterisk.png" title="D-com Area"/></td>
       <td>&nbsp;</td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>36</td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
-      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
       <td><img src="assets/png/building.png" title="Residences"/></td>
@@ -307,10 +307,10 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/dna.png" title="Clones"/></td>
       <td><img src="assets/png/asterisk.png" title="D-com Area"/></td>
       <td>&nbsp;</td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>36</td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
-      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
       <td><img src="assets/png/building.png" title="Residences"/></td>
@@ -332,10 +332,10 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/dna.png" title="Clones"/></td>
       <td><img src="assets/png/asterisk.png" title="D-com Area"/></td>
       <td class="afl-gau">G</td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>36</td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
-      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
       <td><img src="assets/png/building.png" title="Residences"/></td>
@@ -357,10 +357,10 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/dna.png" title="Clones"/></td>
       <td><img src="assets/png/asterisk.png" title="D-com Area"/></td>
       <td>&nbsp;</td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>39</td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
-      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
       <td>&nbsp;</td>
@@ -382,10 +382,10 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/dna.png" title="Clones"/></td>
       <td><img src="assets/png/asterisk.png" title="D-com Area"/></td>
       <td>&nbsp;</td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>39</td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
-      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
       <td><img src="assets/png/building.png" title="Residences"/></td>
@@ -410,10 +410,10 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/dna.png" title="Clones"/></td>
       <td>&nbsp;</td>
       <td class="afl-gau">G</td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>&nbsp;</td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
-      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td>&nbsp;</td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
       <td><img src="assets/png/building.png" title="Residences"/></td>
@@ -435,10 +435,10 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/dna.png" title="Clones"/></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>42</td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
-      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
       <td><img src="assets/png/ship.png" title="Port"/>&dagger;</td>
       <td>&nbsp;</td>
@@ -460,10 +460,10 @@ Style information: assets/css/style.scss
       <td>&nbsp;</td>
       <td><img src="assets/png/asterisk.png" title="D-com Area"/></td>
       <td>&nbsp;</td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>42</td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
-      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
       <td><img src="assets/png/building.png" title="Residences"/></td>
@@ -485,10 +485,10 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/dna.png" title="Clones"/></td>
       <td>&nbsp;</td>
       <td class="afl-con">C</td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>45</td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
-      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
       <td><img src="assets/png/building.png" title="Residences"/></td>
@@ -510,10 +510,10 @@ Style information: assets/css/style.scss
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>45</td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
-      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
       <td><img src="assets/png/building.png" title="Residences"/></td>
@@ -538,10 +538,10 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/dna.png" title="Clones"/></td>
       <td><img src="assets/png/asterisk.png" title="D-com Area"/></td>
       <td>&nbsp;</td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>&nbsp;</td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
-      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
       <td><img src="assets/png/building.png" title="Residences"/></td>
@@ -563,10 +563,10 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/dna.png" title="Clones"/></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>48</td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
-      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/building.png" title="Residences"/></td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
       <td>&nbsp;</td>
@@ -588,10 +588,10 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/dna.png" title="Clones"/></td>
       <td><img src="assets/png/asterisk.png" title="D-com Area"/></td>
       <td class="afl-gau">G</td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>51</td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
-      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
       <td><img src="assets/png/building.png" title="Residences"/></td>
