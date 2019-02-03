@@ -567,7 +567,7 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>48</td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
-      <td><img src="assets/png/building.png" title="Residences"/></td>
+      <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
       <td>&nbsp;</td>
       <td><img src="assets/png/university.png" title="Ruins"/></td>
@@ -592,7 +592,7 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>51</td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
-      <td><img src="assets/png/ship.png" title="Port"/></td>
+      <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
       <td><img src="assets/png/building.png" title="Residences"/></td>
       <td><img src="assets/png/university.png" title="Ruins"/></td>
