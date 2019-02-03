@@ -1,10 +1,16 @@
 This page is part of the [Unofficial Player's Guide to Tau Station](/).
 
-# Table of Contents : [stationMatrix](/stationMatrix)
+# Table of Contents
 
 * [Station Area Table](#station-area-table)
+* [Station Area Key](#station-area-key)
 
 # Station Area Table
+<!-- 
+Table and style information based on this article:
+https://www.jimmybonney.com/articles/column_header_rotation_css/
+Style information: assets/css/style.scss
+-->
 
 <div class="scrollable-table">
   <table class="table table-striped table-header-rotated">
@@ -434,7 +440,7 @@ This page is part of the [Unofficial Player's Guide to Tau Station](/).
       <td><img src="assets/png/bed.png" title="Inn"/></td>
       <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
-      <td><img src="assets/png/ship.png" title="Port"/></td>
+      <td><img src="assets/png/ship.png" title="Port"/>&dagger;</td>
       <td>&nbsp;</td>
       <td><img src="assets/png/university.png" title="Ruins"/></td>
       <td>&nbsp;</td>
@@ -484,7 +490,7 @@ This page is part of the [Unofficial Player's Guide to Tau Station](/).
       <td><img src="assets/png/bed.png" title="Inn"/></td>
       <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
-      <td><img src="assets/png/ship.png" title="Port"/>&dagger;</td>
+      <td><img src="assets/png/ship.png" title="Port"/></td>
       <td><img src="assets/png/building.png" title="Residences"/></td>
       <td><img src="assets/png/university.png" title="Ruins"/></td>
       <td>&nbsp;</td>
@@ -597,4 +603,50 @@ This page is part of the [Unofficial Player's Guide to Tau Station](/).
       <td>&nbsp;</td>
     </tr>
   </tbody>
-</table>
+  </table>
+</div>
+
+# Station Area Key
+
+<div>
+  <table>
+  <thead>
+    <th>Symbol</th>
+    <th>Description</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>&dagger;</td>
+      <td>This station does not have local shuttle access.  Express shuttles or personal ships may be used to access the station.</td>
+    </tr>
+    <tr>
+      <td class="afl-con">&nbsp;</td>
+      <td>Consortium</td>
+    </tr>
+    <tr>
+      <td class="afl-fre">&nbsp;</td>
+      <td>Freebooter</td>
+    </tr>
+    <tr>
+      <td class="afl-gau">&nbsp;</td>
+      <td>Gaule</td>
+    </tr>
+    <tr>
+      <td class="afl-ind">&nbsp;</td>
+      <td>Independent</td>
+    </tr>
+    <tr>
+      <td class="high">⇗</td>
+      <td>Orwellian and/or Law level: High</td>
+    </tr>
+    <tr>
+      <td class="medium">⇒</td>
+      <td>Orwellian and/or Law level: Medium</td>
+    </tr>
+    <tr>
+      <td class="low">⇘</td>
+      <td>Orwellian and/or Law level: Low</td>
+    </tr>
+  </tbody>
+  </table>
+</div>

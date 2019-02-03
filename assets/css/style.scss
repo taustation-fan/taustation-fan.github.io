@@ -30,7 +30,7 @@ table tr:nth-child(2n) {
 }
 
 .table-header-rotated th.rotate-45 {
-  height: 65px;
+  height: 66px;
   width: 40px;
   min-width: 40px;
   max-width: 40px;
@@ -46,7 +46,7 @@ table tr:nth-child(2n) {
 .table-header-rotated th.rotate-45 > div {
   position: relative;
   top: 0px;
-  left: 45px; /* 80 * tan(45) / 2 = 40 where 80 is the height on the cell and 45 is the transform angle*/
+  left: 34px; /* 80 * tan(45) / 2 = 40 where 80 is the height on the cell and 45 is the transform angle*/
   height: 100%;
   -ms-transform:skew(-45deg,0deg);
   -moz-transform:skew(-45deg,0deg);
@@ -131,4 +131,5 @@ td.star {
   background: #000;
   text-align: left;
   font-weight: bold;
+  padding-left: 5px;
 }
