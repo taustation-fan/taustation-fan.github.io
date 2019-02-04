@@ -49,7 +49,7 @@ Abbreviations used:
 |      |       |                 |         |                          |                    |                                  |                                                                            |
 | 3    | long  | piercing        | epic    | ALNA-MODEX               | Sniper Rifle       | NPC vendors; Syndicate campaigns |                                                                            |
 | 3    | long  | impact          | regular | Silenced Song of Dotsent | Rifle              |                                  |                                                                            |
-| 3    | long  | energy          | regular | G-SAG1                   | Shotgun            | DW at YoG                        |                                                                            |
+| 3    | long  | energy          | regular | G-SAG1E                  | Shotgun            | DW at YoG                        |                                                                            |
 | 3    | long  | energy          | regular | Little Timmy             | Shotgun            | L4T at MoO                       |                                                                            |
 | 3    | long  | energy          | regular | NightC2                  | Shotgun            | L4T at MoO                       |                                                                            |
 | 3    | short | piercing        | epic    | Fawnskipper              | Blade              | NPC vendors                      |                                                                            |
