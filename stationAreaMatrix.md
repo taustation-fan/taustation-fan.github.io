@@ -15,29 +15,31 @@ Style information: assets/css/style.scss
 <div class="scrollable-table">
   <table class="table table-striped table-header-rotated">
   <thead>
-    <th class="rotate-45"><div><span>Station</span></div></th>
-    <th class="rotate-45"><div><span>Level</span></div></th>
-    <th class="rotate-45"><div><span>Affiliation</span></div></th>
-    <th class="rotate-45"><div><span>Orwellian</span></div></th>
-    <th class="rotate-45"><div><span>Legal</span></div></th>
-    <th class="rotate-45"><div><span>Bank</span></div></th>
-    <th class="rotate-45"><div><span>Brig</span></div></th>
-    <th class="rotate-45"><div><span>Clones</span></div></th>
-    <th class="rotate-45"><div><span>D-com Area</span></div></th>
-    <th class="rotate-45"><div><span>Embassy</span></div></th>
-    <th class="rotate-45"><div><span>Employment</span></div></th>
-    <th class="rotate-45"><div><span>Gov't Center</span></div></th>
-    <th class="rotate-45"><div><span>Gym</span></div></th>
-    <th class="rotate-45"><div><span>Inn</span></div></th>
-    <th class="rotate-45"><div><span>Market</span></div></th>
-    <th class="rotate-45"><div><span>Port</span></div></th>
-    <th class="rotate-45"><div><span>Residences</span></div></th>
-    <th class="rotate-45"><div><span>Ruins</span></div></th>
-    <th class="rotate-45"><div><span>Sewers</span></div></th>
-    <th class="rotate-45"><div><span>Security</span></div></th>
-    <th class="rotate-45"><div><span>Shipyard</span></div></th>
-    <th class="rotate-45"><div><span>Sick Bay</span></div></th>
-    <th class="rotate-45"><div><span>University</span></div></th>
+    <tr>
+      <th class="rotate-45"><div><span>Station</span></div></th>
+      <th class="rotate-45"><div><span>Level</span></div></th>
+      <th class="rotate-45"><div><span>Affiliation</span></div></th>
+      <th class="rotate-45"><div><span>Orwellian</span></div></th>
+      <th class="rotate-45"><div><span>Legal</span></div></th>
+      <th class="rotate-45"><div><span>Bank</span></div></th>
+      <th class="rotate-45"><div><span>Brig</span></div></th>
+      <th class="rotate-45"><div><span>Clones</span></div></th>
+      <th class="rotate-45"><div><span>D-com Area</span></div></th>
+      <th class="rotate-45"><div><span>Embassy</span></div></th>
+      <th class="rotate-45"><div><span>Employment</span></div></th>
+      <th class="rotate-45"><div><span>Gov't Center</span></div></th>
+      <th class="rotate-45"><div><span>Gym</span></div></th>
+      <th class="rotate-45"><div><span>Inn</span></div></th>
+      <th class="rotate-45"><div><span>Market</span></div></th>
+      <th class="rotate-45"><div><span>Port</span></div></th>
+      <th class="rotate-45"><div><span>Residences</span></div></th>
+      <th class="rotate-45"><div><span>Ruins</span></div></th>
+      <th class="rotate-45"><div><span>Sewers</span></div></th>
+      <th class="rotate-45"><div><span>Security</span></div></th>
+      <th class="rotate-45"><div><span>Shipyard</span></div></th>
+      <th class="rotate-45"><div><span>Sick Bay</span></div></th>
+      <th class="rotate-45"><div><span>University</span></div></th>
+    </tr>
   </thead>
   <tbody>
     <tr>
@@ -611,8 +613,10 @@ Style information: assets/css/style.scss
 <div>
   <table>
   <thead>
-    <th>Symbol</th>
-    <th>Description</th>
+    <tr>
+      <th>Symbol</th>
+      <th>Description</th>
+    </tr>
   </thead>
   <tbody>
     <tr>
