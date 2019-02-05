@@ -399,10 +399,10 @@ Style information: assets/css/style.scss
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td colspan="23" class="star">Bernard's Star</td>
+      <td colspan="23" class="star">Barnard's Star</td>
     </tr>
     <tr>
-      <td class="station">Bernard's Star Jump Gate</td>
+      <td class="station">Barnard's Star Jump Gate</td>
       <td class="afl-con">10</td>
       <td class="afl-con">C</td>
       <td class="high">⇗</td>
