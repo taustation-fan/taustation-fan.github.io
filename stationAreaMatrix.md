@@ -620,19 +620,19 @@ Style information: assets/css/style.scss
       <td>Caen Stronghold does not have local shuttle access.  Express shuttles or personal ships may be used to access the station.</td>
     </tr>
     <tr>
-      <td class="afl-con">&nbsp;</td>
+      <td class="afl-con">C</td>
       <td>Consortium</td>
     </tr>
     <tr>
-      <td class="afl-fre">&nbsp;</td>
+      <td class="afl-fre">F</td>
       <td>Freebooter</td>
     </tr>
     <tr>
-      <td class="afl-gau">&nbsp;</td>
+      <td class="afl-gau">G</td>
       <td>Gaule</td>
     </tr>
     <tr>
-      <td class="afl-ind">&nbsp;</td>
+      <td class="afl-ind">I</td>
       <td>Independent</td>
     </tr>
     <tr>
