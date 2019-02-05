@@ -952,12 +952,7 @@ travel, University courses also continue to progress.
 
 **Station/Area Matrix**
 
-![station/area matrix](./station-area-matrix.png)
-
-Blue / C: Consortium  
-Red / G: Gaule  
-Orange / F: Freebooter  
-White / I: Independent
+[Station/Area Matrix](stationAreaMatrix)
 
 ### Emergency Shuttle
 
