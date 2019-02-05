@@ -598,7 +598,7 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/ship.png" title="Port"/></td>
       <td><img src="assets/png/building.png" title="Residences"/></td>
       <td><img src="assets/png/university.png" title="Ruins"/></td>
-      <td>&nbsp;</td>
+      <td><img src="assets/png/warp-pipe2.png" title="Sewers"/></td>
       <td><img src="assets/png/officer.png" title="Security"/></td>
       <td>&nbsp;</td>
       <td><img src="assets/png/syringe.png" title="Sick Bay"/></td>
