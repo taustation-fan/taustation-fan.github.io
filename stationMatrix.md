@@ -617,7 +617,7 @@ Style information: assets/css/style.scss
   <tbody>
     <tr>
       <td>&dagger;</td>
-      <td>This station does not have local shuttle access.  Express shuttles or personal ships may be used to access the station.</td>
+      <td>Caen Stronghold does not have local shuttle access.  Express shuttles or personal ships may be used to access the station.</td>
     </tr>
     <tr>
       <td class="afl-con">&nbsp;</td>
