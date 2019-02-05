@@ -12,7 +12,7 @@ table tr:nth-child(2n) {
 }
 
 .table-header-rotated tr:nth-child(2n) {
-  background-color: none;
+  background-color: transparent;
 }
 
 .table-header-rotated th.row-header {
@@ -21,7 +21,7 @@ table tr:nth-child(2n) {
 
 .table-header-rotated td {
   background-color: azure;
-  width: 40px;
+  width: 28px;
   border-top: 1px solid #dddddd;
   border-left: 1px solid #dddddd;
   border-right: 1px solid #dddddd;
@@ -32,16 +32,16 @@ table tr:nth-child(2n) {
 
 .table-header-rotated th.rotate-45 {
   height: 66px;
-  width: 40px;
-  min-width: 40px;
-  max-width: 40px;
+  width: 28px;
+  min-width: 28px;
+  max-width: 28px;
   position: relative;
   vertical-align: bottom;
   padding: 0px;
   font-size: 12px;
   line-height: 0.8;
   background: none;
-  background-color: none;
+  background-color: transparent;
 }
 
 .table-header-rotated th.rotate-45 > div {
@@ -64,7 +64,7 @@ table tr:nth-child(2n) {
 
 .table-header-rotated td > img {
   padding: 0px;
-  margin: none;
+  margin: 4px 0 0 0;
   border: none;
 }
 
@@ -76,7 +76,7 @@ table tr:nth-child(2n) {
   transform:skew(45deg,0deg) rotate(315deg);
   position: absolute;
   bottom: 30px; /* 40 cos(45) = 28 with an additional 2px margin*/
-  left: -25px; /*Because it looked good, but there is probably a mathematical link here as well*/
+  left: -33px; /*Because it looked good, but there is probably a mathematical link here as well*/
   display: inline-block;
   // width: 100%;
   // Width of text in column
@@ -124,7 +124,7 @@ td.low {
 
 td.station {
   font-size: 12px;
-  padding: 0px;
+  padding: 0px 5px;
 }
 
 td.star {
