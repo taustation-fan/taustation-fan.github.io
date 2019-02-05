@@ -575,7 +575,7 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/university.png" title="Ruins"/></td>
       <td>&nbsp;</td>
       <td><img src="assets/png/officer.png" title="Security"/></td>
-      <td>&nbsp;</td>
+      <td><img src="assets/png/space-shuttle.png" title="Shipyard"/></td>
       <td><img src="assets/png/syringe.png" title="Sick Bay"/></td>
       <td>&nbsp;</td>
     </tr>
