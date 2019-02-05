@@ -8,7 +8,7 @@ table tr:nth-child(2n) {
 }
 
 .table-header-rotated {
-  background-color: azure;
+  border: none;
 }
 
 .table-header-rotated tr:nth-child(2n) {
@@ -20,6 +20,7 @@ table tr:nth-child(2n) {
 }
 
 .table-header-rotated td {
+  background-color: azure;
   width: 40px;
   border-top: 1px solid #dddddd;
   border-left: 1px solid #dddddd;
