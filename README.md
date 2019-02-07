@@ -1878,6 +1878,11 @@ not all of the stations provide all three types of clones:
 |L 726-8 A      | L 762-8 Jump Gate  |            |           | ✔          |
 |L 726-8 A      | Orwell Stronghold  |            |           | ✔          |
 |L 726-8 A      | Spirit of Tianjin  |            |           | ✔          |
+|               |                    |            |           |            |
+| YZ Ceti       | YZ Ceti JG         |   ?        |  ?        | ?          |
+| YZ Ceti       | Cape Verde         |   ?        |  ?        | ✔          |
+| YZ Ceti       | Asimov Freehold    |            |  ✔        | ✔          |
+| YZ Ceti       | Spirit of NYC      |   ?        |  ?        | ✔          |
 
 
 3D-printed and vat-grown clones can be bought with credits, with the cost
