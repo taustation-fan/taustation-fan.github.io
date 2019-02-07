@@ -1550,6 +1550,109 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/syringe.png" title="Sick Bay"/></td>
       <td>&nbsp;</td>
     </tr>
+    <tr>
+      <td colspan="23" class="star">YZ Ceti</td>
+    </tr>
+    <tr>
+      <td class="station">YZ Ceti Jump Gate</td>
+      <td class="afl-con">19</td>
+      <td class="afl-con">C</td>
+      <td class="high">⇗</td>
+      <td class="high">⇗</td>
+      <td><img src="assets/png/piggy-bank.png" title="Bank"/></td>
+      <td><img src="assets/png/bars.png" title="Brig"/></td>
+      <td><img src="assets/png/dna.png" title="Clones"/></td>
+      <td><img src="assets/png/asterisk.png" title="D-com Area"/></td>
+      <td>&nbsp;</td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
+      <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
+      <td></td>
+      <td><img src="assets/png/bed.png" title="Inn"/></td>
+      <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
+      <td><img src="assets/png/ship.png" title="Port"/></td>
+      <td>&nbsp;</td>
+      <td><img src="assets/png/university.png" title="Ruins"/></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><img src="assets/png/syringe.png" title="Sick Bay"/></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td class="station">Asimov Freehold</td>
+      <td class="afl-con">19</td>
+      <td class="afl-con">C</td>
+      <td class="high">⇗</td>
+      <td class="high">⇗</td>
+      <td><img src="assets/png/piggy-bank.png" title="Bank"/></td>
+      <td><img src="assets/png/bars.png" title="Brig"/></td>
+      <td><img src="assets/png/dna.png" title="Clones"/></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
+      <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
+      <td>75</td>
+      <td><img src="assets/png/bed.png" title="Inn"/></td>
+      <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
+      <td><img src="assets/png/ship.png" title="Port"/></td>
+      <td>&nbsp;</td>
+      <td><img src="assets/png/university.png" title="Ruins"/></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><img src="assets/png/syringe.png" title="Sick Bay"/></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td class="station">Cape Verde Stronghold</td>
+      <td class="afl-con">19</td>
+      <td class="afl-con">C</td>
+      <td class="high">⇗</td>
+      <td class="high">⇗</td>
+      <td><img src="assets/png/piggy-bank.png" title="Bank"/></td>
+      <td><img src="assets/png/bars.png" title="Brig"/></td>
+      <td><img src="assets/png/dna.png" title="Clones"/></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
+      <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
+      <td>75</td>
+      <td><img src="assets/png/bed.png" title="Inn"/></td>
+      <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
+      <td><img src="assets/png/ship.png" title="Port"/></td>
+      <td><img src="assets/png/building.png" title="Residences"/></td>
+      <td><img src="assets/png/university.png" title="Ruins"/></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><img src="assets/png/syringe.png" title="Sick Bay"/></td>
+      <td><img src="assets/png/graduation-cap.png" title="University"/></td>
+    </tr>
+    <tr>
+      <td class="station">Sprit of NYC</td>
+      <td class="afl-con">20</td>
+      <td class="afl-con">C</td>
+      <td class="high">⇗</td>
+      <td class="high">⇗</td>
+      <td><img src="assets/png/piggy-bank.png" title="Bank"/></td>
+      <td><img src="assets/png/bars.png" title="Brig"/></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
+      <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
+      <td>75</td>
+      <td><img src="assets/png/bed.png" title="Inn"/></td>
+      <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
+      <td><img src="assets/png/ship.png" title="Port"/></td>
+      <td>&nbsp;</td>
+      <td><img src="assets/png/university.png" title="Ruins"/></td>
+      <td><img src="assets/png/warp-pipe2.png" title="Sewers"/></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><img src="assets/png/syringe.png" title="Sick Bay"/></td>
+      <td>&nbsp;</td>
+    </tr>
   </tbody>
   </table>
 </div>
