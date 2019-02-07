@@ -1595,7 +1595,7 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/bed.png" title="Inn"/></td>
       <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
-      <td>&nbsp;</td>
+      <td><img src="assets/png/building.png" title="Residences"/></td>
       <td><img src="assets/png/university.png" title="Ruins"/></td>
       <td>&nbsp;</td>
       <td><img src="assets/png/officer.png" title="Security"/></td>
