@@ -31,4 +31,5 @@
 * 2018-11-14: [player avatars](https://blog.taustation.space/blog/update-changelog-2018-nov-14/)
 * 2018-11-22: [career difficulty and experience are now shown](https://blog.taustation.space/blog/update-changelog-2018-nov-22/)
 * 2018-12-31: [**Syndicate campaigns**](https://blog.taustation.space/blog/update-changelog-2018-dec-31/)
-* 2018-12-31: [**New system L 726-8 A**](https://blog.taustation.space/blog/update-changelog-2018-dec-31/) (without missions yet)
+* 2018-12-31: [**New system L 726-8 A**](https://blog.taustation.space/blog/update-changelog-2018-dec-31/) (released without missions, being backfilled)
+* 2018-02-05: [**New System YZ Ceti**](https://blog.taustation.space/blog/update-changelog-2019-feb-05/) (without missions yet)
