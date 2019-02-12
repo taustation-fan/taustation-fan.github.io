@@ -33,3 +33,5 @@
 * 2018-12-31: [**Syndicate campaigns**](https://blog.taustation.space/blog/update-changelog-2018-dec-31/)
 * 2018-12-31: [**New system L 726-8 A**](https://blog.taustation.space/blog/update-changelog-2018-dec-31/) (released without missions, being backfilled)
 * 2018-02-05: [**New System YZ Ceti**](https://blog.taustation.space/blog/update-changelog-2019-feb-05/) (without missions yet)
+* 2018-02-05: [Multi jump gate ship courses](https://blog.taustation.space/blog/update-changelog-2019-feb-05/)
+* 2018-02-05: [Ship repair University courses](https://blog.taustation.space/blog/update-changelog-2019-feb-05/)
