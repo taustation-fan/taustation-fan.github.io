@@ -57,7 +57,9 @@ by spending bonds:
 | 40         | 13890       | 27240            |
 
 A syndicate also earns one slot for each tier-up (so every 5 levels).
-Membership capacity is limited to 40.
+Membership capacity is limited to 40. When a syndicate gains a slot
+through advancing a tier, the bond cost for the final slots decrease
+(but you also get fewer, since the limit stays at 40).
 
 The syndicate founder can approve applicants, kick members, and even
 ban them from re-applying. They can also give other members the same
