@@ -148,12 +148,60 @@ multiplied by a factor for the campaign difficulty:
 | normal     | 4      |                   |
 | hard       | 8      |            5      |
 
-Once all opponents are defeated, each syndicate member who participated
-in the campaigns gets an individual bonus directly into the inventory,
-and the syndicate gets loot into its (insecure) syndicate storage.
+### Campaign Loot
 
-The loot seems to depend on the station on which the campaign ran, and
-the amount depends on the difficulty.
+Once all opponents are defeated, each syndicate member who participated
+in the campaigns gets stims as personal rewards for participating in
+the campaign, directly added to the player's inventory.
+
+You get 1 stim for easy campaigns, 2 for normal and 3 for
+hard campaigns. The stims tier is at most the minimum of your own tier and
+the max enemy tier of the campaign.
+
+The syndicate also gets loot, which is deposited into its insecure syndicate
+storage at the syndicate's home station.
+
+This loot is typically similar to the rewards from *look for trouble*
+and discreet work on the same station:
+
+| System         | Station           | Typical Loot                              |
+|----------------|-------------------|-------------------------------------------|
+| Sol            | Nouveau Limoges   | Bonds, Tier 2 rations, Tier 1 weapons     |
+| Alpha Centauri | Yards of Gadani   | G-SAG1E, Paris Sabre, Fire Fu of firefu   |
+| L 726-8 A      | Orwell Stronghold | Spidersilk Suit Jacket, Illuminated Spade |
+| L 726-8 A      | Spirit of Tianjin | Stims                                     |
+| YZ Ceti        | Cape Verde SH     | Enhanced Arc Dancer's Suit, T4 rations    |
+| YZ Ceti        | Spirit of NYC     | Stims                                     |
+
+#### Epic Campaign Loot Items
+
+In addition, if the campaign difficulty is at least *hard* and you include
+the highest tier opponents that are available to you, you get *epic* weapons
+and armors as loot. From a *hard* campaign and 25-30 members, you get two epic
+items, and three for a *hard* campaign an 34-35 members.
+
+The items seem to be more or less randomly selected from the tiers that are
+part of the campaign. For example, you might get a tier 1 and a tier 5 item
+for a *hard* tier 1 through 5 campaign. Some of these items are available
+for sales from NPC vendors for bonds, and some items are not available any
+other way.
+
+The following epic items have been observed to drop from syndicate campaigns:
+
+| Tier  | Type         | Item            |
+|-------|--------------|-----------------|
+|   1   | Shotgun      | [Joanna](https://alpha.taustation.space/item/joanna) |
+|   1   | Rifle        | [Sloane 6000](https://alpha.taustation.space/item/sloane-6000) |
+|   2   | Handgun      | [Reaper's Little Helper](https://alpha.taustation.space/item/reapers-little-helper) |
+|   2   | Armor        | [Hippocratic Vest](https://alpha.taustation.space/item/hippocratic-vest) |
+|   3   | Handgun      | [Thowan 89](https://alpha.taustation.space/item/thowan-89)|
+|   3   | Sniper rifle | [ALNA-MODEX](https://alpha.taustation.space/item/alna-modex) |
+|   4   | Armor        | [Nomad's Robes](https://alpha.taustation.space/item/nomads-robes) |
+|   4   | Armor        | [Wanderer's Jumpsuit](https://alpha.taustation.space/item/wanderers-jumpsuit) |
+|   4   | Armor        | [Battered Jerkin](https://alpha.taustation.space/item/battered-jerkin) |
+|   5   | Armor        | [Stylish Jacket](https://alpha.taustation.space/item/stylish-jacket) |
+|   5   | Armor        | [Magnus Burnshield](https://alpha.taustation.space/item/magnus-burnshield) |
+|   5   | Blade        | [Machete](https://alpha.taustation.space/item/machete) |
 
 ---
 
