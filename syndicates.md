@@ -13,7 +13,7 @@ They are roughly equivalent to guilds or teams of other games.
 * [Communication](#communication)
 * [Experience](#experience)
 * [Storage](#storage)
-* [Benefits](#benefits)
+* [Campaigns](#campaigns)
 
 ## Formation Process
 
