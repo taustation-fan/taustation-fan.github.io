@@ -145,7 +145,7 @@ multiplied by a factor for the campaign difficulty:
 | Difficulty | Factor | Unlocked by level |
 |------------|:------:|:-----------------:|
 | easy       | 2      |                   |
-| normal     | 4      |                   |
+| normal     | 4      |            3      |
 | hard       | 8      |            5      |
 
 ### Campaign Loot
