@@ -193,6 +193,7 @@ The following epic items have been observed to drop from syndicate campaigns:
 |   1   | Shotgun      | [Joanna](https://alpha.taustation.space/item/joanna) |
 |   1   | Rifle        | [Sloane 6000](https://alpha.taustation.space/item/sloane-6000) |
 |   2   | Handgun      | [Reaper's Little Helper](https://alpha.taustation.space/item/reapers-little-helper) |
+|   2   | Rifle        | [The Ayy-Kii 47](https://alpha.taustation.space/item/the-ayy-kii-47) |
 |   2   | Armor        | [Hippocratic Vest](https://alpha.taustation.space/item/hippocratic-vest) |
 |   3   | Handgun      | [Thowan 89](https://alpha.taustation.space/item/thowan-89)|
 |   3   | Sniper rifle | [ALNA-MODEX](https://alpha.taustation.space/item/alna-modex) |
