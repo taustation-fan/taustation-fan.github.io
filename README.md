@@ -1154,7 +1154,7 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/bars.png" title="Brig"/></td>
       <td><img src="assets/png/dna.png" title="Clones"/></td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td class="afl-gau">G</td>
       <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>&nbsp;</td>
@@ -1279,7 +1279,7 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/bars.png" title="Brig"/></td>
       <td><img src="assets/png/dna.png" title="Clones"/></td>
       <td><img src="assets/png/asterisk.png" title="D-com Area"/></td>
-      <td class="afl-gau">G</td>
+      <td>&nbsp;</td>
       <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>36</td>
@@ -1485,7 +1485,7 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/bars.png" title="Brig"/></td>
       <td><img src="assets/png/dna.png" title="Clones"/></td>
       <td><img src="assets/png/asterisk.png" title="D-com Area"/></td>
-      <td>&nbsp;</td>
+      <td class="afl-gau">G</td>
       <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>&nbsp;</td>
@@ -1535,7 +1535,7 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/bars.png" title="Brig"/></td>
       <td><img src="assets/png/dna.png" title="Clones"/></td>
       <td><img src="assets/png/asterisk.png" title="D-com Area"/></td>
-      <td class="afl-gau">G</td>
+      <td>&nbsp;</td>
       <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>51</td>
