@@ -190,18 +190,22 @@ The following epic items have been observed to drop from syndicate campaigns:
 
 | Tier  | Type         | Item            |
 |-------|--------------|-----------------|
+|   1   | Armor        | [Bar Brawler's Blouse](https://alpha.taustation.space/item/bar-brawlers-blouse) |
 |   1   | Shotgun      | [Joanna](https://alpha.taustation.space/item/joanna) |
 |   1   | Rifle        | [Sloane 6000](https://alpha.taustation.space/item/sloane-6000) |
 |   2   | Handgun      | [Reaper's Little Helper](https://alpha.taustation.space/item/reapers-little-helper) |
 |   2   | Rifle        | [The Ayy-Kii 47](https://alpha.taustation.space/item/the-ayy-kii-47) |
 |   2   | Armor        | [Hippocratic Vest](https://alpha.taustation.space/item/hippocratic-vest) |
+|   2   | Armor        | [Ranger Vest](https://alpha.taustation.space/item/ranger-vest) |
 |   3   | Armor        | [Aurorahunter](https://alpha.taustation.space/item/aurorahunter) |
+|   3   | Blade        | [Barman's Caltrop](https://alpha.taustation.space/item/barmans-caltrop) |
 |   3   | Handgun      | [Thowan 89](https://alpha.taustation.space/item/thowan-89)|
 |   3   | Sniper rifle | [ALNA-MODEX](https://alpha.taustation.space/item/alna-modex) |
 |   4   | Armor        | [Battered Jerkin](https://alpha.taustation.space/item/battered-jerkin) |
 |   4   | Armor        | [Heavy Explorer's Coat](https://alpha.taustation.space/item/heavy-explorers-coat) |
 |   4   | Armor        | [Nomad's Robes](https://alpha.taustation.space/item/nomads-robes) |
 |   4   | Armor        | [Wanderer's Jumpsuit](https://alpha.taustation.space/item/wanderers-jumpsuit) |
+|   4   | Blade        | [Modified Shanker Deluxe](https://alpha.taustation.space/item/modified-shanker-deluxe) |
 |   5   | Armor        | [Stylish Jacket](https://alpha.taustation.space/item/stylish-jacket) |
 |   5   | Armor        | [Magnus Burnshield](https://alpha.taustation.space/item/magnus-burnshield) |
 |   5   | Blade        | [Machete](https://alpha.taustation.space/item/machete) |
