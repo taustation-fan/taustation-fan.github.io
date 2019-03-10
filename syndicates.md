@@ -197,6 +197,7 @@ The following epic items have been observed to drop from syndicate campaigns:
 |   2   | Rifle        | [The Ayy-Kii 47](https://alpha.taustation.space/item/the-ayy-kii-47) |
 |   2   | Armor        | [Hippocratic Vest](https://alpha.taustation.space/item/hippocratic-vest) |
 |   2   | Armor        | [Ranger Vest](https://alpha.taustation.space/item/ranger-vest) |
+|   3   | Armor        | [Ajax Systems Tactical Vest](https://alpha.taustation.space/item/ajax-systems-tactical-vest) |
 |   3   | Armor        | [Aurorahunter](https://alpha.taustation.space/item/aurorahunter) |
 |   3   | Blade        | [Barman's Caltrop](https://alpha.taustation.space/item/barmans-caltrop) |
 |   3   | Handgun      | [Thowan 89](https://alpha.taustation.space/item/thowan-89)|
