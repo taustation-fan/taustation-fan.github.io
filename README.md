@@ -1562,13 +1562,13 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/piggy-bank.png" title="Bank"/></td>
       <td><img src="assets/png/bars.png" title="Brig"/></td>
       <td><img src="assets/png/dna.png" title="Clones"/></td>
-      <td><img src="assets/png/asterisk.png" title="D-com Area"/></td>
+      <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td></td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
-      <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
+      <td>&nbsp;</td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
       <td>&nbsp;</td>
       <td><img src="assets/png/university.png" title="Ruins"/></td>
