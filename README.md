@@ -1982,7 +1982,7 @@ not all of the stations provide all three types of clones:
 |L 726-8 A      | Orwell Stronghold  |            |           | ✔          |
 |L 726-8 A      | Spirit of Tianjin  |            |           | ✔          |
 |               |                    |            |           |            |
-| YZ Ceti       | YZ Ceti JG         |   ?        |  ?        | ?          |
+| YZ Ceti       | YZ Ceti JG         |   ✔        |           | ✔          |
 | YZ Ceti       | Cape Verde         |   ✔        |  ✔        | ✔          |
 | YZ Ceti       | Asimov Freehold    |            |  ✔        | ✔          |
 | YZ Ceti       | Spirit of NYC      |   ?        |  ?        | ✔          |
