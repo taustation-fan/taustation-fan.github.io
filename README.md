@@ -42,6 +42,7 @@
          * [Selling Items to Vendors](#selling-items-to-vendors)
          * [Selling Items on the Public Market](#selling-items-on-the-public-market)
       * [Private Ships](#private-ships)
+      * [Bodyguards](#bodyguards)
    * [Tactics, Strategy and Advice](#tactics-strategy-and-advice)
    * [Planned Features](#planned-features)
    * [Resources](#resources)
@@ -2148,6 +2149,16 @@ several expensive and long University courses and at least 210,000 credits
 for the cheapest type of ship, this should be considered an advanced feature.
 
 Please see [the separate ships page](/ships) for more details.
+
+## Bodyguards
+
+You can hire bodyguards at station security, with various levels of protection
+and flexibility. If you are attacked while a bodyguard is active, it steps in
+and take over the fight.
+
+The [official blog post on bodyguards explains the different options in
+excruciating
+detail](https://blog.taustation.space/blog/here-to-protect-you-bodyguards/).
 
 # Tactics, Strategy and Advice
 
