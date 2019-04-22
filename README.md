@@ -2215,5 +2215,6 @@ systems, stations, ship types and much more.
 * [Spreadsheet of weapons and armor](https://docs.google.com/spreadsheets/d/1TQhklKC7LhC2_MxmEyxQHy-2vai8ZM6krWmw6RF9XX0/edit#gid=1889785351)
 * [Tau Station on Discord](https://discord.gg/FSCxhFs)
 * [Timeline of major features](/timeline)
+* [Map of planned and active wormholes and the systems they connect](https://blog.taustation.space/blog/update-changelog-2019-mar-19/)
 
 <!-- vim: set textwidth=78: -->
