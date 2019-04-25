@@ -217,6 +217,7 @@ The following epic items have been observed to drop from syndicate campaigns:
 |   5   | Armor        | [Stylish Jacket](https://alpha.taustation.space/item/stylish-jacket) |
 |   5   | Armor        | [Magnus Burnshield](https://alpha.taustation.space/item/magnus-burnshield) |
 |   5   | Blade        | [Machete](https://alpha.taustation.space/item/machete) |
+|   5   | Blade        | [Well-Worn Machete](https://alpha.taustation.space/item/well-worn-machete) |
 |   5   | Rifle        | [Mudskipper](https://alpha.taustation.space/item/mudskipper) |
 
 ---
