@@ -147,6 +147,7 @@ multiplied by a factor for the campaign difficulty:
 | easy       | 2      |                   |
 | normal     | 4      |            3      |
 | hard       | 8      |            5      |
+| extreme    | 12     |            7      |
 
 ### Campaign Loot
 
