@@ -206,6 +206,7 @@ The following epic items have been observed to drop from syndicate campaigns:
 |   3   | Blade        | [Barman's Caltrop](https://alpha.taustation.space/item/barmans-caltrop) |
 |   3   | Blade        | [Battle Blade: Trailblazing Blazers](https://alpha.taustation.space/item/battle-blade-trailblazing-blazers) |
 |   4   | Blade        | [Modified Shanker](https://alpha.taustation.space/item/modified-shanker) |
+|   3   | Handgun      | [Pistol: Trailblazing Blazers](https://alpha.taustation.space/item/pistol-trailblazing-blazers)|
 |   3   | Handgun      | [Thowan 89](https://alpha.taustation.space/item/thowan-89)|
 |   3   | Sniper rifle | [ALNA-MODEX](https://alpha.taustation.space/item/alna-modex) |
 |   4   | Armor        | [Battered Jerkin](https://alpha.taustation.space/item/battered-jerkin) |
@@ -217,8 +218,10 @@ The following epic items have been observed to drop from syndicate campaigns:
 |   5   | Armor        | [Armure Bodysuit](https://alpha.taustation.space/item/armure-bodysuit) |
 |   5   | Armor        | [Stylish Jacket](https://alpha.taustation.space/item/stylish-jacket) |
 |   5   | Armor        | [Magnus Burnshield](https://alpha.taustation.space/item/magnus-burnshield) |
+|   5   | Armor        | [Water Miner's Jumpsuit](https://alpha.taustation.space/item/water-miners-jumpsuit) |
 |   5   | Blade        | [Machete](https://alpha.taustation.space/item/machete) |
 |   5   | Blade        | [Well-Worn Machete](https://alpha.taustation.space/item/well-worn-machete) |
+|   5   | Short Barrel Rfile | [Blue Steel](https://alpha.taustation.space/item/blue-steel)
 |   5   | Rifle        | [Mudskipper](https://alpha.taustation.space/item/mudskipper) |
 
 ---
