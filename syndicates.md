@@ -192,24 +192,28 @@ The following epic items have been observed to drop from syndicate campaigns:
 | Tier  | Type         | Item            |
 |-------|--------------|-----------------|
 |   1   | Armor        | [Bar Brawler's Blouse](https://alpha.taustation.space/item/bar-brawlers-blouse) |
+|   1   | Armor        | [Gaule Training Vest](https://alpha.taustation.space/item/gaule-training-vest) |
 |   1   | Armor        | [Ruins Rat's Pyjamas](https://alpha.taustation.space/item/ruins-rats-pyjamas) |
 |   1   | Shotgun      | [Joanna](https://alpha.taustation.space/item/joanna) |
+|   1   | Rifle        | [Ajax Systems Flame Dispenser](https://alpha.taustation.space/item/ajax-systems-flame-dispenser) |
 |   1   | Rifle        | [Sloane 6000](https://alpha.taustation.space/item/sloane-6000) |
 |   2   | Handgun      | [Reaper's Little Helper](https://alpha.taustation.space/item/reapers-little-helper) |
 |   2   | Rifle        | [The Ayy-Kii 47](https://alpha.taustation.space/item/the-ayy-kii-47) |
 |   2   | Armor        | [Anti-Energy Harness](https://alpha.taustation.space/item/anti-energy-harness) |
 |   2   | Armor        | [Hippocratic Vest](https://alpha.taustation.space/item/hippocratic-vest) |
 |   2   | Armor        | [Ranger Vest](https://alpha.taustation.space/item/ranger-vest) |
+|   2   | Armor        | [Rumble Jacket](https://alpha.taustation.space/item/rumble-jacket) |
 |   3   | Armor        | [Ajax Systems Tactical Vest](https://alpha.taustation.space/item/ajax-systems-tactical-vest) |
 |   3   | Armor        | [Bloody Battle Jacket](https://alpha.taustation.space/item/bloody-battle-jacket) |
 |   3   | Armor        | [Aurorahunter](https://alpha.taustation.space/item/aurorahunter) |
 |   3   | Blade        | [Barman's Caltrop](https://alpha.taustation.space/item/barmans-caltrop) |
 |   3   | Blade        | [Battle Blade: Trailblazing Blazers](https://alpha.taustation.space/item/battle-blade-trailblazing-blazers) |
-|   4   | Blade        | [Modified Shanker](https://alpha.taustation.space/item/modified-shanker) |
+|   3   | Blade        | [Modified Shanker](https://alpha.taustation.space/item/modified-shanker) |
 |   3   | Handgun      | [Pistol: Trailblazing Blazers](https://alpha.taustation.space/item/pistol-trailblazing-blazers)|
 |   3   | Handgun      | [Thowan 89](https://alpha.taustation.space/item/thowan-89)|
 |   3   | Sniper rifle | [ALNA-MODEX](https://alpha.taustation.space/item/alna-modex) |
 |   4   | Armor        | [Battered Jerkin](https://alpha.taustation.space/item/battered-jerkin) |
+|   4   | Armor        | [Consortium Catsuit](https://alpha.taustation.space/item/consortium-catsuit) |
 |   4   | Armor        | [Heavy Explorer's Coat](https://alpha.taustation.space/item/heavy-explorers-coat) |
 |   4   | Armor        | [Nomad's Robes](https://alpha.taustation.space/item/nomads-robes) |
 |   4   | Armor        | [Wanderer's Jumpsuit](https://alpha.taustation.space/item/wanderers-jumpsuit) |
@@ -219,6 +223,7 @@ The following epic items have been observed to drop from syndicate campaigns:
 |   5   | Armor        | [Stylish Jacket](https://alpha.taustation.space/item/stylish-jacket) |
 |   5   | Armor        | [Magnus Burnshield](https://alpha.taustation.space/item/magnus-burnshield) |
 |   5   | Armor        | [Water Miner's Jumpsuit](https://alpha.taustation.space/item/water-miners-jumpsuit) |
+|   5   | Blade        | [Katana: Trailblazing Blazers](https://alpha.taustation.space/item/katana-trailblazing-blazers) |
 |   5   | Blade        | [Machete](https://alpha.taustation.space/item/machete) |
 |   5   | Blade        | [Well-Worn Machete](https://alpha.taustation.space/item/well-worn-machete) |
 |   5   | Short Barrel Rfile | [Blue Steel](https://alpha.taustation.space/item/blue-steel)
