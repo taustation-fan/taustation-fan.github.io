@@ -176,6 +176,9 @@ Credits is everyday money that you can
 earn pretty easily. With credits, you can pay for things such as hotel
 rooms, public shuttles for inter-station travel, University courses, and weapons and armor.
 
+Finally, you can buy your own [private ship](/ships), starting from just
+210,000 credits.
+
 You can earn credits through
 
 * successful career tasks
@@ -212,7 +215,7 @@ You can obtain bonds in the following ways:
 * sometimes, discreet/anonymous work has a small bonds reward
 * As a reward for successful *Enter the Sewers* campaigns (up to 15 per day)
 * you can find bond packages in the Ruins
-* if you level up to a new tier (if you reach levels 6, 11, 16, etc.),
+* if you level up to a new [tier (if you reach levels 6, 11, 16, etc.)](#tiers),
   you get a reward of 500 bonds
 
 ### Banks and Your Wallet
@@ -247,6 +250,7 @@ is payed from your bank account:
 
 | Action/Service    |  Payment                  |
 |-------------------|---------------------------|
+| Bodyguards        | Wallet with Bank fallback |
 | Hotel Room        | Wallet                    |
 | Items at Vendors  | Wallet                    |
 | Public Market     | Bank                      |
@@ -270,11 +274,11 @@ rate, but that is a pretty terrible exchange.
 You get a better rate if you go to the vendors at the Market, and buy
 a 3-day VIP pack for 290 bonds (which you can do once every 7 days).
 You can sell this at the Public Market for somewhere between
-30,000 and 50,000 credits (of which you need to pay 10% as market fee).
+45,000 and 60,000 credits (of which you need to pay 10% as market fee).
 Before you do that, ask in the chat if anybody is willing to buy it, and
 at what price point.
 
-That way, you get a conversion rate of 1 bond to 90..150 credits.
+That way, you get a conversion rate of 1 bond to 139..186 credits.
 
 If you don't have enough money to afford the seller's fee on the market,
 you can try to find a potential buyer for the VIP pack in the chat, and
@@ -299,8 +303,9 @@ and turn them into credits that way.
 
 Another way to convert bonds to credits is to pay 20 bonds bribe for an extra
 ration (which you can do once every 24 hours), and sell that ration on the
-Public Market. Tier 2 rations tend to sell for somewhere between 1800 and 2500
-credits, giving you a similar conversion ratio to the VIP pack trading.
+Public Market. Tier 2 rations tend to sell for somewhere between 1800 and 3500
+credits, giving you a similar conversion ratio to the VIP pack trading,
+though with a higher variability of price over time.
 
 ## Stats and Focus
 
@@ -511,6 +516,9 @@ success rates of tasks and checks:
 * High physical stats are harder to drain during combat, so they act as
   protection against attacks.
 
+During discreet work, higher stats lead to less stats consumption for each
+check.
+
 ## Rations
 
 You can survive without explicit use of rations. But, each time you
@@ -518,7 +526,7 @@ consume a ration, it immediately fills up all of your stats and your
 Focus.
 
 If you consume a ration of a [tier](#tiers) one lower than your character's, the
-immediate regeneration is incomplete. A ration two tiers below your
+immediate regeneration is incomplete (around 60% to 67%). A ration two tiers below your
 current tier gives hardly any immediate regeneration. Rations which are three
 or more tiers below your current tier are absolutely useless for regeneration.
 You can either sell them on the public market or gift them to other players.
@@ -535,15 +543,19 @@ at any station's Government Center, except Caen Stronghold.
 * You can spend bonds as bribes for more rations at each station's Government
   Center, though the price doubles each time you do it in one day, and drops back
   to the original price (20 bonds) 92 segments (almost one day) after your first bribe.
-* You can buy them off the Public Market when other players sell them there
+* You can buy them off the Public Market when other players sell them there.
 * You can buy rations from NPC vendors on Caen Stronghold (Barnard's Star),
   for 3160.80 credits per tier.
-* You can find rations in the Ruins, with the ration tier depending on the station level
-* Sometimes they are awarded as the random reward for doing discreet work.
+* You can find rations in the Ruins, with the ration tier depending on the
+  station level.
+* Sometimes they are awarded as the random reward for doing discreet work,
+  depending on the station (for example Orwell Stronghold awards tier 3
+rations, and YZ Ceti Jump Gate tier 4 rations).
 * Rations are also often the reward of successful combat following random
   encounters in the Ruins on certain stations (Nouveau Limoges (Sol), Yards of
   Gadani and Bordeaux (Alpha Centauri) drop tier 2 rations, Caen Stronghold and Hopkins' Legacy
-  (Barnard's Star) drop tier 3 rations)
+  (Barnard's Star) drop tier 3 rations, Spirit of New York City drops Tier 4
+rations)
 
 
 ## What To Do
@@ -553,7 +565,10 @@ different resource requirements and payoffs.
 
 ### Missions
 
-Missions are fun! You can find a mission by clicking on the "Find a
+Missions are fun! They are interactive, text-based stories where your
+choices select one of many possible paths.
+
+You can find a mission by clicking on the "Find a
 mission" link in the "Employment" box. A mission opportunity is marked
 by the orange action flag, either in an area or next to a person.
 
@@ -582,7 +597,12 @@ There is also a mission (*In the Crossfire* on Hopkins' Legacy, Barnard's
 Star) that depends on having completed a side job (*Wall Maintenance* on
 the same station).
 
-I advise to play all missions available to you.
+Note that some missions send you to other stations, sometimes even to other
+starts. Usually, the mission's financial reward does not compensate you
+fully for the travel costs.
+
+I advise to play all missions available to you, unless you are actively trying
+to avoid leveling up.
 
 ### Ruins Scavenging
 
