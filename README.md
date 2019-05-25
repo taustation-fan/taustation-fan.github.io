@@ -2,6 +2,7 @@
 
 # Table of Contents
    * [An Introduction to Tau Station](#an-introduction-to-tau-station)
+      * [Quick Start](#quick-start)
       * [Attack Warning](#attack-warning)
       * [The Financial System](#the-financial-system)
          * [Credits](#credits)
@@ -64,6 +65,78 @@ document might become outdated when the game changes.
 Despite the alpha status, the development team has [promised that there
 will be no resets/wipes when it leaves alpha or beta
 stage.](https://blog.taustation.space/blog/start-your-adventure-in-tau-station-now/)
+
+## Quick Start
+
+Here are a few quick tips when you start playing, and don't want to
+read the whole guide just yet.
+
+### Your Safety
+
+* On stations other than Tau Station, you can be attacked by other
+  players, who can loot your wallet. Thus you should keep most of your
+  credits in the bank, and spend your inactive time in a hotel room at
+  the station's Inn.
+* The *Bordeaux* and *Caen Stronghold* stations don't have a sick bay,
+  so you can die there. Don't travel there until you have a better grasp
+  on the game, and on [#clones](clones).
+
+### Your Education
+
+University courses enable new game play, such as steering ships yourself,
+repairing items and so on. Since there is only so much you can do to speed
+them up, you should *always be enrolled in a University course*. If you cannot
+afford the course you actually want to enroll in, it's better to enroll in
+one that you can afford than to go uneducated for more than a day or so.
+
+Use the [Tau Education Manager](https://education.tauguide.de/) -- you can
+click on the *Cost* column to show you the most affordable courses first. For
+more on courses, see [University courses](#university-courses).
+
+### Your Career
+
+You should pick and pursue a career early on, mostly because you can earn lots
+of credits from career tasks, and starting from rank 3, the daily bonds are a
+very welcome addition.
+
+The *Technologist: Port Technician* career is simple to manage, because every
+station has a Port, so you don't need to plan your travels with availability
+of career tasks in mind. The *Business: Trader*, *Medicine: Cloning
+Specialist* and *Special Services: Operative* careers are also pretty popular,
+and offer their own advantages. The other two careers come with clear
+disadvantages, as is apparent from [the list of career tasks](/career).
+
+[More about careers here](#pursue-a-career).
+
+### Fun vs. Power Gaming
+
+[Missions](#missions) are the core of a text-based MMORPG, and fun for most
+players. However, playing them lead you to level up very quickly, which might
+not be in your best interest if you want to build the strongest character
+possible.
+
+Leveling up slowly has the main advantage of higher availability of
+[rations](#rations) of your own [tier](#tiers), which allows you [more
+efficient improvement of your stats](#stats-improvement).
+
+On the other hand, leveling up faster gives you access to better equipment.
+
+Missions, side jobs and career tasks on high-level stations tend to give you
+lots of XP, thus leading to faster level-up. Gym training and [discreet
+work](#discreet-work) give little to no XP.
+
+### Your Community
+
+Many players join for the game, and stay for the community. You should really
+consider joining the in-game chat and saying hello.
+
+You should also join a [syndicate](/syndicates), some of which have very
+active and friendly sub-communities of their own, and also bundle lots of
+knowledge about the game. Finally, some game play options such as syndicate
+campaigns, and (upcoming feature) building construction are only available to
+syndicate members.
+
+---
 
 ## Attack Warning
 
