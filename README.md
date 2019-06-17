@@ -598,7 +598,7 @@ Star) that depends on having completed a side job (*Wall Maintenance* on
 the same station).
 
 Note that some missions send you to other stations, sometimes even to other
-starts. Usually, the mission's financial reward does not compensate you
+stars. Usually, the mission's financial reward does not compensate you
 fully for the travel costs.
 
 I advise to play all missions available to you, unless you are actively trying
