@@ -98,7 +98,7 @@ and the *Advanced* and *Mastery* course each add another 5% fuel savings.
 
 Ships require regular repairs, and occasional refurbishments.
 
-Once a health bar of a ship reaches 75% or below, or when the
+Once a health bar of a ship below a certain threshold, or when the
 navigation computers are "not operational", the ship requires repair
 before you can fly it again.
 
