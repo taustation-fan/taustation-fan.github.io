@@ -205,11 +205,13 @@ The following epic items have been observed to drop from syndicate campaigns:
 |   2   | Armor        | [Rumble Jacket](https://alpha.taustation.space/item/rumble-jacket) |
 |   3   | Armor        | [Ajax Systems Tactical Vest](https://alpha.taustation.space/item/ajax-systems-tactical-vest) |
 |   3   | Armor        | [Bloody Battle Jacket](https://alpha.taustation.space/item/bloody-battle-jacket) |
+|   3   | Armor        | [Brig Warden's Stab Suit](https://alpha.taustation.space/item/brig-wardens-stab-suit) |
 |   3   | Armor        | [Aurorahunter](https://alpha.taustation.space/item/aurorahunter) |
 |   3   | Blade        | [Barman's Caltrop](https://alpha.taustation.space/item/barmans-caltrop) |
 |   3   | Blade        | [Battle Blade: Trailblazing Blazers](https://alpha.taustation.space/item/battle-blade-trailblazing-blazers) |
 |   3   | Blade        | [Modified Shanker](https://alpha.taustation.space/item/modified-shanker) |
 |   3   | Handgun      | [Pistol: Trailblazing Blazers](https://alpha.taustation.space/item/pistol-trailblazing-blazers)|
+|   3   | Handgun      | [Blaster: Trailblazing Blazers](https://alpha.taustation.space/item/blaster-trailblazing-blazers) |
 |   3   | Handgun      | [Thowan 89](https://alpha.taustation.space/item/thowan-89)|
 |   3   | Sniper rifle | [ALNA-MODEX](https://alpha.taustation.space/item/alna-modex) |
 |   4   | Armor        | [Battered Jerkin](https://alpha.taustation.space/item/battered-jerkin) |
@@ -226,8 +228,9 @@ The following epic items have been observed to drop from syndicate campaigns:
 |   5   | Blade        | [Katana: Trailblazing Blazers](https://alpha.taustation.space/item/katana-trailblazing-blazers) |
 |   5   | Blade        | [Machete](https://alpha.taustation.space/item/machete) |
 |   5   | Blade        | [Well-Worn Machete](https://alpha.taustation.space/item/well-worn-machete) |
-|   5   | Short Barrel Rfile | [Blue Steel](https://alpha.taustation.space/item/blue-steel)
+|   5   | Short Barrel Rifle | [Blue Steel](https://alpha.taustation.space/item/blue-steel)
 |   5   | Rifle        | [Mudskipper](https://alpha.taustation.space/item/mudskipper) |
+|   5   | Shotgun      | [The Burke & Hare](https://alpha.taustation.space/item/the-burke-hare) |
 
 ---
 
