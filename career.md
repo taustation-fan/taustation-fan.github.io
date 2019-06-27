@@ -169,31 +169,60 @@ Disadvantages:
 Primary stat: Intelligence  
 Secondary stat: Strength
 
-| Name                                                 | Bonus     | Stat          | Area         | Illegal  | Harmful |
-|------------------------------------------------------|-----------|---------------|--------------|:---------|:----------|
-| Inspect a clone tank                                 | 3         | intelligence  | Cloning Vats |          |           |
-| Drain a clone tank                                   | 3         | strength      | Cloning Vats |          |           |
-| Sift organic refuse                                  | 6         | strength      | Cloning Vats |          |           |
-| Sterilize pod fluids                                 | 5         | intelligence  | Cloning Vats |          |           |
-| Contaminate recycled fluids                          | 5         | intelligence  | Cloning Vats | ✔        |           |
-| Move the tanks to clean behind them                  | 19        | strength      | Cloning Vats |          |           |
-| Interview a new client                               | 15        | social        | Anywhere     |          |           |
-| Sabotage a clone tank                                | 15        | intelligence  | Cloning Vats | ✔        |           |
-| Repair a clone tank                                  | 15        | intelligence  | Cloning Vats |          |           |
-| Sneak anti-growth hormones into the nutrient pastes  | 62        | agility       | Cloning Vats | ✔        |           |
-| Prepare nutrient pastes for alt-genotypes            | 48        | intelligence  | Cloning Vats |          |           |
-| Prepare nutrient paste for baseline clones           | 49        | intelligence  | Cloning Vats |          |           |
-| Rearrange the clone tank layout                      | 93        | strength      | Cloning Vats |          |           |
-| Create a clone with supervision                      | 111       | intelligence  | Cloning Vats |          |           |
-| Create a clone                                       | 175       | intelligence  | Cloning Vats |          |           |
-| Dispose of a clone                                   | 155       | strength      | Cloning Vats |          | ✔         |
-| Sabotage the hoses of a tank                         | 130       | strength      | Cloning Vats | ✔        |           |
-| Leak clone center files                              | 170       | intelligence  | Anywhere     | ✔        |           |
-| Administer an accelerant dose                        | 190       | agility       | Cloning Vats |          |           |
-| Calculate clone accelerant dosage                    | 199       | intelligence  | Cloning Vats |          |           |
-| Complete the clone center's payroll                  | 255       | stamina       | Anywhere     |          |           |
-| Create a premium clone                               | 270       | intelligence  | Cloning Vats |          |           |
-| Embezzle from the clone center                       | 320       | intelligence  | Bank         | ✔        |           |
+| Name                                                 | Bonus   | Stat           | Area                 | Illegal  | Harmful   |
+|------------------------------------------------------|---------|----------------|----------------------|:---------|:----------|
+| Drain a clone tank                                   | 9       |  Strength      |  Cloning Vats        |          |           |
+| Inspect a clone tank                                 | 9       |  Intelligence  |  Cloning Vats        |          |           |
+| Tidy Clone Vats foyer                                | 9       |  Stamina       |  Cloning Vats        |          |           |
+| Sift organic refuse                                  | 24      |  Strength      |  Cloning Vats        |          |           |
+| Sterilize pod fluids                                 | 24      |  Intelligence  |  Cloning Vats        |          |           |
+| Study Amygchip manuals                               | 24      |  Stamina       |  Cloning Vats        |          |           |
+| Contaminate recycled fluids                          | 27      |  Intelligence  |  Cloning Vats        |     ✔    |           |
+| Interview a new client                               | 39      |  Social        |  Anywhere            |          |           |
+| Move the tanks to clean behind them                  | 39      |  Strength      |  Cloning Vats        |          |           |
+| Repair a clone tank                                  | 39      |  Intelligence  |  Cloning Vats        |          |           |
+| Sabotage a clone tank                                | 45      |  Intelligence  |  Cloning Vats        |     ✔    |           |
+| Prepare nutrient paste for baseline clones           | 54      |  Intelligence  |  Cloning Vats        |          |           |
+| Prepare nutrient pastes for alt-genotypes            | 54      |  Intelligence  |  Cloning Vats        |          |           |
+| Sneak anti-growth hormones into the nutrient pastes  | 63      |  Agility       |  Cloning Vats        |     ✔    |           |
+| Create a clone with supervision                      | 69      |  Intelligence  |  Cloning Vats        |          |           |
+| Help socialize a recently-activated clone            | 69      |  Social        |  Cloning Vats        |          |           |
+| Rearrange the clone tank layout                      | 69      |  Strength      |  Cloning Vats        |          |           |
+| Create a clone                                       | 84      |  Intelligence  |  Cloning Vats        |          |           |
+| Dispose of a failed clone                            | 94      |  Strength      |  Cloning Vats        |          |     ✔     |
+| Administer an accelerant dose                        | 99      |  Agility       |  Cloning Vats        |          |           |
+| Calculate clone accelerant dosage                    | 99      |  Intelligence  |  Cloning Vats        |          |           |
+| Leak clone center files                              | 99      |  Intelligence  |  Anywhere            |     ✔    |           |
+| Sabotage the hoses of a tank                         | 99      |  Strength      |  Cloning Vats        |     ✔    |           |
+| Create a premium clone                               | 114     |  Intelligence  |  Cloning Vats        |          |           |
+| Process the clone center's payroll                   | 114     |  Stamina       |  Anywhere            |          |           |
+| Discredit anti-cloning campaigners                   | 129     |  Intelligence  |  Government Center   |          |           |
+| Help new clones with motor skills                    | 129     |  Agility       |  Anywhere            |          |           |
+| Install automated pod cleaners                       | 129     |  Strength      |  Cloning Vats        |          |           |
+| Embezzle from the clone center                       | 135     |  Intelligence  |  Bank                |     ✔    |           |
+| Reduce gestation times                               | 144     |  Intelligence  |  Cloning Vats        |          |           |
+| Win a cloning competition                            | 144     |  Intelligence  |  Government Center   |          |           |
+| Experiment with illegal genotype blending            | 153     |  Intelligence  |  Cloning Vats        |          |           |
+| Pacify a disgruntled client                          | 159     |  Social        |  Anywhere            |          |           |
+| Train junior technicians                             | 159     |  Social        |  Cloning Vats        |          |           |
+| Defend a malpractice accusation                      | 174     |  Intelligence  |  Security            |          |           |
+| Design a new nutrient recipe                         | 189     |  Intelligence  |  Anywhere            |          |           |
+| Expand your client base                              | 189     |  Social        |  Anywhere            |          |           |
+| Find a use for old vat fluid                         | 204     |  Intelligence  |  Anywhere            |          |           |
+| Sell more premium clones                             | 204     |  Social        |  Anywhere            |          |           |
+| Sell clone organs on the black market                | 207     |  Intelligence  |  Anywhere            |          |           |
+| Research a low-cost clone product                    | 219     |  Intelligence  |  Anywhere            |          |           |
+| Service the clone pods' Obi-hubs                     | 219     |  Stamina       |  Anywhere            |          |           |
+| Upgrade 3D clone printer machine                     | 219     |  Strength      |  Anywhere            |          |           |
+| Apply for a new research grant                       | 234     |  Intelligence  |  Anywhere            |          |           |
+| Speak at a cloning conference                        | 234     |  Social        |  Anywhere            |          |           |
+| Clone air scrubber plants                            | 249     |  Intelligence  |  Anywhere            |          |           |
+| Improve research lab facilities                      | 249     |  Strength      |  Anywhere            |          |           |
+| Relax legal restrictions on cloning                  | 264     |  Social        |  Anywhere            |          |           |
+| Develop cloning academy                              | 279     |  Stamina       |  Anywhere            |          |           |
+| Sell clone data on the black market                  | 297     |  Social        |  Anywhere            |          |           |
+| Sabotage a rival clone specialist                    | 315     |  Intelligence  |  Anywhere            |          |           |
+| Have a Promethean opponent killed                    | 369     |  Intelligence  |  Anywhere            |          |           |
 
 Advantages:
 
