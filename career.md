@@ -108,33 +108,50 @@ Disadvantages:
 Primary stat: Social  
 Secondary stat: Stamina
 
-| Name                                                   | Bonus  | Stat          | Area              | Illegal  | Harmful |
-|--------------------------------------------------------|--------|---------------|-------------------|:---------|:----------|
-| Stamp visa forms                                       | 5      | stamina       | Gaule Embassy     |          |           |
-| Work as a door greeter                                 | 6      | social        | Gaule Embassy     |          |           |
-| Data entry                                             | 5      | stamina       | Anywhere          |          |           |
-| Deliver a list of flagged visas to port authorities    | 3      | agility       | Port              |          |           |
-| Interview visa applicants about their backgrounds      | 3      | social        | Gaule Embassy     |          |           |
-| Check visas                                            | 15     | social        | Anywhere          |          |           |
-| Threaten to deport someone                             | 15     | strength      | Anywhere          |     ✔    |           |
-| Question visa applicants about suspicious information  | 15     | social        | Gaule Embassy     |          |           |
-| Help plan for a dignitary's visit                      | 48     | social        | Gaule Embassy     |          |           |
-| Interview new arrivals                                 | 49     | social        | Port              |          |           |
-| Hack the database                                      | 62     | intelligence  | Gaule Embassy     |     ✔    |           |
-| Write a detailed immigration report                    | 19     | stamina       | Anywhere          |          |           |
-| Forge poll results                                     | 111    | intelligence  | Anywhere          |     ✔    |           |
-| Conduct a policy poll                                  | 93     | social        | Anywhere          |          |           |
-| Accept bribe from a local business                     | 170    | social        | Market            |     ✔    |           |
-| Attend a state dinner with your supervisor             | 130    | social        | Government Center |          |           |
-| Write a detailed economic report                       | 155    | stamina       | Anywhere          |          |           |
-| Write a detailed policy proposal                       | 175    | stamina       | Anywhere          |          |           |
-| Attend a diplomatic meeting                            | 190    | social        | Government Center |          |           |
-| Show a visiting dignitary around the station           | 270    | social        | Port              |          |           |
-| Misuse your influence                                  | 320    | social        | Anywhere          |     ✔    |           |
-| Write press releases                                   | 199    | social        | Anywhere          |          |           |
-| Mediate conflicts                                      | 255    | social        | Anywhere          |          |           |
-| Negotiate a better deal for your station               | 61.08  | stamina       | Market            |          |           |
-| Sell classified information                            | 79.03  | social        | Anywhere          |     ✔    |           |
+| Name                                                                                      | Bonus    | Stat             | Area              | Illegal| Harmful |
+|-------------------------------------------------------------------------------------------|----------|------------------|-------------------|:-------|:--------|
+| Deliver a list of flagged visas to port authorities                                       | 9        | Agility          | Port              |        |         |
+| Threaten to deport someone                                                                | 29       | Strength         | Anywhere          |   ✔    |         |
+| Begin your new job as a Junior. Diplomat                                                  | 219      | Stamina          | Anywhere          |        |         |
+| Media a big-ticket trade agreement.                                                       | 219      | Social           | Anywhere          |        |         |
+| Conduct peace talks with local diplomats.                                                 | 234      | Social           | Anywhere          |        |         |
+| Data entry                                                                                | 9        | Stamina          | Anywhere          |        |         |
+| Check visas                                                                               | 24       | Social           | Anywhere          |        |         |
+| Interview new arrivals                                                                    | 39       | Social           | Port              |        |         |
+| Write a detailed immigration report                                                       | 39       | Stamina          | Anywhere          |        |         |
+| Forge poll results                                                                        | 63       | Intelligence     | Anywhere          |   ✔    |         |
+| Conduct a policy poll                                                                     | 54       | Social           | Anywhere          |        |         |
+| Accept bribe from a local business                                                        | 81       | Social           | Market            |   ✔    |         |
+| Attend a state dinner with your supervisor                                                | 69       | Social           | Government Center |        |         |
+| Write a detailed economic report                                                          | 69       | Stamina          | Anywhere          |        |         |
+| Write a detailed policy proposal                                                          | 84       | Stamina          | Anywhere          |        |         |
+| Attend a diplomatic meeting                                                               | 84       | Social           | Government Center |        |         |
+| Show a visiting dignitary around the station                                              | 99       | Social           | Port              |        |         |
+| Misuse your influence                                                                     | 117      | Social           | Anywhere          |   ✔    |         |
+| Write press releases                                                                      | 99       | Social           | Anywhere          |        |         |
+| Mediate conflicts                                                                         | 99       | Social           | Anywhere          |        |         |
+| Negotiate a better deal for your station                                                  | 114      | Stamina          | Market            |        |         |
+| Sell classified information                                                               | 135      | Social           | Anywhere          |   ✔    |         |
+| Entertain a visiting foreign diplomat                                                     | 129      | Social           | Anywhere          |        |         |
+| Facilitate the assassination of a foreign diplomat                                        | 153      | Social           | Anywhere          |        |         |
+| Organize a banquet for visiting diplomats                                                 | 144      | Social           | Anywhere          |        |         |
+| Supervise the wait & kitchen staff during a diplomatic banquet                            | 144      | Stamina          | Anywhere          |        |         |
+| Request to accompany your supervisor on a diplomatic excursion on a rival station         | 159      | Stamina          | Anywhere          |        |         |
+| Purposefully taint peace talks to stir tensions.                                          | 279      | Intelligence     | Anywhere          |        |         |
+| Become the first diplomat to broker a fair trade agreement with Freebooters.              | 281      | Social           | Anywhere          |        |         |
+| Make an illegal deal with Freebooters to protect your own interests above the station's.  | 297      | Social           | Anywhere          |        |         |
+| Provide shelter for refugees who have just arrived on the station.                        | 264      | Stamina          | Anywhere          |        |         |
+| Find families to take in foreign refugees.                                                | 264      | Stamina          | Anywhere          |        |         |
+| Speak to the local media about your station.                                              | 279      | Social           | Anywhere          |        |         |
+| Lie to the media to improve your station's image.                                         | 315      | Social           | Anywhere          |        |         |
+| Sabotage a rival station on your visit                                                    | 189      | Social           | Anywhere          |        |         |
+| Attend a cultural function on a rival station                                             | 174      | Social           | Anywhere          |        |         |
+| Attend a peace talk on a rival station                                                    | 196      | Stamina          | Anywhere          |        |         |
+| Convince your supervisor to put your name forward for a promotion                         | 189      | Social           | Anywhere          |        |         |
+| Campaign against other contenders for your promotion                                      | 189      | Social           | Anywhere          |        |         |
+| Outperform your competitors for your promotion                                            | 204      | Stamina          | Anywhere          |        |         |
+| Sabotage your competitors for the promotion.                                              | 243      | Intelligence     | Anywhere          |        |         |
+
 
 (the data about which tasks are illegal and dangerous are known to be incomplete)
 
