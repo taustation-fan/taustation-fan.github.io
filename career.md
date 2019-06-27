@@ -15,39 +15,52 @@ we have updated the data.
 Primary stat: Social  
 Secondary stat: Stamina
 
-| Name                                      | Bonus| Stat          | Area     | Illegal  | Harmful |
-|-------------------------------------------|------|---------------|----------|:---------|:----------|
-| Help a customer                           | 3    | social        | Market   |          |           |
-| Stock the shelves                         | 3    | stamina       | Market   |          |           |
-| Attract customers                         | 5    | social        | Market   |          |           |
-| Set up a kiosk                            | 5    | stamina       | Market   |          |           |
-| Hawk stolen goods                         | 6    | social        | Ruins    |          |           |
-| Sell illegal stims                        | 15   | social        | Anywhere |  ✔       |           |
-| Work in sales                             | 15   | social        | Market   |          |           |
-| Steal from the safe                       | 62   | agility       | Market   |  ✔       |           |
-| Run the store for the day                 | 48   | stamina       | Market   |          |           |
-| Record a holo-vid commercial              | 19   | social        | Market   |          |           |
-| Supervise staff                           | 15   | social        | Market   |          |           |
-| Negotiate a supply deal                   | 93   | social        | Port     |          |           |
-| Manage the store during a sale            | 111  | stamina       | Market   |          |           |
-| Cook the books                            | 155  | intelligence  | Anywhere |  ✔       |           |
-| Negotiate for goods from another station  | 130  | social        | Port     |          |           |
-| Receive a delivery                        | 170  | social        | Port     |          |           |
-| Shortchange a ship captain                | 190  | social        | Port     |  ✔       |           |
-| Attend a merchant meeting                 | 199  | stamina       | Market   |          |           |
-| Buy a shipment of contraband              | 255  | social        | Ruins    |  ✔       |           |
-| Create an intersystem distribution plan   | 270  | stamina       | Anywhere |          |           |
-| Negotiate a trade agreement               | 320  | social        | Market   |          |           |
-
-Advantages:
-
-* relatively few illegal or dangerous tasks
-* It's the only career that has a legal task with 320c bonus.
-
-Disadvantages:
-
-* most early and medium tasks are in Market, which is not available at the Jump Gates
-* strong focus on only two stats
+| Name                                              | Bonus      | Stat              | Area              | Illegal | Harmful |
+|---------------------------------------------------|------------|-------------------|-------------------|:--------|:--------|
+| Charm a customer                                  | 9          | Social            | Market            |         |         |
+| Restock the store                                 | 9          | Stamina           | Market            |         |         |
+| Vandalize a rival's stall                         | 9          | Strength          | Market            |         |         |
+| Attract more customers                            | 24         | Social            | Market            |         |         |
+| Set up a kiosk                                    | 24         | Stamina           | Market            |         |         |
+| Hawk a stolen fuel cell                           | 27         | Social            | Ruins             |         |         |
+| Study Consortium and Gaule business regulations   | 39         | Intelligence      | Anywhere          |         |         |
+| Run a demo to boost rifle sales                   | 43         | Social            | Market            |         |         |
+| Sell a batch of illegal stims                     | 45         | Social            | Anywhere          |    x    |         |
+| Record a holo-vid commercial                      | 54         | Social            | Market            |         |         |
+| Run the store for the day                         | 54         | Stamina           | Market            |         |         |
+| Supervise a lazy apprentice                       | 54         | Social            | Market            |         |         |
+| Steal from the safe                               | 63         | Agility           | Market            |    x    |         |
+| Manage the store during end-of-cycle sales        | 69         | Stamina           | Market            |         |         |
+| Negotiate a supply deal with a Ruins rat          | 69         | Social            | Port              |         |         |
+| Cook the books                                    | 81         | Intelligence      | Anywhere          |    x    |         |
+| Order goods from a neighboring station            | 84         | Social            | Port              |         |         |
+| Receive a freight delivery                        | 84         | Social            | Port              |         |         |
+| Attend a meeting of Consortium merchants          | 99         | Stamina           | Market            |         |         |
+| Shortchange a freight ship captain                | 99         | Social            | Port              |    x    |         |
+| Create a system-wide trade body                   | 114        | Stamina           | Anywhere          |         |         |
+| Invest in a risky venture                         | 114        | Intelligence      | Market            |         |         |
+| Buy a shipment of Freebooter contraband           | 117        | Social            | Ruins             |    x    |         |
+| Hire a sales team                                 | 129        | Stamina           | Market            |         |         |
+| Rebrand your business                             | 129        | Social            | Anywhere          |         |         |
+| Attend a trade expo                               | 144        | Social            | Market            |         |         |
+| Improve employee discipline                       | 144        | Stamina           | Anywhere          |         |         |
+| Sell products to other systems                    | 159        | Intelligence      | Anywhere          |         |         |
+| Renegotiate wholesale contracts                   | 174        | Stamina           | Anywhere          |         |         |
+| Run a staff team-building event                   | 174        | Social            | Anywhere          |         |         |
+| Improve conditions for staff                      | 189        | Stamina           | Market            |         |         |
+| Swindle your taxes                                | 189        | Intelligence      | Anywhere          |         |         |
+| Design a new ad campaign                          | 204        | Intelligence      | Anywhere          |         |         |
+| Sign a government contract                        | 204        | Stamina           | Anywhere          |         |         |
+| Fire staff to cut costs                           | 219        | Stamina           | Anywhere          |         |         |
+| Sell stocks on the system-wide exchange           | 219        | Stamina           | Government Center |         |         |
+| Attract investment from the station governor      | 234        | Social            | Anywhere          |         |         |
+| Pay yourself a huge bonus                         | 249        | Stamina           | Anywhere          |         |         |
+| Smear a rival retailer                            | 249        | Social            | Anywhere          |         |         |
+| Impress a potential business partner              | 264        | Social            | Anywhere          |         |         |
+| Cover up a junior colleague's malpractice         | 279        | Stamina           | Anywhere          |         |         |
+| Engineer the hostile takeover of a rival          | 279        | Stamina           | Anywhere          |         |         |
+| Revamp your product line                          | 279        | Stamina           | Anywhere          |         |         |
+| Deceive shareholders                              | 315        | Intelligence      | Anywhere          |    x    |         |
 
 ## Criminal: Opportunist
 
