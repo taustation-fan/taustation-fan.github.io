@@ -7,6 +7,9 @@ confined in the case of task failures.
 
 *Harmful* career tasks can send you to Sick Bay in case of failure.
 
+***WARNING***: Most of this information here is out of date. Please stand by (or contribute) until
+we have updated the data.
+
 ## Business: Trader
 
 Primary stat: Social  
@@ -216,39 +219,56 @@ Disdvantages:
 Primary stat: Stamina  
 Secondary stat: Strength
 
-| Name                                                    | Bonus     | Stat         | Area     | Illegal  | Harmful |
-|---------------------------------------------------------|-----------|--------------|----------|:---------|:----------|
-|Scrub rust off a ship                                    | 3         | stamina      | Port     |          |           |
-|Polish a ship                                            | 3         | stamina      | Port     |          |           |
-|Refuel a ship                                            | 5         | strength     | Port     |          |  ✔        |
-|Cut the fuel with another liquid                         | 5         | intelligence | Port     | ✔        |           |
-|Mix batches of fuel                                      | 6         | stamina      | Port     |          |  ✔        |
-|Falsify departure permissions                            | 15        | social       | Port     | ✔        |           |
-|Run pre-flight checks                                    | 15        | stamina      | Port     |          |           |
-|Inspect Cargo                                            | 15        | intelligence | Port     |          |           |
-|Study repair manuals                                     | 19        | stamina      | Anywhere |          |           |
-|Make supervised repairs                                  | 48        | strength     | Port     |          |           |
-|Repair a ship                                            | 49        | strength     | Port     |          |           |
-|Run a full-ship diagnostic                               | 93        | stamina      | Port     |          |           |
-|Sell ship parts on the side                              | 111       | agility      | Ruins    | ✔        |           |
-|Train a tiresome apprentice                              | 62        | stamina      | Port     |          |           |
-|Install heavy research equipment                         | 170       | strength     | Port     |          |           |
-|Install a navigation system                              | 130       | stamina      | Port     |          |           |
-|Update a ship's star map                                 | 155       | intelligence | Port     |          |           |
-|Supervise a hull replacement                             | 190       | strength     | Port     |          |  ✔        |
-|Perform hull integrity tests                             | 175       | stamina      | Port     |          |           |
-|Design a ship                                            | 255       | intelligence | Anywhere |          |           |
-|Design an illegal ship                                   | 320       | intelligence | Anywhere | ✔        |           |
-|Haul materials from a decommissioned ship off to be sold | 270       | strength     | Port     |          |           |
-|Supervise the construction of a ship                     | 199       | stamina      | Shipyard |          |           |
-|Supervise the construction of an illegal ship            | 79.97     | social       | Shipyard | ✔        |           |
+| Name                                                             | Bonus         | Stat              | Area     | Illegal | Harmful |
+|------------------------------------------------------------------|---------------|-------------------|----------|:--------|:--------|
+| Scrub rust off a ship                                            | 9.00          | Stamina           | Port     |         |         |
+| Polish a ship                                                    | 9.00          | Stamina           | Port     |         |         |
+| Refuel a ship                                                    | 24.00         | Strength          | Port     |         |    ✔    |
+| Cut the fuel with another liquid                                 | 27.00         | Intelligence      | Port     |    ✔    |         |
+| Mix batches of fuel                                              | 26.00         | Stamina           | Port     |         |    ✔    |
+| Falsify departure permissions                                    | 39.00         | Social            | Port     |    ✔    |         |
+| Run pre-flight checks                                            | 39.00         | Stamina           | Port     |         |         |
+| Inspect Cargo                                                    | 39.00         | Intelligence      | Port     |         |         |
+| Study repair manuals                                             | 54.00         | Stamina           | Anywhere |         |         |
+| Make supervised repairs                                          | 54.00         | Strength          | Port     |         |         |
+| Run a full-ship diagnostic                                       | 69.00         | Stamina           | Port     |         |         |
+| Train a tiresome apprentice                                      | 69.00         | Stamina           | Port     |         |         |
+| Repair a ship                                                    | 69.00         | Strength          | Port     |         |         |
+| Sell ship parts on the side                                      | 81.00         | Agility           | Ruins    |    ✔    |         |
+| Install heavy research equipment                                 | 84.00         | Strength          | Port     |         |         |
+| Install a navigation system                                      | 84.00         | Stamina           | Port     |         |         |
+| Update a ship's star map                                         | 84.00         | Intelligence      | Port     |         |         |
+| Perform hull integrity tests                                     | 99.00         | Stamina           | Port     |         |         |
+| Put together a plan to expand your business to further systems.  | 219.00        | Intelligence      | Anywhere |         |         |
+| Supervise a hull replacement                                     | 111.00        | Strength          | Port     |         |    ✔    |
+| Design a ship module                                             | 114.00        | Intelligence      | Anywhere |         |         |
+| Haul materials from a decommissioned ship off to be sold         | 114.00        | Strength          | Port     |         |         |
+| Enter an advanced apprenticeship                                 | 129.00        | Stamina           | Anywhere |         |         |
+| Train to strip and salvage ships                                 | 129.00        | Intelligence      | Anywhere |         |         |
+| Design an illegal ship module                                    | 135.00        | Intelligence      | Anywhere |         |         |
+| Open a salvaging business.                                       | 144.00        | Stamina           | Anywhere |         |         |
+| Round up a Crew.                                                 | 144.00        | Social            | Anywhere |         |         |
+| Run your first major salvage operation.                          | 159.00        | Stamina           | Anywhere |         |         |
+| Expand your operation.                                           | 159.00        | Stamina           | Anywhere |         |         |
+| Run multiple salvage operations.                                 | 174.00        | Social            | Anywhere |         |         |
+| Hire an illegal employee.                                        | 171.00        | Social            | Anywhere |         |         |
+| Expand your business further.                                    | 189.00        | Stamina           | Anywhere |         |         |
+| Hire a bigger crew.                                              | 189.00        | Stamina           | Anywhere |         |         |
+| Market your salvage to Freebooters                               | 196.00        | Strength          | Anywhere |         |         |
+| Export premium parts.                                            | 204.00        | Strength          | Anywhere |         |         |
+| Design & produce better salvaging technology.                    | 204.00        | Stamina           | Anywhere |         |         |
+| Hire even more illegal employees                                 | 225.00        | Stamina           | Anywhere |   ✔     |         |
+| Expand into the military sector.                                 | 234.00        | Strength          | Anywhere |         |         |
+| Salvage your first war ship for the military.                    | 234.00        | Stamina           | Anywhere |         |         |
+| Salvage a ship in Freebooter territory.                          | 247.00        | Strength          | Anywhere |         |    ✔    |
+| Garner the attention of the Consortium Military                  | 249.00        | Stamina           | Anywhere |         |         |
+| Sign a contract with the Consortium Military                     | 249.00        | Social            | Anywhere |         |         |
+| Garner the attention of the Gaule Military                       | 249.00        | Stamina           | Anywhere |         |         |
+| Sign a secret contract with the Gaule Military                   | 249.00        | Social            | Anywhere |         |         |
+| Absorb a rival salvage company.                                  | 264.00        | Stamina           | Anywhere |         |         |
+| Grow into a minor salvaging empire!                              | 279.00        | Stamina           | Anywhere |         |         |
+| Run your intergalactic salvaging empire.                         | 279.00        | Social            | Anywhere |         |         |
+| Add security personnel to help fend off Freebooters.             | 298.00        | Strength          | Anywhere |         |         |
+| Sabotage a rival's business so they are forced to join your crew. | 315.00       | Stamina           | Anywhere |   ✔     |         |
+| Bribe officials to make sure your crews always get first notice of newly| 333.00 | Stamina           | Anywhere |   ✔     |         |
 
-Advantages:
-
-* most career tasks are on an area (Port) that is available on every station
-* highest-paying career task can be done anywhere (*Intelligence*, 320 credits)
-* daily stat bonuses are both for physical stats, so aligns well with the requirements for combat
-
-Disadvantages:
-
-* Highest paying *Stamina* career task is only available on four stations.
