@@ -179,39 +179,44 @@ Disadvantages:
 Primary stat: Agility  
 Secondary stat: Intelligence
 
-| Name                                        | Bonus     | Stat          | Area              | Illegal  | Harmful |
-|---------------------------------------------|-----------|---------------|-------------------|:---------|:----------|
-| Listen for leads                            | 3         | agility       | Anywhere          |          |           |
-| Make an intel report                        | 3         | intelligence  | Security          |          |           |
-| Make false reports                          | 5         | intelligence  | Security          |          |           |
-| Analyze camera footage                      | 5         | intelligence  | Security          |          |           |
-| Alter camera footage                        | 15        | agility       | Security          | ✔        |           |
-| Monitor an SEC terminal                     | 6         | intelligence  | Security          |          |           |
-| Guard the brig                              | 15        | strength      | Brig              |          |           |
-| Go on patrol                                | 15        | agility       | Anywhere          |          |           |
-| Plant listening bugs                        | 19        | agility       | Anywhere          |          |           |
-| Solicit a bribe from suspects               | 48        | social        | Anywhere          | ✔        |           |
-| Apprehend a suspect                         | 49        | agility       | Anywhere          |          |           |
-| Follow suspects                             | 62        | agility       | Anywhere          |          | ✔         |
-| Leak security plans                         | 111       | intelligence  | Anywhere          | ✔        |           |
-| Investigate a suspect                       | 93        | agility       | Anywhere          |          |           |
-| Raid a residence                            | 155       | strength      | Residences        |          | ✔         |
-| Raid an illegal water harvesting operation  | 130       | agility       | Ruins             |          | ✔         |
-| Infiltrate the embassy                      | 175       | agility       | Gaule Embassy     | ✔        |           |
-| Work undercover                             | 170       | social        | Anywhere          |          |           |
-| Blackmail a high ranking administrator      | 255       | intelligence  | Government Center | ✔        |           |
-| Eliminate a target                          | 270       | agility       | Anywhere          | ✔        |           |
-| Conduct an internal affairs investigation   | 199       | intelligence  | Security          |          |           |
-| Create a security plan                      | 190       | intelligence  | Security          |          |           |
-
-Advantages:
-
-* Highly-paid career tasks in four stats
-* No *Stamina* tasks, which makes ruins scavenging easier
-
-Disdvantages:
-
-* Many of the medium- to highest-paying career tasks are illegal or dangerous
+| Name                                                 |  Bonus   |   Primary Stat  |  Area              | Illegal | Harmful |
+|------------------------------------------------------|----------|-----------------|--------------------|:--------|:--------|
+| Listen for leads                                     |  9.00    |   Agility       |  Anywhere          |         |         |
+| Go on patrol                                         |  39.00   |   Agility       |  Anywhere          |         |         |
+| Guard the brig                                       |  39.00   |   Strength      |  Brig              |         |         |
+| Apprehend a suspect                                  |  54.00   |   Agility       |  Anywhere          |         |         |
+| Plant listening bugs                                 |  54.00   |   Agility       |  Anywhere          |         |         |
+| Follow suspects                                      |  60.00   |   Agility       |  Anywhere          |         |    ✔    |
+| Solicit a bribe from suspects                        |  63.00   |   Social        |  Anywhere          |    ✔    |         |
+| Investigate a suspect                                |  69.00   |   Agility       |  Anywhere          |         |         |
+| Leak security plans                                  |  81.00   |   Intelligence  |  Anywhere          |    ✔    |         |
+| Raid an illegal water harvesting operation           |  94.00   |   Agility       |  Ruins             |         |    ✔    |
+| Work undercover                                      |  99.00   |   Social        |  Anywhere          |         |         |
+| Protect a high profile guest                         |  129.00  |   Agility       |  Anywhere          |         |         |
+| Blackmail a high ranking administrator               |  135.00  |   Intelligence  |  Government Center |    ✔    |         |
+| Eliminate a target                                   |  135.00  |   Agility       |  Anywhere          |    ✔    |         |
+| Tail a high ranking official                         |  144.00  |   Agility       |  Anywhere          |         |         |
+| Foil an assassination attempt                        |  145.00  |   Agility       |  Anywhere          |         |         |
+| Decrypt stolen intel                                 |  159.00  |   Intelligence  |  Anywhere          |         |         |
+| Bug an official's office                             |  171.00  |   Intelligence  |  Anywhere          |         |         |
+| Mentor a new agent                                   |  174.00  |   Social        |  Anywhere          |         |         |
+| Take a new agent on their first mission              |  174.00  |   Agility       |  Anywhere          |         |         |
+| Steal top secret Gaule intel                         |  189.00  |   Agility       |  Anywhere          |         |         |
+| Uncover a space-shell ring                           |  189.00  |   Intelligence  |  Anywhere          |         |         |
+| Impress a group of Freebooters.                      |  204.00  |   Strength      |  Anywhere          |         |         |
+| Discover the double agent in your ranks              |  219.00  |   Intelligence  |  Anywhere          |         |         |
+| Keep the space-shells for yourself                   |  225.00  |   Agility       |  Anywhere          |         |         |
+| Pose as a Freebooter pirate for a stint              |  230.00  |   Strength      |  Anywhere          |         |         |
+| Befriend a target under a false identity             |  234.00  |   Social        |  Anywhere          |         |         |
+| Keep the things you steal as a Freebooter            |  243.00  |   Intelligence  |  Anywhere          |         |         |
+| Locate enemy operatives                              |  249.00  |   Intelligence  |  Anywhere          |         |         |
+| Save a fellow squad member during battle.            |  264.00  |   Agility       |  Anywhere          |         |         |
+| Win the leadership of your squad.                    |  264.00  |   Social        |  Anywhere          |         |         |
+| Unearth a plot to murder the leader of your station .|  279.00  |   Intelligence  |  Anywhere          |         |         |
+| Use your friendships with the enemy to gather intel  |  279.00  |   Intelligence  |  Anywhere          |    ✔    |         |
+| Escape the eyes of enemy operatives                  |  281.00  |   Agility       |  Anywhere          |         |         |
+| Kill the double agent in your ranks                  |  289.00  |   Agility       |  Anywhere          |         |         |
+| Protect the leader of your station.                  |  315.00  |   Agility       |  Anywhere          |         |         |
 
 
 ## Technologist: Port Technician
