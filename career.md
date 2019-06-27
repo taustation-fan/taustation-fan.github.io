@@ -240,7 +240,12 @@ Secondary stat: Intelligence
 
 | Name                                                 |  Bonus   |   Primary Stat  |  Area              | Illegal | Harmful |
 |------------------------------------------------------|----------|-----------------|--------------------|:--------|:--------|
+| Make an intel report                                 |  9       |   Intelligence  |  Security          |         |         |
+| Make false reports                                   |  9       |   Intelligence  |  Security          |   x     |         |
 | Listen for leads                                     |  9       |   Agility       |  Anywhere          |         |         |
+| Monitor an SEC terminal                              |  24      |   Intelligence  |  Security          |         |         |
+| Analyze camera footage                               |  24      |   Intelligence  |  Security          |         |         |
+| Alter camera footage                                 |  27      |   Agility       |  Security          |   x     |         |
 | Go on patrol                                         |  39      |   Agility       |  Anywhere          |         |         |
 | Guard the brig                                       |  39      |   Strength      |  Brig              |         |         |
 | Apprehend a suspect                                  |  54      |   Agility       |  Anywhere          |         |         |
@@ -251,6 +256,8 @@ Secondary stat: Intelligence
 | Leak security plans                                  |  81      |   Intelligence  |  Anywhere          |    ✔    |         |
 | Raid an illegal water harvesting operation           |  94      |   Agility       |  Ruins             |         |    ✔    |
 | Work undercover                                      |  99      |   Social        |  Anywhere          |         |         |
+| Conduct an internal affairs investigation            |  114     |   Intelligence  |  Security          |         |         |
+| Create a security plan                               |  114     |   Intelligence  |  Security          |         |         |
 | Protect a high profile guest                         |  129     |   Agility       |  Anywhere          |         |         |
 | Blackmail a high ranking administrator               |  135     |   Intelligence  |  Government Center |    ✔    |         |
 | Eliminate a target                                   |  135     |   Agility       |  Anywhere          |    ✔    |         |
