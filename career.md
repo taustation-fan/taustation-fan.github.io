@@ -240,42 +240,42 @@ Secondary stat: Intelligence
 
 | Name                                                 |  Bonus   |   Primary Stat  |  Area              | Illegal | Harmful |
 |------------------------------------------------------|----------|-----------------|--------------------|:--------|:--------|
-| Listen for leads                                     |  9.00    |   Agility       |  Anywhere          |         |         |
-| Go on patrol                                         |  39.00   |   Agility       |  Anywhere          |         |         |
-| Guard the brig                                       |  39.00   |   Strength      |  Brig              |         |         |
-| Apprehend a suspect                                  |  54.00   |   Agility       |  Anywhere          |         |         |
-| Plant listening bugs                                 |  54.00   |   Agility       |  Anywhere          |         |         |
-| Follow suspects                                      |  60.00   |   Agility       |  Anywhere          |         |    ✔    |
-| Solicit a bribe from suspects                        |  63.00   |   Social        |  Anywhere          |    ✔    |         |
-| Investigate a suspect                                |  69.00   |   Agility       |  Anywhere          |         |         |
-| Leak security plans                                  |  81.00   |   Intelligence  |  Anywhere          |    ✔    |         |
-| Raid an illegal water harvesting operation           |  94.00   |   Agility       |  Ruins             |         |    ✔    |
-| Work undercover                                      |  99.00   |   Social        |  Anywhere          |         |         |
-| Protect a high profile guest                         |  129.00  |   Agility       |  Anywhere          |         |         |
-| Blackmail a high ranking administrator               |  135.00  |   Intelligence  |  Government Center |    ✔    |         |
-| Eliminate a target                                   |  135.00  |   Agility       |  Anywhere          |    ✔    |         |
-| Tail a high ranking official                         |  144.00  |   Agility       |  Anywhere          |         |         |
-| Foil an assassination attempt                        |  145.00  |   Agility       |  Anywhere          |         |         |
-| Decrypt stolen intel                                 |  159.00  |   Intelligence  |  Anywhere          |         |         |
-| Bug an official's office                             |  171.00  |   Intelligence  |  Anywhere          |         |         |
-| Mentor a new agent                                   |  174.00  |   Social        |  Anywhere          |         |         |
-| Take a new agent on their first mission              |  174.00  |   Agility       |  Anywhere          |         |         |
-| Steal top secret Gaule intel                         |  189.00  |   Agility       |  Anywhere          |         |         |
-| Uncover a space-shell ring                           |  189.00  |   Intelligence  |  Anywhere          |         |         |
-| Impress a group of Freebooters.                      |  204.00  |   Strength      |  Anywhere          |         |         |
-| Discover the double agent in your ranks              |  219.00  |   Intelligence  |  Anywhere          |         |         |
-| Keep the space-shells for yourself                   |  225.00  |   Agility       |  Anywhere          |         |         |
-| Pose as a Freebooter pirate for a stint              |  230.00  |   Strength      |  Anywhere          |         |         |
-| Befriend a target under a false identity             |  234.00  |   Social        |  Anywhere          |         |         |
-| Keep the things you steal as a Freebooter            |  243.00  |   Intelligence  |  Anywhere          |         |         |
-| Locate enemy operatives                              |  249.00  |   Intelligence  |  Anywhere          |         |         |
-| Save a fellow squad member during battle.            |  264.00  |   Agility       |  Anywhere          |         |         |
-| Win the leadership of your squad.                    |  264.00  |   Social        |  Anywhere          |         |         |
-| Unearth a plot to murder the leader of your station .|  279.00  |   Intelligence  |  Anywhere          |         |         |
-| Use your friendships with the enemy to gather intel  |  279.00  |   Intelligence  |  Anywhere          |    ✔    |         |
-| Escape the eyes of enemy operatives                  |  281.00  |   Agility       |  Anywhere          |         |         |
-| Kill the double agent in your ranks                  |  289.00  |   Agility       |  Anywhere          |         |         |
-| Protect the leader of your station.                  |  315.00  |   Agility       |  Anywhere          |         |         |
+| Listen for leads                                     |  9       |   Agility       |  Anywhere          |         |         |
+| Go on patrol                                         |  39      |   Agility       |  Anywhere          |         |         |
+| Guard the brig                                       |  39      |   Strength      |  Brig              |         |         |
+| Apprehend a suspect                                  |  54      |   Agility       |  Anywhere          |         |         |
+| Plant listening bugs                                 |  54      |   Agility       |  Anywhere          |         |         |
+| Follow suspects                                      |  60      |   Agility       |  Anywhere          |         |    ✔    |
+| Solicit a bribe from suspects                        |  63      |   Social        |  Anywhere          |    ✔    |         |
+| Investigate a suspect                                |  69      |   Agility       |  Anywhere          |         |         |
+| Leak security plans                                  |  81      |   Intelligence  |  Anywhere          |    ✔    |         |
+| Raid an illegal water harvesting operation           |  94      |   Agility       |  Ruins             |         |    ✔    |
+| Work undercover                                      |  99      |   Social        |  Anywhere          |         |         |
+| Protect a high profile guest                         |  129     |   Agility       |  Anywhere          |         |         |
+| Blackmail a high ranking administrator               |  135     |   Intelligence  |  Government Center |    ✔    |         |
+| Eliminate a target                                   |  135     |   Agility       |  Anywhere          |    ✔    |         |
+| Tail a high ranking official                         |  144     |   Agility       |  Anywhere          |         |         |
+| Foil an assassination attempt                        |  145     |   Agility       |  Anywhere          |         |         |
+| Decrypt stolen intel                                 |  159     |   Intelligence  |  Anywhere          |         |         |
+| Bug an official's office                             |  171     |   Intelligence  |  Anywhere          |         |         |
+| Mentor a new agent                                   |  174     |   Social        |  Anywhere          |         |         |
+| Take a new agent on their first mission              |  174     |   Agility       |  Anywhere          |         |         |
+| Steal top secret Gaule intel                         |  189     |   Agility       |  Anywhere          |         |         |
+| Uncover a space-shell ring                           |  189     |   Intelligence  |  Anywhere          |         |         |
+| Impress a group of Freebooters.                      |  204     |   Strength      |  Anywhere          |         |         |
+| Discover the double agent in your ranks              |  219     |   Intelligence  |  Anywhere          |         |         |
+| Keep the space-shells for yourself                   |  225     |   Agility       |  Anywhere          |         |         |
+| Pose as a Freebooter pirate for a stint              |  230     |   Strength      |  Anywhere          |         |         |
+| Befriend a target under a false identity             |  234     |   Social        |  Anywhere          |         |         |
+| Keep the things you steal as a Freebooter            |  243     |   Intelligence  |  Anywhere          |         |         |
+| Locate enemy operatives                              |  249     |   Intelligence  |  Anywhere          |         |         |
+| Save a fellow squad member during battle.            |  264     |   Agility       |  Anywhere          |         |         |
+| Win the leadership of your squad.                    |  264     |   Social        |  Anywhere          |         |         |
+| Unearth a plot to murder the leader of your station .|  279     |   Intelligence  |  Anywhere          |         |         |
+| Use your friendships with the enemy to gather intel  |  279     |   Intelligence  |  Anywhere          |    ✔    |         |
+| Escape the eyes of enemy operatives                  |  281     |   Agility       |  Anywhere          |         |         |
+| Kill the double agent in your ranks                  |  289     |   Agility       |  Anywhere          |         |         |
+| Protect the leader of your station.                  |  315     |   Agility       |  Anywhere          |         |         |
 
 
 ## Technologist: Port Technician
@@ -285,54 +285,54 @@ Secondary stat: Strength
 
 | Name                                                             | Bonus         | Stat              | Area     | Illegal | Harmful |
 |------------------------------------------------------------------|---------------|-------------------|----------|:--------|:--------|
-| Scrub rust off a ship                                            | 9.00          | Stamina           | Port     |         |         |
-| Polish a ship                                                    | 9.00          | Stamina           | Port     |         |         |
-| Refuel a ship                                                    | 24.00         | Strength          | Port     |         |    ✔    |
-| Cut the fuel with another liquid                                 | 27.00         | Intelligence      | Port     |    ✔    |         |
-| Mix batches of fuel                                              | 26.00         | Stamina           | Port     |         |    ✔    |
-| Falsify departure permissions                                    | 39.00         | Social            | Port     |    ✔    |         |
-| Run pre-flight checks                                            | 39.00         | Stamina           | Port     |         |         |
-| Inspect Cargo                                                    | 39.00         | Intelligence      | Port     |         |         |
-| Study repair manuals                                             | 54.00         | Stamina           | Anywhere |         |         |
-| Make supervised repairs                                          | 54.00         | Strength          | Port     |         |         |
-| Run a full-ship diagnostic                                       | 69.00         | Stamina           | Port     |         |         |
-| Train a tiresome apprentice                                      | 69.00         | Stamina           | Port     |         |         |
-| Repair a ship                                                    | 69.00         | Strength          | Port     |         |         |
-| Sell ship parts on the side                                      | 81.00         | Agility           | Ruins    |    ✔    |         |
-| Install heavy research equipment                                 | 84.00         | Strength          | Port     |         |         |
-| Install a navigation system                                      | 84.00         | Stamina           | Port     |         |         |
-| Update a ship's star map                                         | 84.00         | Intelligence      | Port     |         |         |
-| Perform hull integrity tests                                     | 99.00         | Stamina           | Port     |         |         |
-| Put together a plan to expand your business to further systems.  | 219.00        | Intelligence      | Anywhere |         |         |
-| Supervise a hull replacement                                     | 111.00        | Strength          | Port     |         |    ✔    |
-| Design a ship module                                             | 114.00        | Intelligence      | Anywhere |         |         |
-| Haul materials from a decommissioned ship off to be sold         | 114.00        | Strength          | Port     |         |         |
-| Enter an advanced apprenticeship                                 | 129.00        | Stamina           | Anywhere |         |         |
-| Train to strip and salvage ships                                 | 129.00        | Intelligence      | Anywhere |         |         |
-| Design an illegal ship module                                    | 135.00        | Intelligence      | Anywhere |         |         |
-| Open a salvaging business.                                       | 144.00        | Stamina           | Anywhere |         |         |
-| Round up a Crew.                                                 | 144.00        | Social            | Anywhere |         |         |
-| Run your first major salvage operation.                          | 159.00        | Stamina           | Anywhere |         |         |
-| Expand your operation.                                           | 159.00        | Stamina           | Anywhere |         |         |
-| Run multiple salvage operations.                                 | 174.00        | Social            | Anywhere |         |         |
-| Hire an illegal employee.                                        | 171.00        | Social            | Anywhere |         |         |
-| Expand your business further.                                    | 189.00        | Stamina           | Anywhere |         |         |
-| Hire a bigger crew.                                              | 189.00        | Stamina           | Anywhere |         |         |
-| Market your salvage to Freebooters                               | 196.00        | Strength          | Anywhere |         |         |
-| Export premium parts.                                            | 204.00        | Strength          | Anywhere |         |         |
-| Design & produce better salvaging technology.                    | 204.00        | Stamina           | Anywhere |         |         |
-| Hire even more illegal employees                                 | 225.00        | Stamina           | Anywhere |   ✔     |         |
-| Expand into the military sector.                                 | 234.00        | Strength          | Anywhere |         |         |
-| Salvage your first war ship for the military.                    | 234.00        | Stamina           | Anywhere |         |         |
-| Salvage a ship in Freebooter territory.                          | 247.00        | Strength          | Anywhere |         |    ✔    |
-| Garner the attention of the Consortium Military                  | 249.00        | Stamina           | Anywhere |         |         |
-| Sign a contract with the Consortium Military                     | 249.00        | Social            | Anywhere |         |         |
-| Garner the attention of the Gaule Military                       | 249.00        | Stamina           | Anywhere |         |         |
-| Sign a secret contract with the Gaule Military                   | 249.00        | Social            | Anywhere |         |         |
-| Absorb a rival salvage company.                                  | 264.00        | Stamina           | Anywhere |         |         |
-| Grow into a minor salvaging empire!                              | 279.00        | Stamina           | Anywhere |         |         |
-| Run your intergalactic salvaging empire.                         | 279.00        | Social            | Anywhere |         |         |
-| Add security personnel to help fend off Freebooters.             | 298.00        | Strength          | Anywhere |         |         |
-| Sabotage a rival's business so they are forced to join your crew. | 315.00       | Stamina           | Anywhere |   ✔     |         |
-| Bribe officials to make sure your crews always get first notice of newly| 333.00 | Stamina           | Anywhere |   ✔     |         |
+| Scrub rust off a ship                                            | 9             | Stamina           | Port     |         |         |
+| Polish a ship                                                    | 9             | Stamina           | Port     |         |         |
+| Refuel a ship                                                    | 24            | Strength          | Port     |         |    ✔    |
+| Cut the fuel with another liquid                                 | 27            | Intelligence      | Port     |    ✔    |         |
+| Mix batches of fuel                                              | 26            | Stamina           | Port     |         |    ✔    |
+| Falsify departure permissions                                    | 39            | Social            | Port     |    ✔    |         |
+| Run pre-flight checks                                            | 39            | Stamina           | Port     |         |         |
+| Inspect Cargo                                                    | 39            | Intelligence      | Port     |         |         |
+| Study repair manuals                                             | 54            | Stamina           | Anywhere |         |         |
+| Make supervised repairs                                          | 54            | Strength          | Port     |         |         |
+| Run a full-ship diagnostic                                       | 69            | Stamina           | Port     |         |         |
+| Train a tiresome apprentice                                      | 69            | Stamina           | Port     |         |         |
+| Repair a ship                                                    | 69            | Strength          | Port     |         |         |
+| Sell ship parts on the side                                      | 81            | Agility           | Ruins    |    ✔    |         |
+| Install heavy research equipment                                 | 84            | Strength          | Port     |         |         |
+| Install a navigation system                                      | 84            | Stamina           | Port     |         |         |
+| Update a ship's star map                                         | 84            | Intelligence      | Port     |         |         |
+| Perform hull integrity tests                                     | 99            | Stamina           | Port     |         |         |
+| Put together a plan to expand your business to further systems.  | 219           | Intelligence      | Anywhere |         |         |
+| Supervise a hull replacement                                     | 111           | Strength          | Port     |         |    ✔    |
+| Design a ship module                                             | 114           | Intelligence      | Anywhere |         |         |
+| Haul materials from a decommissioned ship off to be sold         | 114           | Strength          | Port     |         |         |
+| Enter an advanced apprenticeship                                 | 129           | Stamina           | Anywhere |         |         |
+| Train to strip and salvage ships                                 | 129           | Intelligence      | Anywhere |         |         |
+| Design an illegal ship module                                    | 135           | Intelligence      | Anywhere |         |         |
+| Open a salvaging business.                                       | 144           | Stamina           | Anywhere |         |         |
+| Round up a Crew.                                                 | 144           | Social            | Anywhere |         |         |
+| Run your first major salvage operation.                          | 159           | Stamina           | Anywhere |         |         |
+| Expand your operation.                                           | 159           | Stamina           | Anywhere |         |         |
+| Run multiple salvage operations.                                 | 174           | Social            | Anywhere |         |         |
+| Hire an illegal employee.                                        | 171           | Social            | Anywhere |         |         |
+| Expand your business further.                                    | 189           | Stamina           | Anywhere |         |         |
+| Hire a bigger crew.                                              | 189           | Stamina           | Anywhere |         |         |
+| Market your salvage to Freebooters                               | 196           | Strength          | Anywhere |         |         |
+| Export premium parts.                                            | 204           | Strength          | Anywhere |         |         |
+| Design & produce better salvaging technology.                    | 204           | Stamina           | Anywhere |         |         |
+| Hire even more illegal employees                                 | 225           | Stamina           | Anywhere |   ✔     |         |
+| Expand into the military sector.                                 | 234           | Strength          | Anywhere |         |         |
+| Salvage your first war ship for the military.                    | 234           | Stamina           | Anywhere |         |         |
+| Salvage a ship in Freebooter territory.                          | 247           | Strength          | Anywhere |         |    ✔    |
+| Garner the attention of the Consortium Military                  | 249           | Stamina           | Anywhere |         |         |
+| Sign a contract with the Consortium Military                     | 249           | Social            | Anywhere |         |         |
+| Garner the attention of the Gaule Military                       | 249           | Stamina           | Anywhere |         |         |
+| Sign a secret contract with the Gaule Military                   | 249           | Social            | Anywhere |         |         |
+| Absorb a rival salvage company.                                  | 264           | Stamina           | Anywhere |         |         |
+| Grow into a minor salvaging empire!                              | 279           | Stamina           | Anywhere |         |         |
+| Run your intergalactic salvaging empire.                         | 279           | Social            | Anywhere |         |         |
+| Add security personnel to help fend off Freebooters.             | 298           | Strength          | Anywhere |         |         |
+| Sabotage a rival's business so they are forced to join your crew. | 315          | Stamina           | Anywhere |   ✔     |         |
+| Bribe officials to make sure your crews always get first notice of newly| 333    | Stamina           | Anywhere |   ✔     |         |
 
