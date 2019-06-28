@@ -325,7 +325,7 @@ Secondary stat: Strength
 | Hire an illegal employee.                                        | 171           | Social            | Anywhere |         |         |
 | Expand your business further.                                    | 189           | Stamina           | Anywhere |         |         |
 | Hire a bigger crew.                                              | 189           | Stamina           | Anywhere |         |         |
-| Market your salvage to Freebooters                               | 196           | Strength          | Anywhere |         |         |
+| Market your salvage to Freebooters                               | 196           | Strength          | Anywhere |         |   ✔     |
 | Export premium parts.                                            | 204           | Strength          | Anywhere |         |         |
 | Design & produce better salvaging technology.                    | 204           | Stamina           | Anywhere |         |         |
 | Hire even more illegal employees                                 | 225           | Stamina           | Anywhere |   ✔     |         |
