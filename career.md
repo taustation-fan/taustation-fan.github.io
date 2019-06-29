@@ -55,7 +55,7 @@ Secondary stat: Stamina
 | Sell stocks on the system-wide exchange           | 219        | Stamina           | Government Center |         |         |
 | Attract investment from the station governor      | 234        | Social            | Anywhere          |         |         |
 | Pay yourself a huge bonus                         | 249        | Stamina           | Anywhere          |         |         |
-| Smear a rival retailer                            | 249        | Social            | Anywhere          |         |         |
+| Smear a rival retailer                            | 249        | Social            | Anywhere          |    ✔    |         |
 | Impress a potential business partner              | 264        | Social            | Anywhere          |         |         |
 | Cover up a junior colleague's malpractice         | 279        | Stamina           | Anywhere          |         |         |
 | Engineer the hostile takeover of a rival          | 279        | Stamina           | Anywhere          |         |         |
@@ -281,7 +281,7 @@ Secondary stat: Intelligence
 | Unearth a plot to murder the leader of your station .|  279     |   Intelligence  |  Anywhere          |         |         |
 | Use your friendships with the enemy to gather intel  |  279     |   Intelligence  |  Anywhere          |    ✔    |         |
 | Escape the eyes of enemy operatives                  |  281     |   Agility       |  Anywhere          |         |         |
-| Kill the double agent in your ranks                  |  289     |   Agility       |  Anywhere          |         |         |
+| Kill the double agent in your ranks                  |  289     |   Agility       |  Anywhere          |    ✔    |         |
 | Protect the leader of your station.                  |  315     |   Agility       |  Anywhere          |         |         |
 
 
