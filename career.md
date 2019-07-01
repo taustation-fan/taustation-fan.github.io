@@ -281,7 +281,7 @@ Secondary stat: Intelligence
 | Unearth a plot to murder the leader of your station .|  279     |   Intelligence  |  Anywhere          |         |         |
 | Use your friendships with the enemy to gather intel  |  279     |   Intelligence  |  Anywhere          |    ✔    |         |
 | Escape the eyes of enemy operatives                  |  281     |   Agility       |  Anywhere          |         |         |
-| Kill the double agent in your ranks                  |  289     |   Agility       |  Anywhere          |    ✔    |         |
+| Kill the double agent in your ranks                  |  289     |   Agility       |  Anywhere          |    ✔    |    ✔    |
 | Protect the leader of your station.                  |  315     |   Agility       |  Anywhere          |         |         |
 
 
