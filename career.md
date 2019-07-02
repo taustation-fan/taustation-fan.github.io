@@ -220,9 +220,9 @@ Secondary stat: Strength
 | Improve research lab facilities                      | 249     |  Strength      |  Anywhere            |          |           |
 | Relax legal restrictions on cloning                  | 264     |  Social        |  Anywhere            |          |           |
 | Develop cloning academy                              | 279     |  Stamina       |  Anywhere            |          |           |
-| Sell clone data on the black market                  | 297     |  Social        |  Anywhere            |          |           |
-| Sabotage a rival clone specialist                    | 315     |  Intelligence  |  Anywhere            |          |           |
-| Have a Promethean opponent killed                    | 369     |  Intelligence  |  Anywhere            |          |           |
+| Sell clone data on the black market                  | 297     |  Social        |  Anywhere            |     ✔    |           |
+| Sabotage a rival clone specialist                    | 315     |  Intelligence  |  Anywhere            |     ✔    |           |
+| Have a Promethean opponent killed                    | 369     |  Intelligence  |  Anywhere            |     ✔    |     ✔     |
 
 Advantages:
 
