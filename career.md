@@ -151,7 +151,7 @@ Secondary stat: Stamina
 | Supervise the wait & kitchen staff during a diplomatic banquet                            | 144      | Stamina          | Anywhere          |        |         |
 | Request to accompany your supervisor on a diplomatic excursion on a rival station         | 159      | Stamina          | Anywhere          |        |         |
 | Purposefully taint peace talks to stir tensions.                                          | 279      | Intelligence     | Anywhere          |        |         |
-| Become the first diplomat to broker a fair trade agreement with Freebooters.              | 281      | Social           | Anywhere          |        |         |
+| Become the first diplomat to broker a fair trade agreement with Freebooters.              | 281      | Social           | Anywhere          |        |    ✔    |
 | Make an illegal deal with Freebooters to protect your own interests above the station's.  | 297      | Social           | Anywhere          |        |         |
 | Provide shelter for refugees who have just arrived on the station.                        | 264      | Stamina          | Anywhere          |        |         |
 | Find families to take in foreign refugees.                                                | 264      | Stamina          | Anywhere          |        |         |
