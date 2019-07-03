@@ -90,8 +90,21 @@ Secondary stat: Social
 | Hack into a bank terminal                             | 199  | intelligence  | Bank              | ✔        |           |
 | Hijack a starship                                     | 175  | agility       | Port              | ✔        |           |
 | Organize a heist                                      | 190  | social        | Anywhere          | ✔        |           |
+|-------------------------------------------------------|------|---------------|------------------ |:---------|:----------|
+| Sell placebos to a patient                            | 159  | Social        | Sick Bay          | –        |           |
+| Run a protection racket                               | 174  | Social        | Residences        | –        |           |
+| Scam a Syndicate                                      | 179  | Social        | Ruins             | –        |           |
+| Hijack the Residence's water supply                   | 189  | Stamina       | Residences        | ✔        |           |
+| Run a gang of wrecks-hunters                          | 189  | Social        | Anywhere          | –        |           |
+| Prepare a batch of fake stims                         | 204  | Stamina       | Ruins             | –        |           |
+| Steal medical equipment                               | 207  | Agility       | Sick Bay          | ✔        |           |
+| Forge a Syndicate license                             | 225  | Intelligence  | Government Center | ✔        |           |
+| Raid a battlefield                                    | 230  | Agility       | Ruins             | –        |           |
 
-(the data about which tasks are illegal and dangerous are known to be incomplete)
+
+(Tasks which are known to pay to bank, hence should be legal, are marked
+with "–". The data about which tasks are harmful are known to be
+incomplete)
 
 Advantages:
 
