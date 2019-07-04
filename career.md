@@ -99,7 +99,7 @@ Secondary stat: Social
 | Prepare a batch of fake stims                         | 204  | Stamina       | Ruins             | –        |           |
 | Steal medical equipment                               | 207  | Agility       | Sick Bay          | ✔        |           |
 | Forge a Syndicate license                             | 225  | Intelligence  | Government Center | ✔        |           |
-| Raid a battlefield                                    | 230  | Agility       | Ruins             | –        |           |
+| Raid a battlefield                                    | 230  | Agility       | Ruins             | –        | ✔         |
 
 
 (Tasks which are known to pay to bank, hence should be legal, are marked
