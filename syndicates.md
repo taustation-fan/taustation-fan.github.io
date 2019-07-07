@@ -142,12 +142,12 @@ The number of opponents is based on the number of syndicate members (but
 assuming at least 5 for small syndicates),
 multiplied by a factor for the campaign difficulty:
 
-| Difficulty | Factor | Unlocked by level |
-|------------|:------:|:-----------------:|
-| easy       | 2      |                   |
-| normal     | 4      |            3      |
-| hard       | 8      |            5      |
-| extreme    | 12     |            7      |
+| Difficulty | Factor | Unlocked by level |Number of Stims awarded|
+|------------|:------:|:-----------------:|:---------------------:|
+| easy       | 2      |                   |          1            |
+| normal     | 4      |            3      |          2            |
+| hard       | 8      |            5      |          3            |
+| extreme    | 12     |            7      |          4            |
 
 ### Campaign Loot
 
@@ -155,8 +155,9 @@ Once all opponents are defeated, each syndicate member who participated
 in the campaigns gets stims as personal rewards for participating in
 the campaign, directly added to the player's inventory.
 
-You get 1 stim for easy campaigns, 2 for normal and 3 for
-hard campaigns. The stims tier is at most the minimum of your own tier and
+The number
+of stims depends on the campaign difficulty as shown in the table above.
+The stims tier is at most the minimum of your own tier and
 the max enemy tier of the campaign.
 
 The syndicate also gets loot, which is deposited into its insecure syndicate
@@ -179,7 +180,9 @@ and discreet work on the same station:
 In addition, if the campaign difficulty is at least *hard* and you include
 the highest tier opponents that are available to you, you get *epic* weapons
 and armors as loot. From a *hard* campaign and 25-30 members, you get two epic
-items, and three for a *hard* campaign an 34-35 members.
+items, and three for a *hard* campaign an 34-35 members. For *extreme* campaigns,
+these numbers are roughly twice as high. For *normal* and *easy* campaigns, epic
+items can drop, but it's not reliable.
 
 The items seem to be more or less randomly selected from the tiers that are
 part of the campaign. For example, you might get a tier 1 and a tier 5 item
@@ -203,6 +206,7 @@ The following epic items have been observed to drop from syndicate campaigns:
 |   2   | Armor        | [Hippocratic Vest](https://alpha.taustation.space/item/hippocratic-vest) |
 |   2   | Armor        | [Ranger Vest](https://alpha.taustation.space/item/ranger-vest) |
 |   2   | Armor        | [Rumble Jacket](https://alpha.taustation.space/item/rumble-jacket) |
+|   2   | Armor        | [Thief's Second Skin](https://alpha.taustation.space/item/thiefs-second-skin) |
 |   3   | Armor        | [Ajax Systems Tactical Vest](https://alpha.taustation.space/item/ajax-systems-tactical-vest) |
 |   3   | Armor        | [Bloody Battle Jacket](https://alpha.taustation.space/item/bloody-battle-jacket) |
 |   3   | Armor        | [Brig Warden's Stab Suit](https://alpha.taustation.space/item/brig-wardens-stab-suit) |
@@ -214,6 +218,7 @@ The following epic items have been observed to drop from syndicate campaigns:
 |   3   | Handgun      | [Blaster: Trailblazing Blazers](https://alpha.taustation.space/item/blaster-trailblazing-blazers) |
 |   3   | Handgun      | [Thowan 89](https://alpha.taustation.space/item/thowan-89)|
 |   3   | Sniper rifle | [ALNA-MODEX](https://alpha.taustation.space/item/alna-modex) |
+|   3   | Sniper rifle | [Sniper Rifle: Trailblazing Blazers](https://alpha.taustation.space/item/sniper-rifle-trailblazing-blazers) |
 |   4   | Armor        | [Battered Jerkin](https://alpha.taustation.space/item/battered-jerkin) |
 |   4   | Armor        | [Consortium Catsuit](https://alpha.taustation.space/item/consortium-catsuit) |
 |   4   | Armor        | [Heavy Explorer's Coat](https://alpha.taustation.space/item/heavy-explorers-coat) |
