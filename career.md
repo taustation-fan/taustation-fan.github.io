@@ -55,7 +55,7 @@ Secondary stat: Stamina
 | Sell stocks on the system-wide exchange           | 219        | Stamina           | Government Center |         |         |
 | Attract investment from the station governor      | 234        | Social            | Anywhere          |         |         |
 | Pay yourself a huge bonus                         | 249        | Stamina           | Anywhere          |         |         |
-| Smear a rival retailer                            | 249        | Social            | Anywhere          |    ✔    |         |
+| Smear a rival retailer                            | 249        | Social            | Anywhere          |    ✔    |    ✔    |
 | Impress a potential business partner              | 264        | Social            | Anywhere          |         |         |
 | Cover up a junior colleague's malpractice         | 279        | Stamina           | Anywhere          |         |         |
 | Engineer the hostile takeover of a rival          | 279        | Stamina           | Anywhere          |         |         |
