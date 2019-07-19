@@ -143,15 +143,15 @@ Secondary stat: Stamina
 | Misuse your influence                                                                     | 117      | Social           | Anywhere          |   ✔    |         |
 | Entertain a visiting foreign diplomat                                                     | 129      | Social           | Anywhere          |        |         |
 | Sell classified information                                                               | 135      | Social           | Anywhere          |   ✔    |         |
-| Organize a banquet for visiting diplomats                                                 | 144      | Social           | Anywhere          |        |         |
-| Supervise the wait & kitchen staff during a diplomatic banquet                            | 144      | Stamina          | Anywhere          |        |         |
-| Facilitate the assassination of a foreign diplomat                                        | 153      | Social           | Anywhere          |        |         |
-| Request to accompany your supervisor on a diplomatic excursion on a rival station         | 159      | Stamina          | Anywhere          |        |         |
-| Attend a cultural function on a rival station                                             | 174      | Social           | Anywhere          |        |         |
-| Sabotage a rival station on your visit                                                    | 189      | Social           | Anywhere          |        |         |
+| Organize a banquet for visiting diplomats                                                 | 144      | Social           | Anywhere          |   –    |         |
+| Supervise the wait & kitchen staff during a diplomatic banquet                            | 144      | Stamina          | Anywhere          |   –    |         |
+| Facilitate the assassination of a foreign diplomat                                        | 153      | Social           | Anywhere          |   ✔    |         |
+| Request to accompany your supervisor on a diplomatic excursion on a rival station         | 159      | Stamina          | Anywhere          |   –    |         |
+| Attend a cultural function on a rival station                                             | 174      | Social           | Anywhere          |   –    |         |
+| Sabotage a rival station on your visit                                                    | 189      | Social           | Anywhere          |   ✔    |         |
 | Convince your supervisor to put your name forward for a promotion                         | 189      | Social           | Anywhere          |        |         |
 | Campaign against other contenders for your promotion                                      | 189      | Social           | Anywhere          |        |         |
-| Attend a peace talk on a rival station                                                    | 196      | Stamina          | Anywhere          |        |         |
+| Attend a peace talk on a rival station                                                    | 196      | Stamina          | Anywhere          |   –    |         |
 | Outperform your competitors for your promotion                                            | 204      | Stamina          | Anywhere          |        |         |
 | Begin your new job as a Junior. Diplomat                                                  | 219      | Stamina          | Anywhere          |        |         |
 | Media a big-ticket trade agreement.                                                       | 219      | Social           | Anywhere          |        |         |
@@ -165,8 +165,9 @@ Secondary stat: Stamina
 | Make an illegal deal with Freebooters to protect your own interests above the station's.  | 297      | Social           | Anywhere          |        |         |
 | Lie to the media to improve your station's image.                                         | 315      | Social           | Anywhere          |        |         |
 
-
-(the data about which tasks are illegal and dangerous are known to be incomplete)
+(Tasks which are known to pay to bank, hence should be legal, are marked
+with "–". The data about which tasks are harmful are known to be
+incomplete)
 
 Advantages:
 
