@@ -8,7 +8,8 @@ confined in the case of task failures.
 *Harmful* career tasks can send you to Sick Bay in case of failure.
 
 ***WARNING***: Most of this information here is out of date. Please stand by (or contribute) until
-we have updated the data.
+we have updated the data.  Information below the horizontal line have been added after the changes
+to career tasks in cycle 202.
 
 ## Business: Trader
 
@@ -84,12 +85,6 @@ Secondary stat: Social
 | Organize a counterfeit credchips ring                 | 155  | social        | Anywhere          | ✔        |           |
 | Produce counterfeit rations vouchers                  | 93   | intelligence  | Government Center | ✔        |           |
 | Pull a con job                                        | 62   | social        | Anywhere          | ✔        |           |
-| Help hijack a cargo shipment                          | 170  | agility       | Port              | ✔        | ✔         |
-| Sell contraband                                       | 130  | social        | Market            |          |           |
-| Break into a high security area                       | 255  | agility       | Market            | ✔        |           |
-| Hack into a bank terminal                             | 199  | intelligence  | Bank              | ✔        |           |
-| Hijack a starship                                     | 175  | agility       | Port              | ✔        |           |
-| Organize a heist                                      | 190  | social        | Anywhere          | ✔        |           |
 |-------------------------------------------------------|------|---------------|------------------ |:---------|:----------|
 | Sell placebos to a patient                            | 159  | Social        | Sick Bay          | –        |           |
 | Run a protection racket                               | 174  | Social        | Residences        | –        |           |
@@ -100,6 +95,17 @@ Secondary stat: Social
 | Steal medical equipment                               | 207  | Agility       | Sick Bay          | ✔        |           |
 | Forge a Syndicate license                             | 225  | Intelligence  | Government Center | ✔        |           |
 | Raid a battlefield                                    | 230  | Agility       | Ruins             | –        | ✔         |
+| Arrange a prison break                                | 261  | Social        | Brig              | ✔        |           |
+| Bribe a Port manager                                  | 234  | Social        | Port              | -        |           |
+| Steal a government ID pass                            | 279  | Agility       | Government Center | ✔        |           |
+| Run a fake insurance scam                             | 249  | Social        | Sick Bay          | -        |           |
+| Manipulate the exchange rate                          | 297  | Intelligence  | Bank              | ✔        |           |
+| Forge a Visa document                                 | 264  | Intelligence  | Anywhere          | -        |           |
+| Hack the Governor's private emails                    | 315  | Intelligence  | Government Center | ✔        |           |
+| Sell faulty equipment to Security                     | 315  | Social        | Security          | ✔        |           |
+| Corrupt government policy                             | 333  | Social        | Government Center | ✔        |           |
+| Kidnap a business owner                               | 369  | Strength      | Inn               | ✔        | ✔         |
+
 
 
 (Tasks which are known to pay to bank, hence should be legal, are marked
@@ -108,13 +114,12 @@ incomplete)
 
 Advantages:
 
-* Many career tasks can be performed anywhere, or at least on any station (though the Jump Gates have no Market).
+* At high ranks there's good use for four different stats, leaving stamina for ruins scavenging
 
 Disadvantages:
 
-* Almost all career tasks are illegal
-* Only three stats, the third (intelligence) chiming in rather late
-* Highest paying task only 255 credits
+* Almost all career tasks are illegal: You'll know all Brigs from the inside pretty soon.
+
 
 ## Law: Embassy Staff
 
@@ -145,7 +150,6 @@ Secondary stat: Stamina
 | Sell classified information                                                               | 135      | Social           | Anywhere          |   ✔    |         |
 | Organize a banquet for visiting diplomats                                                 | 144      | Social           | Anywhere          |   –    |         |
 | Supervise the wait & kitchen staff during a diplomatic banquet                            | 144      | Stamina          | Anywhere          |   –    |         |
-| Facilitate the assassination of a foreign diplomat                                        | 153      | Social           | Anywhere          |   ✔    |         |
 | Request to accompany your supervisor on a diplomatic excursion on a rival station         | 159      | Stamina          | Anywhere          |   –    |         |
 | Attend a cultural function on a rival station                                             | 174      | Social           | Anywhere          |   –    |         |
 | Sabotage a rival station on your visit                                                    | 189      | Social           | Anywhere          |   ✔    |         |
@@ -164,6 +168,14 @@ Secondary stat: Stamina
 | Become the first diplomat to broker a fair trade agreement with Freebooters.              | 281      | Social           | Anywhere          |        |    ✔    |
 | Make an illegal deal with Freebooters to protect your own interests above the station's.  | 297      | Social           | Anywhere          |        |         |
 | Lie to the media to improve your station's image.                                         | 315      | Social           | Anywhere          |        |         |
+|-------------------------------------------------------------------------------------------|----------|------------------|------------------ |:-------|:--------|
+| Facilitate the assassination of a foreign diplomat                                        | 153      | Social           | Ruins             |   ✔    |         |
+| Organize a banquet for visiting diplomats                                                 | 144      | Social           | Inn               |   -    |         |
+| Supervise the wait & kitchen staff during a diplomatic banquet                            | 144      | Stamina          | Anywhere          |   -    |         |
+| Sabotage a rival station on your visit                                                    | 189      | Social           | Port              |   ✔    |         |
+| Attend a cultural function on a rival station                                             | 174      | Social           | Inn               |   -    |         |
+| Attend a peace talk on a rival station                                                    | 196      | Stamina          | Ruins             |   -    |    ✔    |
+| Request to accompany your supervisor on a diplomatic excursion on a rival station         | 159      | Stamina          | Anywhere          |   -    |         |
 
 (Tasks which are known to pay to bank, hence should be legal, are marked
 with "–". The data about which tasks are harmful are known to be
@@ -338,12 +350,12 @@ Secondary stat: Strength
 | Run multiple salvage operations.                                 | 174           | Social            | Anywhere |         |         |
 | Hire an illegal employee.                                        | 171           | Social            | Anywhere |         |         |
 | Expand your business further.                                    | 189           | Stamina           | Anywhere |         |         |
-| Hire a bigger crew.                                              | 189           | Stamina           | Anywhere |         |         |
+| Hire a bigger crew.                                              | 189           | Stamina           | Ruins    |         |         |
 | Market your salvage to Freebooters                               | 196           | Strength          | Anywhere |         |   ✔     |
-| Export premium parts.                                            | 204           | Strength          | Anywhere |         |         |
+| Export premium parts.                                            | 204           | Strength          | Port     |         |         |
 | Design & produce better salvaging technology.                    | 204           | Stamina           | Anywhere |         |         |
-| Hire even more illegal employees                                 | 225           | Stamina           | Anywhere |   ✔     |         |
-| Expand into the military sector.                                 | 234           | Strength          | Anywhere |         |         |
+| Hire even more illegal employees                                 | 225           | Stamina           | Ruins    |   ✔     |         |
+| Expand into the military sector.                                 | 234           | Strength          | Security |         |         |
 | Salvage your first war ship for the military.                    | 234           | Stamina           | Anywhere |         |         |
 | Salvage a ship in Freebooter territory.                          | 247           | Strength          | Anywhere |         |    ✔    |
 | Garner the attention of the Consortium Military                  | 249           | Stamina           | Anywhere |         |         |
@@ -356,4 +368,4 @@ Secondary stat: Strength
 | Add security personnel to help fend off Freebooters.             | 298           | Strength          | Anywhere |         |   ✔              |
 | Sabotage a rival's business so they are forced to join your crew. | 315          | Stamina           | Anywhere |   ✔     |         |
 | Bribe officials to make sure your crews always get first notice of newly| 333    | Stamina           | Anywhere |   ✔     |         |
-
+|                                                                  |               | Stamina           | Anywhere |   ✔     |         |
