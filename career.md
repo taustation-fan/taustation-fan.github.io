@@ -296,19 +296,23 @@ Secondary stat: Intelligence
 | Steal top secret Gaule intel                         |  189     |   Agility       |  Anywhere          |         |         |
 | Uncover a space-shell ring                           |  189     |   Intelligence  |  Anywhere          |         |         |
 | Impress a group of Freebooters.                      |  204     |   Strength      |  Anywhere          |         |         |
-| Discover the double agent in your ranks              |  219     |   Intelligence  |  Anywhere          |         |         |
+| Discover the double agent in your ranks              |  219     |   Intelligence  |  Anywhere          |    –    |         |
 | Keep the space-shells for yourself                   |  225     |   Agility       |  Anywhere          |         |         |
 | Pose as a Freebooter pirate for a stint              |  230     |   Strength      |  Anywhere          |         |         |
 | Befriend a target under a false identity             |  234     |   Social        |  Anywhere          |         |         |
 | Keep the things you steal as a Freebooter            |  243     |   Intelligence  |  Anywhere          |         |         |
-| Locate enemy operatives                              |  249     |   Intelligence  |  Anywhere          |         |         |
-| Save a fellow squad member during battle.            |  264     |   Agility       |  Anywhere          |         |         |
-| Win the leadership of your squad.                    |  264     |   Social        |  Anywhere          |         |         |
-| Unearth a plot to murder the leader of your station .|  279     |   Intelligence  |  Anywhere          |         |         |
+| Locate enemy operatives                              |  249     |   Intelligence  |  Anywhere          |    –    |         |
+| Save a fellow squad member during battle.            |  264     |   Agility       |  Anywhere          |    –    |         |
+| Win the leadership of your squad.                    |  264     |   Social        |  Anywhere          |    –    |         |
+| Unearth a plot to murder the leader of your station. |  279     |   Intelligence  |  Anywhere          |    –    |         |
 | Use your friendships with the enemy to gather intel  |  279     |   Intelligence  |  Anywhere          |    ✔    |         |
-| Escape the eyes of enemy operatives                  |  281     |   Agility       |  Anywhere          |         |    ✔    |
+| Escape the eyes of enemy operatives                  |  281     |   Agility       |  Anywhere          |    –    |    ✔    |
 | Kill the double agent in your ranks                  |  289     |   Agility       |  Anywhere          |    ✔    |    ✔    |
-| Protect the leader of your station.                  |  315     |   Agility       |  Anywhere          |         |    ✔    |
+| Protect the leader of your station.                  |  315     |   Agility       |  Anywhere          |    –    |    ✔    |
+
+(Tasks which are known to pay to bank, hence should be legal, are marked
+with "–". The data about which tasks are harmful are known to be
+incomplete)
 
 
 ## Technologist: Port Technician
