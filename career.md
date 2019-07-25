@@ -41,15 +41,15 @@ Secondary stat: Stamina
 | Create a system-wide trade body                   | 114        | Stamina           | Anywhere          |         |         |
 | Invest in a risky venture                         | 114        | Intelligence      | Market            |         |         |
 | Buy a shipment of Freebooter contraband           | 117        | Social            | Ruins             |    ✔    |         |
-| Hire a sales team                                 | 129        | Stamina           | Market            |         |         |
-| Rebrand your business                             | 129        | Social            | Anywhere          |         |         |
-| Attend a trade expo                               | 144        | Social            | Market            |         |         |
-| Improve employee discipline                       | 144        | Stamina           | Anywhere          |         |         |
-| Sell products to other systems                    | 159        | Intelligence      | Anywhere          |         |         |
-| Renegotiate wholesale contracts                   | 174        | Stamina           | Anywhere          |         |         |
-| Run a staff team-building event                   | 174        | Social            | Anywhere          |         |         |
+| Hire a sales team                                 | 129        | Stamina           | Market            |    –    |         |
+| Rebrand your business                             | 129        | Social            | Anywhere          |    –    |         |
+| Attend a trade expo                               | 144        | Social            | Market            |    –    |         |
+| Improve employee discipline                       | 144        | Stamina           | Anywhere          |    –    |         |
+| Sell products to other systems                    | 159        | Intelligence      | Anywhere          |    –    |         |
+| Renegotiate wholesale contracts                   | 174        | Stamina           | Anywhere          |    –    |         |
+| Run a staff team-building event                   | 174        | Social            | Anywhere          |    –    |         |
 | Improve conditions for staff                      | 189        | Stamina           | Market            |         |         |
-| Swindle your taxes                                | 189        | Intelligence      | Anywhere          |         |         |
+| Swindle your taxes                                | 189        | Intelligence      | Anywhere          |    ✔    |         |
 | Design a new ad campaign                          | 204        | Intelligence      | Anywhere          |         |         |
 | Sign a government contract                        | 204        | Stamina           | Anywhere          |         |         |
 | Fire staff to cut costs                           | 219        | Stamina           | Anywhere          |         |         |
@@ -62,6 +62,11 @@ Secondary stat: Stamina
 | Engineer the hostile takeover of a rival          | 279        | Stamina           | Anywhere          |         |         |
 | Revamp your product line                          | 279        | Stamina           | Anywhere          |         |         |
 | Deceive shareholders                              | 315        | Intelligence      | Anywhere          |    ✔    |         |
+
+(Tasks which are known to pay to bank, hence should be legal, are marked
+with "–". The data about which tasks are harmful are known to be
+incomplete)
+
 
 ## Criminal: Opportunist
 
