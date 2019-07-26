@@ -484,6 +484,15 @@ instance, find it easier to train Agility (where they get a 5% bonus)
 than Strength. All genotypes except Baseline have one stat with +5% bonus,
 one +2% bonus and a -5% handicap.
 
+| Genotype  | Strength | Agility | Stamina | Intelligence | Social |
+|-----------|----------|---------|---------|--------------|--------|
+| Belter    |   -2%    |   +5%   |   +5%   |              |        |
+| Colonist  |   +5%    |         |   +2%   |              |   -5%  |
+| Harsene   |   -5%    |         |   +2%   |      +5%     |        |
+| Mall      |   +2%    |         |   +5%   |      -5%     |        |
+| Patrician |   -5%    |   +2%   |         |              |   +5%  |
+
+
 Training can lead to injury (and thus unconsciousness or time in the
 Sick Bay) if your stats are too low. Each gym has a minimal sum of
 combined physical stats that you need to avoid injury, starting with 30
