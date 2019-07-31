@@ -293,7 +293,7 @@ Secondary stat: Intelligence
 | Blackmail a high ranking administrator               |  135     |   Intelligence  |  Government Center |    ✔    |         |
 | Eliminate a target                                   |  135     |   Agility       |  Anywhere          |    ✔    |         |
 | Tail a high ranking official                         |  144     |   Agility       |  Anywhere          |         |         |
-| Foil an assassination attempt                        |  145     |   Agility       |  Anywhere          |         |         |
+| Foil an assassination attempt                        |  145     |   Agility       |  Anywhere          |         |    ✔    |
 | Decrypt stolen intel                                 |  159     |   Intelligence  |  Anywhere          |         |         |
 | Bug an official's office                             |  171     |   Intelligence  |  Anywhere          |         |         |
 | Mentor a new agent                                   |  174     |   Social        |  Anywhere          |         |         |
