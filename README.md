@@ -2088,7 +2088,7 @@ not all of the stations provide all three types of clones:
 | YZ Ceti       | YZ Ceti JG         |   ✔        |           | ✔          |
 | YZ Ceti       | Cape Verde         |   ✔        |  ✔        | ✔          |
 | YZ Ceti       | Asimov Freehold    |            |  ✔        | ✔          |
-| YZ Ceti       | Spirit of NYC      |   ?        |  ?        | ✔          |
+| YZ Ceti       | Spirit of NYC      | **NO**     | **CLONE** | **CENTER** |
 
 
 3D-printed and vat-grown clones can be bought with credits, with the cost
