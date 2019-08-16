@@ -1827,6 +1827,7 @@ non-stop even from stellar systems other than Sol.
 All players start from level 1, and gain experience through
 
 * missions
+* ship repair
 * side jobs
 * successful combat
 * finding things in the Ruins
@@ -1837,7 +1838,8 @@ All players start from level 1, and gain experience through
 
 The experience from combat depends on the opponent's level; so for
 high-level players fighting high-level players and NPCs, for example
-through the *Enter the Sewers* feature, combat can become the primary
+through the *Enter the Sewers* feature and [syndicate
+campaigns](/syndicates#campaigns), combat can become the primary
 source of experience.
 
 When you reach 100% experience of the current career level, you ascend
