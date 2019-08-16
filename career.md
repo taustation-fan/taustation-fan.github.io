@@ -91,6 +91,16 @@ Secondary stat: Social
 | Produce counterfeit rations vouchers                  | 93   | intelligence  | Government Center | ✔        |           |
 | Pull a con job                                        | 62   | social        | Anywhere          | ✔        |           |
 |-------------------------------------------------------|------|---------------|------------------ |:---------|:----------|
+| Discover a bank door code                             |  99  | Stamina       | Bank              |          |           |
+| Sell contraband                                       |  99  | Social        | Market            |          |           |
+| Hijack a small ship                                   | 114  | Agility       | Port              |          |           |
+| Help hijack a cargo shipment                          | 129  | Agility       | Port              |          |           |
+| Hack into a bank terminal                             | 135  | Intelligence  | Bank              |          |           |
+| Organize a heist                                      | 135  | Social        | Anywhere          |          |           |
+| Break into a high security area                       | 149  | Agility       | Market            |          |           |
+| Steal an identity                                     | 169  | Intelligence  | Anywhere          |          |           |
+| Hijack a cargo freighter                              | 169  | Agility       | Port              |          |           |
+| Smuggle contraband into the Brig                      | 171  | Intelligence  | Brig              |          |           |
 | Sell placebos to a patient                            | 159  | Social        | Sick Bay          | –        |           |
 | Run a protection racket                               | 174  | Social        | Residences        | –        |           |
 | Scam a Syndicate                                      | 179  | Social        | Ruins             | –        |           |
@@ -285,10 +295,12 @@ Secondary stat: Intelligence
 | Solicit a bribe from suspects                        |  63      |   Social        |  Anywhere          |    ✔    |         |
 | Investigate a suspect                                |  69      |   Agility       |  Anywhere          |         |         |
 | Leak security plans                                  |  81      |   Intelligence  |  Anywhere          |    ✔    |         |
+| Raid a residence                                     |  94      |   Strength      |  Residences        |         |    ✔    |
 | Raid an illegal water harvesting operation           |  94      |   Agility       |  Ruins             |         |    ✔    |
 | Work undercover                                      |  99      |   Social        |  Anywhere          |         |         |
 | Conduct an internal affairs investigation            |  114     |   Intelligence  |  Security          |         |         |
 | Create a security plan                               |  114     |   Intelligence  |  Security          |         |         |
+| Infiltrate the embassy                               |  117     |   Agility       |  Gaule Embassy     |    ✔    |         |
 | Protect a high profile guest                         |  129     |   Agility       |  Anywhere          |         |         |
 | Blackmail a high ranking administrator               |  135     |   Intelligence  |  Government Center |    ✔    |         |
 | Eliminate a target                                   |  135     |   Agility       |  Anywhere          |    ✔    |         |
