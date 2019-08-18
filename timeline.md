@@ -43,3 +43,7 @@
 * 2019-04-18: [Feedback Pop-ups](https://blog.taustation.space/blog/update-changelog-2019-apr-18/)
 * 2019-04-18: [Manufacturing / Building Construction University courses](https://blog.taustation.space/blog/update-changelog-2019-apr-18/)
 * 2019-04-18: [Status icons for VIP, Visa and Bodyguards](https://blog.taustation.space/blog/update-changelog-2019-apr-18/)
+* 2019-06-25: [Side Job Rework](https://blog.taustation.space/blog/update-changelog-2019-jun-25/), see also [Side Job Revamp](https://blog.taustation.space/blog/side-jobs-revamp/)
+* 2019-06-25: [Archive 2.0](https://blog.taustation.space/blog/update-changelog-2019-jun-25/), see [separate preview](https://blog.taustation.space/blog/archive-2-0-a-new-look-updated-content/)
+* 2019-06-25: [`/me` command in the chat](https://blog.taustation.space/blog/update-changelog-2019-jun-25/)
+
