@@ -38,38 +38,38 @@ The orbit of a station around the central planet is a circle, with the planet at
 
 The only static parameter of such an orbit is the radius of the orbit.
 
-If we consider two stations, *S1* and *S2*, they have each have associated radius *r1* and *r2*. Let's assume that *r2* > *r1*.
+If we consider two stations, `S1` and `S2`, they have each have associated radius `r1` and `r2`. Let's assume that `r2 > r1`.
 
 ### Finding Orbit Radiuses
 
 In-game, we can observe the distance of two stations over time from the *Local Shuttles* page and from the cockpit interface of a private ship.
 
-The closest approach between two stations has the distance dmin = *r2* - *r1*, when both stations are at the same orbital angle. The farthest distance is dmax = *r2* + *r1*, when both stations are on opposite sides of the planet.
+The closest approach between two stations has the distance `dmin = r2 - r1`, when both stations are at the same orbital angle. The farthest distance is `dmax = r2 + r1`, when both stations are on opposite sides of the planet.
 
 When we add those two equations, we get
 
-dmin + dmax = 2 * r2
+    dmin + dmax = 2 * r2
 
 or
 
-r2 = (dmin + dmax) / 2
+    r2 = (dmin + dmax) / 2
 
 Subtracting instead of adding the two initial equations yields
 
-dmax - dmin = 2 * r1
+    dmax - dmin = 2 * r1
 
 or
 
-r1 = (dmax - dmin) / 2
+    r1 = (dmax - dmin) / 2
 
 Or put in words, the sum and the difference of the min and max distances gives us the diameters of both station's orbits.
 
-Example: *Sol Jump Gate* and *Tau Station* have the closest distance of dmin = 1937km, and the farthest distance dmax = 23997 km.
+Example: *Sol Jump Gate* and *Tau Station* have the closest distance of `dmin = 1937 km`, and the farthest distance `dmax = 23997 km`.
 
 From this we can calculate that
 
-    r2 = 12967km
-    r1 = 11030km
+    r2 = 12967 km
+    r1 = 11030 km
 
 We don't know yet which is the inner and which is the outer, but repeating the calculation with another pair of stations (for example *Sol Jump Gate* and *Nouveau Limoges*) will quickly show that *Sol Jump Gate* is the outer station with radius r2 = 12967km.
 
