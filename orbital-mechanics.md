@@ -176,3 +176,23 @@ Finally, you can use the value of μ to determine the mass of the central body.
 | Taungoo          |  3,565        |  7.5              |
 
 Central body: Mars, mass = 6.417 × 10²³ kg, 11% of earth's mass.
+
+[Animation](https://education.tauguide.de/sol.svg).
+
+### Alpha Centauri
+
+
+| Station                  | Radius / km   | Period / Segments |
+|--------------------------|--------------:|------------------:|
+| Alpha Centauri Jump Gate | 11,870        | 503.89            |
+| The Ghost of Mali        | 10,264        | 405.21            |
+| Paris Spatiale           |  8,434        | 301.81            |
+| Moissan Station          |  8,094        | 283.75            |
+| Yards of Gadani          |  7,086        | 274.31            |
+| Cirque Centauri          |  6,863        | 221.53            |
+| Bordeaux                 |  5,918        | 177.43            |
+| Spirit of Botswana       |  5,621        | 164.58            |
+
+Central body: Vercingetorix (dwarf planet),
+
+[Animation](https://education.tauguide.de/ac.svg).
