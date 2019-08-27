@@ -129,3 +129,33 @@ We can also rearrange the formulate to read like this:
     T² / r³ = μ
 
 where the value of μ isn't very interesting, except that it's the same for all stations within a system.
+
+## Finding Orbital Parameters From Observed Data
+
+So, you are an entrepreneurial spirit, and want to find the radiuses and orbital periods for the stations within a system? Here is what you have to do:
+
+* Visit *Local Shuttles* regularly, and write down the distances over time (`dmax`, `dmin`)
+* For each pair of stations, find the minimum and maximum distance, and when these occurred. The is half of `Td`. 
+* Now you have a systems of equations you have to solve. Assuming three stations, the equations are:
+
+    
+    r3 = (dmax13 + dmin13) / 2
+    r3 = (dmax23 + dmin23) / 2
+    r2 = (dmax12 + dmin12) / 2
+    r2 = (dmax23 - dmin23) / 2
+    r1 = (dmax31 - dmin31) / 2
+    r1 = (dmax21 - dmin21) / 2
+    1 / Td13 = 1/T1 - 1/T3
+    1 / Td23 = 1/T2 - 1/T3
+    1 / Td12 = 1/T1 - 1/T2
+    μ = T3² / r3³
+    μ = T2² / r2³
+    μ = T1² / r1³
+
+Where dmax13 is the max distance between stations 1 and 3, Td13 is the period of the relative motion of stations 1 and 3, and so on.
+
+You have 12 equations to determine 7 unknowns (r1, r2, r3, T1, T2, T3, μ), so the equation is overdetermined.
+
+This gives you the freedom to discard some data points that you don't trust, and play around and try to minimize your errors.
+
+A pragmatic approach is to first determine the radiuses, and only then approach the second half of the equations.
