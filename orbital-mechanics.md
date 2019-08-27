@@ -159,3 +159,20 @@ You have 12 equations to determine 7 unknowns (r1, r2, r3, T1, T2, T3, μ), so t
 This gives you the freedom to discard some data points that you don't trust, and play around and try to minimize your errors.
 
 A pragmatic approach is to first determine the radiuses, and only then approach the second half of the equations.
+
+Finally, you can use the value of μ to determine the mass of the central body.
+
+## Findings So Far
+
+### Sol
+
+| Station          | Radius / km   | Period / Segments |
+|------------------|--------------:|------------------:|
+| Sol Jump Gate    | 12,967        | 51.9              |
+| Tau Station      | 11,030        | 40.7              |
+| Nouveau Limoges  |  9,443        | 32.2              |
+| København        |  7,238        | 21.6              |
+| Daedalus         |  6,467        | 18.3              |
+| Taungoo          |  3,565        |  7.5              |
+
+Central body: Mars, mass = 6.417 × 10²³ kg, 11% of earth's mass.
