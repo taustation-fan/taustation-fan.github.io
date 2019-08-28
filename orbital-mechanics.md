@@ -17,10 +17,10 @@ Interstellar travel happens through Jump Gates. The distances for interstellar t
 
 ## Assumptions
 
-Tau Station makes the following simplifying assumptions. Those assumptions have been verified
-by build an orbital model of Sol and Alpha Centauri which worked very well, and later having staff confirm the accuracy of it.
+Tau Station makes the following simplifying assumptions. These assumptions have been verified
+by building an orbital model of Sol and Alpha Centauri which worked very well, and later having staff confirm the accuracy of it.
 
-The assumption are:
+The assumptions are:
 
 * Stations are in circular orbits around the same planets.
 * Stations all orbit in the same plane (coplanar).
@@ -86,7 +86,7 @@ If we put draw a coordinate system with the central planet in the middle, we can
 
 Here `r` is the radius and `φ` the angle of the station at time 0. `sin` and `cos` are the [sine and cosine trigonometric functions](https://en.wikipedia.org/wiki/Trigonometric_functions). π is roughly 3.14159.
 
-(This assume that the stations are rotating clockwise in our coordinate system; but it doesn't really matter, as long as they all rotate in the same direction, which they do).
+(This assumes that the stations are rotating clockwise in our coordinate system; but it doesn't really matter, as long as they all rotate in the same direction, which they do).
 
 ### Relative Motion Between Two Stations
 
@@ -107,7 +107,7 @@ Their relative motion has a period of
 
     Td = 1/(1/T1 - 1/T2) = 1/(1/40.7seg - 1/51.9seg) = 189 seg
 
-So the period from shortest distance, to longest, to shortest again ist 189 segments, or nearly two days.
+So the period from shortest distance, to longest, to shortest again is 189 segments, or nearly two days.
 
 
 ### Relation Between Period and Radius
@@ -135,10 +135,9 @@ where the value of μ isn't very interesting, except that it's the same for all 
 So, you are an entrepreneurial spirit, and want to find the radiuses and orbital periods for the stations within a system? Here is what you have to do:
 
 * Visit *Local Shuttles* regularly, and write down the distances over time (`dmax`, `dmin`)
-* For each pair of stations, find the minimum and maximum distance, and when these occurred. The is half of `Td`. 
+* For each pair of stations, find the minimum and maximum distance, and when these occurred. The is half of `Td`.
 * Now you have a systems of equations you have to solve. Assuming three stations, the equations are:
 
-    
     r3 = (dmax13 + dmin13) / 2
     r3 = (dmax23 + dmin23) / 2
     r2 = (dmax12 + dmin12) / 2
