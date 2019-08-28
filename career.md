@@ -103,7 +103,7 @@ Secondary stat: Social
 | Smuggle contraband into the Brig                      | 171  | Intelligence  | Brig              |          |           |
 | Sell placebos to a patient                            | 159  | Social        | Sick Bay          | –        |           |
 | Run a protection racket                               | 174  | Social        | Residences        | –        |           |
-| Scam a Syndicate                                      | 179  | Social        | Ruins             | –        |           |
+| Scam a Syndicate                                      | 179  | Social        | Ruins             | –        | ✔         |
 | Hijack the Residence's water supply                   | 189  | Stamina       | Residences        | ✔        |           |
 | Run a gang of wrecks-hunters                          | 189  | Social        | Anywhere          | –        |           |
 | Prepare a batch of fake stims                         | 204  | Stamina       | Ruins             | –        |           |
