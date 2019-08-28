@@ -84,7 +84,7 @@ If we put draw a coordinate system with the central planet in the middle, we can
     x(t) = r * sin( 2π t/T + φ )
     y(t) = r * cos( 2π t/T + φ )
 
-Here `r` is the radius and `φ` the angle of the station at time 0. `sin` and `cos` are the [sine and cosine trigonometric functions](https://en.wikipedia.org/wiki/Trigonometric_functions). π is roughly 3.14159.
+Here `r` is the radius and `φ` the angle of the station at time 0 (also called the *phase*), measured in radians. `sin` and `cos` are the [sine and cosine trigonometric functions](https://en.wikipedia.org/wiki/Trigonometric_functions). π is roughly 3.14159.
 
 (This assumes that the stations are rotating clockwise in our coordinate system; but it doesn't really matter, as long as they all rotate in the same direction, which they do).
 
@@ -165,6 +165,8 @@ Finally, you can use the value of μ to determine the mass of the central body.
 
 ### Sol
 
+Data credit: [JamesDragonRider](https://alpha.taustation.space/character/details/jamesdragonrider), [moritz](https://alpha.taustation.space/character/details/moritz).
+
 | Station          | Radius / km   | Period / Segments |
 |------------------|--------------:|------------------:|
 | Sol Jump Gate    | 12,967        | 51.9              |
@@ -180,6 +182,7 @@ Central body: Mars, mass = 6.417 × 10²³ kg, 11% of earth's mass.
 
 ### Alpha Centauri
 
+Data credit: [JamesDragonRider](https://alpha.taustation.space/character/details/jamesdragonrider), [moritz](https://alpha.taustation.space/character/details/moritz).
 
 | Station                  | Radius / km   | Period / Segments |
 |--------------------------|--------------:|------------------:|
