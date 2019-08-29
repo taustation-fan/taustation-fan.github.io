@@ -18,13 +18,13 @@ Secondary stat: Stamina
 
 | Name                                              | Bonus      | Stat              | Area              | Illegal | Harmful |
 |---------------------------------------------------|------------|-------------------|-------------------|:--------|:--------|
-| Charm a customer                                  | 9          | Social            | Market            |         |         |
-| Restock the store                                 | 9          | Stamina           | Market            |         |         |
-| Vandalize a rival's stall                         | 9          | Strength          | Market            |         |         |
-| Attract more customers                            | 24         | Social            | Market            |         |         |
-| Set up a kiosk                                    | 24         | Stamina           | Market            |         |         |
+| Charm a customer                                  | 9          | Social            | Market            |    –    |         |
+| Restock the store                                 | 9          | Stamina           | Market            |    –    |         |
+| Vandalize a rival's stall                         | 9          | Strength          | Market            |    ✔    |         |
+| Attract more customers                            | 24         | Social            | Market            |    –    |         |
+| Set up a kiosk                                    | 24         | Stamina           | Market            |    –    |         |
 | Hawk a stolen fuel cell                           | 27         | Social            | Ruins             |    ✔    |         |
-| Study Consortium and Gaule business regulations   | 39         | Intelligence      | Anywhere          |         |         |
+| Study Consortium and Gaule business regulations   | 39         | Intelligence      | Anywhere          |    –    |         |
 | Run a demo to boost rifle sales                   | 43         | Social            | Market            |         |         |
 | Sell a batch of illegal stims                     | 45         | Social            | Anywhere          |    ✔    |         |
 | Record a holo-vid commercial                      | 54         | Social            | Market            |         |         |
