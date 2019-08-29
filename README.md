@@ -800,15 +800,15 @@ in rank 3 etc., all the way up to 128 days in rank 7.
 |   8 |              N/A  |          30 |
 
 Career tasks use up 20% of the affected stat, and 5% focus. On success,
-you get a bonus in credits (between 3 and 320, depending on the difficulty
-of the task), which is the primary source of most player's
+you get a bonus in credits (between 9 and 369, depending on the difficulty
+of the task and the career), which is the primary source of most player's
 credit wealth.
 
 At the very beginning, you will only be able to perform the most basic
-tasks, with payouts of 3 to 5 credits, which are annotated as *Easy* or
+tasks, with payouts of 9 credits, which are annotated as *Easy* or
 *Normal*.
 
-As your career experience increases,
+As your career experience and rank increases,
 more difficult career tasks become achievable. In general, you should
 try career tasks where your success rate is higher than 50%. If your
 success rate is higher than 80% or 90%, you might try more difficult
@@ -816,7 +816,7 @@ tasks (which are those further down the list), because they yield higher
 returns.
 
 The spread between the lowest and highest task bonuses is much larger
-(factor 100) than the career XP gain spread (factor 8-10). Hence if
+(factor ~40) than the career XP gain spread (factor 8-10). Hence if
 you primarily want to advance your career, you should stick to lower-level
 tasks for which you have a high success rate. If you want to optimize for
 making credits fast, doing the harder but better-paying tasks is the

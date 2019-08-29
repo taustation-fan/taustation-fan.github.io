@@ -75,14 +75,6 @@ Secondary stat: Social
 
 | Name                                                  | Bonus| Stat          | Area              | Illegal  | Harmful |
 |-------------------------------------------------------|------|---------------|------------------ |:---------|:----------|
-| Pick some pockets                                     | 3    | agility       | Anywhere          | ✔        |           |
-| Listen for information about easy marks               | 3    | social        | Anywhere          |          |           |
-| Rob a wealthy mark                                    | 5    | agility       | Anywhere          | ✔        | ✔         |
-| Ask the local merchants who their best customers are  | 5    | social        | Market            |          |           |
-| Distract the guards                                   | 6    | social        | Market            |          |           |
-| Mug a local                                           | 15   | agility       | Anywhere          | ✔        | ✔         |
-| Participate in a con job                              | 15   | social        | Anywhere          | ✔        |           |
-| Practice picking locks                                | 19   | agility       | Anywhere          |          |           |
 | Sneak into a kiosk                                    | 15   | agility       | Market            | ✔        |           |
 | Lead a crew of thieves                                | 49   | social        | Market            | ✔        | ✔         |
 | Rob a residence                                       | 48   | agility       | Residences        | ✔        |           |
@@ -91,6 +83,17 @@ Secondary stat: Social
 | Produce counterfeit rations vouchers                  | 93   | intelligence  | Government Center | ✔        |           |
 | Pull a con job                                        | 62   | social        | Anywhere          | ✔        |           |
 |-------------------------------------------------------|------|---------------|------------------ |:---------|:----------|
+| Make underworld contacts                              |   9  | Stamina       | Ruins             |          |           |
+| Pick some pockets on the station boulevard            |   9  | Agility       | Anywhere          |          |           |
+| Raid a market stall                                   |   9  | Strength      | Market            |          |           |
+| Plan escape routes                                    |  24  | Intelligence  | Anywhere          |          |           |
+| Ask the local merchants who their best customers are  |  24  | Social        | Market            |          |           |
+| Rob a wealthy mark                                    |  26  | Agility       | Market            |          |           |
+| Distract the guards                                   |  39  | Social        | Market            |          |           |
+| Participate in a con job                              |  45  | social        | Anywhere          |          |           |
+| Mug a local                                           |  49  | Agility       | Anywhere          |          |           |
+| Practice hacking locks                                |  54  | Agility       | Anywhere          |          |           | 
+
 | Discover a bank door code                             |  99  | Stamina       | Bank              |          |           |
 | Sell contraband                                       |  99  | Social        | Market            |          |           |
 | Hijack a small ship                                   | 114  | Agility       | Port              |          |           |
