@@ -165,6 +165,26 @@ Finally, you can use the value of μ to determine the mass of the central body a
 
 (Remember to convert the periods from segments and units to seconds to end up with SI units).
 
+## Travel Times
+
+Tau Station's ships accelerate for the first half of the distance, and then decelerate for the second half.
+
+The acceleration depends on the ship type, and can be obtained [from this ships table](https://tauguide.de/ships#ship-types).
+
+The equation of motion for for linear acceleration in general is
+
+    x = 1/2 a t²
+
+where `x` is the distance traveled, `a` the acceleration and `t` the time.
+
+We know that half of the distance `d` is reached after half of the total travel time `T`,
+so we can plug in:
+
+    d/2 = 1/2 a (T/2)²
+    d/2 = 1/8 a T²
+    4d = a T²
+     T = sqrt(4d/a) = 2 * sqrt(d/a)
+    
 
 ## Findings So Far
 
