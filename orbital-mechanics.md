@@ -200,6 +200,6 @@ Data credit: [JamesDragonRider](https://alpha.taustation.space/character/details
 | Bordeaux                 |  5,918        | 177.43            |
 | Spirit of Botswana       |  5,621        | 164.58            |
 
-Central body: Vercingetorix (dwarf planet),
+Central body: Vercingetorix (dwarf planet), mass = 5.22 × 10²³ kg, 0.087% of earth's mass.
 
 [Animation](https://education.tauguide.de/ac.svg).
