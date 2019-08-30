@@ -159,7 +159,12 @@ This gives you the freedom to discard some data points that you don't trust, and
 
 A pragmatic approach is to first determine the radiuses, and only then approach the second half of the equations.
 
-Finally, you can use the value of μ to determine the mass of the central body.
+Finally, you can use the value of μ to determine the mass of the central body as:
+
+    M = (2π)² / (G * μ )
+
+(Remember to convert the periods from segments and units to seconds to end up with SI units).
+
 
 ## Findings So Far
 
