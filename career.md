@@ -93,7 +93,6 @@ Secondary stat: Social
 | Participate in a con job                              |  45  | social        | Anywhere          |          |           |
 | Mug a local                                           |  49  | Agility       | Anywhere          |          |           |
 | Practice hacking locks                                |  54  | Agility       | Anywhere          |          |           | 
-
 | Discover a bank door code                             |  99  | Stamina       | Bank              |          |           |
 | Sell contraband                                       |  99  | Social        | Market            |          |           |
 | Hijack a small ship                                   | 114  | Agility       | Port              |          |           |
