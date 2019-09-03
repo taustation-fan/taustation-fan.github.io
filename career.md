@@ -31,11 +31,11 @@ Secondary stat: Stamina
 | Run the store for the day                         | 54         | Stamina           | Market            |    –    |         |
 | Supervise a lazy apprentice                       | 54         | Social            | Market            |    –    |         |
 | Steal from the safe                               | 63         | Agility           | Market            |    ✔    |         |
-| Manage the store during end-of-cycle sales        | 69         | Stamina           | Market            |         |         |
-| Negotiate a supply deal with a Ruins rat          | 69         | Social            | Port              |         |         |
+| Manage the store during end-of-cycle sales        | 69         | Stamina           | Market            |    –    |         |
+| Negotiate a supply deal with a Ruins rat          | 69         | Social            | Port              |    –    |         |
 | Cook the books                                    | 81         | Intelligence      | Anywhere          |    ✔    |         |
-| Order goods from a neighboring station            | 84         | Social            | Port              |         |         |
-| Receive a freight delivery                        | 84         | Social            | Port              |         |         |
+| Order goods from a neighboring station            | 84         | Social            | Port              |    –    |         |
+| Receive a freight delivery                        | 84         | Social            | Port              |    –    |         |
 | Attend a meeting of Consortium merchants          | 99         | Stamina           | Market            |         |         |
 | Shortchange a freight ship captain                | 99         | Social            | Port              |    ✔    |         |
 | Create a system-wide trade body                   | 114        | Stamina           | Anywhere          |         |         |
@@ -344,14 +344,14 @@ Secondary stat: Strength
 |------------------------------------------------------------------|---------------|-------------------|----------|:--------|:--------|
 | Scrub rust off a ship                                            | 9             | Stamina           | Port     |         |         |
 | Polish a ship                                                    | 9             | Stamina           | Port     |         |         |
-| Refuel a ship                                                    | 24            | Strength          | Port     |         |    ✔    |
+| Refuel a ship                                                    | 24            | Strength          | Port     |    –    |    ✔    |
 | Cut the fuel with another liquid                                 | 27            | Intelligence      | Port     |    ✔    |         |
 | Mix batches of fuel                                              | 26            | Stamina           | Port     |         |    ✔    |
 | Falsify departure permissions                                    | 39            | Social            | Port     |    ✔    |         |
 | Run pre-flight checks                                            | 39            | Stamina           | Port     |         |         |
 | Inspect Cargo                                                    | 39            | Intelligence      | Port     |         |         |
 | Study repair manuals                                             | 54            | Stamina           | Anywhere |         |         |
-| Make supervised repairs                                          | 54            | Strength          | Port     |         |         |
+| Make supervised repairs                                          | 54            | Strength          | Port     |    –    |         |
 | Run a full-ship diagnostic                                       | 69            | Stamina           | Port     |         |         |
 | Train a tiresome apprentice                                      | 69            | Stamina           | Port     |         |         |
 | Repair a ship                                                    | 69            | Strength          | Port     |         |         |
