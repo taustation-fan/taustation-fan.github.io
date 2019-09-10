@@ -100,9 +100,9 @@ Secondary stat: Social
 | Hack into a bank terminal                             | 135  | Intelligence  | Bank              |          |           |
 | Organize a heist                                      | 135  | Social        | Anywhere          |          |           |
 | Break into a high security area                       | 149  | Agility       | Market            |          |           |
-| Steal an identity                                     | 169  | Intelligence  | Anywhere          |          |           |
-| Hijack a cargo freighter                              | 169  | Agility       | Port              |          |           |
-| Smuggle contraband into the Brig                      | 171  | Intelligence  | Brig              |          |           |
+| Steal an identity                                     | 169  | Intelligence  | Anywhere          | ✔        |           |
+| Hijack a cargo freighter                              | 169  | Agility       | Port              | ✔        | ✔         |
+| Smuggle contraband into the Brig                      | 171  | Intelligence  | Brig              | ✔        |           |
 | Sell placebos to a patient                            | 159  | Social        | Sick Bay          | –        |           |
 | Run a protection racket                               | 174  | Social        | Residences        | –        |           |
 | Scam a Syndicate                                      | 179  | Social        | Ruins             | –        | ✔         |
