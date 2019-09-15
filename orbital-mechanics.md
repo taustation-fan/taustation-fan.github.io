@@ -92,14 +92,14 @@ Here `r` is the radius and `φ` the angle of the station at time 0 (also called 
 
 The distance between two stations as a function of time can be calculated as
 
-    d(x) = sqrt( (x2(t) - x1(t))² + (y2(t) - y1(t))² )
+    d(t) = sqrt( (x2(t) - x1(t))² + (y2(t) - y1(t))² )
 
 where `sqrt` is the square root. The calculation is lengthy and boring, but has a pretty simple result:
 
-    d(x) = r1 + r2 * cos( 2π t/Td + (φ2 - φ1) )
+    d(t)² = r1² + (r2 -r1)² * cos( 2π t/Td + (φ2 - φ1) )
     1/Td = 1/T1 - 1/T2
 
-So the distance varies as a cosine function, with a period of 1/(1/T1 - 1/T2). (This is easier expressed in term of *frequency* instead of periods: fd = f2 - f1).
+So the square of the distance varies as a cosine function, with a period of 1/(1/T1 - 1/T2). (This is easier expressed in term of *frequency* instead of periods: fd = f2 - f1).
 
 For example, *Sol Jump Gate* has a period of T2 = 51.9 segments, and *Tau Station* has a period of 40.7 segments.
 
