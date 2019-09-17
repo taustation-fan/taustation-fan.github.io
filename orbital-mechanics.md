@@ -138,6 +138,7 @@ So, you are an entrepreneurial spirit, and want to find the radiuses and orbital
 * For each pair of stations, find the minimum and maximum distance, and when these occurred. The is half of `Td`.
 * Now you have a systems of equations you have to solve. Assuming three stations, the equations are:
 
+```
     r3 = (dmax13 + dmin13) / 2
     r3 = (dmax23 + dmin23) / 2
     r2 = (dmax12 + dmin12) / 2
@@ -150,6 +151,7 @@ So, you are an entrepreneurial spirit, and want to find the radiuses and orbital
     μ = T3² / r3³
     μ = T2² / r2³
     μ = T1² / r1³
+```
 
 Where dmax13 is the max distance between stations 1 and 3, Td13 is the period of the relative motion of stations 1 and 3, and so on.
 
@@ -223,3 +225,14 @@ Data credit: [JamesDragonRider](https://alpha.taustation.space/character/details
 Central body: Vercingetorix (dwarf planet), mass = 5.22 × 10²³ kg, 0.087% of earth's mass.
 
 [Animation](https://education.tauguide.de/ac.svg).
+
+### YZ Ceti
+
+| Station                  | Radius / km   | Period / Segments |
+|--------------------------|--------------:|------------------:|
+| YZ Ceti Jump Gate        | 9,637.0       | 4197.33           |
+| Asimov Freehold          | 8,708.7       | 2308.47           | 
+| Cape Verde Stronghold    | 7,322.5       | 1184.90           |
+| Spirit of New York City  | 6,243.6       |  752.85           |
+
+[Animation](https://education.tauguide.de/yz-ceti.svg).
