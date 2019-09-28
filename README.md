@@ -1027,7 +1027,8 @@ system, you first need to travel to a jump gate, from there to the other
 star system's jump gate, and from there to the station you want.
 
 Travel cost and duration depends on the distance between stations, which
-varies depending on the current orbital positions.
+varies depending on the [current](https://tracker.tauguide.de/distance)
+[orbital positions](/orbital-mechanics).
 
 ***Note that you can pay for public shuttles with credits; just scroll
 down! The regular shuttles are below the premium shuttles that you pay with

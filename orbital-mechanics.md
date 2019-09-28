@@ -190,6 +190,10 @@ so we can plug in:
 
 ## Findings So Far
 
+Station distances are being recorded by [the Tau Tracker](https://tracker.tauguide.de/distance),
+and data is submitted by volunteers through a userscript. Before the Tau Tracker, data has
+been collected by storing *Local Shuttles* pages and extracting distance data afterwards.
+
 ### Sol
 
 Data credit: [JamesDragonRider](https://alpha.taustation.space/character/details/jamesdragonrider), [moritz](https://alpha.taustation.space/character/details/moritz).
@@ -225,6 +229,15 @@ Data credit: [JamesDragonRider](https://alpha.taustation.space/character/details
 Central body: Vercingetorix (dwarf planet), mass = 5.22 × 10²³ kg, 0.087% of earth's mass.
 
 [Animation](https://education.tauguide.de/ac.svg).
+
+### L-726 B
+
+| Station                  | Radius / km   | Period / Segments |
+|--------------------------|--------------:|------------------:|
+| L-726 B Jump Gate        | 9,335         |                   |
+| Orwell Stronghold        | 7,127         |                   |
+| Spirit of Tianjin        | 5,499         |                   |
+
 
 ### YZ Ceti
 
