@@ -234,18 +234,18 @@ Central body: Vercingetorix (dwarf planet), mass = 5.22 × 10²³ kg, 0.087% of 
 
 | Station                  | Radius / km   | Period / Segments |
 |--------------------------|--------------:|------------------:|
-| L-726 B Jump Gate        | 9,335         |                   |
-| Orwell Stronghold        | 7,127         |                   |
-| Spirit of Tianjin        | 5,499         |                   |
+| L-726 B Jump Gate        | 9,341         | 803.85            |
+| Orwell Stronghold        | 7,119         | 534.85            |
+| Spirit of Tianjin        | 5,499         | 363.02            |
 
 
 ### YZ Ceti
 
 | Station                  | Radius / km   | Period / Segments |
 |--------------------------|--------------:|------------------:|
-| YZ Ceti Jump Gate        | 9,637.0       | 4197.33           |
-| Asimov Freehold          | 8,708.7       | 2308.47           | 
-| Cape Verde Stronghold    | 7,322.5       | 1184.90           |
-| Spirit of New York City  | 6,243.6       |  752.85           |
+| YZ Ceti Jump Gate        | 9,637.0       | 841.76            |
+| Asimov Freehold          | 8,708.7       | 723.11            |
+| Cape Verde Stronghold    | 7,322.5       | 557.51            |
+| Spirit of New York City  | 6,243.7       | 438.98            |
 
 [Animation](https://education.tauguide.de/yz-ceti.svg).
