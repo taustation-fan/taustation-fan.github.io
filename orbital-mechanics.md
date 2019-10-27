@@ -230,6 +230,17 @@ Central body: Vercingetorix (dwarf planet), mass = 5.22 × 10²³ kg, 0.087% of 
 
 [Animation](https://education.tauguide.de/ac.svg).
 
+### Barnard's Star
+
+| Station                  | Radius / km   | Period / Segments |
+|--------------------------|--------------:|------------------:|
+| Hopkin's Legacy          |     6013.38   |  427.51           |
+| The Maid of Orléans      |     8168.17   |  677.69           |
+| Caen Stronghold          |     8890.72   |  768.49           |
+| Barnard's Star Jump Gate |     9028.24   |  788.73           |
+| Estación de Amazon       |    10768.75   | 1024.25           |
+
+
 ### L-726 B
 
 | Station                  | Radius / km   | Period / Segments |
