@@ -750,9 +750,10 @@ ability.
 The second factor is availability. Career tasks can be tied to locations
 (you can only repair ships at a Port, and only analyze security footage
 at Security), and not all stations have all areas. Ports and Brigs are everywhere,
-Sick Bay and Security are also nearly ubiquitous. Cloning Vats can
-be found on all stations except Daedalus, the Sol Jump Gate and Ghost
-of Mali. In contrast, only four stations have embassies.
+Sick Bay and Security are also nearly ubiquitous. There are several stations
+without cloning vats.
+In contrast, only five stations have Gaule embassies, which are useful for the
+Law career.
 
 Finally, some careers are more dangerous than others; if a majority of
 tasks sound illegal, you might spend quite some time in the Brig.
@@ -809,6 +810,11 @@ you get a bonus in credits (between 9 and 369, depending on the difficulty
 of the task and the career), which is the primary source of most player's
 credit wealth.
 
+The career task bonus is also affected by a time- and station dependent factor
+between 1 and 2. Many systems have a station that often has a high career
+factor, which you can explore [on the career page of the Tau
+Tracker](https://tracker.tauguide.de/career).
+
 At the very beginning, you will only be able to perform the most basic
 tasks, with payouts of 9 credits, which are annotated as *Easy* or
 *Normal*.
@@ -844,9 +850,10 @@ seems to explain most phenomena around career tasks:
 
 * Task difficulty. Easy tasks are listed first.
 * Career experience
+* Current percentage of the stat that is being tested
+* Station level, with tasks being easier on lower-level stations.
 * Player level. Many players have reported more failing career tasks after
   leveling up.
-* Current percentage of the stat that is being tested
 * Per-task experience (conjectural)
 
 Some players have also reported that career task success rates have gone
@@ -864,6 +871,9 @@ pay less than career tasks, but give you much more experience.
 
 The available side jobs and their pay depend on the station.
 
+The narrative of some side jobs gives you background information about life on
+the current station.
+
 ### Discreet Work
 
 *Discreet Work* aka *Anonymous Missions* are automatically generated
@@ -878,10 +888,10 @@ more importantly, a random bonus. This bonus can be
 * a stim
 
 In most cases, the potential rewards depends on the station level. For
-example on Taungoo Station (level 5), the stats boost tends to be on the
-order of 0.02, while you get something closer to 0.04 on Yards of Gadani
+example on *Taungoo Station* (level 5), the stats boost tends to be on the
+order of 0.02, while you get something closer to 0.04 on *Yards of Gadani*
 (level 10). The stat bonus also depends on the station. For instance, on
-Hopkins' Legacy the stat bonus is always for Strength, while on Yards of
+*Hopkins' Legacy* the stat bonus is always for Strength, while on Yards of
 Gadani it is for Social, Strength and Stamina. See the [Taustation
 wiki](http://taustation.wikidot.com/discreet-work) for more details.
 
@@ -894,8 +904,8 @@ Some of the anonymous missions involve stealing an item from somebody,
 and bringing it to somebody else. Between those two actions, the item
 is in your own inventory, and you can steal it by aborting the mission.
 The only repercussion is that after aborting an anonymous mission, you
-won't be offered a new one for a while. For valuable items such as
-rare weapons, rations or bond packages, this is usually worth it.
+won't be offered a new one for a while (around 16 segments). For valuable
+items such as rare weapons or rations, this might be worth it.
 
 Despite the disclaimer of potential danger, Discreet Work has never
 brought me into the Sick Bay or the Brig.
@@ -929,9 +939,8 @@ and fast, while more advanced courses take much longer (up to 28 days),
 and can cost up to several ten thousand credits.
 
 You can only be enrolled in one course at a time, and you cannot abort a
-course that you started. Travel, Sick Bay and Brig do not affect University
-courses, which just continue in those circumstances (though may
-delay the completion of a course until you are free to move again).
+course that you started. Travel, Sick Bay, Brig and even death do not affect
+a University course in progress, which just continue in those circumstances.
 
 In the beginning, you can likely only afford basic courses, so you
 should enroll in those.
@@ -943,7 +952,7 @@ to speed up the course by 50%, so the combination of both reduces
 the time to 35% of the original length.
 
 University courses are a long game. A typical module consist of courses
-that last 1, 7, 14 and 21 days, so more 6 weeks, and even with full
+that last 1, 7, 14 and 21 days, so more than 6 weeks, and even with full
 acceleration it's more than two weeks. Thus you should be enrolled
 in a course all of the time to get the most of out it.
 
@@ -972,6 +981,10 @@ The following modules are available, grouped by station:
 * Spirit of Botswana (Alpha Centauri, Consortium)
     * Combat: Combat Basics, Special Ops
     * Spaceship Operations: Navigation, Technology, Ship Handling
+* Cape Verde Stronghold (YZ Ceti, Consortium)
+    * Advanced Ship Engineering
+    * Construction
+    * Space Navigation (Multi-Jump courses)
 
 See the [search- and sortable list of all University
 courses](https://education.tauguide.de/) for details. Here is just a
@@ -999,6 +1012,16 @@ Additional *Ship Engineering* and *Advanced Ship Engineering* modules allow
 you to improve the fuel efficiency and damage resistance of your ships, as
 well as shorter Jump Gate travels.
 
+The *Advanced Ship Engineering* courses reduce ship repair time (and possibly
+cost).
+
+*Space Navigation* courses allow you to do several consecutive interstellar
+jumps without interaction in between, though at the cost of increased travel
+time.
+
+The *Construction* courses are prerequisites for syndicate buildings, a
+feature that is not yet implemented in Tau Station.
+
 ## VIP Packs
 
 VIP packs provide many benefits, documented
@@ -1017,10 +1040,10 @@ The following are sources of VIP packs:
 * You can buy a 3-day VIP pack every 7 days at the Vendors (Market), for 290 bonds
 * You can buy VIP packs on the Public Market when other players are willing to part with them.
 * You can find VIP packs in the ruins
-* Syndicate campaigns ([alledgedly](https://blog.taustation.space/blog/rewards-in-syndicate-campaigns/))
+* Syndicate campaigns
 
-You can also sell VIP packs on the Public Market, for up to 10,000 credits per
-day of VIP, and even more for 3-day VIP packs.
+You can also sell VIP packs on the Public Market, for up to 20,000 credits per
+day of VIP, with a slightly higher per-day value for smaller packs.
 
 VIP packs are all of tier 1, but work regardless of player tier.
 
@@ -1031,12 +1054,15 @@ local shuttles. If you want to travel to a station in another star
 system, you first need to travel to a jump gate, from there to the other
 star system's jump gate, and from there to the station you want.
 
+Currently all systems have a direct connection to *Sol*, except for
+*YZ Ceti*, which is reachable through *L 726-B*.
+
 Travel cost and duration depends on the distance between stations, which
 varies depending on the [current](https://tracker.tauguide.de/distance)
 [orbital positions](/orbital-mechanics).
 
 ***Note that you can pay for public shuttles with credits; just scroll
-down! The regular shuttles are below the premium shuttles that you pay with
+down! The regular shuttles are below the quantum telepheresis tickets that you pay with
 bonds.***
 
 While traveling, you can't do anything except training intelligence.
@@ -1667,7 +1693,7 @@ Style information: assets/css/style.scss
       <td class="afl-con">19</td>
       <td class="afl-con">C</td>
       <td class="high">⇗</td>
-      <td class="high">⇗</td>
+      <td class="afl-gau">G</td>
       <td><img src="assets/png/piggy-bank.png" title="Bank"/></td>
       <td><img src="assets/png/bars.png" title="Brig"/></td>
       <td><img src="assets/png/dna.png" title="Clones"/></td>
@@ -1825,7 +1851,7 @@ The price depends on the player level, not on the distance to Tau Station. See
 [the wiki for a price
 list](http://taustation.wikidot.com/government-center#toc1).
 
-The emergency shuttle leaves immediately after you chose to use it, and it is
+The emergency shuttle leaves immediately when you chose to use it, and it is
 non-stop even from stellar systems other than Sol.
 
 ## Player and Station Levels
@@ -1838,9 +1864,9 @@ All players start from level 1, and gain experience through
 * successful combat
 * finding things in the Ruins
 * career tasks
-* travel
 * item repair
 * discreet work
+* travel
 
 The experience from combat depends on the opponent's level; so for
 high-level players fighting high-level players and NPCs, for example
@@ -1872,6 +1898,7 @@ also offer higher rewards
 * have more expensive hotel rooms
 * have higher-paying side jobs and discreet work
 * give more experience per successful career task
+* have more expensive ship fuel
 
 All of these factors combined mean that, as long as you are not playing
 missions, it usually makes sense to spend your time on higher-level stations.
@@ -1904,7 +1931,7 @@ can find in the Government Center). Disabling the security cameras in an
 area significantly reduces the chance of getting caught.
 
 If you are caught, the length of the stay in the
-Brig depends on the law level. Tau Station is super paranoid, and you
+Brig depends on the law level and your reputation. Tau Station is super paranoid, and you
 can't ever attack somebody successfully there (with the exception
 of random encounters in the Ruins).
 
@@ -1912,13 +1939,13 @@ of random encounters in the Ruins).
 
 You can wear an armor suit, and equip up to two weapons. There are three
 kinds of damage, Impact, Piercing and Energy. Weapons have an inherent
-accuracy, and one or sometimes two kinds of damage they make.
+accuracy, and one to three damage types.
 
 Combat starts out in long range, and after four actions the distance changes
 to short range.
 
 Shotguns, rifles and sniper rifles are suited for long-range combat
-while blades, improvised weapons (clubs), hand guns and short-barrel rifles
+while blades, clubs, hand guns and short-barrel rifles
 work in short range combat.
 Using a weapon in the wrong range incurs a penalty, and using a hand-to-hand
 weapon (blades and clubs) in long range is a guaranteed miss.
@@ -1932,8 +1959,8 @@ that you can also use grenades, and equip them on your combat belt.
 ### Combat Mechanics
 
 The success of an attack depends on the physical stats, the accuracy of the
-weapon, and combat skills (which can be
-acquired through University courses).
+weapon, combat skills (which can be acquired through University courses), and
+your current Focus level.
 
 A successful attack can wound the
 opponent, which reduces a physical stat. Higher physical stats thus
@@ -1943,7 +1970,8 @@ loot credits from the victim's purse, but cannot steal items from the
 loser.
 
 Each combat action costs 3% Focus if your opponent successfully attacks
-you, and 1% otherwise. If you run out of Focus, you are detained to the Brig.
+you, and 1% otherwise. If you run out of Focus, you land in the Sick Bay
+(provided the current station has one).
 
 On stations with a Sick Bay, the loser can then recover in the Sick Bay.
 On stations without a Sick Bay (currently only Bordeaux Station and 
@@ -1998,17 +2026,19 @@ You can obtain weapons in the following ways:
 
 * Successful combat from *Look for Trouble* and *Enter the Sewers* in the Ruins often rewards
   you with weapons or armor.
-* Sometimes Discreet Work gives you a weapon as reward.
-* Some missions give you a weapon as reward.
-* Discreet Work often involves stealing or finding a weapon, and delivering it
+* Sometimes Discreet Work gives you a weapon or armor as reward.
+* Some missions give you a weapon or an armor as reward.
+* Discreet Work often involves stealing or finding an item, and delivering it
   to somebody else. You can steal the weapon you are meant to deliver by
   aborting discreet work (which bans your from further discreet work for roughly
-  two hours).
+  four hours).
 * You can buy them at the Public Market.
 * You can buy them at vendors, where the offering differs from station to
   station. The [item list on TauHead](https://www.tauhead.com/item/list) gives
   a convenient overview which weapon can be bought were.
 * You can find items while scavenging in the Ruins.
+* If you are part of a [syndicate](/syndicates), you can obtain weapons and
+  armors as reward for syndicate campaigns.
 
 ### Weapons Maintenance
 
@@ -2039,7 +2069,7 @@ is finished. Then you can pick up the repaired item from the Shipping Bay.
 
 Items cannot be repaired once their damage is too large. With Item Repair 3,
 you can repair items that have 5% or more health left . To be on the safe
-side, you should repair your
+side, and to avoid the loss of efficiency from damaged gear, you should repair your
 items when their health falls below 75%.
 
 ## Clones
@@ -2123,6 +2153,10 @@ additional 99 bonds.
 
 ### Dying
 
+You can only die from combat on stations without Sick Bay, or from consuming
+a [Termination Pellet](https://alpha.taustation.space/item/termination-pellet)
+that can be bought on Caen Stronghold.
+
 When you die, you lose all the cash in your wallet. The items you were
 carrying are available from the Government Center of the station you died on.
 
@@ -2131,7 +2165,7 @@ clone on Tau Station otherwise.
 
 After activation, the new body is confined to the clone vats for some time,
 starting at 10 segments, but increases each time you die.
-After the new body is released, you have access to your bank account,
+After the new body is released, you again have access to your bank account,
 storage and ships.
 
 The following persist through the death of a body:
@@ -2142,6 +2176,7 @@ The following persist through the death of a body:
 * The values of your Intelligence and Social stats
 * Experience
 * Career rank and experience
+* Credits in your bank account and bonds.
 
 ## Reputation
 
@@ -2156,7 +2191,6 @@ faction:
 * Lower Brig times
 * Discounts when buying things at NPC vendors
 * Bonuses when selling things to NPC vendors
-* Cheaper refueling
 * Cheaper public shuttle tickets
 * Cheaper hotel room rent
 * Cheaper drinks at the bar
@@ -2187,11 +2221,11 @@ reputations).
 
 The following actions can decrease your reputation, in decreasing order:
 
-* Attacking and defeating the same player twice (or more often) within
-  24 hours
+* Attacking the same player twice (or more often) within 24 hours
 * Getting into a fight in a bar (Inn) from consuming alcohol or stims
 * Getting caught for long-running fight
 * Getting caught at an illegal career task
+* Getting caught attacking another player (uncertain)
 
 ## Shipping and Selling Items
 
@@ -2226,11 +2260,20 @@ If an item has been delivered to you to the shipping bay of a station
 that you are currently not on, you can redirect the shipment to the
 current station (for which you have to pay).
 
+You can also send items from one station's storage to another storage
+through the [Storage
+Management](https://alpha.taustation.space/coretechs/storage) in your
+CORETECHS, with the same shipping costs as when going through the shipping
+bay.
+
 ### Selling Items to Vendors
 
-You can sell items for a fixed price if you go to Market and then
-Vendors (and then select the Inventory). Each item has a nominal price,
-and you get 30% of that price at NPC vendors (though reputation bonus applies).
+You can sell items to NPC vendors, by going to Market → Vendors → Inventory.
+
+The amount you get is between 0.15 and 0.6 times the nominal item value (which
+you can see when the item is in your storage, for example). This *market
+factor* is dependent on station and time, and presumably higher for stations
+with higher economic activity.
 
 The same vendors also
 sell items, but often for much more than the nominal price (like, a
@@ -2276,6 +2319,8 @@ Some random bits of advice on how to make the most of out Tau Station:
 
 * Play the missions for fun and profit!
 * Occasionally read the chat and socialize with other players.
+* Join a syndicate for added camaraderie, and your fellow syndicate members
+  will be happy to give you more advise.
 * Equip the best weapons and armor that you find
  * Store or sell the rest, depending on how badly you need the money
 * As soon as you have reached level 3, strive to spend most of your time on higher-level stations; training your stats is more efficient there, and you find more valuable things in the ruins.
@@ -2289,7 +2334,9 @@ Some random bits of advice on how to make the most of out Tau Station:
   credits, and then you might need to travel to another station before you
   can earn much money).
 * Only bother with clones after you have put significant effort into
-  training physical stats, and even then it only rarely makes sense.
+  training physical stats, and even then it only rarely makes sense, and then
+  only Premium clones are useful, except when you want to change your
+  genotype.
 * Once you are on *Hopkins' Legacy* at Barnard's Star, do the *Wall
   Maintenance* side job once, as it is a prerequisite for a mission.
 
@@ -2323,14 +2370,14 @@ are planned:
 systems, stations, ship types and much more.
 * [University Courses](https://education.tauguide.de) in a searchable and
   sortable form
+* [The Tau Tracker](https://tracker.tauguide.de/) collects time-dependent
+  data, and presents you an overview of the collected information. Up-to-date
+  information is available in exchange for data contributions.
 * [Tau Wiki](http://taustation.wikidot.com/start) collects all sorts of interesting information.
 * This [Collection of Greasemonkey/Tampermonkey
   scripts](https://github.com/taustation-fan/userscripts) makes Tau station
   much easier to use. It includes navigation enhancements, stats trackers
   and other goodies.
-* The IRC channel `##taustation` on irc.freenode.org is a meeting point for
-  players who find the built-in chat cumbersome. Typically active during game
-  updates.
 * There's a Tau Station [subreddit](https://www.reddit.com/r/taustation/).
 * [Tau Station Alerts](https://alert.tauguide.de/) converts from GCT to Auld Earth Time
 * [Spreadsheet of weapons and armor](https://docs.google.com/spreadsheets/d/1TQhklKC7LhC2_MxmEyxQHy-2vai8ZM6krWmw6RF9XX0/edit#gid=1889785351)
