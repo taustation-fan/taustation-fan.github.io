@@ -168,15 +168,17 @@ perpetrator.
 
 ## The Financial System
 
-There are *credits* and *bonds*.
+There are
+[*credits*](https://blog.taustation.space/blog/taking-credit-a-virtual-economy/) and
+[*bonds*](https://blog.taustation.space/blog/bonds-explained-a-virtual-economy-part-2/).
 
 ### Credits
 
 Credits is everyday money that you can
 earn pretty easily. With credits, you can pay for things such as hotel
-rooms, public shuttles for inter-station travel, University courses, and weapons and armor.
+rooms, public shuttles for inter-station and inter-system travel, University courses, and weapons and armor.
 
-Finally, you can buy your own [private ship](/ships), starting from just
+Finally, you can buy your own [private ship](/ships), starting from "just"
 210,000 credits.
 
 You can earn credits through
@@ -198,8 +200,10 @@ playing easier or faster:
 * accelerating University courses
 * VIP packs
 * bribing for extra rations
-* premium clones
 * boosting training
+* bribing for shorter confinement times
+* reducing private ship repair, fuel-up and refurbishment times
+* premium clones
 * faster release from the Brig (prison) and Sick Bay
 * faster shuttle travel
 * premium avatar images
@@ -210,11 +214,11 @@ use bonds for fast shuttle travel if there was a very good reason.
 
 You can obtain bonds in the following ways:
 
-* you can buy them in the shop
+* you can buy them in the shop (currently disabled)
 * as a daily reward for your career level (up to 30 bonds per day)
 * sometimes, discreet/anonymous work has a small bonds reward
 * As a reward for successful *Enter the Sewers* campaigns (up to 15 per day)
-* you can find bond packages in the Ruins
+* you can find bond certificates in the Ruins
 * if you level up to a new [tier (if you reach levels 6, 11, 16, etc.)](#tiers),
   you get a reward of 500 bonds
 
@@ -261,8 +265,9 @@ is payed from your bank account:
 | Repair Ship       | Wallet                    |
 | Ship Fuel         | Wallet                    |
 | University course | Wallet                    |
+| Bodyguards        | Wallet with Bank fallback |
 
-In case of the bank fallback, withdrawal fees apply
+In case of the bank fallback, withdrawal fees apply.
 
 ### Converting Bonds to Credits
 
@@ -274,11 +279,11 @@ rate, but that is a pretty terrible exchange.
 You get a better rate if you go to the vendors at the Market, and buy
 a 3-day VIP pack for 290 bonds (which you can do once every 7 days).
 You can sell this at the Public Market for somewhere between
-45,000 and 60,000 credits (of which you need to pay 10% as market fee).
+55,000 and 65,000 credits (of which you need to pay 10% as market fee).
 Before you do that, ask in the chat if anybody is willing to buy it, and
 at what price point.
 
-That way, you get a conversion rate of 1 bond to 139..186 credits.
+That way, you get a conversion rate of 1 bond to 172..203 credits.
 
 If you don't have enough money to afford the seller's fee on the market,
 you can try to find a potential buyer for the VIP pack in the chat, and
@@ -303,7 +308,7 @@ and turn them into credits that way.
 
 Another way to convert bonds to credits is to pay 20 bonds bribe for an extra
 ration (which you can do once every 24 hours), and sell that ration on the
-Public Market. Tier 2 rations tend to sell for somewhere between 1800 and 3500
+Public Market. Tier 2 rations tend to sell for somewhere between 1800 and 3000
 credits, giving you a similar conversion ratio to the VIP pack trading,
 though with a higher variability of price over time.
 
@@ -423,10 +428,6 @@ In order to avoid the second outcome, it's always wise to use the Toxicity calcu
 
 This means that if you take a stim that's of the same [tier](#tiers) as you, you'll gain the toxicity equal to stim's declared Toxicity percentage. However, if you are taking a stim one tier lower than yourself, you'll gain double of the stim's declared toxicity, if you are two tiers higher than the stim, you get triple of the stim's declared toxicity etc.
 
-**Exception: if you take a stim of the higher tier than yourself, you immediately gain 100% Toxicity and land in Sick Bay.**
-
-Before the last significant development update of stims functionality, which significantly improved their usefulness and decreased toxicity, there were risky cases when high-level players would immediately land in the Sick Bay by taking just one stim. This is not possible anymore with the current levelcap (25), but mind the future changes!
-
 #### So, what's the gain? (Stat boost)
 
 The stat boost is calculated by the following formula:
@@ -453,10 +454,10 @@ invest focus and current stat values to train the physical stats
 (*strength*, *agility*, *stamina*).
 
 You can train *intelligence* in a similar fashion in a [hotel room](https://alpha.taustation.space/area/hotel-rooms/enter-room) of an
-Inn, or at a University (scroll to the very bottom of the page). Most
-stations (all except the jump gates) have an Inn, and four
+Inn, or at a University (scroll to the very bottom of the page). All
+stations,  and five
 stations have a University (Tau, Nouveau Limoges, Moissan, Spirit of
-Botswana).
+Botswana, Cape Verde Stronghold).
 
 You can also train intelligence while traveling with public shuttles or in
 your private ship.
@@ -486,11 +487,11 @@ one +2% bonus and a -5% handicap.
 
 | Genotype  | Strength | Agility | Stamina | Intelligence | Social |
 |-----------|----------|---------|---------|--------------|--------|
-| Belter    |   -2%    |   +5%   |   +5%   |              |        |
+| Belter    |   -2%    |   +5%   |         |      +2%     |        |
 | Colonist  |   +5%    |         |   +2%   |              |   -5%  |
-| Harsene   |   -5%    |         |   +2%   |      +5%     |        |
+| Harsene   |          |   -5%   |         |      +5%     |   +2%  |
 | Mall      |   +2%    |         |   +5%   |      -5%     |        |
-| Patrician |   -5%    |   +2%   |         |              |   +5%  |
+| Patrician |          |   +2%   |   -5%   |              |   +5%  |
 
 
 Training can lead to injury (and thus unconsciousness or time in the
@@ -525,7 +526,7 @@ success rates of tasks and checks:
 * High physical stats are harder to drain during combat, so they act as
   protection against attacks.
 
-During discreet work, higher stats lead to less stats consumption for each
+During discreet work, higher stats lead to reduced stats consumption for each
 check.
 
 ## Rations
@@ -539,6 +540,8 @@ immediate regeneration is incomplete (around 60% to 67%). A ration two tiers bel
 current tier gives hardly any immediate regeneration. Rations which are three
 or more tiers below your current tier are absolutely useless for regeneration.
 You can either sell them on the public market or gift them to other players.
+
+Rations above your own tier work the same as stats of your own tier.
 
 Rations also give you the "well fed" status for 32 segments (roughly 8
 hours), which increases stats and Focus regeneration. For rations of a
@@ -554,7 +557,7 @@ at any station's Government Center, except Caen Stronghold.
   to the original price (20 bonds) 92 segments (almost one day) after your first bribe.
 * You can buy them off the Public Market when other players sell them there.
 * You can buy rations from NPC vendors on Caen Stronghold (Barnard's Star),
-  for 3160.80 credits per tier.
+  for variable prices starting from around 1095 credits per tier.
 * You can find rations in the Ruins, with the ration tier depending on the
   station level.
 * Sometimes they are awarded as the random reward for doing discreet work,
@@ -625,10 +628,11 @@ The things you can find in the ruins include (in decreasing likelihood):
 
 * nothing
 * common trade goods (sell for less than 1 credit)
+* stims
 * weapons
 * armor
 * rare trade goods (sell for 5000 credits or more)
-* bond packages
+* bond certificates
 * VIP packs
 * rations
 
@@ -636,7 +640,7 @@ What you can actually find in the Wrecks is partially dependent on the station
 you are searching on. For example the weapons and armor you can find tend to
 be similar to those you can obtain through *Look for Trouble*, and the common
 trade good *Circuit Board* is usually only found at Barnard's Star. On the
-other hand, most trade goods and bond packages seem to be equally distributed
+other hand, most trade goods and bond certificates seem to be equally distributed
 to all stations.
 
 You can carry around what you find, up to a certain mass limit. If you
@@ -704,9 +708,10 @@ so I'd recommend to wait until you have reached level 6, which comes with
 access to much better weapons and armor.
 
 Starting from level 5, you can also *Enter the Sewers*. The sewers are
-accessible at København and Taungoo in the Sol system, and at Moissan, Cirque
-Centauri and Yards of Gadani in the Alpha Centauri system. At Barnard's Star,
-only The Maid of Orléans has accessible sewers.
+accessible at *København* and *Taungoo* in the Sol system, and at *Moissan*, *Cirque
+Centauri* and *Yards of Gadani*. in the Alpha Centauri system. Stations 
+*The Maid of Orléans*, *Spriti of Tianjin* and *Spirit of New York City* are
+the only stations with open sewers in their respective systems.
 This gives you a list of six opponents that you can attack in order, with the
 second becoming available once the first has been defeated, and so on.
 
