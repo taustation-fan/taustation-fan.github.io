@@ -76,9 +76,12 @@ be lower on lower-level stations.
 
 The [Tau Tracker shows upper and lower fuel prices per gram that have been observed per station](https://tracker.tauguide.de/fuel).
 
-Refueling can take several segments, and is proportional to the amount of fuel
-that you load up (always total tank size minus spent fuel). You can halve
+Refueling takes about 315 units per gram, which can add up to several segments
+for a large and empty tank.  You can halve
 the refueling time by spending 10 bonds.
+
+Partial refueling is not possible, each time you refuel you
+fill up to full tank capacity.
 
 There are University courses available to reduce fuel consumption and to
 reduce the damage that ships take during normal operation.
