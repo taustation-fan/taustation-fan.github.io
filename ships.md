@@ -25,11 +25,15 @@ University courses, in this order:
 * Basic Ship Technology (all Universities, 1400 Segments)
 * Basic Ship Handling (Spirit of Botswana, 2100 Segments)
 
+(Total cost for courses: 28,200 credits).
+
 If you want to buy a *Razorback* (faster and much more expensive), you will
 need these additional courses:
 
 * Advanced Ship Technology (Moissan, 2100 Segments)
 * Advanced Ship Handling (Nouveau Limoges, 2800 Segments)
+
+(totalling another 44,800 credits).
 
 ## Ship Types
 
@@ -58,6 +62,12 @@ At the Docks, you can enter the ship, and choose a destination. On a Jump Gate,
 the destination can be a connected jump gate or a local station. On other stations,
 you can just select local destinations.
 
+If you have completed enough
+*Multi-Jump Ship Navigation* courses from the *Space Navigation* module, you can
+select jump gates that are only indirectly connected to the jump gate
+you are on, and travel the whole distance in one go, though slower than
+if you stopped at each jump gate and immediately started the next jump.
+
 Using a ship consumes fuel proportionally to the travel distance. You
 can refuel at any dock, though the price per fuel depends on the
 station, and time. It varies quite a bit (up to a factor of about 8
@@ -66,7 +76,9 @@ be lower on lower-level stations.
 
 The [Tau Tracker shows upper and lower fuel prices per gram that have been observed per station](https://tracker.tauguide.de/fuel).
 
-Refueling is also slow, but you can spend bonds to speed it up.
+Refueling can take several segments, and is proportional to the amount of fuel
+that you load up (always total tank size minus spent fuel). You can halve
+the refueling time by spending 10 bonds.
 
 There are University courses available to reduce fuel consumption and to
 reduce the damage that ships take during normal operation.
