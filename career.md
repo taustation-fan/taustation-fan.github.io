@@ -112,6 +112,7 @@ Secondary stat: Social
 | Steal medical equipment                               | 207  | Agility       | Sick Bay          | ✔        |           |
 | Forge a Syndicate license                             | 225  | Intelligence  | Government Center | ✔        |           |
 | Raid a battlefield                                    | 230  | Agility       | Ruins             | –        | ✔         |
+| Steal from a storage unit                             | 243  | Agility       | Storage           | ✔        |           |
 | Arrange a prison break                                | 261  | Social        | Brig              | ✔        |           |
 | Bribe a Port manager                                  | 234  | Social        | Port              | -        |           |
 | Steal a government ID pass                            | 279  | Agility       | Government Center | ✔        |           |
@@ -165,19 +166,20 @@ Secondary stat: Stamina
 | Misuse your influence                                                                     | 117      | Social           | Anywhere          |   ✔    |         |
 | Entertain a visiting foreign diplomat                                                     | 129      | Social           | Anywhere          |        |         |
 | Sell classified information                                                               | 135      | Social           | Anywhere          |   ✔    |         |
-| Organize a banquet for visiting diplomats                                                 | 144      | Social           | Anywhere          |   –    |         |
+| Organize a banquet for visiting diplomats                                                 | 144      | Social           | Inn               |   –    |         |
 | Supervise the wait & kitchen staff during a diplomatic banquet                            | 144      | Stamina          | Anywhere          |   –    |         |
+| Facilitate the assassination of a foreign diplomat                                        | 153      | Social           | Ruins             |   ✔    |         |
 | Request to accompany your supervisor on a diplomatic excursion on a rival station         | 159      | Stamina          | Anywhere          |   –    |         |
-| Attend a cultural function on a rival station                                             | 174      | Social           | Anywhere          |   –    |         |
-| Sabotage a rival station on your visit                                                    | 189      | Social           | Anywhere          |   ✔    |         |
-| Convince your supervisor to put your name forward for a promotion                         | 189      | Social           | Anywhere          |        |         |
-| Campaign against other contenders for your promotion                                      | 189      | Social           | Anywhere          |        |         |
-| Attend a peace talk on a rival station                                                    | 196      | Stamina          | Anywhere          |   –    |         |
-| Outperform your competitors for your promotion                                            | 204      | Stamina          | Anywhere          |        |         |
+| Attend a cultural function on a rival station                                             | 174      | Social           | Inn               |   –    |         |
+| Sabotage a rival station on your visit                                                    | 189      | Social           | Port              |   ✔    |         |
+| Convince your supervisor to put your name forward for a promotion                         | 189      | Social           | Anywhere          |   –    |         |
+| Campaign against other contenders for your promotion                                      | 189      | Social           | Bar               |   –    |         |
+| Attend a peace talk on a rival station                                                    | 196      | Stamina          | Ruins             |   –    |    ✔    |
+| Outperform your competitors for your promotion                                            | 204      | Stamina          | Bar               |   –    |         |
 | Begin your new job as a Junior. Diplomat                                                  | 219      | Stamina          | Anywhere          |        |         |
 | Media a big-ticket trade agreement.                                                       | 219      | Social           | Anywhere          |        |         |
 | Conduct peace talks with local diplomats.                                                 | 234      | Social           | Anywhere          |        |         |
-| Sabotage your competitors for the promotion.                                              | 243      | Intelligence     | Anywhere          |        |         |
+| Sabotage your competitors for the promotion.                                              | 243      | Intelligence     | Bar               |   ✔    |         |
 | Provide shelter for refugees who have just arrived on the station.                        | 264      | Stamina          | Anywhere          |        |         |
 | Find families to take in foreign refugees.                                                | 264      | Stamina          | Anywhere          |        |         |
 | Speak to the local media about your station.                                              | 279      | Social           | Anywhere          |        |         |
@@ -185,14 +187,6 @@ Secondary stat: Stamina
 | Become the first diplomat to broker a fair trade agreement with Freebooters.              | 281      | Social           | Anywhere          |        |    ✔    |
 | Make an illegal deal with Freebooters to protect your own interests above the station's.  | 297      | Social           | Anywhere          |        |         |
 | Lie to the media to improve your station's image.                                         | 315      | Social           | Anywhere          |        |         |
-|-------------------------------------------------------------------------------------------|----------|------------------|------------------ |:-------|:--------|
-| Facilitate the assassination of a foreign diplomat                                        | 153      | Social           | Ruins             |   ✔    |         |
-| Organize a banquet for visiting diplomats                                                 | 144      | Social           | Inn               |   -    |         |
-| Supervise the wait & kitchen staff during a diplomatic banquet                            | 144      | Stamina          | Anywhere          |   -    |         |
-| Sabotage a rival station on your visit                                                    | 189      | Social           | Port              |   ✔    |         |
-| Attend a cultural function on a rival station                                             | 174      | Social           | Inn               |   -    |         |
-| Attend a peace talk on a rival station                                                    | 196      | Stamina          | Ruins             |   -    |    ✔    |
-| Request to accompany your supervisor on a diplomatic excursion on a rival station         | 159      | Stamina          | Anywhere          |   -    |         |
 
 (Tasks which are known to pay to bank, hence should be legal, are marked
 with "–". The data about which tasks are harmful are known to be
@@ -315,13 +309,13 @@ Secondary stat: Intelligence
 | Steal top secret Gaule intel                         |  189     |   Agility       |  Anywhere          |         |         |
 | Uncover a space-shell ring                           |  189     |   Intelligence  |  Anywhere          |         |         |
 | Impress a group of Freebooters.                      |  204     |   Strength      |  Anywhere          |         |         |
-| Discover the double agent in your ranks              |  219     |   Intelligence  |  Anywhere          |    –    |         |
+| Discover the double agent in your ranks              |  219     |   Intelligence  |  Ruins             |    –    |         |
 | Keep the space-shells for yourself                   |  225     |   Agility       |  Anywhere          |         |         |
 | Pose as a Freebooter pirate for a stint              |  230     |   Strength      |  Anywhere          |         |         |
-| Befriend a target under a false identity             |  234     |   Social        |  Anywhere          |         |         |
+| Befriend a target under a false identity             |  234     |   Social        |  Bar               |    –    |         |
 | Keep the things you steal as a Freebooter            |  243     |   Intelligence  |  Anywhere          |         |         |
 | Locate enemy operatives                              |  249     |   Intelligence  |  Anywhere          |    –    |         |
-| Save a fellow squad member during battle.            |  264     |   Agility       |  Anywhere          |    –    |         |
+| Save a fellow squad member during battle.            |  264     |   Agility       |  Ruins             |    –    |         |
 | Win the leadership of your squad.                    |  264     |   Social        |  Anywhere          |    –    |         |
 | Unearth a plot to murder the leader of your station. |  279     |   Intelligence  |  Anywhere          |    –    |         |
 | Use your friendships with the enemy to gather intel  |  279     |   Intelligence  |  Anywhere          |    ✔    |         |
