@@ -883,7 +883,6 @@ more importantly, a random bonus. This bonus can be
 * more credits
 * an increase in one stat
 * a weapon or armor
-* a bond package
 * a ration
 * a stim
 
@@ -913,6 +912,8 @@ brought me into the Sick Bay or the Brig.
 Discreet Work tasks consume 20% of a stat if it is "Average", and 5%
 if it is "Exceptional". Failed tasks do not consume any Focus,
 successful tasks  consume 10%.
+
+Discreet Work is limited to 50 missions per 24 hours.
 
 #### Discreet Work Tips and Tricks
 
