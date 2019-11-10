@@ -309,7 +309,7 @@ Secondary stat: Intelligence
 | Steal top secret Gaule intel                         |  189     |   Agility       |  Anywhere          |         |         |
 | Uncover a space-shell ring                           |  189     |   Intelligence  |  Anywhere          |         |         |
 | Impress a group of Freebooters.                      |  204     |   Strength      |  Anywhere          |         |         |
-| Discover the double agent in your ranks              |  219     |   Intelligence  |  Ruins             |    –    |         |
+| Discover the double agent in your ranks              |  219     |   Intelligence  |  Ruins             |    –    |    ✔    |
 | Keep the space-shells for yourself                   |  225     |   Agility       |  Anywhere          |         |         |
 | Pose as a Freebooter pirate for a stint              |  230     |   Strength      |  Anywhere          |         |         |
 | Befriend a target under a false identity             |  234     |   Social        |  Bar               |    –    |         |
