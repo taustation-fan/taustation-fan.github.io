@@ -116,6 +116,7 @@ Secondary stat: Social
 | Arrange a prison break                                | 261  | Social        | Brig              | ✔        |           |
 | Bribe a Port manager                                  | 234  | Social        | Port              | -        |           |
 | Steal a government ID pass                            | 279  | Agility       | Government Center | ✔        |           |
+| Sell a forged work permit                             | 289  | Social        | Bar               | ✔        |           |
 | Run a fake insurance scam                             | 249  | Social        | Sick Bay          | -        |           |
 | Manipulate the exchange rate                          | 297  | Intelligence  | Bank              | ✔        |           |
 | Forge a Visa document                                 | 264  | Intelligence  | Anywhere          | -        |           |
