@@ -312,7 +312,7 @@ Secondary stat: Intelligence
 | Impress a group of Freebooters.                      |  204     |   Strength      |  Anywhere          |         |         |
 | Discover the double agent in your ranks              |  219     |   Intelligence  |  Ruins             |    –    |    ✔    |
 | Keep the space-shells for yourself                   |  225     |   Agility       |  Anywhere          |         |         |
-| Pose as a Freebooter pirate for a stint              |  230     |   Strength      |  Anywhere          |         |         |
+| Pose as a Freebooter pirate for a stint              |  230     |   Strength      |  Anywhere          |         |    ✔    |
 | Befriend a target under a false identity             |  234     |   Social        |  Bar               |    –    |         |
 | Keep the things you steal as a Freebooter            |  243     |   Intelligence  |  Anywhere          |    ✔    |         |
 | Locate enemy operatives                              |  249     |   Intelligence  |  Anywhere          |    –    |         |
