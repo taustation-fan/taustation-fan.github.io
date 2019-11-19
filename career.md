@@ -314,7 +314,7 @@ Secondary stat: Intelligence
 | Keep the space-shells for yourself                   |  225     |   Agility       |  Anywhere          |         |         |
 | Pose as a Freebooter pirate for a stint              |  230     |   Strength      |  Anywhere          |         |         |
 | Befriend a target under a false identity             |  234     |   Social        |  Bar               |    –    |         |
-| Keep the things you steal as a Freebooter            |  243     |   Intelligence  |  Anywhere          |         |         |
+| Keep the things you steal as a Freebooter            |  243     |   Intelligence  |  Anywhere          |    ✔    |         |
 | Locate enemy operatives                              |  249     |   Intelligence  |  Anywhere          |    –    |         |
 | Save a fellow squad member during battle.            |  264     |   Agility       |  Ruins             |    –    |         |
 | Win the leadership of your squad.                    |  264     |   Social        |  Anywhere          |    –    |         |
