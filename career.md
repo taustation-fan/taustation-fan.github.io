@@ -113,11 +113,13 @@ Secondary stat: Social
 | Forge a Syndicate license                             | 225  | Intelligence  | Government Center | ✔        |           |
 | Raid a battlefield                                    | 230  | Agility       | Ruins             | –        | ✔         |
 | Steal from a storage unit                             | 243  | Agility       | Storage           | ✔        |           |
+| Hustle a drunk at poker                               | 258  | Intelligence  | Bar               | ✔        |           |
 | Arrange a prison break                                | 261  | Social        | Brig              | ✔        |           |
 | Bribe a Port manager                                  | 234  | Social        | Port              | -        |           |
 | Steal a government ID pass                            | 279  | Agility       | Government Center | ✔        |           |
-| Sell a forged work permit                             | 289  | Social        | Bar               | ✔        |           |
 | Run a fake insurance scam                             | 249  | Social        | Sick Bay          | -        |           |
+| Sell a forged work permit                             | 289  | Social        | Bar               | ✔        |           |
+| Acquire a gullible investor                           | 288  | Social        | Lounge            |          |           |
 | Manipulate the exchange rate                          | 297  | Intelligence  | Bank              | ✔        |           |
 | Forge a Visa document                                 | 264  | Intelligence  | Anywhere          | -        |           |
 | Hack the Governor's private emails                    | 315  | Intelligence  | Government Center | ✔        |           |
