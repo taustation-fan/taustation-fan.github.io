@@ -158,8 +158,10 @@ minimize your risk and exposure.
 
 * Always bring your money to the bank, deposits are free
 everywhere, and withdrawals at your local branch as well.
-Never keep more than 100 credits on yourself.
-* Always stay in a hotel room. That's the only place
+Never keep more credits on yourself than you can afford to
+lose.
+* Always stay in a hotel room (or later on, in your own
+private ship). That's the only place
 you're safe, and your stats will regenerate faster there.
 * Plan your revenge, if you're so inclined. Get together
 with other victims, get organized and gang up on the
@@ -329,7 +331,9 @@ rate of regeneration is higher if:
 * you have completed one or more of the "Anatomy" University courses, available
   on the Nouveau Limoges station
 
-Regeneration might be slightly faster if you stay longer in your hotel room.
+The regeneration acceleration from staying in a hotel room only kicks in if
+you have spent the current and the previous regeneration cycle exclusively in
+your hotel room.
 
 Regeneration is slower if you are confined to the Sick Bay or the Brig.
 
@@ -383,6 +387,10 @@ The following recovery rates have been compiled by mostly [Shadow and Dotsent](h
 | VIP + Well Fed + Hotel + Healthcare 3 | 17        | 11..12  | 2018-05-18 |
 
 (values without a measurement date have been assembled before 2018-03-17 and may be less reliable)
+
+There are also consumable food items available at NPC vendors that temporarily
+increase your total stat value (not your current percentage). Those are
+Genotype dependent, and Baseline characters benefit half from them.
 
 ### Medical Stims
 
@@ -648,7 +656,7 @@ carry around too much, you will get a warning that you are encumbered,
 and lower success rates for tests against the physical stats, and moving
 to a different area of the station reduces the physical stats.
 
-If you are at 100% encumbered, you will be losing 10% of each of the
+Depending on your level of encumbrance, you can lose up to 10% of each
 physical stats with every move to the different area of the station.
 If one of your physical stats reaches 0 because of encumbrance, you will
 lose consciousness and be taken to Sick Bay (or simply become unconscious),
@@ -667,8 +675,8 @@ to yourself on another station, where you can later pick them up and
 sell or send them to storage there.
 
 Common trade goods are mostly an annoyance, but some players hypothesize
-that they might serve as the raw material for crafting items, when that
-feature will be implemented in the future.
+that they might serve as the raw material for crafting items or building
+syndicate buildings, when these features will be implemented in the future.
 
 You can sell rare trade goods for significant credits at the NPC vendors,
 or use them as a means to transfer money to other players without paying
@@ -686,12 +694,11 @@ some stats replenishment).
 
 Upon finding an opponent in the Ruins, you have 8 segments to fight them.
 
-When you win such a fight, you can loot the opponent, which tends to give
+When you win such a fight, you loot the opponent, which tends to give
 you on the order of 1 to 100 credits, and you gain a reward. The reward
 on lower-level stations is often a piece of armor or a weapon, and on
-higher-level stations it can be a ration. For example Look for Trouble on
-Yards of Gadani and Bordeaux rewards *Old Combat Suit* and tier 2 rations,
-while on Hopkins' Legacy and on Caen Stronghold, the reward is almost
+higher-level stations it can be a ration. For example on Hopkins' Legacy
+and on Caen Stronghold, the reward is almost
 exclusively tier 3 rations.
 
 You also gain experience from victorious combat, more so than from career
@@ -757,7 +764,7 @@ Law career.
 
 Finally, some careers are more dangerous than others; if a majority of
 tasks sound illegal, you might spend quite some time in the Brig.
-(Though illegal tasks tend to pay much better than comparable legal
+(Though illegal tasks tend to pay better than comparable legal
 tasks).
 
 See the [separate career page](/career) for a list of tasks per career.
@@ -953,7 +960,7 @@ to speed up the course by 50%, so the combination of both reduces
 the time to 35% of the original length.
 
 University courses are a long game. A typical module consist of courses
-that last 1, 7, 14 and 21 days, so more than 6 weeks, and even with full
+that last 1, 7, 14 and 21 days, so more than 6 weeks total, and even with full
 acceleration it's more than two weeks. Thus you should be enrolled
 in a course all of the time to get the most of out it.
 
@@ -1072,8 +1079,8 @@ stats and focus slowly regenerate. So before longer journeys, it makes
 sense to use up your current stats for career tasks or other purposes.
 
 While planning your travel, be aware that hotel rooms cost more at
-higher-level stations, and that shifting orbital positions can make the
-return travel more expensive.
+higher-level stations, and that shifting orbital positions and
+economic fluctuations can make the return travel more expensive.
 
 You need a Gaule visa for visiting stations under the Gaule government
 (basically any station with French sounding names). As a VIP, you can
@@ -1990,7 +1997,9 @@ you should usually equip one long and one short range weapon each.
 
 If possible, you should also select the weapons to do different types of
 damages, which increases your chances against an opponent with
-specialized armor.
+specialized armor. Unless you know your opponent's armor in advance,
+in which case you should select both weapons to target the opponent's armor's
+weakest damage type.
 
 A weapon should have a high accuracy and produce much damage; so in lack
 of a more sophisticated model, we use the product of accuracy and the
@@ -2053,7 +2062,8 @@ interrupts the repair.
 To repair an item, go to your inventory, then unequip the weapon, and then click on "repair". The
 repair takes time, and consumes a bit of *Intelligence* and *Focus*. You can't
 do anything else while repairing. You can spend bonds to make the repair
-instantaneous.
+instantaneous. You can also interrupt item repair, in which case the repair is
+only partial.
 
 The item repair time depends on your *Item Repair* skill level, the tier of
 the weapon, and the damage to the weapon. It is roughly
@@ -2083,8 +2093,8 @@ The mental model behind a clone is that it is an inactive
 duplicate of the character's body, and receives all experience and
 knowledge as a constant feed from the active body. Once the active body
 dies, the newest clone is activated. So the character keeps its
-*intelligence* and *social* stats, as well as experience and career
-experience, but reverts back to the physical
+*intelligence* and *social* stats, as well as experience, career
+experience and education, but reverts back to the physical
 stats of the clone.
 
 Each player has a *default clone* on Tau Station, which is automatically
@@ -2178,6 +2188,8 @@ The following persist through the death of a body:
 * Experience
 * Career rank and experience
 * Credits in your bank account and bonds.
+* Completed courses
+* Ships
 
 ## Reputation
 
@@ -2360,6 +2372,7 @@ are planned:
 * New University courses and skills
 * Engine upgrades for ships
 * Cargo ships
+* ship combat
 * Ability to refurbish and colonize abandoned stations
 * Music and sound effects
 
