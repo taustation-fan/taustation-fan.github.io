@@ -207,12 +207,12 @@ playing easier or faster:
 * reducing private ship repair, fuel-up and refurbishment times
 * premium clones
 * faster release from the Brig (prison) and Sick Bay
-* faster shuttle travel
+* [instantaneous](https://alpha.taustation.space/coretechs/archive/technology#/quantum-telepheresis) [intrasystem](https://blog.taustation.space/blog/benevolent-dynamics-presents-quantum-telepheresis/) travel and faster interstellar travel
 * premium avatar images
 
 This list is roughly sorted by utility. VIP packs and accelerated
 University courses are a pretty good way to spend bonds, while I'd only
-use bonds for fast shuttle travel if there was a very good reason.
+use bonds for fast or instantaneous travel if there was a very good reason.
 
 You can obtain bonds in the following ways:
 
@@ -240,7 +240,8 @@ Bonds are always kept in the bank, but you can pay them directly without
 visiting the bank.
 
 At your home branch, withdrawing credits is free. At other branches,
-the withdrawal fee is 3%, or 1% if you are VIP.
+the withdrawal fee is 3%, or 1% if you are VIP
+(with the exception of Caen Stronghold, where the fee is always 3%).
 
 You can transfer your home branch to any Consortium station, and then
 benefit from free withdrawal at that branch. The account transfer fee
