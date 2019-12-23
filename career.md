@@ -50,17 +50,17 @@ Secondary stat: Stamina
 | Run a staff team-building event                   | 174        | Social            | Anywhere          |    –    |         |
 | Improve conditions for staff                      | 189        | Stamina           | Market            |    -    |         |
 | Swindle your taxes                                | 189        | Intelligence      | Anywhere          |    ✔    |         |
-| Design a new ad campaign                          | 204        | Intelligence      | Anywhere          |         |         |
+| Design a new ad campaign                          | 204        | Intelligence      | Anywhere          |    -    |         |
 | Sign a government contract                        | 204        | Stamina           | Anywhere          |    -    |         |
 | Fire staff to cut costs                           | 219        | Stamina           | Anywhere          |    -    |         |
 | Sell stocks on the system-wide exchange           | 219        | Stamina           | Government Center |    -    |         |
 | Attract investment from the station governor      | 234        | Social            | Anywhere          |    -    |         |
-| Pay yourself a huge bonus                         | 249        | Stamina           | Anywhere          |         |         |
+| Pay yourself a huge bonus                         | 249        | Stamina           | Anywhere          |    -    |         |
 | Smear a rival retailer                            | 249        | Social            | Anywhere          |    ✔    |    ✔    |
-| Impress a potential business partner              | 264        | Social            | Anywhere          |         |         |
+| Impress a potential business partner              | 264        | Social            | Anywhere          |    -    |         |
 | Cover up a junior colleague's malpractice         | 279        | Stamina           | Anywhere          |    ✔    |         |
-| Engineer the hostile takeover of a rival          | 279        | Stamina           | Anywhere          |         |         |
-| Revamp your product line                          | 279        | Stamina           | Anywhere          |         |         |
+| Engineer the hostile takeover of a rival          | 279        | Stamina           | Anywhere          |    -    |         |
+| Revamp your product line                          | 279        | Stamina           | Anywhere          |    -    |         |
 | Deceive shareholders                              | 315        | Intelligence      | Anywhere          |    ✔    |         |
 
 (Tasks which are known to pay to bank, hence should be legal, are marked
