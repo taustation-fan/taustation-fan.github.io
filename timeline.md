@@ -49,5 +49,5 @@
 * 2019-10-15: [**Item Management through CORETECHS**](https://blog.taustation.space/blog/update-changelog-2019-oct-15/)
 * 2019-10-15: [**Variable item and fulel prices**](https://blog.taustation.space/blog/update-changelog-2019-oct-15/)
 * 2019-10-15: [**Extensive combat rebalancing**](https://blog.taustation.space/blog/update-changelog-2019-oct-15/)
-* 2019-10-15: [Emjois in the chat through expresions like `:smile:`](https://blog.taustation.space/blog/update-changelog-2019-oct-15/)
+* 2019-10-15: [Emojis in the chat through expresions like `:smile:`](https://blog.taustation.space/blog/update-changelog-2019-oct-15/)
 * 2019-10-15: Increased availability of non-epic tier 3 and tier 4 items through NPC vendors
