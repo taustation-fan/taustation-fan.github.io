@@ -52,6 +52,7 @@
 * 2019-10-15: [Emojis in the chat through expresions like `:smile:`](https://blog.taustation.space/blog/update-changelog-2019-oct-15/)
 * 2019-10-15: Increased availability of non-epic tier 3 and tier 4 items through NPC vendors
 * 2019-11-28: [Genotype food](https://blog.taustation.space/blog/update-changelog-2019-nov-28/)
+* 2019-11-28: [Vendor-available Tier 4 and 5 equipment](https://blog.taustation.space/blog/update-changelog-2019-nov-28/)
 * 2019-12-23: [Storage extension for private ships](https://blog.taustation.space/blog/update-changelog-2019-dec-23/)
 * 2019-12-23: [Rebalancing of epic campaign items](https://blog.taustation.space/blog/update-changelog-2019-dec-23/)
 
