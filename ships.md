@@ -7,6 +7,7 @@ This page is part of the [Unofficial Player's Guide to Tau Station](/).
     * [Ship Types](#ship-types)
     * [Operating a Ship](#operating-a-ship)
     * [Maintenance](#maintenance)
+    * [Ship Storage](#ship-storage)
 
 
 # Private Ships
@@ -112,7 +113,7 @@ A repair only brings the health up to 75%. Refurbishment at a shipyard
 costs an additional 2000 credits, and completely restores the health
 of the ship.
 
-# Ship Storage
+## Ship Storage
 
 At every shipyard, you can install a storage locker into a private ship.
 
