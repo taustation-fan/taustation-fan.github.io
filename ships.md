@@ -117,7 +117,7 @@ of the ship.
 
 At every shipyard, you can install a storage locker into a private ship.
 
-This costs around 13,000 to 61,000 credits, depending on the station's economy.
+This costs around 11,000 to 61,000 credits, depending on the station's economy.
 
 **The installation takes 10 full days**, and halving the time costs 199 bonds.
 You cannot use your ship while installation is in progress.
