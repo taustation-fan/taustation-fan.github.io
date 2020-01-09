@@ -93,12 +93,12 @@ and the *Advanced* and *Mastery* course each add another 5% fuel savings.
 
 Ships require regular repairs, and occasional refurbishments.
 
-Once a health bar of a ship below a certain threshold, or when the
+Once a health bar of a ship sinks below a certain threshold, or when the
 navigation computers are "not operational", the ship requires repairs
 before you can fly it again.
 
 If you are lucky, and the current station has a shipyard, the repairs
-can be done for you by paid workers, which means you can do not have to
+can be done for you by paid workers, which means you do not have to
 be present during the repairs -- but it costs about twice as much as
 repairing it yourself.
 
@@ -120,7 +120,7 @@ although it will cost more.
 
 At every shipyard, you can install a storage locker into a private ship.
 
-This costs around 7,000 to 61,000 credits, depending on the station's economy.
+This costs around 4,400 to 71,000 credits, depending on the station's economy.
 
 **The installation takes 10 full days**, and halving the time costs 199 bonds.
 You cannot use your ship while installation is in progress.
