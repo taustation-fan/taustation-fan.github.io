@@ -311,9 +311,8 @@ and turn them into credits that way.
 
 Another way to convert bonds to credits is to pay 20 bonds bribe for an extra
 ration (which you can do once every 24 hours), and sell that ration on the
-Public Market. Tier 2 rations tend to sell for somewhere between 1800 and 3000
-credits, giving you a similar conversion ratio to the VIP pack trading,
-though with a higher variability of price over time.
+Public Market. Tier 2 rations tend to sell for somewhere between 1800 and 2000
+credits, giving you a slightly worse conversion ratio to the VIP pack trading.
 
 ## Stats and Focus
 
@@ -761,8 +760,10 @@ at Security), and not all stations have all areas. Ports and Brigs are everywher
 Sick Bay and Security are also nearly ubiquitous. There are several stations
 without cloning vats.
 In contrast, only five stations have Gaule embassies, which are useful for the
-Law career.
-
+Law career. This is mostly a concern in the early stages of careers; starting
+from around rank 7, many tasks can be done anywhere, or often in areas that
+are available on all or most stations.
+ 
 Finally, some careers are more dangerous than others; if a majority of
 tasks sound illegal, you might spend quite some time in the Brig.
 (Though illegal tasks tend to pay better than comparable legal
@@ -786,8 +787,7 @@ listed.
 
 Each success adds to your career experience, and each failure
 of the same task reduces your career by half of that amount.
-The experience is higher for tasks further down the list, even if
-the bonus is lower.
+The experience roughly correlates with the bonus.
 
 Each night at midnight CET, or around GCT /95:900, the number of days you
 have spent in a career rank increases.
@@ -856,15 +856,14 @@ There is no official documentation on what contributes to career success,
 so the following list might not be totally accurate or complete, but
 seems to explain most phenomena around career tasks:
 
-* Task difficulty. Easy tasks are listed first.
+* Intrinsic task difficulty.
 * Career experience
 * Current percentage of the stat that is being tested
 * Station level, with tasks being easier on lower-level stations.
 * Player level. Many players have reported more failing career tasks after
   leveling up.
-* Per-task experience (conjectural)
 
-Some players have also reported that career task success rates have gone
+Some players have reported that career task success rates have gone
 down after they have leveled up, even though their stat ranking has stayed
 the same. Either the stat ranking is more granular than the few steps that
 are exposed to the user, or there is another factor at work that incorporates
