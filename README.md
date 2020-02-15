@@ -2252,8 +2252,8 @@ To send an item to another player, you first have to add them at the
 In either case, go the Port and then Shipping Bay, and then to your
 inventory. There you can select an item, and click on *Send item*. This
 lets you select the recipient, and if you select yourself, the
-destination station. The shipping price depends on the distance
-and the shipped object's mass.
+destination station. The shipping cost is calculated as mass * distance * 1
+credit / 7000 km, with a lower limit of 0.1c/kg for local shipping.
 
 After the object has arrived, the recipient gets a notification, and can
 pick up item at the Shipping Bay. If they don't do so within 20 days,
