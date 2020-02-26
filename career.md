@@ -232,7 +232,7 @@ Secondary stat: Strength
 | Dispose of a failed clone                            | 94      |  Strength      |  Cloning Vats        |          |     ✔     |
 | Administer an accelerant dose                        | 99      |  Agility       |  Cloning Vats        |          |           |
 | Calculate clone accelerant dosage                    | 99      |  Intelligence  |  Cloning Vats        |          |           |
-| Leak clone center files                              | 99      |  Intelligence  |  Anywhere            |     ✔    |           |
+| Leak clone center files                              | 99      |  Intelligence  |  Bar                 |     ✔    |           |
 | Sabotage the hoses of a tank                         | 99      |  Strength      |  Cloning Vats        |     ✔    |           |
 | Create a premium clone                               | 114     |  Intelligence  |  Cloning Vats        |          |           |
 | Process the clone center's payroll                   | 114     |  Stamina       |  Anywhere            |          |           |
@@ -360,18 +360,18 @@ Secondary stat: Strength
 | Supervise a hull replacement                                     | 111           | Strength          | Port     |         |    ✔    |
 | Design a ship module                                             | 114           | Intelligence      | Anywhere |         |         |
 | Haul materials from a decommissioned ship off to be sold         | 114           | Strength          | Port     |         |         |
-| Enter an advanced apprenticeship                                 | 129           | Stamina           | Anywhere |         |         |
+| Enter an advanced apprenticeship                                 | 129           | Stamina           | Port     |         |         |
 | Train to strip and salvage ships                                 | 129           | Intelligence      | Anywhere |         |         |
 | Design an illegal ship module                                    | 135           | Intelligence      | Anywhere |         |         |
-| Open a salvaging business.                                       | 144           | Stamina           | Anywhere |         |         |
+| Open a salvaging business.                                       | 144           | Stamina           | Market   |         |         |
 | Round up a Crew.                                                 | 144           | Social            | Anywhere |         |         |
 | Run your first major salvage operation.                          | 159           | Stamina           | Anywhere |         |         |
-| Expand your operation.                                           | 159           | Stamina           | Anywhere |         |         |
+| Expand your operation.                                           | 159           | Stamina           | Bar      |         |         |
 | Run multiple salvage operations.                                 | 174           | Social            | Anywhere |         |         |
 | Hire an illegal employee.                                        | 171           | Social            | Anywhere |         |         |
 | Expand your business further.                                    | 189           | Stamina           | Anywhere |         |         |
 | Hire a bigger crew.                                              | 189           | Stamina           | Ruins    |         |         |
-| Market your salvage to Freebooters                               | 196           | Strength          | Anywhere |         |   ✔     |
+| Market your salvage to Freebooters                               | 196           | Strength          | Local Shuttles |         |   ✔     |
 | Export premium parts.                                            | 204           | Strength          | Port     |         |         |
 | Design & produce better salvaging technology.                    | 204           | Stamina           | Anywhere |         |         |
 | Hire even more illegal employees                                 | 225           | Stamina           | Ruins    |   ✔     |         |
