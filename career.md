@@ -226,7 +226,7 @@ Secondary stat: Strength
 | Prepare nutrient pastes for alt-genotypes            | 54      |  Intelligence  |  Cloning Vats        |          |           |
 | Sneak anti-growth hormones into the nutrient pastes  | 63      |  Agility       |  Cloning Vats        |     ✔    |           |
 | Create a clone with supervision                      | 69      |  Intelligence  |  Cloning Vats        |          |           |
-| Help socialize a recently-activated clone            | 69      |  Social        |  Cloning Vats        |          |           |
+| Help socialize a recently-activated clone            | 69      |  Social        |  Lounge              |          |           |
 | Rearrange the clone tank layout                      | 69      |  Strength      |  Cloning Vats        |          |           |
 | Create a clone                                       | 84      |  Intelligence  |  Cloning Vats        |          |           |
 | Dispose of a failed clone                            | 94      |  Strength      |  Cloning Vats        |          |     ✔     |
