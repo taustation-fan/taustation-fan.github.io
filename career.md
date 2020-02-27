@@ -341,11 +341,11 @@ Secondary stat: Strength
 | Scrub rust off a ship                                            | 9             | Stamina           | Port     |         |         |
 | Polish a ship                                                    | 9             | Stamina           | Port     |         |         |
 | Refuel a ship                                                    | 24            | Strength          | Port     |    –    |    ✔    |
-| Cut the fuel with another liquid                                 | 27            | Intelligence      | Port     |    ✔    |         |
-| Mix batches of fuel                                              | 26            | Stamina           | Port     |         |    ✔    |
-| Falsify departure permissions                                    | 39            | Social            | Port     |    ✔    |         |
-| Run pre-flight checks                                            | 39            | Stamina           | Port     |         |         |
-| Inspect Cargo                                                    | 39            | Intelligence      | Port     |         |         |
+| Cut the fuel with another liquid                                 | 27            | Intelligence      | Local Shuttles |    ✔    |         |
+| Mix batches of fuel                                              | 26            | Stamina           | Docks     |         |    ✔    |
+| Falsify departure permissions                                    | 39            | Social            | Docks     |    ✔    |         |
+| Run pre-flight checks                                            | 39            | Stamina           | Local Shuttles    |         |         |
+| Inspect Cargo                                                    | 39            | Intelligence      | Shipping |         |         |
 | Study repair manuals                                             | 54            | Stamina           | Anywhere |         |         |
 | Make supervised repairs                                          | 54            | Strength          | Port     |    –    |         |
 | Run a full-ship diagnostic                                       | 69            | Stamina           | Port     |         |         |
