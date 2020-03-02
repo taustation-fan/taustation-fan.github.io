@@ -293,7 +293,7 @@ Secondary stat: Intelligence
 | Follow suspects                                      |  60      |   Agility       |  Market            |         |    ✔    |
 | Solicit a bribe from suspects                        |  63      |   Social        |  Anywhere          |    ✔    |         |
 | Investigate a suspect                                |  69      |   Agility       |  Anywhere          |         |         |
-| Leak security plans                                  |  81      |   Intelligence  |  Anywhere          |    ✔    |         |
+| Leak security plans                                  |  81      |   Intelligence  |  Bar               |    ✔    |         |
 | Raid a residence                                     |  94      |   Strength      |  Residences        |         |    ✔    |
 | Raid an illegal water harvesting operation           |  94      |   Agility       |  Ruins             |         |    ✔    |
 | Work undercover                                      |  99      |   Social        |  Anywhere          |         |         |
