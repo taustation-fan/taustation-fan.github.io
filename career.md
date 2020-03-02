@@ -290,7 +290,7 @@ Secondary stat: Intelligence
 | Guard the brig                                       |  39      |   Strength      |  Brig              |         |         |
 | Apprehend a suspect                                  |  54      |   Agility       |  Anywhere          |         |         |
 | Plant listening bugs                                 |  54      |   Agility       |  Anywhere          |         |         |
-| Follow suspects                                      |  60      |   Agility       |  Anywhere          |         |    ✔    |
+| Follow suspects                                      |  60      |   Agility       |  Market            |         |    ✔    |
 | Solicit a bribe from suspects                        |  63      |   Social        |  Anywhere          |    ✔    |         |
 | Investigate a suspect                                |  69      |   Agility       |  Anywhere          |         |         |
 | Leak security plans                                  |  81      |   Intelligence  |  Anywhere          |    ✔    |         |
