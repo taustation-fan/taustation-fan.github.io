@@ -296,7 +296,7 @@ Secondary stat: Intelligence
 | Leak security plans                                  |  81      |   Intelligence  |  Bar               |    ✔    |         |
 | Raid a residence                                     |  94      |   Strength      |  Residences        |         |    ✔    |
 | Raid an illegal water harvesting operation           |  94      |   Agility       |  Ruins             |         |    ✔    |
-| Work undercover                                      |  99      |   Social        |  Anywhere          |         |         |
+| Work undercover                                      |  99      |   Social        |  Bank              |         |         |
 | Conduct an internal affairs investigation            |  114     |   Intelligence  |  Security          |         |         |
 | Create a security plan                               |  114     |   Intelligence  |  Security          |         |         |
 | Infiltrate the embassy                               |  117     |   Agility       |  Gaule Embassy     |    ✔    |         |
