@@ -300,11 +300,11 @@ Secondary stat: Intelligence
 | Conduct an internal affairs investigation            |  114     |   Intelligence  |  Security          |         |         |
 | Create a security plan                               |  114     |   Intelligence  |  Security          |         |         |
 | Infiltrate the embassy                               |  117     |   Agility       |  Gaule Embassy     |    ✔    |         |
-| Protect a high profile guest                         |  129     |   Agility       |  Anywhere          |         |         |
+| Protect a high profile guest                         |  129     |   Agility       |  Docks             |         |         |
 | Blackmail a high ranking administrator               |  135     |   Intelligence  |  Government Center |    ✔    |         |
 | Eliminate a target                                   |  135     |   Agility       |  Anywhere          |    ✔    |         |
 | Tail a high ranking official                         |  144     |   Agility       |  Anywhere          |         |         |
-| Foil an assassination attempt                        |  145     |   Agility       |  Anywhere          |         |    ✔    |
+| Foil an assassination attempt                        |  145     |   Agility       |  Ruins             |         |    ✔    |
 | Decrypt stolen intel                                 |  159     |   Intelligence  |  Anywhere          |         |         |
 | Bug an official's office                             |  171     |   Intelligence  |  Anywhere          |         |         |
 | Mentor a new agent                                   |  174     |   Social        |  Anywhere          |         |         |
