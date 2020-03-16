@@ -91,29 +91,29 @@ and the *Advanced* and *Mastery* course each add another 5% fuel savings.
 
 ## Maintenance
 
-Ships require regular repairs, and occasional refurbishments.
+Ships require regular patch ups, and occasional overhauls.
 
 Once a health bar of a ship sinks below a certain threshold, or when the
-navigation computers are "not operational", the ship requires repairs
+navigation computers are "not operational", the ship requires patch up
 before you can fly it again.
 
 If you are lucky, and the current station has a shipyard, the repairs
 can be done for you by paid workers, which means you do not have to
 be present during the repairs -- but it costs about twice as much as
-repairing it yourself.
+patching it up yourself.
 
-On stations without a shipyard, you have to repair your ship at the
-docks, which is cheaper, but confines you to the docks during the repair.
-Repairing a ship consumes 50% Focus, Intelligence and Stamina. During
-a ship repair, stats and focus regeneration is very slow.
+On stations without a shipyard, you have to patch up your ship at the
+docks, which is cheaper, but confines you to the docks during the process.
+Patching up a ship consumes 50% Focus, Intelligence and Stamina. During
+a ship patch up, stats and focus regeneration is very slow.
 While confined, you cannot be attacked (just like if you were confined
 to the brig or sickbay).
 
-In either case, you can spend 10 bonds to halve the repair time.
+In either case, you can spend 10 bonds to halve the patch up time.
 
-A repair only brings the health up to 75%. Refurbishment at a shipyard
+A patch up only brings the health up to 75%. Overhaul at a shipyard
 costs an additional 2000 credits, and completely restores the health
-of the ship. You can refurbish your ship without repairing it first,
+of the ship. You can overhaul your ship without patching it first,
 although it will cost more.
 
 ## Ship Storage

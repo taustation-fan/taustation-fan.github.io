@@ -204,7 +204,7 @@ playing easier or faster:
 * bribing for extra rations
 * boosting training
 * bribing for shorter confinement times
-* reducing private ship repair, fuel-up and refurbishment times
+* reducing private ship patch up, fuel-up and overhaul times
 * premium clones
 * faster release from the Brig (prison) and Sick Bay
 * [instantaneous](https://alpha.taustation.space/coretechs/archive/technology#/quantum-telepheresis) [intrasystem](https://blog.taustation.space/blog/benevolent-dynamics-presents-quantum-telepheresis/) travel and faster interstellar travel
@@ -264,8 +264,8 @@ is payed from your bank account:
 | Shuttles          | Wallet                    |
 | Shipment costs    | Wallet with Bank fallback |
 | Buying Ship       | Wallet with Bank fallback |
-| Refurbish Ship    | Wallet with Bank fallback |
-| Repair Ship       | Wallet                    |
+| Overhaul ship     | Wallet with Bank fallback |
+| Patch up ship     | Wallet                    |
 | Ship Fuel         | Wallet                    |
 | University course | Wallet                    |
 | Bodyguards        | Wallet with Bank fallback |
