@@ -307,7 +307,7 @@ Secondary stat: Intelligence
 | Foil an assassination attempt                        |  145     |   Agility       |  Ruins             |         |    ✔    |
 | Decrypt stolen intel                                 |  159     |   Intelligence  |  Anywhere          |         |         |
 | Bug an official's office                             |  171     |   Intelligence  |  Anywhere          |         |         |
-| Mentor a new agent                                   |  174     |   Social        |  Anywhere          |         |         |
+| Mentor a new agent                                   |  174     |   Social        |  Security          |         |         |
 | Take a new agent on their first mission              |  174     |   Agility       |  Anywhere          |         |         |
 | Steal top secret Gaule intel                         |  189     |   Agility       |  Anywhere          |         |         |
 | Uncover a space-shell ring                           |  189     |   Intelligence  |  Anywhere          |         |         |
