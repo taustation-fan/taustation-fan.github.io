@@ -306,7 +306,7 @@ Secondary stat: Intelligence
 | Tail a high ranking official                         |  144     |   Agility       |  Anywhere          |         |         |
 | Foil an assassination attempt                        |  145     |   Agility       |  Ruins             |         |    ✔    |
 | Decrypt stolen intel                                 |  159     |   Intelligence  |  Anywhere          |         |         |
-| Bug an official's office                             |  171     |   Intelligence  |  Anywhere          |         |         |
+| Bug an official's office                             |  171     |   Intelligence  |  Anywhere          |    ✔    |         |
 | Mentor a new agent                                   |  174     |   Social        |  Security          |         |         |
 | Take a new agent on their first mission              |  174     |   Agility       |  Ruins             |         |         |
 | Steal top secret Gaule intel                         |  189     |   Agility       |  Anywhere          |         |         |
