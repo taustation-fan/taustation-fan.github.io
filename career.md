@@ -252,17 +252,17 @@ Secondary stat: Strength
 | Sell more premium clones                             | 204     |  Social        |  Anywhere            |          |           |
 | Sell clone organs on the black market                | 207     |  Intelligence  |  Anywhere            |          |           |
 | Research a low-cost clone product                    | 219     |  Intelligence  |  Anywhere            |          |           |
-| Service the clone pods' Obi-hubs                     | 219     |  Stamina       |  Anywhere            |          |           |
-| Upgrade 3D clone printer machine                     | 219     |  Strength      |  Anywhere            |          |           |
+| Service the clone pods' Obi-hubs                     | 219     |  Stamina       |  Cloning Vats            |          |           |
+| Upgrade 3D clone printer machine                     | 219     |  Strength      |  Cloning Vats            |          |           |
 | Apply for a new research grant                       | 234     |  Intelligence  |  Anywhere            |          |           |
 | Speak at a cloning conference                        | 234     |  Social        |  Anywhere            |          |           |
 | Clone air scrubber plants                            | 249     |  Intelligence  |  Anywhere            |          |           |
-| Improve research lab facilities                      | 249     |  Strength      |  Anywhere            |          |           |
+| Improve research lab facilities                      | 249     |  Strength      |  Cloning Vats            |          |           |
 | Relax legal restrictions on cloning                  | 264     |  Social        |  Anywhere            |          |           |
-| Develop cloning academy                              | 279     |  Stamina       |  Anywhere            |          |           |
-| Sell clone data on the black market                  | 297     |  Social        |  Anywhere            |     ✔    |           |
+| Develop cloning academy                              | 279     |  Stamina       |  University            |          |           |
+| Sell clone data on the black market                  | 297     |  Social        |  Lounge            |     ✔    |           |
 | Sabotage a rival clone specialist                    | 315     |  Intelligence  |  Anywhere            |     ✔    |           |
-| Have a Promethean opponent killed                    | 369     |  Intelligence  |  Anywhere            |     ✔    |     ✔     |
+| Have a Promethean opponent killed                    | 369     |  Intelligence  |  Port            |     ✔    |     ✔     |
 
 Advantages:
 
