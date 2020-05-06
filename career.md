@@ -309,7 +309,7 @@ Secondary stat: Intelligence
 | Bug an official's office                             |  171     |   Intelligence  |  Anywhere          |    ✔    |         |
 | Mentor a new agent                                   |  174     |   Social        |  Security          |         |         |
 | Take a new agent on their first mission              |  174     |   Agility       |  Ruins             |         |         |
-| Steal top secret Gaule intel                         |  189     |   Agility       |  Anywhere          |         |         |
+| Steal top secret Gaule intel                         |  189     |   Agility       |  Anywhere          |    ✔    |         |
 | Uncover a space-shell ring                           |  189     |   Intelligence  |  Anywhere          |         |         |
 | Impress a group of Freebooters.                      |  204     |   Strength      |  Anywhere          |         |         |
 | Discover the double agent in your ranks              |  219     |   Intelligence  |  Ruins             |    –    |    ✔    |
