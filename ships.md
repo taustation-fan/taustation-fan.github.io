@@ -128,7 +128,7 @@ You cannot use your ship while installation is in progress.
 Once installed, you can put items into your ship's locker from inventory,
 just like you can with storage lockers in Market.
 
-The storage locker in a Razorback has 50 slots.
+The storage locker in a Razorback and Private Shuttle has 50 slots.
 
 ---
 
