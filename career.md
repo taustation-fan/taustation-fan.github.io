@@ -82,7 +82,7 @@ Secondary stat: Social
 | Organize a counterfeit credchips ring                 | 155  | social        | Anywhere          | ✔        |           |
 | Produce counterfeit rations vouchers                  | 93   | intelligence  | Government Center | ✔        |           |
 | Pull a con job                                        | 62   | social        | Anywhere          | ✔        |           |
-| ========================                              | ===  | ======        | ======            | ===      | ===       |
+| xxxxxxxxxxxxxxxxxxxxxxxx                              | xxx  | xxxxxx        | xxxxxx            | xxx      | xxx       |
 | Make underworld contacts                              |   9  | Stamina       | Ruins             |          |           |
 | Pick some pockets on the station boulevard            |   9  | Agility       | Anywhere          |          |           |
 | Raid a market stall                                   |   9  | Strength      | Market            | ✔        |           |
