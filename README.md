@@ -241,7 +241,7 @@ visiting the bank.
 
 At your home branch, withdrawing credits is free. At other branches,
 the withdrawal fee is 3%, or 1% if you are VIP
-(with the exception of Caen Stronghold, where the fee is always 3%).
+(with the exception of Caen Stronghold, where the fee is always 6%).
 
 You can transfer your home branch to any Consortium station, and then
 benefit from free withdrawal at that branch. The account transfer fee
