@@ -252,8 +252,8 @@ paying the withdrawal fee.
 
 Deposits are free at any bank.
 
-The following table summarizes what is payed from the wallet and what
-is payed from your bank account:
+The following table summarizes what is paid from the wallet and what
+is paid from your bank account:
 
 | Action/Service    |  Payment                  |
 |-------------------|---------------------------|
