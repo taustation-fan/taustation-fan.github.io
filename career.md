@@ -310,10 +310,10 @@ Secondary stat: Intelligence
 | Mentor a new agent                                   |  174     |   Social        |  Security          |         |         |
 | Take a new agent on their first mission              |  174     |   Agility       |  Ruins             |         |         |
 | Steal top secret Gaule intel                         |  189     |   Agility       |  Anywhere          |    ✔    |         |
-| Uncover a space-shell ring                           |  189     |   Intelligence  |  Anywhere          |         |         |
-| Impress a group of Freebooters.                      |  204     |   Strength      |  Anywhere          |         |         |
+| Uncover a space-shell ring                           |  189     |   Intelligence  |  Docks             |         |         |
+| Impress a group of Freebooters.                      |  204     |   Strength      |  Local Shuttles    |         |         |
 | Discover the double agent in your ranks              |  219     |   Intelligence  |  Ruins             |    –    |    ✔    |
-| Keep the space-shells for yourself                   |  225     |   Agility       |  Anywhere          |         |         |
+| Keep the space-shells for yourself                   |  225     |   Agility       |  Docks             |    ✔    |         |
 | Pose as a Freebooter pirate for a stint              |  230     |   Strength      |  Anywhere          |         |    ✔    |
 | Befriend a target under a false identity             |  234     |   Social        |  Bar               |    –    |         |
 | Keep the things you steal as a Freebooter            |  243     |   Intelligence  |  Anywhere          |    ✔    |         |
