@@ -255,20 +255,20 @@ Deposits are free at any bank.
 The following table summarizes what is paid from the wallet and what
 is paid from your bank account:
 
-| Action/Service    |  Payment                  |
-|-------------------|---------------------------|
-| Bodyguards        | Wallet with Bank fallback |
-| Hotel Room        | Wallet                    |
-| Items at Vendors  | Wallet                    |
-| Public Market     | Bank                      |
-| Shuttles          | Wallet                    |
-| Shipment costs    | Wallet with Bank fallback |
-| Buying Ship       | Wallet with Bank fallback |
-| Overhaul ship     | Wallet with Bank fallback |
-| Patch up ship     | Wallet                    |
-| Ship Fuel         | Wallet                    |
-| University course | Wallet                    |
-| Bodyguards        | Wallet with Bank fallback |
+| Action/Service              |  Payment                  |
+|-----------------------------|---------------------------|
+| Bodyguards                  | Wallet with Bank fallback |
+| Hotel Room                  | Wallet                    |
+| Items at Vendors            | Wallet                    |
+| Public Market               | Bank                      |
+| Ship Buying                 | Wallet with Bank fallback |
+| Ship Fuel                   | Wallet                    |
+| Ship Install Storage Locker | Wallet with Bank fallback |
+| Ship Overhaul               | Wallet with Bank fallback |
+| Ship Patch up               | Wallet                    |
+| Shipment costs              | Wallet with Bank fallback |
+| Shuttles                    | Wallet                    |
+| University course           | Wallet                    |
 
 In case of the bank fallback, withdrawal fees apply.
 
