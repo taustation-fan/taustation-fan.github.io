@@ -64,7 +64,7 @@ document might become outdated when the game changes.
 
 Despite the alpha status, the development team has [promised that there
 will be no resets/wipes when it leaves alpha or beta
-stage.](https://blog.taustation.space/blog/start-your-adventure-in-tau-station-now/)
+stage.](https://taustation.space/blog/start-your-adventure-in-tau-station-now/)
 
 ## Quick Start
 
@@ -171,8 +171,8 @@ perpetrator.
 ## The Financial System
 
 There are
-[*credits*](https://blog.taustation.space/blog/taking-credit-a-virtual-economy/) and
-[*bonds*](https://blog.taustation.space/blog/bonds-explained-a-virtual-economy-part-2/).
+[*credits*](https://taustation.space/blog/taking-credit-a-virtual-economy/) and
+[*bonds*](https://taustation.space/blog/bonds-explained-a-virtual-economy-part-2/).
 
 ### Credits
 
@@ -207,7 +207,7 @@ playing easier or faster:
 * reducing private ship patch up, fuel-up and overhaul times
 * premium clones
 * faster release from the Brig (prison) and Sick Bay
-* [instantaneous](https://taustation.space/coretechs/archive/technology#/quantum-telepheresis) [intrasystem](https://blog.taustation.space/blog/benevolent-dynamics-presents-quantum-telepheresis/) travel and faster interstellar travel
+* [instantaneous](https://taustation.space/coretechs/archive/technology#/quantum-telepheresis) [intrasystem](https://taustation.space/blog/benevolent-dynamics-presents-quantum-telepheresis/) travel and faster interstellar travel
 * premium avatar images
 
 This list is roughly sorted by utility. VIP packs and accelerated
@@ -2323,7 +2323,7 @@ and take over the fight.
 
 The [official blog post on bodyguards explains the different options in
 excruciating
-detail](https://blog.taustation.space/blog/here-to-protect-you-bodyguards/).
+detail](https://taustation.space/blog/here-to-protect-you-bodyguards/).
 
 # Tactics, Strategy and Advice
 
@@ -2354,7 +2354,7 @@ Some random bits of advice on how to make the most of out Tau Station:
 
 # Planned Features
 
-From the [official blog](https://blog.taustation.space/blog/), twitter and statements
+From the [official blog](https://taustation.space/blog/), twitter and statements
 from the Tau Station team, it seems that at least the following major features
 are planned:
 
