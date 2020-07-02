@@ -55,5 +55,6 @@
 * 2019-11-28: [Vendor-available Tier 4 and 5 equipment](https://taustation.space/blog/update-changelog-2019-nov-28/)
 * 2019-12-23: [Storage extension for private ships](https://taustation.space/blog/update-changelog-2019-dec-23/)
 * 2019-12-23: [Rebalancing of epic campaign items](https://taustation.space/blog/update-changelog-2019-dec-23/)
+* 2020-05-01: [Shop reopened](https://taustation.space/blog/update-changelog-2020-may-01/)
 * 2020-07-02: switch from the `alpha.taustation.space` to `taustation.space` for game play
 
