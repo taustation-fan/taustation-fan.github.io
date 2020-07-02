@@ -207,7 +207,7 @@ playing easier or faster:
 * reducing private ship patch up, fuel-up and overhaul times
 * premium clones
 * faster release from the Brig (prison) and Sick Bay
-* [instantaneous](https://alpha.taustation.space/coretechs/archive/technology#/quantum-telepheresis) [intrasystem](https://blog.taustation.space/blog/benevolent-dynamics-presents-quantum-telepheresis/) travel and faster interstellar travel
+* [instantaneous](https://taustation.space/coretechs/archive/technology#/quantum-telepheresis) [intrasystem](https://blog.taustation.space/blog/benevolent-dynamics-presents-quantum-telepheresis/) travel and faster interstellar travel
 * premium avatar images
 
 This list is roughly sorted by utility. VIP packs and accelerated
@@ -349,7 +349,7 @@ increase a stat a bit, though at the price of raised toxin levels
 Both are usually not worth the risks and downsides.
 
 
-The following recovery rates have been compiled by mostly [Shadow and Dotsent](https://alpha.taustation.space/forum/discussions/topic/197-04-88-143-please-use-this-thread/post/197-53-01-501-stat-recovery):
+The following recovery rates have been compiled by mostly [Shadow and Dotsent](https://taustation.space/forum/discussions/topic/197-04-88-143-please-use-this-thread/post/197-53-01-501-stat-recovery):
 
 |Booster                                | Focus/%   | Stats/% | Measured   |
 |---------------------------------------|-----------|---------|------------|
@@ -394,7 +394,7 @@ Genotype dependent, and Baseline characters benefit half from them.
 
 ### Medical Stims
 
-*Information in this section is a result of [Medical Stims research](https://alpha.taustation.space/forum/discussions/topic/197-04-88-143-please-use-this-thread/post/198-61-63-060-medical-stims-research-looking-for-test-subjects). Huge thanks to Praxibetel, Jaidan, Shadow, Vorkosigan, Groat, Aell and moritz for contributing the datapoints for this study! --Dotsent*
+*Information in this section is a result of [Medical Stims research](https://taustation.space/forum/discussions/topic/197-04-88-143-please-use-this-thread/post/198-61-63-060-medical-stims-research-looking-for-test-subjects). Huge thanks to Praxibetel, Jaidan, Shadow, Vorkosigan, Groat, Aell and moritz for contributing the datapoints for this study! --Dotsent*
 
 There are currently up to 30 different types of regular medical stims in the Tauverse that differ by the following parameters:
 
@@ -457,11 +457,11 @@ that high-level players tend to have quite well developed stats, the conclusion 
 
 ### Stats Improvement
 
-Most stations (all except the jump gates) feature a [Gym](https://alpha.taustation.space/travel/area/training), where you can
+Most stations (all except the jump gates) feature a [Gym](https://taustation.space/travel/area/training), where you can
 invest focus and current stat values to train the physical stats
 (*strength*, *agility*, *stamina*).
 
-You can train *intelligence* in a similar fashion in a [hotel room](https://alpha.taustation.space/area/hotel-rooms/enter-room) of an
+You can train *intelligence* in a similar fashion in a [hotel room](https://taustation.space/area/hotel-rooms/enter-room) of an
 Inn, or at a University (scroll to the very bottom of the page). All
 stations,  and five
 stations have a University (Tau, Nouveau Limoges, Moissan, Spirit of
@@ -470,7 +470,7 @@ Botswana, Cape Verde Stronghold).
 You can also train intelligence while traveling with public shuttles or in
 your private ship.
 
-The *social* stat can be trained at the [Lounge](https://alpha.taustation.space/travel/area/lounge) that belongs to an inn.
+The *social* stat can be trained at the [Lounge](https://taustation.space/travel/area/lounge) that belongs to an inn.
 
 The efficiency of training of any of these stats depends on the station.
 In general, higher-level stations yield better training benefits. For
@@ -487,7 +487,7 @@ The training efficiency on shuttle/ship rides is the same as training on
 the destination station.
 
 Training also depends on the character's
-[genotype](https://alpha.taustation.space/archive/genotypes), because
+[genotype](https://taustation.space/archive/genotypes), because
 genotypes have pre-dispositions for certain traits. Belters, for
 instance, find it easier to train Agility (where they get a 5% bonus)
 than Strength. All genotypes except Baseline have one stat with +5% bonus,
@@ -780,7 +780,7 @@ missed advancing your career.
 You advance your career by succeeding at career tasks. You go to
 different areas of the station, and click on the "Tasks" tab, and then
 attempt some tasks. The [career overview
-page](https://alpha.taustation.space/career) lists all available tasks
+page](https://taustation.space/career) lists all available tasks
 on your current station, and where you can try them. If the area a task
 depends on does not exist at the current station, the task will not be
 listed.
@@ -847,7 +847,7 @@ better strategy.
 ##### How Can I Check My Career Progress?
 
 The career experience is shown on your [character
-page](https://alpha.taustation.space/) in the *Career* section.
+page](https://taustation.space/) in the *Career* section.
 
 <a name="career-success"></a>
 #### What Determines Career Task Success Rates?
@@ -928,9 +928,9 @@ Discreet Work is limited to 50 missions per 24 hours.
 says "you must find Aearis Tinsley", you won't find her by looking through
 all areas of the current station; you have to follow the mission steps.
 * If you can't seem to find your next step, the [mission
-  overview](https://alpha.taustation.space/mission) should help you find it.
+  overview](https://taustation.space/mission) should help you find it.
 * You can start discreet work while being on a mission. The link for discreet
-work isn't shown while you are pursuing a mission, but if you [follow this link to discreet work](https://alpha.taustation.space/area/discreet-work), you can start it anyway.
+work isn't shown while you are pursuing a mission, but if you [follow this link to discreet work](https://taustation.space/area/discreet-work), you can start it anyway.
 
 ## Syndicates
 
@@ -2164,7 +2164,7 @@ additional 99 bonds.
 ### Dying
 
 You can only die from combat on stations without Sick Bay, or from consuming
-a [Termination Pellet](https://alpha.taustation.space/item/termination-pellet)
+a [Termination Pellet](https://taustation.space/item/termination-pellet)
 that can be bought on Caen Stronghold.
 
 When you die, you lose all the cash in your wallet. The items you were
@@ -2247,7 +2247,7 @@ You can send items to other players, or to yourself on specific
 stations.
 
 To send an item to another player, you first have to add them at the
-[contacts page](https://alpha.taustation.space/contact).
+[contacts page](https://taustation.space/contact).
 
 In either case, go the Port and then Shipping Bay, and then to your
 inventory. There you can select an item, and click on *Send item*. This
@@ -2274,7 +2274,7 @@ current station (for which you have to pay).
 
 You can also send items from one station's storage to another storage
 through the [Storage
-Management](https://alpha.taustation.space/coretechs/storage) in your
+Management](https://taustation.space/coretechs/storage) in your
 CORETECHS, with the same shipping costs as when going through the shipping
 bay.
 
@@ -2379,7 +2379,7 @@ are planned:
 # Resources
 
 * [TauHead](https://www.tauhead.com/) harvests encyclopedic data from the Tau Station universe.
-* The [Taustation Archives](https://alpha.taustation.space/archive) contain information about star
+* The [Taustation Archives](https://taustation.space/archive) contain information about star
 systems, stations, ship types and much more.
 * [University Courses](https://education.tauguide.de) in a searchable and
   sortable form
