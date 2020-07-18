@@ -47,7 +47,7 @@
 * 2019-06-25: [Archive 2.0](https://taustation.space/blog/update-changelog-2019-jun-25/), see [separate preview](https://taustation.space/blog/archive-2-0-a-new-look-updated-content/)
 * 2019-06-25: [`/me` command in the chat](https://taustation.space/blog/update-changelog-2019-jun-25/)
 * 2019-10-15: [**Item Management through CORETECHS**](https://taustation.space/blog/update-changelog-2019-oct-15/)
-* 2019-10-15: [**Variable item and fulel prices**](https://taustation.space/blog/update-changelog-2019-oct-15/)
+* 2019-10-15: [**Variable item and fuel prices**](https://taustation.space/blog/update-changelog-2019-oct-15/)
 * 2019-10-15: [**Extensive combat rebalancing**](https://taustation.space/blog/update-changelog-2019-oct-15/)
 * 2019-10-15: [Emojis in the chat through expresions like `:smile:`](https://taustation.space/blog/update-changelog-2019-oct-15/)
 * 2019-10-15: Increased availability of non-epic tier 3 and tier 4 items through NPC vendors
@@ -58,4 +58,4 @@
 * 2020-02-28: [Ship operations such as patch up and refuel now show the necessary time before starting the action.](https://taustation.space/blog/update-changelog-2020-feb-28/).
 * 2020-05-01: [Shop reopened](https://taustation.space/blog/update-changelog-2020-may-01/)
 * 2020-07-02: switch from the `alpha.taustation.space` to `taustation.space` for game play
-
+* 2020-07-17: [Friends and Foes list now extendable for bonds and when reaching a new tier](https://taustation.space/blog/update-changelog-2020-jul-17/)
