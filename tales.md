@@ -18,7 +18,7 @@ any luck. Unwilling to abandon the Discreet Work and to disappoint
 his employers, he asked the community for help.
 
 So the other players reading the chat rushed to their storage lockers
-to see if they had any Tungsten Clavas left; several through they had,
+to see if they had any Tungsten Clavas left; several thought they had,
 but were unsure about which stations they were on (and this was
 before private ships or Quantum Telephoresis as well, so travel was
 slooow), and ser Perleone was the first one to locate one and send
