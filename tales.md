@@ -33,7 +33,7 @@ For maybe half a cycle afterwards, players pasted notable occurrences
 of Tungsten Clavas into the chat, for example when obtaining two in a
 single discreet work (stealing one, and being awarded one).
 
-## The CSS Bug That Stole Your Weapon
+## The XSS Bug That Stole Your Weapon
 
 (recounted from moritz's memory, so possibly inaccurate).
 
