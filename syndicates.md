@@ -1,5 +1,3 @@
-This page is part of the [Unofficial Player's Guide to Tau Station](/).
-
 # Syndicates
 
 A Syndicate is a group of players with a common agenda teaming up.

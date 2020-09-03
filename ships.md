@@ -2,8 +2,6 @@
 title: Private Ships
 ---
 
-This page is part of the [Unofficial Player's Guide to Tau Station](/).
-
 # Table of Contents
 
 * [Private Ships](#private-ships)

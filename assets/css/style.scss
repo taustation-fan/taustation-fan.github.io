@@ -134,3 +134,23 @@ td.star {
   font-weight: bold;
   padding-left: 5px;
 }
+
+nav ul {
+    list-style: none; 	  
+
+}
+nav li {
+    margin: 0.5em; 
+    border: 1px solid;
+    display: inline-block;
+}
+nav a {
+    text-decoration: none; 
+    font-weight: bold;
+}
+nav a:focus,
+nav a:hover,
+nav a:active {    
+    text-decoration:underline;
+}
+
