@@ -59,3 +59,5 @@
 * 2020-05-01: [Shop reopened](https://taustation.space/blog/update-changelog-2020-may-01/)
 * 2020-07-02: switch from the `alpha.taustation.space` to `taustation.space` for game play
 * 2020-07-17: [Friends and Foes list now extendable for bonds and when reaching a new tier](https://taustation.space/blog/update-changelog-2020-jul-17/)
+
+See also: [tales from the auld ones](tales), a more subjective view of Tau Station's history and community.
