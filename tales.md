@@ -137,7 +137,7 @@ Seeing this, I decided to try an experiment. I replaced the private shuttle part
 
 Although I could still not afford the trading ships, the public shuttle only cost a single credit. I put in a name, clicked “Submit”, and to my surprise it actually went through. I took it on a test run before submitting a bug report. Sadly, I could not keep the public shuttle, but staff were kind enough to convert it to a private shuttle and let me keep it for the single credit. The bug has since been patched.
 
-In-character blog post: https://taustation.space/coretechs/blog/xierumeng/entry/200-90-08-534-the-party-bus
+In-character blog post: <https://taustation.space/coretechs/blog/xierumeng/entry/200-90-08-534-the-party-bus>.
 
 ### Confined while repairing an item
 
