@@ -4,7 +4,9 @@
 
 This page is meant to collect some stories from the early days of Tau Station.
 
-## Shadow's Tungsten Clava
+## Told by moritz
+
+### Shadow's Tungsten Clava
 
 (recounted from moritz's memory, so possibly inaccurate).
 
@@ -33,7 +35,7 @@ For maybe half a cycle afterwards, players pasted notable occurrences
 of Tungsten Clavas into the chat, for example when obtaining two in a
 single discreet work (stealing one, and being awarded one).
 
-## The XSS Bug That Stole Your Weapon
+### The XSS Bug That Stole Your Weapon
 
 (recounted from moritz's memory, so possibly inaccurate).
 
@@ -56,7 +58,7 @@ in Gummersbach near Köln.
 
 The Bug was fixed a few days later.
 
-## Gold Rush
+### Gold Rush
 
 (recounted from moritz's memory, so the timeline might be slightly off).
 
@@ -121,3 +123,49 @@ It was evening, and it was morning. The seventh day.
 
 Staff rested.
 
+## Told by Xierumeng
+
+This is not in-character.
+
+Gather ‘round children, papa Xierumeng has war stories to tell. You may have heard of my game-breaking achievements. Here some of them.
+
+## Buying a public shuttle for a single credit
+
+When privately owned ships became available, I was very excited. However, back then, I was also a new player and relatively poor, so all I could do at the shipyard was look at the ships. It was during the tenspan of 199.50 that I noticed ship purchases are done through a URL e.g. [https://taustation.space/area/shipyard/buy_ship/private-shuttle](https://taustation.space/area/shipyard/buy_ship/private-shuttle)
+
+Seeing this, I decided to try an experiment. I replaced the private shuttle part with various other ship names such as the planned trading ships and public shuttle, as well as random combat ship names such as “cruiser”, “battleship”, “dreadnaught”, etc.
+
+Although I could still not afford the trading ships, the public shuttle only cost a single credit. I put in a name, clicked “Submit”, and to my surprise it actually went through. I took it on a test run before submitting a bug report. Sadly, I could not keep the public shuttle, but staff were kind enough to convert it to a private shuttle and let me keep it for the single credit. The bug has since been patched.
+
+In-character blog post: https://taustation.space/coretechs/blog/xierumeng/entry/200-90-08-534-the-party-bus
+
+### Confined while repairing an item
+
+Back when syndicate campaigns were relatively new, I noticed that it was possible to attack opponents even though I was still repairing an item. The path was obvious: ATTACK! I then was immediately brigged, but since the repair was still ongoing, I was confined and repairing an item. Interestingly, I could not bribe the guards or do any other actions while the repair was ongoing, but the repair could be cancelled and so I got out relatively quickly. The bug has since been patched.
+
+### Deported without fuel
+
+Ah, deportation, my old friend. When deported while on a ship, your ship is automatically sent to the nearest(?) Consortium station, as though you have clicked on the “Fly There” button yourself. So in the tenspan of 199.80, I thought to myself: “What if I don’t have any fuel left to actually travel to any of the stations in the system?”.
+
+I had a Gaule Visa that would expire in a few days, so that task was already done. My next task was to carefully make trips in my private shuttle to arrive at NL with an empty fuel tank. Needless to say, this was rather tedious and nerve-wracking.
+
+Why the private shuttle? Well, the Razorback has a large fuel tank, so draining it would take a lot longer. Plus, this is pre-economy, so if I was out of fuel on NL, the unit price of fuel there was many times more expensive than TAU, and so multiplying that by the Razorback’s fuel tank would result in a fuel bill of several million credits.
+
+I waited in my ship, watching the countdown. When it hit 0, the game freaked out. I couldn’t access anything, including the bug report button, nor the information button to send emails to staff. I had to ask another player to send me that contact information so I could contact staff to fix my predicament.
+
+I do not believe the bug has been patched. The “fix” was an extension of my Visa by 100 segments.
+In-character blog post: [https://taustation.space/coretechs/blog/xierumeng/entry/199-83-83-793-deported](https://taustation.space/coretechs/blog/xierumeng/entry/199-83-83-793-deported)
+
+### Unlimited credits exploit
+
+It was the tenspan of 205.50 and I was bored. So why not test all of the number inputs in the game? This is how I discovered that if you put in a decimal number on the number of bonds you want to convert, it converts 0 bonds. While that by itself may not be interesting, what makes it very interesting is that it still dumped out the credits. So I pulled the lever a few times and made a million credits before contacting StarGazer directly. The bug has since been patched.
+
+### Conclusion
+
+You may wonder: “How does Xierumeng find these bugs?” I say it’s two things: find an input field and try to break it, and find a bizarre combination of circumstances that would almost never occur normally. For the input field, it doesn’t have to be inside the game’s UI. The URL is an input field! The game’s scripts as also one (although I’m not very familiar with the language).
+
+As the game matures, it’s becoming harder and harder to find any more huge bugs, which is less fun, but is probably a good thing.
+
+Happy Hunting!
+
+Xierumeng
