@@ -180,60 +180,13 @@ the highest tier opponents that are available to you, you get *epic* weapons
 and armors as loot. From a *hard* campaign and 25-30 members, you get two epic
 items, and three for a *hard* campaign an 34-35 members. For *extreme* campaigns,
 these numbers are roughly twice as high. For *normal* and *easy* campaigns, epic
-items can drop, but it's not reliable.
+items drop occasionally, but certainly not for all campaigns.
 
 The items seem to be more or less randomly selected from the tiers that are
 part of the campaign. For example, you might get a tier 1 and a tier 5 item
 for a *hard* tier 1 through 5 campaign. Some of these items are available
 for sales from NPC vendors for bonds, and some items are not available any
 other way.
-
-The following epic items have been observed to drop from syndicate campaigns:
-
-| Tier  | Type         | Item            |
-|-------|--------------|-----------------|
-|   1   | Armor        | [Bar Brawler's Blouse](https://alpha.taustation.space/item/bar-brawlers-blouse) |
-|   1   | Armor        | [Gaule Training Vest](https://alpha.taustation.space/item/gaule-training-vest) |
-|   1   | Armor        | [Ruins Rat's Pyjamas](https://alpha.taustation.space/item/ruins-rats-pyjamas) |
-|   1   | Shotgun      | [Joanna](https://alpha.taustation.space/item/joanna) |
-|   1   | Rifle        | [Ajax Systems Flame Dispenser](https://alpha.taustation.space/item/ajax-systems-flame-dispenser) |
-|   1   | Rifle        | [Sloane 6000](https://alpha.taustation.space/item/sloane-6000) |
-|   2   | Handgun      | [Reaper's Little Helper](https://alpha.taustation.space/item/reapers-little-helper) |
-|   2   | Rifle        | [The Ayy-Kii 47](https://alpha.taustation.space/item/the-ayy-kii-47) |
-|   2   | Armor        | [Anti-Energy Harness](https://alpha.taustation.space/item/anti-energy-harness) |
-|   2   | Armor        | [Hippocratic Vest](https://alpha.taustation.space/item/hippocratic-vest) |
-|   2   | Armor        | [Ranger Vest](https://alpha.taustation.space/item/ranger-vest) |
-|   2   | Armor        | [Rumble Jacket](https://alpha.taustation.space/item/rumble-jacket) |
-|   2   | Armor        | [Thief's Second Skin](https://alpha.taustation.space/item/thiefs-second-skin) |
-|   3   | Armor        | [Ajax Systems Tactical Vest](https://alpha.taustation.space/item/ajax-systems-tactical-vest) |
-|   3   | Armor        | [Bloody Battle Jacket](https://alpha.taustation.space/item/bloody-battle-jacket) |
-|   3   | Armor        | [Brig Warden's Stab Suit](https://alpha.taustation.space/item/brig-wardens-stab-suit) |
-|   3   | Armor        | [Aurorahunter](https://alpha.taustation.space/item/aurorahunter) |
-|   3   | Blade        | [Barman's Caltrop](https://alpha.taustation.space/item/barmans-caltrop) |
-|   3   | Blade        | [Battle Blade: Trailblazing Blazers](https://alpha.taustation.space/item/battle-blade-trailblazing-blazers) |
-|   3   | Blade        | [Modified Shanker](https://alpha.taustation.space/item/modified-shanker) |
-|   3   | Handgun      | [Pistol: Trailblazing Blazers](https://alpha.taustation.space/item/pistol-trailblazing-blazers)|
-|   3   | Handgun      | [Blaster: Trailblazing Blazers](https://alpha.taustation.space/item/blaster-trailblazing-blazers) |
-|   3   | Handgun      | [Thowan 89](https://alpha.taustation.space/item/thowan-89)|
-|   3   | Sniper rifle | [ALNA-MODEX](https://alpha.taustation.space/item/alna-modex) |
-|   3   | Sniper rifle | [Sniper Rifle: Trailblazing Blazers](https://alpha.taustation.space/item/sniper-rifle-trailblazing-blazers) |
-|   4   | Armor        | [Battered Jerkin](https://alpha.taustation.space/item/battered-jerkin) |
-|   4   | Armor        | [Consortium Catsuit](https://alpha.taustation.space/item/consortium-catsuit) |
-|   4   | Armor        | [Heavy Explorer's Coat](https://alpha.taustation.space/item/heavy-explorers-coat) |
-|   4   | Armor        | [Nomad's Robes](https://alpha.taustation.space/item/nomads-robes) |
-|   4   | Armor        | [Wanderer's Jumpsuit](https://alpha.taustation.space/item/wanderers-jumpsuit) |
-|   4   | Blade        | [Modified Shanker Deluxe](https://alpha.taustation.space/item/modified-shanker-deluxe) |
-|   4   | Blade        | [Rusted Skin Slicer](https://alpha.taustation.space/item/rusted-skin-slicer) |
-|   5   | Armor        | [Armure Bodysuit](https://alpha.taustation.space/item/armure-bodysuit) |
-|   5   | Armor        | [Stylish Jacket](https://alpha.taustation.space/item/stylish-jacket) |
-|   5   | Armor        | [Magnus Burnshield](https://alpha.taustation.space/item/magnus-burnshield) |
-|   5   | Armor        | [Water Miner's Jumpsuit](https://alpha.taustation.space/item/water-miners-jumpsuit) |
-|   5   | Blade        | [Katana: Trailblazing Blazers](https://alpha.taustation.space/item/katana-trailblazing-blazers) |
-|   5   | Blade        | [Machete](https://alpha.taustation.space/item/machete) |
-|   5   | Blade        | [Well-Worn Machete](https://alpha.taustation.space/item/well-worn-machete) |
-|   5   | Short Barrel Rifle | [Blue Steel](https://alpha.taustation.space/item/blue-steel)
-|   5   | Rifle        | [Mudskipper](https://alpha.taustation.space/item/mudskipper) |
-|   5   | Shotgun      | [The Burke & Hare](https://alpha.taustation.space/item/the-burke-hare) |
 
 ---
 
