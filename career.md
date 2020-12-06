@@ -152,7 +152,7 @@ Secondary stat: Stamina
 | Deliver a list of flagged visas to port authorities                                       | 9        | Agility          | Port              |        |         |
 | Data entry                                                                                | 9        | Stamina          | Anywhere          |        |         |
 | Check visas                                                                               | 24       | Social           | Anywhere          |        |         |
-| Threaten to deport someone                                                                | 29       | Strength         | Anywhere          |   ✔    |         |
+| Threaten to deport someone                                                                | 29       | Strength         | Anywhere          |   ✔    |   ✔     |
 | Interview new arrivals                                                                    | 39       | Social           | Port              |        |         |
 | Write a detailed immigration report                                                       | 39       | Stamina          | Anywhere          |        |         |
 | Forge poll results                                                                        | 63       | Intelligence     | Anywhere          |   ✔    |         |
