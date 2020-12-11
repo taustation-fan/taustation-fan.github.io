@@ -157,6 +157,7 @@ Secondary stat: Stamina
 | Write a detailed immigration report                                                       | 39       | Stamina          | Anywhere          |        |         |
 | Forge poll results                                                                        | 63       | Intelligence     | Anywhere          |   ✔    |         |
 | Conduct a policy poll                                                                     | 54       | Social           | Anywhere          |        |         |
+| Hack the database                                                                         |          | Intelligence     | Gaule Embassy     |   ✔    |         |
 | Accept bribe from a local business                                                        | 81       | Social           | Market            |   ✔    |         |
 | Attend a state dinner with your supervisor                                                | 69       | Social           | Government Center |        |         |
 | Write a detailed economic report                                                          | 69       | Stamina          | Anywhere          |        |         |
