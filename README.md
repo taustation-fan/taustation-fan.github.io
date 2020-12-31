@@ -1616,6 +1616,35 @@ Style information: assets/css/style.scss
       <td>&nbsp;</td>
     </tr>
     <tr>
+      <td colspan="23" class="star">Sirius</td>
+    </tr>
+    <tr>
+      <td class="station">The House of Congo</td>
+      <td class="afl-fre">14</td>
+      <td class="afl-fre">F</td>
+      <td class="low">⇗</td>
+      <td class="low">⇗</td>
+      <td><img src="assets/png/piggy-bank.png" title="Bank"/></td>
+      <td><img src="assets/png/bars.png" title="Brig"/></td>
+      <td><img src="assets/png/dna.png" title="Clones"/></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
+      <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
+      <td>?</td>
+      <td><img src="assets/png/bed.png" title="Inn"/></td>
+      <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
+      <td><img src="assets/png/ship.png" title="Port"/></td>
+      <td>&nbsp;</td>
+      <td><img src="assets/png/university.png" title="Ruins"/></td>
+      <td>&nbsp;</td>
+      <td><img src="assets/png/officer.png" title="Security"/></td>
+      <td><img src="assets/png/space-shuttle.png" title="Shipyard"/></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+
+    <tr>
       <td colspan="23" class="star">L 726-8</td>
     </tr>
     <tr>
