@@ -1635,7 +1635,7 @@ Style information: assets/css/style.scss
       <td>&nbsp;</td> <!-- no gym -->
       <td><img src="assets/png/bed.png" title="Inn"/></td>
       <td>&nbsp;</td> <!-- no market -->
-      <td><img src="assets/png/ship.png" title="Port"/></td>
+      <td><img src="assets/png/ship.png" title="Port"/>&dagger;</td>
       <td>&nbsp;</td> <!-- no residneces -->
       <td><img src="assets/png/university.png" title="Ruins"/></td>
       <td>&nbsp;</td> <!-- no sewers -->
@@ -1643,6 +1643,32 @@ Style information: assets/css/style.scss
       <td>&nbsp;</td> <!-- no shipyard -->
       <td>&nbsp;</td> <!-- no sick bay -->
       <td>&nbsp;</td> <!-- no university -->
+    </tr>
+
+    <tr>
+      <td class="station">Heinlein Stronghold</td>
+      <td class="afl-fre">14</td>
+      <td class="afl-fre">F</td>
+      <td class="medium">⇒</td>
+      <td class="low">⇘</td>
+      <td><img src="assets/png/piggy-bank.png" title="Bank"/></td>
+      <td><img src="assets/png/bars.png" title="Brig"/></td>
+      <td>&nbsp;</td> <!-- no clones -->
+      <td>&nbsp;</td> <!-- no d-com area -->
+      <td>&nbsp;</td> <!-- no embassy -->
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
+      <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
+      <td>?</td>
+      <td><img src="assets/png/bed.png" title="Inn"/></td>
+      <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
+      <td><img src="assets/png/ship.png" title="Port"/>&dagger;</td>
+      <td>&nbsp;</td> <!-- no residneces -->
+      <td><img src="assets/png/university.png" title="Ruins"/></td>
+      <td><img src="assets/png/warp-pipe2.png" title="Sewers"/></td>
+      <td><img src="assets/png/officer.png" title="Security"/></td>
+      <td>&nbsp;</td> <!-- no shipyard -->
+      <td>&nbsp;</td> <!-- no sick bay -->
+      <td><img src="assets/png/graduation-cap.png" title="University"/></td>
     </tr>
 
     <tr>
@@ -1661,7 +1687,7 @@ Style information: assets/css/style.scss
       <td>?</td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
       <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
-      <td><img src="assets/png/ship.png" title="Port"/></td>
+      <td><img src="assets/png/ship.png" title="Port"/>&dagger;</td>
       <td>&nbsp;</td>
       <td><img src="assets/png/university.png" title="Ruins"/></td>
       <td>&nbsp;</td>
