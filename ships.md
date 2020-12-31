@@ -49,7 +49,7 @@ The following table shows the available and the planned ship types:
 | Name                  | Mass / T | Acceleration / G | Fuel Capacity / g | Max Range / km | Cargo Capacity / T | Price / credits | Prerequisites          | Availability                         |
 |:----------------------|:---------|:-----------------|:------------------|:---------------|:-------------------|:----------------|:-----------------------|:-------------------------------------|
 | **Private Shuttle**   | 8.8      | 2.427            | 5                 | 2,145,548      | 0                  | 210,000         | Basic Ship Handling    | Daedalus, København, Yards of Gadani |
-| **Mantis Class Private Cruiser** | 9.15 | 4.271     | 17.5              | 4,156,560      | 0                  | 614,000         | Basic Ship Handling (?)| The House of Congo                   |
+| **Mantis Class Private Cruiser** | 9.15 | 4.271     | 17.5              | 4,156,560      | 0                  | 615,000         | Basic Ship Handling (?)| The House of Congo                   |
 | **Razorback**         | 9.5      | 14.5             | 90                | 5,987,859      | 0                  | 995,000         | Advanced Ship Handling | Yards of Gadani                      |
 | Bulk Carrier          | 890      | 0.906            | 250               | 2,841,466      | 140                |                 |                        |                                      |
 | Freighter             | 475      | 1.305            | 175               | 2,587,346      | 70                 |                 |                        |                                      |
