@@ -1618,12 +1618,39 @@ Style information: assets/css/style.scss
     <tr>
       <td colspan="23" class="star">Sirius</td>
     </tr>
+
+    <tr>
+      <td class="station">Sirius Jump Gate</td>
+      <td class="afl-fre">13</td>
+      <td class="afl-fre">F</td>
+      <td class="low">⇘</td>
+      <td class="low">⇘</td>
+      <td><img src="assets/png/piggy-bank.png" title="Bank"/></td>
+      <td><img src="assets/png/bars.png" title="Brig"/></td>
+      <td>&nbsp;</td> <!-- no clones -->
+      <td>&nbsp;</td> <!-- no d-com area -->
+      <td class="afl-gau">G</td> <!-- Gaule embassy -->
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
+      <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
+      <td>&nbsp;</td> <!-- no gym -->
+      <td><img src="assets/png/bed.png" title="Inn"/></td>
+      <td>&nbsp;</td> <!-- no market -->
+      <td><img src="assets/png/ship.png" title="Port"/></td>
+      <td>&nbsp;</td> <!-- no residneces -->
+      <td><img src="assets/png/university.png" title="Ruins"/></td>
+      <td>&nbsp;</td> <!-- no sewers -->
+      <td><img src="assets/png/officer.png" title="Security"/></td>
+      <td>&nbsp;</td> <!-- no shipyard -->
+      <td>&nbsp;</td> <!-- no sick bay -->
+      <td>&nbsp;</td> <!-- no university -->
+    </tr>
+
     <tr>
       <td class="station">The House of Congo</td>
       <td class="afl-fre">14</td>
       <td class="afl-fre">F</td>
-      <td class="low">⇗</td>
-      <td class="low">⇗</td>
+      <td class="low">⇘</td>
+      <td class="low">⇘</td>
       <td><img src="assets/png/piggy-bank.png" title="Bank"/></td>
       <td><img src="assets/png/bars.png" title="Brig"/></td>
       <td><img src="assets/png/dna.png" title="Clones"/></td>
