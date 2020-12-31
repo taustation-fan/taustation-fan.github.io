@@ -1702,7 +1702,7 @@ Style information: assets/css/style.scss
     </tr>
     <tr>
       <td class="station">L 726-8 Jump Gate</td>
-      <td class="afl-con">13</td>
+      <td class="afl-con">14</td>
       <td class="afl-con">C</td>
       <td class="high">⇗</td>
       <td class="high">⇗</td>
