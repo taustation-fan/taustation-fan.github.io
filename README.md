@@ -1727,7 +1727,7 @@ Style information: assets/css/style.scss
     </tr>
     <tr>
       <td class="station">Orwell Stronghold</td>
-      <td class="afl-ind">13</td>
+      <td class="afl-ind">15</td>
       <td class="afl-ind">I</td>
       <td class="high">⇗</td>
       <td class="high">⇗</td>
@@ -1752,7 +1752,7 @@ Style information: assets/css/style.scss
     </tr>
     <tr>
       <td class="station">Spirit of Tianjin</td>
-      <td class="afl-ind">14</td>
+      <td class="afl-ind">15</td>
       <td class="afl-ind">I</td>
       <td class="high">⇗</td>
       <td class="high">⇗</td>
