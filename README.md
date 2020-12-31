@@ -1780,7 +1780,7 @@ Style information: assets/css/style.scss
     </tr>
     <tr>
       <td class="station">YZ Ceti Jump Gate</td>
-      <td class="afl-con">19</td>
+      <td class="afl-con">25</td>
       <td class="afl-con">C</td>
       <td class="high">⇗</td>
       <td class="afl-gau">G</td>
@@ -1805,7 +1805,7 @@ Style information: assets/css/style.scss
     </tr>
     <tr>
       <td class="station">Asimov Freehold</td>
-      <td class="afl-con">19</td>
+      <td class="afl-con">25</td>
       <td class="afl-con">C</td>
       <td class="high">⇗</td>
       <td class="high">⇗</td>
@@ -1816,7 +1816,7 @@ Style information: assets/css/style.scss
       <td>&nbsp;</td>
       <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
-      <td>75</td>
+      <td>?</td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
       <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
@@ -1830,7 +1830,7 @@ Style information: assets/css/style.scss
     </tr>
     <tr>
       <td class="station">Cape Verde Stronghold</td>
-      <td class="afl-con">19</td>
+      <td class="afl-con">25</td>
       <td class="afl-con">C</td>
       <td class="high">⇗</td>
       <td class="high">⇗</td>
@@ -1841,7 +1841,7 @@ Style information: assets/css/style.scss
       <td>&nbsp;</td>
       <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
-      <td>75</td>
+      <td>?</td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
       <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
@@ -1855,7 +1855,7 @@ Style information: assets/css/style.scss
     </tr>
     <tr>
       <td class="station">Sprit of NYC</td>
-      <td class="afl-con">20</td>
+      <td class="afl-con">25</td>
       <td class="afl-con">C</td>
       <td class="high">⇗</td>
       <td class="high">⇗</td>
@@ -1866,7 +1866,7 @@ Style information: assets/css/style.scss
       <td>&nbsp;</td>
       <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
-      <td>81</td>
+      <td>?</td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
       <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
