@@ -714,13 +714,24 @@ Many new players seem to have a very hard time doing combat in the ruins,
 so I'd recommend to wait until you have reached level 6, which comes with
 access to much better weapons and armor.
 
-Starting from level 5, you can also *Enter the Sewers*. The sewers are
-accessible at *København* and *Taungoo* in the Sol system, and at *Moissan*, *Cirque
-Centauri* and *Yards of Gadani*. in the Alpha Centauri system. Stations 
-*The Maid of Orléans*, *Spriti of Tianjin* and *Spirit of New York City* are
-the only stations with open sewers in their respective systems.
+Starting from level 5, you can also *Enter the Sewers* on some stations (see
+table below).
 This gives you a list of six opponents that you can attack in order, with the
 second becoming available once the first has been defeated, and so on.
+
+**Stations with Sewers:**
+
+|Station              |System     |
+|---------------------|-----------|
+|København            |Sol        |
+|Deadalus             |Sol        |
+|Moissan              |Alpha Centauri  |
+|Cirque Centauri      |Alpha Centauri  |
+|Yards of Gadani      |Alpha Centauri  |
+|The Maid of Orléans  |Barnard's Star  |
+|Heinlein Stronghold  |Sirius          |
+|Spirit of Tianjin    |L-768 B         |
+|Spirit of New York City | YZ Ceti     |
 
 In contrast to
 *Look for trouble*, the reward is shown before you attack the opponent,
