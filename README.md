@@ -1289,7 +1289,7 @@ Style information: assets/css/style.scss
     </tr>
     <tr>
       <td class="station">Alpha Centauri Jump Gate</td>
-      <td class="afl-con">7</td>
+      <td class="afl-con">6</td>
       <td class="afl-con">C</td>
       <td class="high">⇗</td>
       <td class="high">⇗</td>
@@ -1339,7 +1339,7 @@ Style information: assets/css/style.scss
     </tr>
     <tr>
       <td class="station">Paris Spatiale</td>
-      <td class="afl-gau">8</td>
+      <td class="afl-gau">7</td>
       <td class="afl-gau">G</td>
       <td class="low">⇘</td>
       <td class="high">⇗</td>
@@ -1389,7 +1389,7 @@ Style information: assets/css/style.scss
     </tr>
     <tr>
       <td class="station">Cirque Centauri</td>
-      <td class="afl-gau">9</td>
+      <td class="afl-gau">8</td>
       <td class="afl-gau">G</td>
       <td class="high">⇗</td>
       <td class="high">⇗</td>
@@ -1439,7 +1439,7 @@ Style information: assets/css/style.scss
     </tr>
     <tr>
       <td class="station">Bordeaux</td>
-      <td class="afl-gau">10</td>
+      <td class="afl-gau">9</td>
       <td class="afl-gau">G</td>
       <td class="medium">⇒</td>
       <td class="low">⇘</td>
