@@ -1161,7 +1161,7 @@ Style information: assets/css/style.scss
     </tr>
     <tr>
       <td class="station">København</td>
-      <td class="afl-con">3</td>
+      <td class="afl-con">2</td>
       <td class="afl-con">C</td>
       <td class="high">⇗</td>
       <td class="low">⇘</td>
@@ -1186,7 +1186,7 @@ Style information: assets/css/style.scss
     </tr>
     <tr>
       <td class="station">Daedalus</td>
-      <td class="afl-con">4</td>
+      <td class="afl-con">3</td>
       <td class="afl-con">C</td>
       <td class="low">⇘</td>
       <td class="high">⇗</td>
@@ -1211,7 +1211,7 @@ Style information: assets/css/style.scss
     </tr>
     <tr>
       <td class="station">Taungoo</td>
-      <td class="afl-con">5</td>
+      <td class="afl-con">4</td>
       <td class="afl-con">C</td>
       <td class="medium">⇒</td>
       <td class="high">⇗</td>
@@ -1236,7 +1236,7 @@ Style information: assets/css/style.scss
     </tr>
     <tr>
       <td class="station">Nouveau Limoges</td>
-      <td class="afl-gau">6</td>
+      <td class="afl-gau">5</td>
       <td class="afl-gau">G</td>
       <td class="low">⇘</td>
       <td class="high">⇗</td>
