@@ -361,9 +361,11 @@ Secondary stat: Strength
 | Supervise a hull replacement                                     | 111           | Strength          | Port     |         |    ✔    |
 | Design a ship module                                             | 114           | Intelligence      | Anywhere |         |         |
 | Haul materials from a decommissioned ship off to be sold         | 114           | Strength          | Port     |         |         |
+| Supervise the construction of a ship module                      | 114           | Stamina           | Shipyard |         |         |
 | Enter an advanced apprenticeship                                 | 129           | Stamina           | Port     |         |         |
 | Train to strip and salvage ships                                 | 129           | Intelligence      | Anywhere |         |         |
 | Design an illegal ship module                                    | 135           | Intelligence      | Anywhere |         |         |
+| Supervise the construction of an illegal ship module             | 140           | Social            | Shipyard |    ✔    |         |
 | Open a salvaging business.                                       | 144           | Stamina           | Market   |         |         |
 | Round up a Crew.                                                 | 144           | Social            | Anywhere |         |         |
 | Run your first major salvage operation.                          | 159           | Stamina           | Anywhere |         |         |
