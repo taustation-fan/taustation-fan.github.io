@@ -1658,7 +1658,7 @@ Style information: assets/css/style.scss
 
     <tr>
       <td class="station">Heinlein Stronghold</td>
-      <td class="afl-fre">14</td>
+      <td class="afl-fre">13</td>
       <td class="afl-fre">F</td>
       <td class="medium">⇒</td>
       <td class="low">⇘</td>
@@ -1794,12 +1794,12 @@ Style information: assets/css/style.scss
       <td class="afl-con">25</td>
       <td class="afl-con">C</td>
       <td class="high">⇗</td>
-      <td class="afl-gau">G</td>
+      <td class="high">⇗</td>
       <td><img src="assets/png/piggy-bank.png" title="Bank"/></td>
       <td><img src="assets/png/bars.png" title="Brig"/></td>
       <td><img src="assets/png/dna.png" title="Clones"/></td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td class="afl-gau">G</td>
       <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td></td>
@@ -1906,7 +1906,7 @@ Style information: assets/css/style.scss
   <tbody>
     <tr>
       <td>&dagger;</td>
-      <td>Caen Stronghold does not have local shuttle access.  Express shuttles or personal ships may be used to access the station.</td>
+      <td>Freebooter stations do not have local shuttle access. Express shuttles or personal ships may be used to access the station.</td>
     </tr>
     <tr>
       <td class="afl-con">C</td>
