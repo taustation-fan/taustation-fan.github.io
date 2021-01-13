@@ -59,5 +59,16 @@
 * 2020-05-01: [Shop reopened](https://taustation.space/blog/update-changelog-2020-may-01/)
 * 2020-07-02: switch from the `alpha.taustation.space` to `taustation.space` for game play
 * 2020-07-17: [Friends and Foes list now extendable for bonds and when reaching a new tier](https://taustation.space/blog/update-changelog-2020-jul-17/)
+* 2020-12-02: [**Combat Rework**](https://taustation.space/blog/update-changelog-2020-dec-02/)
+    * in PvP, the defender gets a popup and can control their own actions (before; defender only acted automatically)
+    * Combat without page reloads
+    * Animations
+    * Music and sound effects
+* 2020-12-02: [New University courses *Agile Combat*](https://taustation.space/blog/update-changelog-2020-dec-02/)
+* 2020-12-31: [**Sirius System opened**](https://taustation.space/blog/update-changelog-2020-dec-31/)
+* 2020-12-31: [**Station level reshuffling**](https://taustation.space/blog/update-changelog-2020-dec-31/)
+* 2020-12-31: [**Ration supply limited at NPC vendors**](https://taustation.space/blog/update-changelog-2020-dec-31/)
+* 2020-12-31: [New ship class  **Mantis Class Private Cruiser**](https://taustation.space/blog/update-changelog-2020-dec-31/)
+* 2020-12-31: [**NPC** opponents now **confuse Focus in combat**](https://taustation.space/blog/update-changelog-2020-dec-31/)
 
 See also: [tales from the auld ones](tales), a more subjective view of Tau Station's history and community.
