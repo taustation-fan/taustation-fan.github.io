@@ -368,7 +368,7 @@ Secondary stat: Strength
 | Supervise the construction of an illegal ship module             | 140           | Social            | Shipyard |    ✔    |         |
 | Open a salvaging business.                                       | 144           | Stamina           | Market   |         |         |
 | Round up a Crew.                                                 | 144           | Social            | Ruins    |         |         |
-| Run your first major salvage operation.                          | 159           | Stamina           | Anywhere |         |         |
+| Run your first major salvage operation.                          | 159           | Stamina           | Ruins    |         |         |
 | Expand your operation.                                           | 159           | Stamina           | Bar      |         |         |
 | Run multiple salvage operations.                                 | 174           | Social            | Anywhere |         |         |
 | Hire an illegal employee.                                        | 171           | Social            | Anywhere |    ✔    |         |
