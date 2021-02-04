@@ -188,9 +188,9 @@ Secondary stat: Stamina
 | Find families to take in foreign refugees.                                                | 264      | Stamina          | Anywhere          |        |         |
 | Speak to the local media about your station.                                              | 279      | Social           | Anywhere          |        |         |
 | Purposefully taint peace talks to stir tensions.                                          | 279      | Intelligence     | Anywhere          |        |         |
-| Become the first diplomat to broker a fair trade agreement with Freebooters.              | 281      | Social           | Anywhere          |        |    ✔    |
+| Become the first diplomat to broker a fair trade agreement with Freebooters.              | 281      | Social           | Anywhere          |   -    |    ✔    |
 | Make an illegal deal with Freebooters to protect your own interests above the station's.  | 297      | Social           | Anywhere          |        |         |
-| Lie to the media to improve your station's image.                                         | 315      | Social           | Anywhere          |        |         |
+| Lie to the media to improve your station's image.                                         | 315      | Social           | Anywhere          |   -    |    ✔    |
 
 (Tasks which are known to pay to bank, hence should be legal, are marked
 with "–". The data about which tasks are harmful are known to be
