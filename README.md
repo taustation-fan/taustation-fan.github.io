@@ -1871,8 +1871,35 @@ Style information: assets/css/style.scss
       <td>&nbsp;</td> <!-- no security -->
       <td>&nbsp;</td> <!-- no shipyard -->
       <td><img src="assets/png/syringe.png" title="Sick Bay"/></td>
+      <td><img src="assets/png/graduation-cap.png" title="University"/></td>
+    </tr>
+
+    <tr>
+      <td class="station">Madame de Pompadour</td>
+      <td class="afl-gau">17</td>
+      <td class="afl-gau">C</td>
+      <td class="high">⇗</td>
+      <td class="high">⇗</td>
+      <td><img src="assets/png/piggy-bank.png" title="Bank"/></td>
+      <td><img src="assets/png/bars.png" title="Brig"/></td>
+      <td><img src="assets/png/dna.png" title="Clones"/></td>
+      <td>&nbsp;</td> <!-- no d-com area -->
+      <td class="afl-con">C</td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
+      <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
+      <td>?</td>
+      <td><img src="assets/png/bed.png" title="Inn"/></td>
+      <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
+      <td><img src="assets/png/ship.png" title="Port"/>&dagger;</td>
+      <td>&nbsp;</td> <!-- no residneces -->
+      <td><img src="assets/png/university.png" title="Ruins"/></td>
+      <td>&nbsp;</td> <!-- no sewers -->
+      <td><img src="assets/png/officer.png" title="Security"/></td>
+      <td>&nbsp;</td> <!-- no shipyard -->
+      <td><img src="assets/png/syringe.png" title="Sick Bay"/></td>
       <td>&nbsp;</td> <!-- no university -->
     </tr>
+
 
     <tr>
       <td colspan="23" class="star">YZ Ceti</td>
