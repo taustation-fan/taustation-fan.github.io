@@ -1075,7 +1075,9 @@ star system's jump gate, and from there to the station you want.
 
 Currently all systems have a direct connection to *Sol*, except for
 *YZ Ceti*, which is reachable through *L 726-B*. As another exception, *Ross
-154* is available both from *Sol* and *Alpha Centauri*.
+154* is available both from *Sol* and *Alpha Centauri*. Beware that Sirius
+is not reachable by publish shuttles, just by premium shuttles (which cost 99
+bonds) and with private ships.
 
 ![Topology of jump gates connecting systems](assets/png/jump-gates.png)
 
