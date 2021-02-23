@@ -1791,6 +1791,63 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/syringe.png" title="Sick Bay"/></td>
       <td>&nbsp;</td>
     </tr>
+
+    <tr>
+      <td colspan="23" class="star">Ross 154</td>
+    </tr>
+
+    <tr>
+      <td class="station">Ross 154 Jump Gate</td>
+      <td class="afl-con">16</td>
+      <td class="afl-con">C</td>
+      <td class="high">⇗</td>
+      <td class="high">⇗</td>
+      <td><img src="assets/png/piggy-bank.png" title="Bank"/></td>
+      <td><img src="assets/png/bars.png" title="Brig"/></td>
+      <td>&nbsp;</td> <!-- no clones -->
+      <td><img src="assets/png/asterisk.png" title="D-com Area"/></td>
+      <td class="afl-gau">G</td> <!-- Gaule embassy -->
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
+      <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
+      <td>?</td>
+      <td><img src="assets/png/bed.png" title="Inn"/></td>
+      <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
+      <td><img src="assets/png/ship.png" title="Port"/>&dagger;</td>
+      <td>&nbsp;</td> <!-- no residneces -->
+      <td><img src="assets/png/university.png" title="Ruins"/></td>
+      <td><img src="assets/png/warp-pipe2.png" title="Sewers"/></td>
+      <td><img src="assets/png/officer.png" title="Security"/></td>
+      <td>&nbsp;</td> <!-- no shipyard -->
+      <td><img src="assets/png/syringe.png" title="Sick Bay"/></td>
+      <td>&nbsp;</td> <!-- no university -->
+    </tr>
+
+    <tr>
+      <td class="station">LeGuin Stronghold</td>
+      <td class="afl-ind">16</td>
+      <td class="afl-ind">I</td>
+      <td class="high">⇗</td>
+      <td class="high">⇗</td>
+      <td><img src="assets/png/piggy-bank.png" title="Bank"/></td>
+      <td><img src="assets/png/bars.png" title="Brig"/></td>
+      <td>&nbsp;</td> <!-- no clones -->
+      <td>&nbsp;</td> <!-- no d-com area -->
+      <td>&nbsp;</td> <!-- no embassy -->
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
+      <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
+      <td>&nbsp;</td> <!-- no gym -->
+      <td><img src="assets/png/bed.png" title="Inn"/></td>
+      <td>&nbsp;</td> <!-- no market -->
+      <td><img src="assets/png/ship.png" title="Port"/>&dagger;</td>
+      <td>&nbsp;</td> <!-- no residneces -->
+      <td><img src="assets/png/university.png" title="Ruins"/></td>
+      <td><img src="assets/png/warp-pipe2.png" title="Sewers"/></td>
+      <td><img src="assets/png/officer.png" title="Security"/></td>
+      <td>&nbsp;</td> <!-- no shipyard -->
+      <td><img src="assets/png/syringe.png" title="Sick Bay"/></td>
+      <td>&nbsp;</td> <!-- no university -->
+    </tr>
+
     <tr>
       <td colspan="23" class="star">YZ Ceti</td>
     </tr>
