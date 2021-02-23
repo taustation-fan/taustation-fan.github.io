@@ -1,0 +1,14 @@
+graph {
+    overlap = false;
+
+    AC [label="Alpha Centauri"]
+    BS [label="Barnard's Star"]
+    L7 [label="L 726-8"]
+    YZC [label="YZ Ceti"]
+    Sol -- {AC,BS,L7}
+    Sol -- Sirius [ color="red"]
+    L7 -- YZC
+    
+    R154 [label="Ross 154"]
+    R154 -- {Sol, AC}
+}
