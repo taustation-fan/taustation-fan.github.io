@@ -1841,8 +1841,34 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/ship.png" title="Port"/>&dagger;</td>
       <td>&nbsp;</td> <!-- no residneces -->
       <td><img src="assets/png/university.png" title="Ruins"/></td>
-      <td><img src="assets/png/warp-pipe2.png" title="Sewers"/></td>
+      <td>&nbsp;</td> <!-- no sewers -->
       <td><img src="assets/png/officer.png" title="Security"/></td>
+      <td>&nbsp;</td> <!-- no shipyard -->
+      <td><img src="assets/png/syringe.png" title="Sick Bay"/></td>
+      <td>&nbsp;</td> <!-- no university -->
+    </tr>
+
+    <tr>
+      <td class="station">The House of Syria</td>
+      <td class="afl-con">16</td>
+      <td class="afl-con">C</td>
+      <td class="high">⇗</td>
+      <td class="low">⇘</td>
+      <td><img src="assets/png/piggy-bank.png" title="Bank"/></td>
+      <td><img src="assets/png/bars.png" title="Brig"/></td>
+      <td><img src="assets/png/dna.png" title="Clones"/></td>
+      <td>&nbsp;</td> <!-- no d-com area -->
+      <td>&nbsp;</td> <!-- no embassy -->
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
+      <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
+      <td>?</td>
+      <td><img src="assets/png/bed.png" title="Inn"/></td>
+      <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
+      <td><img src="assets/png/ship.png" title="Port"/>&dagger;</td>
+      <td>&nbsp;</td> <!-- no residneces -->
+      <td><img src="assets/png/university.png" title="Ruins"/></td>
+      <td>&nbsp;</td> <!-- no sewers -->
+      <td>&nbsp;</td> <!-- no security -->
       <td>&nbsp;</td> <!-- no shipyard -->
       <td><img src="assets/png/syringe.png" title="Sick Bay"/></td>
       <td>&nbsp;</td> <!-- no university -->
