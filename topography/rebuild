@@ -1,0 +1,5 @@
+#!/bin/bash
+set -x
+set -e
+neato -Tpng -O systems.dot
+cp systems.dot.png ../assets/png/jump-gates.png

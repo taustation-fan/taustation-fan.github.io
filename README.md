@@ -1074,7 +1074,10 @@ system, you first need to travel to a jump gate, from there to the other
 star system's jump gate, and from there to the station you want.
 
 Currently all systems have a direct connection to *Sol*, except for
-*YZ Ceti*, which is reachable through *L 726-B*.
+*YZ Ceti*, which is reachable through *L 726-B*. As another exception, *Ross
+154* is available both from *Sol* and *Alpha Centauri*.
+
+![Topology of jump gates connecting systems](assets/png/jump-gates.png)
 
 Travel cost and duration depends on the distance between stations, which
 varies depending on the [current](https://tracker.tauguide.de/distance)
