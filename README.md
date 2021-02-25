@@ -1811,8 +1811,8 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td><img src="assets/png/dumbbell-solid.png" title="Gym"></td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
-      <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
-      <td><img src="assets/png/ship.png" title="Port"/>&dagger;</td>
+      <td>&nbsp;</td> <!-- no market -->
+      <td><img src="assets/png/ship.png" title="Port"/></td>
       <td>&nbsp;</td> <!-- no residneces -->
       <td><img src="assets/png/university.png" title="Ruins"/></td>
       <td><img src="assets/png/warp-pipe2.png" title="Sewers"/></td>
@@ -1838,7 +1838,7 @@ Style information: assets/css/style.scss
       <td>&nbsp;</td> <!-- no gym -->
       <td><img src="assets/png/bed.png" title="Inn"/></td>
       <td>&nbsp;</td> <!-- no market -->
-      <td><img src="assets/png/ship.png" title="Port"/>&dagger;</td>
+      <td><img src="assets/png/ship.png" title="Port"/></td>
       <td>&nbsp;</td> <!-- no residneces -->
       <td><img src="assets/png/university.png" title="Ruins"/></td>
       <td>&nbsp;</td> <!-- no sewers -->
@@ -1864,7 +1864,7 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/dumbbell-solid.png" title="Gym"></td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
       <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
-      <td><img src="assets/png/ship.png" title="Port"/>&dagger;</td>
+      <td><img src="assets/png/ship.png" title="Port"/></td>
       <td>&nbsp;</td> <!-- no residneces -->
       <td><img src="assets/png/university.png" title="Ruins"/></td>
       <td>&nbsp;</td> <!-- no sewers -->
@@ -1890,7 +1890,7 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/dumbbell-solid.png" title="Gym"></td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
       <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
-      <td><img src="assets/png/ship.png" title="Port"/>&dagger;</td>
+      <td><img src="assets/png/ship.png" title="Port"/></td>
       <td>&nbsp;</td> <!-- no residneces -->
       <td><img src="assets/png/university.png" title="Ruins"/></td>
       <td>&nbsp;</td> <!-- no sewers -->
