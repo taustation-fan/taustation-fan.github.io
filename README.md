@@ -1837,7 +1837,7 @@ Style information: assets/css/style.scss
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
       <td>&nbsp;</td> <!-- no gym -->
       <td><img src="assets/png/bed.png" title="Inn"/></td>
-      <td>&nbsp;</td> <!-- no market -->
+      <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
       <td>&nbsp;</td> <!-- no residneces -->
       <td><img src="assets/png/university.png" title="Ruins"/></td>
