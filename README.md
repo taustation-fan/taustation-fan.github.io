@@ -1835,7 +1835,7 @@ Style information: assets/css/style.scss
       <td>&nbsp;</td> <!-- no embassy -->
       <td><img src="assets/png/briefcase.png" title="Employment"/></td>
       <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
-      <td>&nbsp;</td> <!-- no gym -->
+      <td><img src="assets/png/dumbbell-solid.png" title="Gym"></td>
       <td><img src="assets/png/bed.png" title="Inn"/></td>
       <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
       <td><img src="assets/png/ship.png" title="Port"/></td>
