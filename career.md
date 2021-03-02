@@ -357,7 +357,6 @@ Secondary stat: Strength
 | Install a navigation system                                      | 84            | Stamina           | Port     |         |         |
 | Update a ship's star map                                         | 84            | Intelligence      | Port     |         |         |
 | Perform hull integrity tests                                     | 99            | Stamina           | Port     |         |         |
-| Put together a plan to expand your business to further systems.  | 219           | Intelligence      | Anywhere |         |         |
 | Supervise a hull replacement                                     | 111           | Strength          | Port     |         |    ✔    |
 | Design a ship module                                             | 114           | Intelligence      | Anywhere |         |         |
 | Haul materials from a decommissioned ship off to be sold         | 114           | Strength          | Port     |         |         |
@@ -368,15 +367,16 @@ Secondary stat: Strength
 | Supervise the construction of an illegal ship module             | 140           | Social            | Shipyard |    ✔    |         |
 | Open a salvaging business.                                       | 144           | Stamina           | Market   |         |         |
 | Round up a Crew.                                                 | 144           | Social            | Ruins    |         |         |
-| Run your first major salvage operation.                          | 159           | Stamina           | Ruins    |         |         |
-| Expand your operation.                                           | 159           | Stamina           | Bar      |         |         |
-| Run multiple salvage operations.                                 | 174           | Social            | Anywhere |         |         |
+| Run your first major salvage operation                           | 159           | Stamina           | Ruins    |         |         |
+| Expand your operation                                            | 159           | Stamina           | Bar      |         |         |
+| Run multiple salvage operations                                  | 174           | Social            | Anywhere |         |         |
 | Hire an illegal employee.                                        | 171           | Social            | Anywhere |    ✔    |         |
-| Expand your business further.                                    | 189           | Stamina           | Anywhere |         |         |
-| Hire a bigger crew.                                              | 189           | Stamina           | Ruins    |         |         |
+| Expand your business further                                     | 189           | Stamina           | Lounge   |         |         |
+| Hire a bigger crew                                               | 189           | Stamina           | Ruins    |         |         |
 | Market your salvage to Freebooters                               | 196           | Strength          | Local Shuttles |         |   ✔     |
-| Export premium parts.                                            | 204           | Strength          | Port     |         |         |
-| Design & produce better salvaging technology.                    | 204           | Stamina           | Anywhere |         |         |
+| Export premium parts                                             | 204           | Strength          | Port     |         |         |
+| Design & produce better salvaging technology                     | 204           | Stamina           | Anywhere |         |         |
+| Put together a plan to expand your business to further systems.  | 219           | Intelligence      | Anywhere |         |         |
 | Hire even more illegal employees                                 | 225           | Stamina           | Ruins    |   ✔     |         |
 | Expand into the military sector.                                 | 234           | Strength          | Security |         |         |
 | Salvage your first war ship for the military.                    | 234           | Stamina           | Anywhere |         |         |
