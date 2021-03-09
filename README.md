@@ -495,7 +495,7 @@ one +2% bonus and a -5% handicap.
 
 | Genotype  | Strength | Agility | Stamina | Intelligence | Social |
 |-----------|----------|---------|---------|--------------|--------|
-| Belter    |   -2%    |   +5%   |         |      +2%     |        |
+| Belter    |   -5%    |   +5%   |         |      +2%     |        |
 | Colonist  |   +5%    |         |   +2%   |              |   -5%  |
 | Harsene   |          |   -5%   |         |      +5%     |   +2%  |
 | Mall      |   +2%    |         |   +5%   |      -5%     |        |
