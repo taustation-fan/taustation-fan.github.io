@@ -77,7 +77,8 @@ read the whole guide just yet.
   players, who can loot your wallet. Thus you should keep most of your
   credits in the bank, and spend your inactive time in a hotel room at
   the station's Inn.
-* The *Bordeaux* and *Caen Stronghold* stations don't have a sick bay,
+* The *Bordeaux* and *Caen Stronghold* stations as well as all station at the
+  Sirius system don't have a sick bay,
   so you can die there. Don't travel there until you have a better grasp
   on the game, and on [#clones](clones).
 
