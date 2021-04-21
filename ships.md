@@ -20,7 +20,7 @@ for the cheapest type of ship, this should be considered an advanced feature.
 
 ## Prerequisites 
 
-In order to buy a *Private Shuttle*, you need to complete the following
+In order to buy a **Private Shuttle**, or a **Mantis Class Private Cruiser** you need to complete the following
 University courses, in this order:
 
 * Introduction to Spaceship Operations (all Universities, 100 Segments)
@@ -41,8 +41,17 @@ need these additional courses:
 ## Ship Types
 
 Once you have the prerequisite University courses and enough credits,
-you can go to a shipyard and buy a ship. (There are shipyards on The Maid of
-Orléans and Orwell Stronghold, but they don't sell any ships.)
+you can go to one of the shipyards that actually sell ships (not all do),
+and buy a ship.
+
+| System         | Station            | Available Ship Types         |
+|----------------|--------------------|------------------------------|
+| Sol            | København          | Private Ship                 |
+| Sol            | Daedalus           | Private Ship                 |
+| Alpha Centauri | Yards of Gadani    | Private Ship, Razorback      |
+| Sirius         | The House of Congo | Mantis Class Private Cruiser |
+
+
 
 The following table shows the available and the planned ship types:
 
