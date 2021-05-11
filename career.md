@@ -376,11 +376,11 @@ Secondary stat: Strength
 | Market your salvage to Freebooters                               | 196           | Strength          | Local Shuttles |         |   ✔     |
 | Export premium parts                                             | 204           | Strength          | Port     |         |         |
 | Design & produce better salvaging technology                     | 204           | Stamina           | Anywhere |         |         |
-| Put together a plan to expand your business to further systems.  | 219           | Intelligence      | Anywhere |         |         |
+| Put together a plan to expand your business to further systems   | 219           | Intelligence      | Anywhere |         |         |
 | Hire even more illegal employees                                 | 225           | Stamina           | Ruins    |   ✔     |         |
 | Expand into the military sector.                                 | 234           | Strength          | Security |         |         |
-| Salvage your first war ship for the military.                    | 234           | Stamina           | Anywhere |         |         |
-| Salvage a ship in Freebooter territory.                          | 247           | Strength          | Anywhere |         |    ✔    |
+| Salvage your first war ship for the military                     | 234           | Stamina           | Anywhere |         |         |
+| Salvage a ship in Freebooter territory                           | 247           | Strength          | Anywhere |         |    ✔    |
 | Garner the attention of the Consortium Military                  | 249           | Stamina           | Anywhere |         |         |
 | Sign a contract with the Consortium Military                     | 249           | Social            | Anywhere |         |         |
 | Garner the attention of the Gaule Military                       | 249           | Stamina           | Anywhere |         |         |
