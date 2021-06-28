@@ -70,5 +70,8 @@
 * 2020-12-31: [**Ration supply limited at NPC vendors**](https://taustation.space/blog/update-changelog-2020-dec-31/)
 * 2020-12-31: [New ship class  **Mantis Class Private Cruiser**](https://taustation.space/blog/update-changelog-2020-dec-31/)
 * 2020-12-31: [**NPC** opponents now **confuse Focus in combat**](https://taustation.space/blog/update-changelog-2020-dec-31/)
+* 2021-02-23: [**Ross 154 System opened**](https://taustation.space/blog/update-changelog-2021-feb-23/)
+* 2021-02-23: [New wealth of Tier 4 equipment](https://taustation.space/blog/update-changelog-2021-feb-23/)
+* 2021-04-23: [New wealth of Tier 5 equipment](https://taustation.space/blog/update-changelog-2021-april-23/)
 
 See also: [tales from the auld ones](tales), a more subjective view of Tau Station's history and community.
