@@ -404,7 +404,7 @@ There are currently up to 30 different types of regular medical stims in the Tau
 * Affected stat (AGI/STR/STA/INT/SOC)
 
 In addition, there are *multi stims* that boost several stats at once. Those
-go up to Tier 5 and can only be acquired from Enter the Sewers campaigns.
+go up to Tier 6 and can only be acquired from Enter the Sewers campaigns.
 
 Besides those parameters which are shown directly in the title (example: "Strong Stamina Stim, v2.3.004"), each stim has also the following numbers in its in-game information page:
 
@@ -573,10 +573,7 @@ at any station's Government Center, except Caen Stronghold.
   depending on the station (for example Orwell Stronghold awards tier 3
 rations, and YZ Ceti Jump Gate tier 4 rations).
 * Rations are also often the reward of successful combat following random
-  encounters in the Ruins on certain stations (Nouveau Limoges (Sol), Yards of
-  Gadani and Bordeaux (Alpha Centauri) drop tier 2 rations, Caen Stronghold and Hopkins' Legacy
-  (Barnard's Star) drop tier 3 rations, Spirit of New York City drops Tier 4
-rations)
+  encounters in the Ruins.
 
 
 ## What To Do
@@ -1932,7 +1929,7 @@ Style information: assets/css/style.scss
     </tr>
     <tr>
       <td class="station">Asimov Freehold</td>
-      <td class="afl-con">25</td>
+      <td class="afl-con">26</td>
       <td class="afl-con">C</td>
       <td class="high">⇗</td>
       <td class="high">⇗</td>
@@ -1957,7 +1954,7 @@ Style information: assets/css/style.scss
     </tr>
     <tr>
       <td class="station">Cape Verde Stronghold</td>
-      <td class="afl-con">25</td>
+      <td class="afl-con">26</td>
       <td class="afl-con">C</td>
       <td class="high">⇗</td>
       <td class="high">⇗</td>
@@ -1982,7 +1979,7 @@ Style information: assets/css/style.scss
     </tr>
     <tr>
       <td class="station">Sprit of NYC</td>
-      <td class="afl-con">25</td>
+      <td class="afl-con">27</td>
       <td class="afl-con">C</td>
       <td class="high">⇗</td>
       <td class="high">⇗</td>
@@ -2094,7 +2091,7 @@ source of experience.
 When you reach 100% experience of the current career level, you ascend
 to the next level. On leveling up, you receive a small bonus in credits,
 and immediately regenerate all stats and Focus.
-Levels are capped to 25.
+Levels are capped to 30.
 
 Leveling up also gives you access to more missions, which have minimal
 player levels as prerequisites.
@@ -2132,6 +2129,8 @@ items of higher tiers works fine.
 The daily rations you receive at the Government Center correspond to
 your own tier. Consuming rations of lower tiers gives you smaller
 immediate stats refills, and shorter "Well Fed" times.
+
+Currently tiers 1 through 6 are available to players.
 
 ## Combat
 
