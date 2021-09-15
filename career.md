@@ -378,16 +378,16 @@ Secondary stat: Strength
 | Design & produce better salvaging technology                     | 204           | Stamina           | Anywhere |         |         |
 | Put together a plan to expand your business to further systems   | 219           | Intelligence      | Anywhere |         |         |
 | Hire even more illegal employees                                 | 225           | Stamina           | Ruins    |   ✔     |         |
-| Expand into the military sector.                                 | 234           | Strength          | Security |         |         |
+| Expand into the military sector                                  | 234           | Strength          | Security |         |         |
 | Salvage your first war ship for the military                     | 234           | Stamina           | Anywhere |         |         |
 | Salvage a ship in Freebooter territory                           | 247           | Strength          | Anywhere |         |    ✔    |
-| Garner the attention of the Consortium Military                  | 249           | Stamina           | Anywhere |         |         |
-| Sign a contract with the Consortium Military                     | 249           | Social            | Anywhere |         |         |
-| Garner the attention of the Gaule Military                       | 249           | Stamina           | Anywhere |         |         |
-| Sign a secret contract with the Gaule Military                   | 249           | Social            | Anywhere |         |         |
-| Absorb a rival salvage company.                                  | 264           | Stamina           | Anywhere |         |         |
-| Grow into a minor salvaging empire!                              | 279           | Stamina           | Anywhere |         |         |
-| Run your intergalactic salvaging empire.                         | 279           | Social            | Anywhere |         |         |
-| Add security personnel to help fend off Freebooters.             | 298           | Strength          | Anywhere |         |   ✔     |
-| Sabotage a rival's business so they are forced to join your crew. | 315          | Stamina           | Anywhere |   ✔     |         |
+| Garner the attention of the Consortium Military                  | 249           | Stamina           | Docks |         |         |
+| Sign a contract with the Consortium Military                     | 249           | Social            | Lounge |         |         |
+| Garner the attention of the Gaule Military                       | 249           | Stamina           | Port |         |         |
+| Sign a secret contract with the Gaule Military                   | 249           | Social            | Lounge |         |         |
+| Absorb a rival salvage company                                   | 264           | Stamina           | Anywhere |         |         |
+| Grow into a minor salvaging empire!                              | 279           | Stamina           | Ruins |         |         |
+| Run your intergalactic salvaging empire                          | 279           | Social            | Anywhere |         |         |
+| Add security personnel to help fend off Freebooters              | 298           | Strength          | Anywhere |         |   ✔     |
+| Sabotage a rival's business so they are forced to join your crew | 315           | Stamina           | Shipyard |   ✔     |         |
 | Bribe officials to make sure your crews always get first notice of newly| 333    | Stamina           | Anywhere |   ✔     |         |
