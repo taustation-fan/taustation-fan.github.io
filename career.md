@@ -388,6 +388,6 @@ Secondary stat: Strength
 | Absorb a rival salvage company                                   | 264           | Stamina           | Anywhere |         |         |
 | Grow into a minor salvaging empire!                              | 279           | Stamina           | Ruins |         |         |
 | Run your intergalactic salvaging empire                          | 279           | Social            | Anywhere |         |         |
-| Add security personnel to help fend off Freebooters              | 298           | Strength          | Anywhere |         |   ✔     |
+| Add security personnel to help fend off Freebooters              | 298           | Strength          | Security |         |   ✔     |
 | Sabotage a rival's business so they are forced to join your crew | 315           | Stamina           | Shipyard |   ✔     |         |
 | Bribe officials to make sure your crews always get first notice of newly| 333    | Stamina           | Anywhere |   ✔     |         |
