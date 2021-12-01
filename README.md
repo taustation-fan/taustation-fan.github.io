@@ -885,7 +885,9 @@ Side jobs are brief, one-off jobs that pay a fixed reward. They consist
 of tests against the same stat until you have passed five of them. They
 pay less than career tasks, but give you much more experience.
 
-The available side jobs and their pay depend on the station.
+The available side jobs and their pay depend on the station. Also your character's
+level must be equal to or higher than the station's level. Otherwise the employers
+doubt your experience and won't employ you.
 
 The narrative of some side jobs gives you background information about life on
 the current station.
