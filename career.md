@@ -97,7 +97,7 @@ Secondary stat: Social
 | Sell contraband                                       |  99  | Social        | Market            |          |           |
 | Hijack a small ship                                   | 114  | Agility       | Port              |          |           |
 | Help hijack a cargo shipment                          | 129  | Agility       | Port              |          |           |
-| Hack into a bank terminal                             | 135  | Intelligence  | Bank              |          |           |
+| Hack into a bank terminal                             | 135  | Intelligence  | Bank              | ✔        |           |
 | Organize a heist                                      | 135  | Social        | Anywhere          |          |           |
 | Break into a high security area                       | 149  | Agility       | Market            |          |           |
 | Steal an identity                                     | 169  | Intelligence  | Anywhere          | ✔        |           |
