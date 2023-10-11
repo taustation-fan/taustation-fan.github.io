@@ -74,5 +74,6 @@
 * 2021-02-23: [New wealth of Tier 4 equipment](https://taustation.space/blog/update-changelog-2021-feb-23/)
 * 2021-04-23: [New wealth of Tier 5 equipment](https://taustation.space/blog/update-changelog-2021-april-23/)
 * 2021-08-17: some YZ Ceti stations are now **Tier 6**, and players can reach that tier. New items along with it.
+* 2023-10-08: [The end of Tau Station is announced for 2023-10-31](https://taustation.space/blog/part-of-the-journey-is-the-end/)
 
 See also: [tales from the auld ones](tales), a more subjective view of Tau Station's history and community.
